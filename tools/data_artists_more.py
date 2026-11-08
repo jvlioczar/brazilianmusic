@@ -198,7 +198,7 @@ Kaê Guajajara|solo|indigena-contemporanea|||B||Cantora e compositora do povo Gu
 Owerá|solo|indigena-contemporanea,rap-nacional||SP|B||Rapper guarani mbya de São Paulo, antes conhecido como Kunumí MC.|Guarani Mbya rapper from São Paulo, formerly known as Kunumí MC.
 Flor Ribeirinha|group|siriri-cururu|1995|MT|B||Grupo de siriri e cururu da comunidade São Gonçalo Beira Rio, em Cuiabá, premiado em festivais de folclore pelo mundo.|Siriri and cururu group from the São Gonçalo Beira Rio community in Cuiabá, a winner at folklore festivals around the world.
 Mandicuera|collective|fandango-caicara||PR|B||Associação de cultura caiçara da Ilha dos Valadares, em Paranaguá, que organiza a Festa Nacional do Fandango Caiçara.|Caiçara culture association on Ilha dos Valadares, Paranaguá, which runs the National Caiçara Fandango Festival.
-Alexandre Pires|solo|pagode-romantico|2001|MG|A||Ex-vocalista do Só Pra Contrariar, em carreira solo desde 2001 com baladas e samba.|Former Só Pra Contrariar singer, solo since 2001 with ballads and samba.
+Alexandre Pires|solo|pagode-romantico,pagonejo|2001|MG|A||Ex-vocalista do Só Pra Contrariar, em carreira solo desde 2001 com baladas e samba.|Former Só Pra Contrariar singer, solo since 2001 with ballads and samba.
 Pique Novo|band|pagode-romantico|||B||Grupo de pagode romântico dos anos 1990.|A 1990s romantic pagode group.
 Grupo Raça|band|pagode|||B||Grupo de pagode dos anos 1980 e 1990.|A pagode group of the 1980s and 1990s.
 Sombrinha|solo|pagode,partido-alto||SP|B||Cantor, compositor e cavaquinista que integrou o Fundo de Quintal.|Singer, songwriter and cavaquinho player who was a member of Fundo de Quintal.
@@ -229,7 +229,7 @@ Bruno & Barretto|duo|universitario||PR|B||Dupla de Londrina, sucesso dos anos 20
 Humberto & Ronaldo|duo|universitario|||B||Dupla sertaneja dos anos 2010 e 2020.|A sertanejo duo of the 2010s and 2020s.
 Lucas Lucco|solo|universitario||MG|B||Cantor mineiro do sertanejo dos anos 2010.|Minas Gerais sertanejo singer of the 2010s.
 Thiago Brava|solo|universitario|||B||Cantor sertanejo dos anos 2010.|A 2010s sertanejo singer.
-Felipe Araújo|solo|universitario||GO|B||Cantor sertanejo, irmão de Cristiano Araújo.|Sertanejo singer, Cristiano Araújo's brother.
+Felipe Araújo|solo|universitario,pagonejo||GO|B||Cantor sertanejo, irmão de Cristiano Araújo.|Sertanejo singer, Cristiano Araújo's brother.
 Henrique & Diego|duo|universitario|||B||Dupla sertaneja dos anos 2010.|A 2010s sertanejo duo.
 Yasmin Santos|solo|feminejo|||B||Cantora do feminejo dos anos 2020.|A 2020s feminejo singer.
 Christian & Cristiano|duo|sertanejo-romantico|||B||Dupla do sertanejo romântico dos anos 1990.|A 1990s romantic sertanejo duo.
@@ -447,7 +447,7 @@ Antonio Loureiro|solo|jazz-brasileiro,nova-mpb||MG|B||Multi-instrumentista e com
 Chico Pinheiro|solo|jazz-brasileiro||SP|B||Guitarrista e compositor.|Guitarist and composer.
 Itiberê Zwarg|solo|jazz-brasileiro|||B||Baixista do grupo de Hermeto Pascoal.|Bassist in Hermeto Pascoal's group.
 Luiz Eça|solo|samba-jazz||RJ|B||Pianista e líder do Tamba Trio.|Pianist and leader of Tamba Trio.
-Dom Salvador|solo|samba-jazz,soul-brasileiro||SP|B||Pianista do samba-jazz e do soul brasileiro.|Pianist of samba-jazz and Brazilian soul.
+Dom Salvador|solo|samba-jazz,soul-brasileiro,samba-funk||SP|B||Pianista do samba-jazz e do soul brasileiro.|Pianist of samba-jazz and Brazilian soul.
 Jovino Santos Neto|solo|jazz-brasileiro|||B||Pianista e flautista, ex-integrante do grupo de Hermeto Pascoal.|Pianist and flautist, formerly in Hermeto Pascoal's group.
 Mato Seco|band|reggae-brasileiro||SP|B||Banda paulista de reggae.|São Paulo reggae band.
 Adão Negro|band|reggae-brasileiro||BA|B||Banda baiana de reggae.|Bahian reggae band.
@@ -527,4 +527,14 @@ Dick Farney|solo|samba-cancao||RJ|A||Cantor e pianista de "Copacabana" (1946), p
 Nora Ney|solo|samba-cancao||RJ|B||Cantora de samba-canção, de "Ninguém Me Ama" (1952).|Samba-canção singer of "Ninguém Me Ama" (1952).
 Manoel Gomes|solo|brega-romantico|2019|MA|B||Cantor de Balsas, no Maranhão, autor de "Caneta Azul", que viralizou em 2019.|Singer from Balsas, Maranhão, author of "Caneta Azul", which went viral in 2019.
 Êxodos|band|louvor|||B||Banda gospel que gravou "Galhos Secos", canção também gravada por Catedral e Paulo César Baruk.|Gospel band that recorded "Galhos Secos", a song also recorded by Catedral and Paulo César Baruk.
+João Lucas & Marcelo|duo|funknejo,universitario|||B||Dupla do funknejo: "Eu Quero Tchu, Eu Quero Tchá" e "Louca Louquinha", com MC K9 e Dennis DJ.|A funknejo duo: "Eu Quero Tchu, Eu Quero Tchá" and "Louca Louquinha", with MC K9 and Dennis DJ.
+Cácio & Marcos|duo|funknejo,universitario|2009|ES|B||Formada em Serra (ES) em 2009; "Sou Delas", com Os Avassaladores, ajudou a criar o funknejo.|Formed in Serra (Espírito Santo) in 2009; "Sou Delas", with Os Avassaladores, helped create funknejo.
+Osmar & Osmailson|duo|forronejo|2001||B||Primeira dupla a levar o forronejo ao cenário nacional, em 2001: "24 Horas de Amor", "No Banco do Carro".|The first duo to take forronejo nationwide, in 2001: "24 Horas de Amor", "No Banco do Carro".
+Oba Oba Samba House|band|pagode,pagonejo|2012|SP|B||Grupo de Ribeirão Preto que mistura samba e house; discos "Pagofunk" (2016) e "Pagonejo" (2018).|A Ribeirão Preto group mixing samba and house; albums "Pagofunk" (2016) and "Pagonejo" (2018).
+Robyssão|solo|pagofunk|||B||Considerado o criador do pagofunk, em 2006, quando cantava na banda Black Style, em Salvador.|Considered the creator of pagofunk, in 2006, while singing with the band Black Style in Salvador.
+Vingadora|band|arrochadeira|2014|BA|B||Banda de Itabuna que mistura arrocha e pagode baiano: "Paredão Metralhadora".|An Itabuna band mixing arrocha and pagode baiano: "Paredão Metralhadora".
+MC Taya|solo|fock|2019|RJ|B||Baixista e MC de Nova Iguaçu que batizou o fock, mistura de rock e funk com rap: "Preta Patrícia" (2019).|A bassist and MC from Nova Iguaçu who named fock, a mix of rock and funk with rap: "Preta Patrícia" (2019).
+Comunidade Nin-Jitsu|band|rap-rock,fock|1998|RS|B||Banda de Porto Alegre que mistura rock, rap, funk carioca e reggae: "Detetive", "Casa do Sol".|A Porto Alegre band mixing rock, rap, funk carioca and reggae: "Detetive", "Casa do Sol".
+Ultramen|band|rap-rock,fock|1991|RS|B||Banda de Porto Alegre que mistura rock, funk, rap, samba-rock, soul e reggae.|A Porto Alegre band mixing rock, funk, rap, samba-rock, soul and reggae.
+DeFalla|band|pos-punk,fock|1985|RS|B||Banda de rock de Porto Alegre que passou do new wave ao funk carioca e ao miami bass: "Popozuda Rock 'n' Roll".|A Porto Alegre rock band that moved from new wave to funk carioca and Miami bass: "Popozuda Rock 'n' Roll".
 """

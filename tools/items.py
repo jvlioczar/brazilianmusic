@@ -426,7 +426,8 @@ def page_subgenre(pg, s, prev, nxt):
                 songs.append(r)
     facts = (fact(T["family"], f'<a href="{pg.fam_url(1, f["id"])}">{e(t(f["name"], lang))}</a>') + fact(T["sinceL"], str(s["since"])) +
              fact(T["artistsH"], str(len(arts))) + fact(tt["stats"]["songs"].capitalize(), str(len(songs)) if songs else "") +
-             fact(tt["heritageL"], e(B.heritage_txt(s, lang)) if s.get("heritage") else ""))
+             fact(tt["heritageL"], e(B.heritage_txt(s, lang)) if s.get("heritage") else "") +
+             fact(tt["fusionL"], e(t(s["fusion"], lang)) if s.get("fusion") else ""))
     paras = [T["sub_desc"].format(f=t(f["name"], lang), y=s["since"])]
     if arts and songs:
         paras[0] += " " + T["sub_count"].format(a=plural(T["artistsN"], len(arts)), s=plural(T["songs"], len(songs)))

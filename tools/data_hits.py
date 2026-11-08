@@ -717,4 +717,6 @@ HITS = """
 2016|Voando pro Pará|Joelma|brega
 2019|Caneta Azul|Manoel Gomes|brega
 2022|Tá na Hora do Jair (Já Ir Embora)|Tiago Doidão e Juliano Maderada|forro
+2009|Peixonauta (tema de abertura)|TV PinGuim|infantil
+2018|Atrasadinha|Felipe Araújo e Ferrugem|sertanejo
 """

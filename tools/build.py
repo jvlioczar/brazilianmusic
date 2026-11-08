@@ -104,8 +104,16 @@ def approx(n, lang):
     return "+" + txt
 
 
+def n_music_artists():
+    """Artistas do catálogo mais pessoas (vocalistas, instrumentistas, produtores), sem repetir quem está nas duas listas."""
+    names = {IT.norm(a["name"]) for a in ARTISTS}
+    for rows_ in [VOC, PROD] + [r for _c, _k, r, _f in INSTR]:
+        names |= {IT.norm(n) for n, _a, _b in rows_}
+    return len(names)
+
+
 def seo_stats(lang):
-    return {k: approx(v, lang) for k, v in STATS.items()} | {"gs": approx(STATS["f"] + STATS["s"], lang),
+    return {k: approx(v, lang) for k, v in STATS.items()} | {"gs": approx(STATS["f"] + STATS["s"], lang), "am": approx(n_music_artists(), lang),
             "y0": SONGS[0][0], "y1": SONGS[-1][0], "ay0": ALBUMS[0][0], "ay1": ALBUMS[-1][0]}
 
 LOGO = '<svg viewBox="0 0 70 49" aria-hidden="true"><rect width="70" height="49" rx="10" fill="#009739"/><path d="M35 4.5 65.5 24.5 35 44.5 4.5 24.5z" fill="#fedd00"/><circle cx="35" cy="24.5" r="12.5" fill="#012169"/><circle cx="31.3" cy="30.2" r="3.7" fill="#fff"/><path d="M34.6 29.6V16.2" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/><path d="M34.6 16.2c4.2 1.4 6.4 4.3 5.2 8.4" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>'
@@ -124,7 +132,7 @@ MOTIF_KEYS = ["tri", "tri", "quarter", "quarter", "half", "dot", "corner", "bar"
 def mosaic(cols, rows, bg, inks, seed, cls="mosaic", density=.82, anim=True, label=""):
     """SVG de cols×rows azulejos. bg = cor do azulejo; inks = cores dos motivos (escolhidas ao acaso)."""
     r = _rnd.Random(seed)
-    out = [f'<svg class="{cls}" viewBox="0 0 {cols} {rows}" preserveAspectRatio="xMidYMid slice" aria-hidden="true" role="img"{" aria-label=" + chr(34) + e(label) + chr(34) if label else ""}>',
+    out = [f'<svg class="{cls}" viewBox="0 0 {cols} {rows}" preserveAspectRatio="{'xMinYMin slice' if rows == 1 else 'xMidYMid slice'}" aria-hidden="true" role="img"{" aria-label=" + chr(34) + e(label) + chr(34) if label else ""}>',
            f'<rect width="{cols}" height="{rows}" fill="{bg}"/>']
     for y in range(rows):
         for x in range(cols):
@@ -140,6 +148,9 @@ def mosaic(cols, rows, bg, inks, seed, cls="mosaic", density=.82, anim=True, lab
 
 
 def strip(seed, bg, inks, cols=36, cls="tstrip"):
+    """Faixa de azulejos: desenha azulejos de sobra e o CSS mostra só azulejos inteiros (largura múltipla do lado do azulejo)."""
+    if "foot" not in cls and cols < 80:
+        cols = 80
     return mosaic(cols, 1, bg, inks, seed, cls=cls, density=.9)
 
 
@@ -336,6 +347,11 @@ def heritage_txt(s, lang):
     return t(C.HERITAGE[h[0]], lang).format(y=h[1]) if h else ""
 
 
+def fusion_txt(s, lang):
+    """Rótulo dos gêneros de fusão: os estilos que se misturam (fusion=(pt, en))."""
+    return t(C.FUSION, lang).format(x=t(s["fusion"], lang)) if s.get("fusion") else ""
+
+
 def family_map(pg, f):
     """Gráfico expandido de uma família: uma linha por subgênero, do mais antigo ao mais novo."""
     lang = pg.lang
@@ -354,11 +370,12 @@ def family_map(pg, f):
     for i, s in enumerate(subs):
         cy = TOP + i * ROW + ROW / 2
         her = heritage_txt(s, lang)
+        fus = fusion_txt(s, lang)
         out.append(f'<a href="{IT.sub_url(pg, 0, s["id"])}" class="grow"><rect x="0" y="{cy - ROW / 2:.0f}" width="{W}" height="{ROW}" fill="transparent"/>')
         out.append(f'<text class="glab" x="{LAB - 14}" y="{cy + 4.5:.1f}" text-anchor="end">{e(t(s["name"], lang))}</text>')
         out.append(f'<text class="gcode mono" x="8" y="{cy + 4:.1f}">{s["since"]}{" ★" if her else ""}</text>')
         out.append(f'<line x1="{x(s["since"]):.1f}" y1="{cy:.1f}" x2="{x(2026):.1f}" y2="{cy:.1f}" class="bar" stroke="{f["color"]}" stroke-width="6" stroke-linecap="round" opacity=".9"/>')
-        out.append(f'<circle class="dot" cx="{x(s["since"]):.1f}" cy="{cy:.1f}" r="7" fill="{f["color"]}" stroke="var(--paper)" stroke-width="2"><title>{e(t(s["name"], lang))} · {s["since"]}{" · " + e(her) if her else ""}</title></circle>')
+        out.append(f'<circle class="dot" cx="{x(s["since"]):.1f}" cy="{cy:.1f}" r="7" fill="{f["color"]}" stroke="var(--paper)" stroke-width="2"><title>{e(t(s["name"], lang))} · {s["since"]}{" · " + e(her) if her else ""}{" · " + e(fus) if fus else ""}</title></circle>')
         out.append("</a>")
     out.append("</svg>")
     return "".join(out)
@@ -418,7 +435,12 @@ def page_genres(pg):
         cards += (f'<a class="gcard" style="--c:{f["color"]}" href="{pg.p["gdir"]}/{f["id"]}.html">{strip(sum(map(ord, f["id"])) % 1000, f["color"], ["#ffffff", "#fedd00"], cols=10, cls="tstrip card-strip")}<div class="gc-top"><span class="mono code">{f["code"]}</span><span class="mono">{e(tt["since"])} {f["since"]}</span></div>'
                   f'<h2>{e(t(f["name"], lang))}</h2><p class="where mono">{e(t(f["where"], lang))}</p><p>{e(t(f["blurb"], lang))}</p><p class="subs"><b>{len(f["subs"])} {e(tt["stats"]["subs"])}:</b> {e(subs)}</p>'
                   f'<span class="mono small">{n} {e(tt["stats"]["artists"])}</span></a>')
-    body = f'<div class="wrap">{head_block(f"{STATS["f"]} {e(tt["stats"]["families"])} · {STATS["s"]} {e(tt["stats"]["subs"])}", e(tt["genresH"]), tt["genresLead"], extra=f'<p class="head-cta"><a class="btn" href="{pg.p["map"]}">{e(tt["mapBtn"])} →</a></p>')}<div class="ggrid">{cards}</div></div>'
+    fus = sorted(((s, f) for f in C.FAMILIES for s in f["subs"] if s.get("fusion")), key=lambda x: (x[0]["since"], t(x[0]["name"], lang)))
+    fus_html = "".join(
+        f'<li style="--c:{f["color"]}"><a href="{IT.sub_url(pg, 0, s["id"])}"><b>{e(t(s["name"], lang))}</b><span class="fus-mix">{e(t(s["fusion"], lang))}</span>'
+        f'<span class="mono small">{e(t(f["name"], lang))} · {s["since"]}</span></a></li>' for s, f in fus)
+    fus_sec = f'<section class="sec-in" id="fusion"><h2>{e(tt["fusionH"])} <span class="mono small">{len(fus)}</span></h2><p class="lead">{e(tt["fusionP"])}</p><ul class="fus-list">{fus_html}</ul></section>'
+    body = f'<div class="wrap">{head_block(f"{STATS["f"]} {e(tt["stats"]["families"])} · {STATS["s"]} {e(tt["stats"]["subs"])}", e(tt["genresH"]), tt["genresLead"], extra=f'<p class="head-cta"><a class="btn" href="{pg.p["map"]}">{e(tt["mapBtn"])} →</a></p>')}<div class="ggrid">{cards}</div>{fus_sec}</div>'
     pg.write(pg.p["genres"], other(lang, "genres"), 0, tt["genresH"], tt["genresDesc"].format(**seo_stats(lang)), body, "genres", kind="CollectionPage")
 
 
@@ -428,14 +450,14 @@ def page_family(pg, f, i):
     subs_html = ""
     for s in f["subs"]:
         arts = BY_SUB.get(s["id"], [])
-        names = "".join(f'<a class="chip plain" href="{IT.art_url(pg, 1, a)}">{e(a["name"])}</a>' for a in arts[:18])
-        more = f'<span class="chip more">+{len(arts) - 18}</span>' if len(arts) > 18 else ""
-        subs_html += f'<article class="sub" id="{s["id"]}"><div class="sub-h"><h3><a href="{IT.sub_url(pg, 1, s["id"])}">{e(t(s["name"], lang))}</a></h3><span class="mono">{e(tt["since"])} {s["since"]} · {len(arts)} {e(tt["stats"]["artists"])}</span></div>{f'<span class="her">{e(heritage_txt(s, lang))}</span>' if s.get("heritage") else ""}<p>{e(t(s["blurb"], lang))}</p><div class="chips">{names}{more}</div></article>'
+        names = "".join(f'<a class="chip plain" href="{IT.art_url(pg, 1, a)}">{e(a["name"])}</a>' for a in arts)
+        more = ""
+        subs_html += f'<article class="sub" id="{s["id"]}"><div class="sub-h"><h3><a href="{IT.sub_url(pg, 1, s["id"])}">{e(t(s["name"], lang))}</a></h3><span class="mono">{e(tt["since"])} {s["since"]} · {len(arts)} {e(tt["stats"]["artists"])}</span></div>{f'<span class="her">{e(heritage_txt(s, lang))}</span>' if s.get("heritage") else ""}{f'<span class="her fus">{e(fusion_txt(s, lang))}</span>' if s.get("fusion") else ""}<p>{e(t(s["blurb"], lang))}</p><div class="chips">{names}{more}</div></article>'
     songs = "".join(f'<li><span class="y mono">{y}</span><a href="{yt(a + " " + s)}" target="_blank" rel="noopener">{e(s)}</a><small>{IT.link_credit(pg, 1, a)}</small></li>' for s, a, y in f["songs"])
     fam_artists = [a for a in ARTISTS if a["family"] == fid]
     top = [a for a in fam_artists if a["tier"] in ("S", "A")][:24] or fam_artists[:12]
-    cards = "".join(artist_card(pg, 1, a) for a in top)
-    rest = len(fam_artists) - len(top)
+    # todos os artistas da família: os de nível S e A em ficha completa, os demais em ficha compacta
+    cards = "".join(artist_card(pg, 1, a) for a in top) + "".join(artist_card(pg, 1, a, compact=True) for a in fam_artists if a not in top)
     sert = ""
     if fid == "sertanejo":
         dec = {}
@@ -465,7 +487,7 @@ def page_family(pg, f, i):
 {fam_albums}
 {sert}
 <section class="sec-in"><h2>{e(tt['artistsH'])}</h2><div class="agrid">{cards}</div>
-<p class="more-link"><a class="btn pri" href="../{pg.p['artists']}?f={f['code']}">{e(tt['allArtists'])}{f" · +{rest}" if rest > 0 else ""}</a></p></section>
+<p class="more-link dir-tip"><a href="../{pg.p['artists']}?f={f['code']}">{e(tt['allArtists'])} →</a></p></section>
 {pager}</div>"""
     pg.write(f"{pg.p['gdir']}/{fid}.html", f"{other(lang, 'gdir')}/{fid}.html", 1, t(f["name"], lang), t(f["blurb"], lang)[:300], body, "genres", kind="Article")
 
@@ -661,7 +683,7 @@ def page_404(pg):
 
 
 def footer_tiles():
-    svg = strip(99, "#012169", ["#fedd00", "#007d36", "#ffffff"], cols=48).replace('<svg class="tstrip"', '<svg xmlns="http://www.w3.org/2000/svg"', 1)
+    svg = strip(99, "#012169", ["#fedd00", "#007d36", "#ffffff"], cols=48, cls="foot").replace('<svg class="foot"', '<svg xmlns="http://www.w3.org/2000/svg"', 1)
     css = ("<style>.tin{transform-box:fill-box;transform-origin:center;animation:tturn var(--p,14s) cubic-bezier(.6,0,.2,1) infinite;animation-delay:calc(var(--d,0s) * -1)}"
            "@keyframes tturn{0%,21%{transform:rotate(0)}25%,46%{transform:rotate(90deg)}50%,71%{transform:rotate(180deg)}75%,96%{transform:rotate(270deg)}100%{transform:rotate(360deg)}}"
            "@media (prefers-reduced-motion:reduce){.tin{animation:none}}</style>")

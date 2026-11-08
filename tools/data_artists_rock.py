@@ -355,7 +355,7 @@ Inraza|band|thrash-death|2017|SP|B|en|Metal extremo.|Extreme metal.
 Kuroi|band|heavy-power|2017|SP|B|en|Heavy metal/J-rock.|Heavy metal/J-rock.
 Machete Bomb|band|rap-rock|2013|SP|B||Rap rock.|Rap rock.
 InDharma|band|rap-rock|2022|SP|B||Rap rock/nu metal.|Rap rock/nu metal.
-Lvcas|solo|heavy-power,rock-alternativo|2023|SP|B||Metal alternativo: "Odisseia".|Alternative metal: "Odisseia".
+Lvcas|solo|heavy-power,rock-alternativo,fock|2023|SP|B||Metal alternativo: "Odisseia".|Alternative metal: "Odisseia".
 Zepelim e o Sopro do Cão|band|rock-alternativo|2006|SP|B||Rock alternativo.|Alternative rock.
 Molho Negro|band|rock-alternativo|2012|SP|B||Rock alternativo.|Alternative rock.
 Raça|band|rock-alternativo|2012|SP|B||Rock alternativo.|Alternative rock.

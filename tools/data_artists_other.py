@@ -39,7 +39,7 @@ Thiaguinho|solo|pagode-romantico|2002|SP|A||Do Exaltasamba ao projeto "Tardezinh
 Péricles|solo|pagode-romantico|1986|SP|A||Voz do Exaltasamba e carreira solo de sucesso.|Exaltasamba's voice and a successful solo career.
 Sorriso Maroto|band|pagode-romantico|1997|RJ|A||Pagode romântico carioca: "Sinais", "Ainda Gosto de Você".|Rio romantic pagode: "Sinais", "Ainda Gosto de Você".
 Turma do Pagode|band|pagode-romantico|1995|SP|A||Pagode paulista: "Lancinho", "Deixa em Off".|São Paulo pagode: "Lancinho", "Deixa em Off".
-Ferrugem|solo|pagode-romantico|2014|RJ|A||Nova geração do pagode: "Pirata e Tesouro", "Climatizar".|Pagode's new generation: "Pirata e Tesouro", "Climatizar".
+Ferrugem|solo|pagode-romantico,pagonejo|2014|RJ|A||Nova geração do pagode: "Pirata e Tesouro", "Climatizar".|Pagode's new generation: "Pirata e Tesouro", "Climatizar".
 Dilsinho|solo|pagode-romantico|2014|RJ|A||Pagode romântico: "Refém", "Péssimo Negócio".|Romantic pagode: "Refém", "Péssimo Negócio".
 Grupo Revelação|band|pagode|1991|RJ|B||Com Xande de Pilares; "Deixa Acontecer", "Velocidade da Luz".|With Xande de Pilares; "Deixa Acontecer", "Velocidade da Luz".
 Diogo Nogueira|solo|samba-raiz,pagode|2007|RJ|B||Filho de João Nogueira; samba de raiz para novas gerações.|João Nogueira's son; roots samba for new generations.
@@ -47,14 +47,14 @@ Teresa Cristina|solo|samba-raiz|1998|RJ|B||Intérprete da Lapa carioca e das liv
 Moreira da Silva|solo|samba-raiz,samba-de-breque|1934|RJ|B||Criador do samba de breque, com pausas para falas malandras.|Creator of samba de breque, with pauses for streetwise spoken lines.
 João Gilberto|solo|bossa-nova|1958|BA|S||A batida de violão e a voz mínima de "Chega de Saudade" inventaram a bossa nova.|The guitar beat and minimal voice of "Chega de Saudade" invented bossa nova.
 Tom Jobim|solo|bossa-nova,mpb-classica|1956|RJ|S||O compositor brasileiro mais gravado no mundo: "Garota de Ipanema", "Águas de Março", "Wave".|The most recorded Brazilian composer in the world: "The Girl from Ipanema", "Águas de Março", "Wave".
-Vinicius de Moraes|solo|bossa-nova,mpb-classica|1956|RJ|S||O "poetinha": letrista da bossa nova e parceiro de Jobim, Baden e Toquinho.|The "poetinha": bossa nova's lyricist and partner of Jobim, Baden and Toquinho.
+Vinicius de Moraes|solo|bossa-nova,mpb-classica,afro-samba|1956|RJ|S||O "poetinha": letrista da bossa nova e parceiro de Jobim, Baden e Toquinho.|The "poetinha": bossa nova's lyricist and partner of Jobim, Baden and Toquinho.
 Nara Leão|solo|bossa-nova,mpb-classica,tropicalia|1963|ES|A||A "musa da bossa nova" que virou voz de protesto e depois tropicalista.|The "muse of bossa nova" who became a protest voice and then a tropicalist.
 Carlos Lyra|solo|bossa-nova|1958|RJ|A||"Minha Namorada", "Você e Eu", "Coisa Mais Linda".|"Minha Namorada", "Você e Eu", "Coisa Mais Linda".
 Roberto Menescal|solo|bossa-nova|1958|ES|A||"O Barquinho", "Rio" e violão da primeira geração.|"O Barquinho", "Rio" and the guitar of the first generation.
 Astrud Gilberto|solo|bossa-nova|1963|BA|A||A voz de "The Girl from Ipanema" no disco Getz/Gilberto; carreira internacional.|The voice of "The Girl from Ipanema" on Getz/Gilberto; an international career.
 Sérgio Mendes|solo|bossa-nova,jazz-brasileiro|1961|RJ|A||Brasil '66 e "Mas Que Nada" fizeram dele o brasileiro mais popular nos EUA; Grammy em 1992.|Brasil '66 and "Mas Que Nada" made him the most popular Brazilian in the US; a Grammy in 1992.
 Marcos Valle|solo|bossa-nova,soul-brasileiro|1963|RJ|A||"Samba de Verão" e, depois, o groove dos anos 1970 redescoberto por DJs.|"Samba de Verão" and, later, the 1970s groove rediscovered by DJs.
-Baden Powell|solo|bossa-nova,violao-brasileiro|1955|RJ|A||Violão de afro-sambas com Vinicius: "Berimbau", "Canto de Ossanha".|Afro-samba guitar with Vinicius: "Berimbau", "Canto de Ossanha".
+Baden Powell|solo|bossa-nova,violao-brasileiro,afro-samba|1955|RJ|A||Violão de afro-sambas com Vinicius: "Berimbau", "Canto de Ossanha".|Afro-samba guitar with Vinicius: "Berimbau", "Canto de Ossanha".
 Toquinho|solo|bossa-nova,mpb-classica|1964|SP|A||Parceiro de Vinicius: "Aquarela", "Tarde em Itapuã", "O Caderno".|Vinicius's partner: "Aquarela", "Tarde em Itapuã", "O Caderno".
 Johnny Alf|solo|bossa-nova|1952|RJ|B||Pianista precursor da bossa nova: "Rapaz de Bem", "Eu e a Brisa".|Pianist who prefigured bossa nova: "Rapaz de Bem", "Eu e a Brisa".
 Os Cariocas|group|bossa-nova|1942|RJ|B||Grupo vocal da bossa nova.|Bossa nova's vocal group.
@@ -229,7 +229,7 @@ MC Pipokinha|mc|mandelao|2021|SP|B||"Bota na Pipokinha"; polêmicas e sucesso.|"
 MC Loma e as Gêmeas Lacração|group|brega-funk|2018|PE|A||"Envolvimento" (2018) lançou o brega funk ao Brasil inteiro.|"Envolvimento" (2018) launched brega funk nationwide.
 Shevchenko e Elloco|duo|brega-funk|2017|PE|B||Brega funk recifense.|Brega funk from Recife.
 Pedro Sampaio|dj|funk-pop,electro-funk|2018|RJ|A||DJ do funk pop: "Dançarina", "No Chão Novinha", "Poc Poc".|Funk-pop DJ: "Dançarina", "No Chão Novinha", "Poc Poc".
-Dennis DJ|dj|funk-pop,electro-funk|2000|RJ|A||Do Furacão 2000 ao pop global: "Tá OK" remix, "Vamos Beber".|From Furacão 2000 to global pop: "Tá OK" remix, "Vamos Beber".
+Dennis DJ|dj|funk-pop,electro-funk,funknejo|2000|RJ|A||Do Furacão 2000 ao pop global: "Tá OK" remix, "Vamos Beber".|From Furacão 2000 to global pop: "Tá OK" remix, "Vamos Beber".
 Rennan da Penha|dj|funk-150|2014|RJ|B||Criador do Baile da Gaiola e do 150 BPM.|Creator of Baile da Gaiola and the 150 BPM sound.
 DJ Arana|dj|mandelao|2019|SP|B||Pioneiro do mandelão e da bruxaria.|A pioneer of mandelão and bruxaria.
 DJ Ws da Igrejinha|dj|mandelao|2021|SP|B||"Tropa do Bruxo" (2023).|"Tropa do Bruxo" (2023).
@@ -250,7 +250,7 @@ Mastruz com Leite|band|forro-eletronico|1990|CE|S||Fundou o forró eletrônico e
 Limão com Mel|band|forro-eletronico|1993|PE|B||Forró eletrônico pernambucano.|Forró eletrônico from Pernambuco.
 Aviões do Forró|band|forro-eletronico|2002|CE|A||Xand Avião e Solange Almeida; fenômeno dos anos 2000–10.|Xand Avião and Solange Almeida; a 2000s–10s phenomenon.
 Calcinha Preta|band|forro-eletronico|1995|SE|A||"Você Não Vale Nada"; forró romântico eletrônico.|"Você Não Vale Nada"; romantic electronic forró.
-Wesley Safadão|solo|forro-eletronico,universitario|2007|CE|S||Do Garota Safada ao maior nome do forró eletrônico: "Camarote", "Ar Condicionado no 15".|From Garota Safada to the biggest name in forró eletrônico: "Camarote", "Ar Condicionado no 15".
+Wesley Safadão|solo|forro-eletronico,universitario,forronejo|2007|CE|S||Do Garota Safada ao maior nome do forró eletrônico: "Camarote", "Ar Condicionado no 15".|From Garota Safada to the biggest name in forró eletrônico: "Camarote", "Ar Condicionado no 15".
 Xand Avião|solo|forro-eletronico|2002|CE|B||Ex-Aviões do Forró em carreira solo.|Former Aviões do Forró, solo career.
 Solange Almeida|solo|forro-eletronico|2002|CE|B||Ex-Aviões do Forró.|Formerly of Aviões do Forró.
 Barões da Pisadinha|band|piseiro|2015|BA|A||"Recairei", "Basta Você Me Ligar": o piseiro invade o país na pandemia.|"Recairei", "Basta Você Me Ligar": piseiro sweeps the country in the pandemic.
@@ -366,7 +366,7 @@ Bruno & Marrone|duo|sertanejo-romantico|1994|GO|S||"Dormi na Praça", "Vida Vazi
 Rionegro & Solimões|duo|sertanejo-romantico|1989|MG|B||"Peão Apaixonado", "Frio da Madrugada".|"Peão Apaixonado", "Frio da Madrugada".
 Roberta Miranda|solo|sertanejo-romantico|1986|PB|A||A "rainha do sertanejo": "Majestade, o Sabiá", "Vá com Deus".|The "queen of sertanejo": "Majestade, o Sabiá", "Vá com Deus".
 Rick & Renner|duo|sertanejo-romantico|1991|GO|A||"Ela É Demais", "Filha".|"Ela É Demais", "Filha".
-Edson & Hudson|duo|sertanejo-romantico|1995|SP|B||"Azul", "Foi Deus".|"Azul", "Foi Deus".
+Edson & Hudson|duo|sertanejo-romantico,rocknejo|1995|SP|B||"Azul", "Foi Deus".|"Azul", "Foi Deus".
 Amado Batista|solo|brega-romantico,sertanejo-romantico|1975|GO|A||"Secretária", "Princesa"; brega romântico de milhões de discos.|"Secretária", "Princesa"; romantic brega with millions of records.
 Matogrosso & Mathias|duo|sertanejo-romantico|1976|MS|B||"Chico Mineiro", "Pensamentos".|"Chico Mineiro", "Pensamentos".
 João Mineiro & Marciano|duo|sertanejo-romantico|1973|SP|B||"Ainda Ontem Chorei de Saudade".|"Ainda Ontem Chorei de Saudade".
@@ -388,7 +388,7 @@ Maiara & Maraisa|duo|feminejo||MT|S||"10%", "Medo Bobo"; com Marília, as "Patro
 Simone & Simaria|duo|feminejo||BA|A||"Meu Violão e o Nosso Cachorro", "Loka".|"Meu Violão e o Nosso Cachorro", "Loka".
 Simone Mendes|solo|feminejo|2023|BA|A||Carreira solo após Simone & Simaria: "Erro Gostoso".|Solo career after Simone & Simaria: "Erro Gostoso".
 Naiara Azevedo|solo|feminejo|2011|PR|B||"50 Reais".|"50 Reais".
-Lauana Prado|solo|feminejo|2016|GO|A||"Cobaia", "Escrito nas Estrelas".|"Cobaia", "Escrito nas Estrelas".
+Lauana Prado|solo|feminejo,rocknejo|2016|GO|A||"Cobaia", "Escrito nas Estrelas".|"Cobaia", "Escrito nas Estrelas".
 Ana Castela|solo|agronejo|2021|MS|S||A "Boiadeira": "Pipoco", "Nosso Quadro"; o agronejo dos anos 2020.|The "Boiadeira": "Pipoco", "Nosso Quadro"; the agronejo of the 2020s.
 Luan Pereira|solo|agronejo|2021|MS|A||"Dentro da Hilux", "Entra na Defender".|"Dentro da Hilux", "Entra na Defender".
 Zé Felipe|solo|agronejo,funk-pop|2014|GO|A||Filho de Leonardo; "Senta Danada", "Malvada".|Leonardo's son; "Senta Danada", "Malvada".
@@ -457,7 +457,7 @@ Tribo de Jah|band|reggae-maranhense|1986|MA|A||Reggae de São Luís, a "Jamaica 
 Tim Maia|solo|soul-brasileiro|1970|RJ|S||O "Síndico": inventou o soul brasileiro; "Primavera", "Gostava Tanto de Você", "Me Dê Motivo".|The "Síndico": invented Brazilian soul; "Primavera", "Gostava Tanto de Você", "Me Dê Motivo".
 Cassiano|solo|soul-brasileiro|1970|PB|A||"Primavera" (compositor), "A Lua e Eu".|"Primavera" (composer), "A Lua e Eu".
 Hyldon|solo|soul-brasileiro|1975|BA|A||"Na Rua, na Chuva, na Fazenda".|"Na Rua, na Chuva, na Fazenda".
-Banda Black Rio|band|black-rio,samba-soul|1976|RJ|S||Funk instrumental do movimento Black Rio: "Maria Fumaça".|Instrumental funk from the Black Rio movement: "Maria Fumaça".
+Banda Black Rio|band|black-rio,samba-soul,samba-funk|1976|RJ|S||Funk instrumental do movimento Black Rio: "Maria Fumaça".|Instrumental funk from the Black Rio movement: "Maria Fumaça".
 Toni Tornado|solo|black-rio|1970|SP|A||"BR-3" venceu o FIC de 1970; o James Brown brasileiro.|"BR-3" won the 1970 FIC; the Brazilian James Brown.
 Gerson King Combo|solo|black-rio|1977|RJ|A||"Mandamentos Black".|"Mandamentos Black".
 Sandra de Sá|solo|soul-brasileiro|1980|RJ|A||"Olhos Coloridos", "Bye Bye Tristeza".|"Olhos Coloridos", "Bye Bye Tristeza".

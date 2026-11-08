@@ -580,12 +580,12 @@ BLOGS = [
  ("Rota Indie", "https://rotaindie.com/", "indie"), ("Scream & Yell", "https://screamyell.com.br/site/", "indie"), ("Tenho Mais Discos Que Amigos!", "http://www.tenhomaisdiscosqueamigos.com/", "rock"),
  ("Tracklist", "https://tracklist.com.br/musica/", "geral"), ("Tribhus Blog", "https://tribhus.com/blog", "geral"),
  ("Venenos do Rock", "https://www.venenosdorock.com.br/", "rock"), ("Whiplash", "http://whiplash.net/", "metal"), ("Wikimetal", "https://www.wikimetal.com.br/", "metal"),
- ("Noize", "https://www.noize.com.br/", "geral"), ("Igor Miranda", "https://igormiranda.com.br/", "geral"),
+ ("Um Outro Lado da Música", "https://umoutroladodamusica.com.br/", "geral"), ("Noize", "https://www.noize.com.br/", "geral"), ("Igor Miranda", "https://igormiranda.com.br/", "geral"),
  ("Rap Mais", "https://portalrapmais.com/", "rap"), ("Sertanejo Oficial", "https://www.sertanejooficial.com.br/", "sertanejo"),
  ("Sambabook", "https://sambabook.com.br/", "samba"), ("MPBNet", "https://www.mpbnet.com.br/", "samba"),
  ("Dicionário Cravo Albin da MPB", "https://dicionariompb.com.br/", "ref"), ("IMMuB", "https://immub.org/", "ref"), ("Rádio Batuta (IMS)", "https://radiobatuta.ims.com.br/", "ref"),
 ]
-BLOGS_GONE = ["MTV Brasil", "Um Outro Lado da Música", "505 Indie", "Blckdmnds", "Bossa Nova Foda", "Bota pra Tocar", "Data Clipe", "Don't Skip", "Embrulhador", "Estudiola", "Eu Ovo", "Euterpe", "Imprensa do Rock", "Jazz Man Brasil", "Meio Desligado", "Move That Jukebox", "Notas Musicais", "O Inimigo", "Oh My Rock", "Outro Indie", "Outros Críticos", "Pickup The Headphones", "Porão da Música", "Punknet", "Qual a Grande Ideia?", "Que Delícia, Né Gente?!", "Rock Express", "Rock Feminino", "Rock in Press", "Saga das Músicas", "Seis Músicas", "Tá no Jukebox", "Território da Música", "Tropicalia MPB", "UltraSom", "Vai Ser Rimando", "Yellow Ever Shine", "Zona Punk"]
+BLOGS_GONE = ["MTV Brasil", "505 Indie", "Blckdmnds", "Bossa Nova Foda", "Bota pra Tocar", "Data Clipe", "Don't Skip", "Embrulhador", "Estudiola", "Eu Ovo", "Euterpe", "Imprensa do Rock", "Jazz Man Brasil", "Meio Desligado", "Move That Jukebox", "Notas Musicais", "O Inimigo", "Oh My Rock", "Outro Indie", "Outros Críticos", "Pickup The Headphones", "Porão da Música", "Punknet", "Qual a Grande Ideia?", "Que Delícia, Né Gente?!", "Rock Express", "Rock Feminino", "Rock in Press", "Saga das Músicas", "Seis Músicas", "Tá no Jukebox", "Território da Música", "Tropicalia MPB", "UltraSom", "Vai Ser Rimando", "Yellow Ever Shine", "Zona Punk"]
 
 # criadores brasileiros: nome, @instagram, grupo (crit = jornalistas/críticos; edu = instrumentistas/professores)
 CREATORS = [

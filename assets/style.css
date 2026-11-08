@@ -438,3 +438,11 @@ main section{scroll-margin-top:130px}
 .like-btn:hover{transform:translateY(-4px);border-color:var(--ink2)}
 .like-btn[aria-pressed=true]{background:var(--card);color:var(--ink);border-color:var(--ink);outline:4px solid var(--amarelo);transform:translateY(-5px)}
 .like-btn[aria-pressed=true] small{color:var(--ink2)}
+
+/* mapa dos gêneros: índice sem o rótulo "Nesta página" */
+body:has(.fam-map) .toc-l{display:none}
+
+/* totalmente flat: cartões sem linha de contorno; no tema claro o cartão ganha um tom próprio para se separar do fundo */
+:root{--edge:1px solid transparent;--card:#f3e9d4}
+.fcard:hover,.gcard:hover,.door:hover,.acard:hover,.card:hover,.mcard:hover,.like-btn:hover,.toc-s a:hover{border-color:transparent}
+.like-btn[aria-pressed=true]{border-color:transparent}

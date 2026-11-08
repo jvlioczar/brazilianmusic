@@ -95,6 +95,19 @@ N_MUS = len({IT.slugify(n) for rows_ in [VOC, PROD] + [r for _c, _k, r, _f in IN
 N_SUBS = len(SUB)
 STATS = dict(f=len(C.FAMILIES), s=N_SUBS, a=len(ARTISTS), m=N_MUS, n=len(SONGS), d=len(ALBUMS))
 
+
+def approx(n, lang):
+    """Número aproximado para SEO e textos de abertura: '+1.400' (pt) / '+1,400' (en)."""
+    step = 10 if n < 200 else 50 if n < 1000 else 100
+    v = n // step * step
+    txt = f"{v:,}".replace(",", "." if lang == "pt" else ",")
+    return "+" + txt
+
+
+def seo_stats(lang):
+    return {k: approx(v, lang) for k, v in STATS.items()} | {"gs": approx(STATS["f"] + STATS["s"], lang),
+            "y0": SONGS[0][0], "y1": SONGS[-1][0], "ay0": ALBUMS[0][0], "ay1": ALBUMS[-1][0]}
+
 LOGO = '<svg viewBox="0 0 70 49" aria-hidden="true"><rect width="70" height="49" rx="10" fill="#009739"/><path d="M35 4.5 65.5 24.5 35 44.5 4.5 24.5z" fill="#fedd00"/><circle cx="35" cy="24.5" r="12.5" fill="#012169"/><circle cx="31.3" cy="30.2" r="3.7" fill="#fff"/><path d="M34.6 29.6V16.2" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/><path d="M34.6 16.2c4.2 1.4 6.4 4.3 5.2 8.4" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>'
 URLS = []
 
@@ -192,7 +205,7 @@ class Page:
         graph = [{"@type": kind, "@id": canonical + "#page", "name": title, "headline": title, "description": desc, "url": canonical, "image": og, "inLanguage": tt["html"],
                   "dateModified": BUILT, "isPartOf": {"@id": home_url + "#website"}, "author": {"@type": "Organization", "name": "BiblioVerse", "url": "https://biblioverse.org"},
                   "publisher": {"@type": "Organization", "name": "BiblioVerse", "url": "https://biblioverse.org"}},
-                 {"@type": "WebSite", "@id": home_url + "#website", "name": tt["site"], "url": home_url, "inLanguage": tt["html"], "description": tt["homeDesc"].format(**STATS)}]
+                 {"@type": "WebSite", "@id": home_url + "#website", "name": tt["site"], "url": home_url, "inLanguage": tt["html"], "description": tt["homeDesc"].format(**seo_stats(lang))}]
         if entity:
             graph[0]["mainEntity"] = entity
         ld = json.dumps({"@context": "https://schema.org", "@graph": graph}, ensure_ascii=False)
@@ -362,7 +375,7 @@ def page_map(pg):
     body = (f'<div class="wrap">{head_block(f"{STATS["f"]} {e(tt["stats"]["families"])} · {STATS["s"]} {e(tt["stats"]["subs"])}", e(tt["mapTitle"]), tt["mapLead"], seed=17)}'
             f'<section class="sec-in"><h2>{e(tt["mapAllH"])}</h2><p class="lead">{e(tt["mapAllP"])}</p><div class="gmap-wrap">{genre_map(pg, 0, local=True)}</div></section>'
             f'{secs}</div>')
-    pg.write(pg.p["map"], other(lang, "map"), 0, tt["mapTitle"], tt["mapDesc"].format(**STATS), body, "map", kind="CollectionPage")
+    pg.write(pg.p["map"], other(lang, "map"), 0, tt["mapTitle"], tt["mapDesc"].format(**seo_stats(lang)), body, "map", kind="CollectionPage")
 
 
 # ── páginas ───────────────────────────────────────────────────────────────────
@@ -380,7 +393,7 @@ def page_home(pg):
     doors = "".join(f'<a class="door" href="{pg.p[k]}"><span class="mono">{e(m)}</span><h3>{e(h)}</h3><p>{e(d)}</p></a>' for k, m, h, d in tt["doors"])
     ticker = " · ".join(e(a["name"]) for a in ARTISTS if a["tier"] == "S")
     body = f"""<section class="hero"><div class="wrap hero-grid"><div class="hero-txt">
-<span class="kicker mono">{e(tt['heroKicker'].format(**STATS))}</span>
+<span class="kicker mono">{e(tt['heroKicker'].format(**seo_stats(lang)))}</span>
 <h1>{tt['heroH']}</h1>
 <p class="lead">{e(tt['heroP'])}</p>
 <div class="cta"><a class="btn pri" href="{pg.p['genres']}">{e(tt['ctaGenres'])}</a><a class="btn" href="#like">{e(tt['ctaLike'])}</a></div>
@@ -393,7 +406,7 @@ def page_home(pg):
 <p class="more-link"><a class="btn pri" href="{pg.p['genres']}">{e(tt['allGenres'])} →</a><a class="btn" href="{pg.p['map']}">{e(tt['mapBtn'])} →</a></p></div></section>
 <section class="sec s-stats"><div class="wrap"><h2>{e(tt['statsH'])}</h2><div class="stats">{stats}</div></div></section>
 <section class="sec s-doors"><div class="wrap"><h2>{e(tt['doorsH'])}</h2><div class="doors">{doors}</div></div></section>"""
-    pg.write("index.html", "index.html", 0, tt["site"] + " · " + tt["homeTitle"], tt["homeDesc"].format(**STATS), body, "home")
+    pg.write("index.html", "index.html", 0, tt["site"] + " · " + tt["homeTitle"], tt["homeDesc"].format(**seo_stats(lang)), body, "home")
 
 
 def page_genres(pg):
@@ -406,7 +419,7 @@ def page_genres(pg):
                   f'<h2>{e(t(f["name"], lang))}</h2><p class="where mono">{e(t(f["where"], lang))}</p><p>{e(t(f["blurb"], lang))}</p><p class="subs"><b>{len(f["subs"])} {e(tt["stats"]["subs"])}:</b> {e(subs)}</p>'
                   f'<span class="mono small">{n} {e(tt["stats"]["artists"])}</span></a>')
     body = f'<div class="wrap">{head_block(f"{STATS["f"]} {e(tt["stats"]["families"])} · {STATS["s"]} {e(tt["stats"]["subs"])}", e(tt["genresH"]), tt["genresLead"], extra=f'<p class="head-cta"><a class="btn" href="{pg.p["map"]}">{e(tt["mapBtn"])} →</a></p>')}<div class="ggrid">{cards}</div></div>'
-    pg.write(pg.p["genres"], other(lang, "genres"), 0, tt["genresH"], tt["genresDesc"].format(**STATS), body, "genres", kind="CollectionPage")
+    pg.write(pg.p["genres"], other(lang, "genres"), 0, tt["genresH"], tt["genresDesc"].format(**seo_stats(lang)), body, "genres", kind="CollectionPage")
 
 
 def page_family(pg, f, i):
@@ -479,7 +492,7 @@ def page_artists(pg):
 <span class="mono count"><b id="count">{STATS['a']}</b> {e(tt['results'])}</span>
 </div>
 <div class="agrid" id="agrid">{cards}</div><p class="none mono" id="noneMsg" hidden>{e(tt['none'])}</p></div>"""
-    pg.write(pg.p["artists"], other(lang, "artists"), 0, tt["artistsH2"], tt["artistsDesc"].format(**STATS), body, "artists", kind="CollectionPage")
+    pg.write(pg.p["artists"], other(lang, "artists"), 0, tt["artistsH2"], tt["artistsDesc"].format(**seo_stats(lang)), body, "artists", kind="CollectionPage")
 
 
 def mus_section(pg, hid, title, rows, featured):
@@ -494,21 +507,21 @@ def page_musicians(pg):
     n = len({IT.slugify(r[0]) for _, _, rows, _ in INSTR for r in rows})
     body = f'<div class="wrap">{head_block(f"{n} {e(tt["nav"]["musicians"]).lower()}", e(tt["musiciansH"]), tt["musiciansLead"], seed=41)}'
     body += "".join(mus_section(pg, code, tt[key], rows, feat) for code, key, rows, feat in INSTR) + "</div>"
-    pg.write(pg.p["musicians"], other(lang, "musicians"), 0, tt["musiciansH"], tt["musiciansDesc"].format(g=len(GUIT), b=len(BASS), d=len(DRUM)), body, "musicians", kind="CollectionPage")
+    pg.write(pg.p["musicians"], other(lang, "musicians"), 0, tt["musiciansH"], tt["musiciansDesc"].format(n=approx(n, lang)), body, "musicians", kind="CollectionPage")
 
 
 def page_singers(pg):
     lang, tt = pg.lang, pg.t
     body = f'<div class="wrap">{head_block(f"{len(VOC)} {e(tt["nav"]["singers"]).lower()}", e(tt["singersH"]), tt["singersLead"], seed=43)}'
     body += mus_section(pg, "voc", tt["nav"]["singers"], VOC, 15) + "</div>"
-    pg.write(pg.p["singers"], other(lang, "singers"), 0, tt["singersH"], tt["singersDesc"].format(n=len(VOC)), body, "singers", kind="CollectionPage")
+    pg.write(pg.p["singers"], other(lang, "singers"), 0, tt["singersH"], tt["singersDesc"].format(n=approx(len(VOC), lang)), body, "singers", kind="CollectionPage")
 
 
 def page_producers(pg):
     lang, tt = pg.lang, pg.t
     body = f'<div class="wrap">{head_block(f"{len(PROD)} {e(tt["nav"]["producers"]).lower()}", e(tt["producersH"]), tt["producersLead"], seed=47)}'
     body += mus_section(pg, "prd", tt["prod"], PROD, 15) + "</div>"
-    pg.write(pg.p["producers"], other(lang, "producers"), 0, tt["producersH"], tt["producersDesc"].format(n=len(PROD)), body, "producers", kind="CollectionPage")
+    pg.write(pg.p["producers"], other(lang, "producers"), 0, tt["producersH"], tt["producersDesc"].format(n=approx(len(PROD), lang)), body, "producers", kind="CollectionPage")
 
 
 def page_influencers(pg):
@@ -521,7 +534,7 @@ def page_influencers(pg):
     body += f'<section class="sec-in"><h2>{e(tt["mChan"])} <span class="mono small">{len(C.CHANNELS)}</span></h2><div class="mgrid">' + "".join(
         f'<article class="mcard"><h3><a href="{u}" target="_blank" rel="noopener">{e(n)} ↗</a></h3><p>{e(t(d, lang))}</p></article>' for n, u, d in C.CHANNELS) + "</div></section>"
     body += "</div>"
-    pg.write(pg.p["influencers"], other(lang, "influencers"), 0, tt["influencersH"], tt["influencersDesc"].format(n=len(C.CREATORS)), body, "influencers", kind="CollectionPage")
+    pg.write(pg.p["influencers"], other(lang, "influencers"), 0, tt["influencersH"], tt["influencersDesc"].format(n=approx(len(C.CREATORS), lang)), body, "influencers", kind="CollectionPage")
 
 
 def page_songs(pg):
@@ -545,7 +558,7 @@ def page_songs(pg):
 <span class="mono count"><b id="scount">{STATS['n']}</b> {e(tt['results'])}</span></div>
 <div class="tabs" id="decTabs">{tabs}</div>
 <ol class="songlist" id="songlist">{items}</ol></div>"""
-    pg.write(pg.p["songs"], other(lang, "songs"), 0, tt["songsH"], tt["songsDesc"].format(**STATS), body, "songs", kind="CollectionPage")
+    pg.write(pg.p["songs"], other(lang, "songs"), 0, tt["songsH"], tt["songsDesc"].format(**seo_stats(lang)), body, "songs", kind="CollectionPage")
 
 
 def _unused_album_list(pg, rows, prefix):
@@ -576,7 +589,7 @@ def page_albums(pg):
 <span class="mono count"><b id="acount">{STATS['d']}</b> {e(tt['results'])}</span></div>
 <div class="tabs" id="adecTabs">{tabs}</div>
 <ol class="albums" id="alist">{items}</ol></div>"""
-    pg.write(pg.p["albums"], other(lang, "albums"), 0, tt["albumsH"], tt["albumsDesc"].format(n=STATS["d"]), body, "albums", kind="CollectionPage")
+    pg.write(pg.p["albums"], other(lang, "albums"), 0, tt["albumsH"], tt["albumsDesc"].format(**seo_stats(lang)), body, "albums", kind="CollectionPage")
 
 
 def page_awards(pg):
@@ -606,14 +619,14 @@ def page_instruments(pg):
     pops = "".join(f'<article class="card icard pop" id="{i["id"]}"><span class="mono code">{e(tt["kinds"][i["kind"]])}</span><h3>{e(t(i["name"], lang))}</h3><p>{e(t(i["blurb"], lang))}</p><div class="chips">' + "".join(f'<a class="chip" style="--c:{FAM[g]["color"]}" href="{pg.fam_url(0, g)}">{e(t(FAM[g]["name"], lang))}</a>' for g in i["genres"]) + "</div></article>" for i in C.POP_INSTRUMENTS)
     body += f'<section class="sec-in" id="populares"><h2>{e(tt["instrPopH"])} <span class="mono small">{len(C.POP_INSTRUMENTS)}</span></h2><p class="lead">{e(tt["instrPopLead"])}</p><div class="cards3">{pops}</div></section>'
     body += "</div>"
-    pg.write(pg.p["instruments"], other(lang, "instruments"), 0, tt["instrH"], tt["instrDesc"].format(n=len(C.INSTRUMENTS)), body, "instruments", kind="CollectionPage")
+    pg.write(pg.p["instruments"], other(lang, "instruments"), 0, tt["instrH"], tt["instrDesc"].format(n=approx(len(C.INSTRUMENTS), lang)), body, "instruments", kind="CollectionPage")
 
 
 def page_glossary(pg):
     lang, tt = pg.lang, pg.t
     items = "".join(f'<div class="term" id="g-{re.sub(r"[^a-z0-9]+", "-", term.lower())}"><dt>{e(term)}</dt><dd>{e(t(d, lang))}</dd></div>' for term, d in sorted(C.GLOSSARY, key=lambda x: x[0].lower()))
     body = f'<div class="wrap">{head_block(f"{len(C.GLOSSARY)} {e(tt["nav"]["glossary"]).lower()}", e(tt["glossH"]), tt["glossLead"], seed=81)}<dl class="gloss">{items}</dl></div>'
-    pg.write(pg.p["glossary"], other(lang, "glossary"), 0, tt["glossH"], tt["glossDesc"].format(n=len(C.GLOSSARY)), body, "glossary")
+    pg.write(pg.p["glossary"], other(lang, "glossary"), 0, tt["glossH"], tt["glossDesc"].format(n=approx(len(C.GLOSSARY), lang)), body, "glossary")
 
 
 def page_media(pg):

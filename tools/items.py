@@ -15,7 +15,14 @@ WL = _json.load(open(_WL_PATH, encoding="utf8")) if _os.path.exists(_WL_PATH) el
 # links fixados à mão; valem nos dois idiomas e não são trocados pelo fetch_wiki.py
 WIKI_FIX = {"m:luciano-carlos-cunha": "https://pt.wikipedia.org/wiki/Luciano_Carlos_Cunha",
             "a:mel-duarte": "https://pt.wikipedia.org/wiki/Mel_Duarte",
-            "m:marimoon": "https://pt.wikipedia.org/wiki/MariMoon"}
+            "a:pepita": "https://pt.wikipedia.org/wiki/Pepita_(artista)",
+            "m:marimoon": "https://pt.wikipedia.org/wiki/MariMoon",
+            "m:gastao-moreira": "https://pt.wikipedia.org/wiki/Gast%C3%A3o_Moreira",
+            "m:fabio-massari": "https://pt.wikipedia.org/wiki/Fabio_Massari",
+            "m:luiz-thunderbird": "https://pt.wikipedia.org/wiki/Luiz_Thunderbird",
+            "m:edgard-piccoli": "https://pt.wikipedia.org/wiki/Edgard_Piccoli",
+            "m:sarah-oliveira": "https://pt.wikipedia.org/wiki/Sarah_Oliveira",
+            "m:roberta-martinelli": "https://pt.wikipedia.org/wiki/Roberta_Martinelli"}
 
 
 def wiki_for(lang, key, name, extra):
@@ -55,7 +62,7 @@ ITXT = {
         alsoArtist="Ver também no diretório de artistas", shows_h="Programas de TV", family="Família", subgenres="Subgêneros", debutL="Estreia",
         stateL="Estado", tierL="Nível", typeL="Tipo", roleL="Listas", roles=dict(voc="Vocalistas", gtr="Guitarristas", bss="Baixistas", drm="Bateristas", prd="Produtores", inf="Influenciadores", vio="Violão e viola", tec="Teclados e piano", san="Sanfona e gaita", cho="Bandolim e cavaquinho", sop="Sopros", per="Percussão"),
         roleSing=dict(voc="Voz", gtr="Guitarra", bss="Baixo", drm="Bateria", prd="Produção", inf="Criação de conteúdo", vio="Violão e viola", tec="Teclados e piano", san="Sanfona", cho="Bandolim e cavaquinho", sop="Sopros", per="Percussão"),
-        infNote=dict(crit="Jornalismo e crítica musical no Instagram: resenhas, fatos e curiosidades.", edu="Ensina teoria, instrumento e produção musical no Instagram."), listed="Aparece nas listas {x}.", featured="Tem ficha de destaque na lista.",
+        infNote=dict(vj="Ex-VJ ou apresentador de programa musical que segue produzindo conteúdo sobre música.", crit="Jornalismo e crítica musical no Instagram: resenhas, fatos e curiosidades.", edu="Ensina teoria, instrumento e produção musical no Instagram."), listed="Aparece nas listas {x}.", featured="Tem ficha de destaque na lista.",
         sameRole="Na mesma lista", sub_desc="Subgênero da família {f}, com registro desde {y}.", sub_count="O catálogo reúne {a} e {s} ligadas a ele.",
         sub_count_a="O catálogo reúne {a} ligados a ele.", artistsN=("{n} artista", "{n} artistas"), siblings="Outros subgêneros da família",
         artistsH="Artistas", songsH="Músicas na linha do tempo", sinceL="Desde", netL="Emissora", yearsL="Anos", orgL="Organiza", cityL="Cidade",
@@ -74,7 +81,7 @@ ITXT = {
         alsoArtist="See also in the artist directory", shows_h="TV shows", family="Family", subgenres="Subgenres", debutL="Debut",
         stateL="State", tierL="Tier", typeL="Type", roleL="Lists", roles=dict(voc="Singers", gtr="Guitarists", bss="Bassists", drm="Drummers", prd="Producers", inf="Influencers", vio="Acoustic guitar and viola", tec="Keyboards and piano", san="Accordion", cho="Mandolin and cavaquinho", sop="Winds", per="Percussion"),
         roleSing=dict(voc="Vocals", gtr="Guitar", bss="Bass", drm="Drums", prd="Production", inf="Content creation", vio="Acoustic guitar and viola", tec="Keyboards and piano", san="Accordion", cho="Mandolin and cavaquinho", sop="Winds", per="Percussion"),
-        infNote=dict(crit="Music journalism and criticism on Instagram: reviews, facts and trivia.", edu="Teaches music theory, instruments and production on Instagram."), listed="Listed under {x}.", featured="Featured with a full profile in the list.",
+        infNote=dict(vj="A former VJ or music-show presenter who still makes music content.", crit="Music journalism and criticism on Instagram: reviews, facts and trivia.", edu="Teaches music theory, instruments and production on Instagram."), listed="Listed under {x}.", featured="Featured with a full profile in the list.",
         sameRole="In the same list", sub_desc="Subgenre of the {f} family, on record since {y}.", sub_count="The catalogue lists {a} and {s} linked to it.",
         sub_count_a="The catalogue lists {a} linked to it.", artistsN=("{n} artist", "{n} artists"), siblings="Other subgenres in the family",
         artistsH="Artists", songsH="Songs in the timeline", sinceL="Since", netL="Network", yearsL="Years", orgL="Organizer", cityL="City",

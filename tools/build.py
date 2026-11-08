@@ -559,10 +559,10 @@ def page_producers(pg):
 def page_influencers(pg):
     lang, tt = pg.lang, pg.t
     body = f'<div class="wrap">{head_block(f"{len(C.CREATORS)} {e(tt["nav"]["influencers"]).lower()}", e(tt["influencersH"]), tt["influencersLead"], seed=49)}'
-    for grp, lbl in (("crit", tt["mCrit"]), ("edu", tt["mEdu"])):
+    for grp, lbl in (("vj", tt["mVj"]), ("crit", tt["mCrit"]), ("edu", tt["mEdu"])):
         items = [(n, h) for n, h, g in C.CREATORS if g == grp]
         body += f'<section class="sec-in"><h2>{e(lbl)} <span class="mono small">{len(items)}</span></h2><div class="chips big">' + "".join(
-            f'<a class="chip plain" href="{IT.mus_url(pg, 0, IT.MUS[IT.slugify(n)])}">{e(n)} <small>@{e(h)}</small></a>' for n, h in items) + "</div></section>"
+            f'<a class="chip plain" href="{IT.mus_url(pg, 0, IT.MUS[IT.slugify(n)])}">{e(n)}{f" <small>@{e(h)}</small>" if h else ""}</a>' for n, h in items) + "</div></section>"
     body += f'<section class="sec-in"><h2>{e(tt["mChan"])} <span class="mono small">{len(C.CHANNELS)}</span></h2><div class="mgrid">' + "".join(
         f'<article class="mcard"><h3><a href="{u}" target="_blank" rel="noopener">{e(n)} ↗</a></h3><p>{e(t(d, lang))}</p></article>' for n, u, d in C.CHANNELS) + "</div></section>"
     body += "</div>"

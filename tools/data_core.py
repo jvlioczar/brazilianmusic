@@ -639,11 +639,10 @@ UI = {
  "pt": dict(
   html="pt-BR", locale="pt_BR", site="Música Brasileira", tagline="O catálogo",
   switch="English", skip="Pular para o conteúdo", menu="Menu",
-  menu_g=dict(genres="Gêneros", music="Música", people="Pessoas", scene="Cena", learn="Aprenda"), allGenres="Todos os gêneros e subgêneros", heroBadge="O catálogo da música brasileira",
-  nav=dict(home="Início", genres="Gêneros", artists="Artistas", singers="Vocalistas", producers="Produtores", influencers="Influenciadores", musicians="Instrumentistas", songs="Músicas", albums="Discos", awards="Prêmios & TV", instruments="Instrumentos", glossary="Glossário", media="Mídia", about="Sobre"),
+  menu_g=dict(genres="Gêneros", music="Música", people="Artistas", scene="Cena", learn="Aprenda"), allGenres="Todos os gêneros e subgêneros", heroBadge="O catálogo da música brasileira",
+  nav=dict(home="Início", genres="Gêneros", artists="Diretório", singers="Vocalistas", producers="Produtores", influencers="Influenciadores", musicians="Instrumentistas", songs="Músicas", albums="Discos", awards="Prêmios & TV", instruments="Instrumentos", glossary="Glossário", media="Mídia", about="Sobre"),
   footer="Um catálogo da música brasileira para quem é de fora, e para quem é de casa.", updated="Última atualização em:",
   homeTitle="O catálogo da música brasileira", homeDesc="{gs} gêneros e subgêneros, {am} artistas musicais, {n} músicas e {d} discos: a música brasileira catalogada em português e inglês.",
-  heroKicker="{am} artistas musicais · {s} subgêneros",
   heroH="A música brasileira,<br><em>catalogada</em>.",
   heroP="Um mapa objetivo de tudo o que o Brasil canta e toca: gêneros e subgêneros, artistas, instrumentistas, músicas, discos, prêmios, realities e instrumentos. Feito para quem chega de fora e quer entender, e para quem é de casa e quer rever.",
   ctaGenres="Explorar os gêneros", ctaLike="Comece pelo que você já gosta",
@@ -654,7 +653,7 @@ UI = {
   mapFamP="{n} subgêneros, do mais antigo ao mais novo.", mapOpen="Abrir a ficha", mapBtn="Ver o mapa dos gêneros",
   famH="As famílias da música brasileira", famP="{f} famílias e {s} subgêneros. Cada ficha diz onde e quando o som nasceu, quem o define e por onde começar.", heritageL="Patrimônio", fusionL="Fusão", fusionH="Gêneros de fusão", fusionP="Gêneros nascidos da mistura de dois ou mais estilos. Em inglês, fusion genres. Não confundir com crossover, que é quando um artista ou uma música alcança o público de outro gênero.",
   decadesH="Linha do tempo", decadesP="Quando cada família nasceu.",
-  statsH="O catálogo em números", stats=dict(families="famílias", subs="subgêneros", artists="artistas", musicians="vocalistas, instrumentistas e produtores", songs="músicas", albums="discos"),
+  statsH="O catálogo em números", heroStats=dict(gs="gêneros e subgêneros", am="artistas musicais", n="músicas", d="discos"), stats=dict(families="famílias", subs="subgêneros", artists="artistas", musicians="vocalistas, instrumentistas e produtores", songs="músicas", albums="discos"),
   doorsH="Como navegar", doors=[
    ("genres", "GÊNEROS", "Famílias e subgêneros", "Ficha de cada gênero: origem, década, artistas, músicas para começar e o que ele tem a ver com o que você já ouve."),
    ("artists", "ARTISTAS", "Diretório completo", "Centenas de bandas, cantoras, duplas, MCs e DJs com gênero, nível, estado e ano; filtre por gênero, tipo ou década."),
@@ -692,7 +691,7 @@ UI = {
   about=[
    ("O que é", "Música Brasileira é um catálogo bilíngue da música do Brasil para quem chega de fora e para quem é de casa. Em vez de opinião, ficha: cada gênero, artista, música, disco e instrumento recebe uma entrada curta, objetiva e localizável."),
    ("Como o conteúdo se organiza", "Tudo parte dos gêneros. A música brasileira está dividida em famílias e subgêneros, cada um com origem, década e por onde começar a ouvir. Artistas, músicas e discos se ligam a eles, e cada pessoa tem uma página que reúne todos os seus papéis. Em volta, fichas de instrumentos, prêmios, festivais, programas de TV e um glossário dão o contexto da cena. Dá para entrar por qualquer ponta, um gênero, um nome ou uma música, e seguir os links até o resto. Os níveis S, A e B marcam a importância relativa de cada artista dentro do seu campo: S para as lendas, A para os gigantes, B para as referências."),
-   ("Limites", "Catálogo é recorte. O rock está coberto em profundidade (músicas ano a ano, discos, cenas regionais); as outras famílias têm fichas mais compactas e vão crescer. Números de seguidores e vendas mudam; onde aparecem, são do momento da coleta."),
+   ("Limites", "Catálogo é recorte: nenhuma lista dá conta de toda a música de um país, e esta continua crescendo, com novos artistas, músicas e discos. Números de seguidores e vendas mudam; onde aparecem, são do momento da coleta."),
    ("Como citar", "Música Brasileira, um projeto BiblioVerse (brazilianmusic.biblioverse.org). Conteúdo livre para uso educacional com crédito."),
   ],
   privacyH="Política de privacidade", privacyLead="Este site não coleta dados pessoais.", privacy="Este site não coleta dados pessoais, não usa cookies de rastreamento nem analytics. Os filtros funcionam no seu navegador. Para carregar as páginas, o navegador se conecta ao GitHub Pages (hospedagem), ao Google Fonts (fontes) e a biblioverse.org (a barra BiblioVerse no topo); cada um recebe os dados técnicos usuais de qualquer visita, como o endereço IP, e segue sua própria política. Links para o YouTube abrem o site do YouTube, sujeito às políticas dele.",
@@ -703,11 +702,10 @@ UI = {
  "en": dict(
   html="en", locale="en_US", site="Brazilian Music", tagline="The Catalogue",
   switch="Português", skip="Skip to content", menu="Menu",
-  menu_g=dict(genres="Genres", music="Music", people="People", scene="Scene", learn="Learn"), allGenres="All genres and subgenres", heroBadge="The catalogue of Brazilian music",
-  nav=dict(home="Home", genres="Genres", artists="Artists", singers="Singers", producers="Producers", influencers="Influencers", musicians="Instrumentalists", songs="Songs", albums="Albums", awards="Awards & TV", instruments="Instruments", glossary="Glossary", media="Media", about="About"),
+  menu_g=dict(genres="Genres", music="Music", people="Artists", scene="Scene", learn="Learn"), allGenres="All genres and subgenres", heroBadge="The catalogue of Brazilian music",
+  nav=dict(home="Home", genres="Genres", artists="Directory", singers="Singers", producers="Producers", influencers="Influencers", musicians="Instrumentalists", songs="Songs", albums="Albums", awards="Awards & TV", instruments="Instruments", glossary="Glossary", media="Media", about="About"),
   footer="A catalogue of Brazilian music for outsiders, and for insiders too.", updated="Last updated:",
   homeTitle="The catalogue of Brazilian music", homeDesc="{gs} genres and subgenres, {am} music artists, {n} songs and {d} albums: Brazilian music catalogued in English and Portuguese.",
-  heroKicker="{am} music artists · {s} subgenres",
   heroH="Brazilian music,<br><em>catalogued</em>.",
   heroP="An objective map of everything Brazil sings and plays: genres and subgenres, artists, musicians, songs, albums, awards, TV talent shows and instruments. Built for newcomers who want to understand, and for Brazilians who want to look again.",
   ctaGenres="Explore the genres", ctaLike="Start from what you already like",
@@ -718,7 +716,7 @@ UI = {
   mapFamP="{n} subgenres, from oldest to newest.", mapOpen="Open the card", mapBtn="See the genre map",
   famH="The families of Brazilian music", famP="{f} families and {s} subgenres. Each card says where and when the sound was born, who defines it and where to start.", heritageL="Heritage", fusionL="Fusion", fusionH="Fusion genres", fusionP="Genres born from mixing two or more styles; in Portuguese, gêneros de fusão. Not the same as crossover, which is when an artist or song reaches the audience of another genre.",
   decadesH="Timeline", decadesP="When each family was born.",
-  statsH="The catalogue in numbers", stats=dict(families="families", subs="subgenres", artists="artists", musicians="singers, instrumentalists and producers", songs="songs", albums="albums"),
+  statsH="The catalogue in numbers", heroStats=dict(gs="genres and subgenres", am="music artists", n="songs", d="albums"), stats=dict(families="families", subs="subgenres", artists="artists", musicians="singers, instrumentalists and producers", songs="songs", albums="albums"),
   doorsH="How to navigate", doors=[
    ("genres", "GENRES", "Families and subgenres", "A card for each genre: origin, decade, artists, songs to start with and how it relates to what you already listen to."),
    ("artists", "ARTISTS", "Full directory", "Hundreds of bands, singers, duos, MCs and DJs with genre, tier, state and year; filter by genre, type or decade."),
@@ -756,7 +754,7 @@ UI = {
   about=[
    ("What it is", "Brazilian Music is a bilingual catalogue of Brazil's music for newcomers and for Brazilians alike. Instead of opinion, cards: every genre, artist, song, album and instrument gets a short, objective, findable entry."),
    ("How the content is organised", "Everything starts from the genres. Brazilian music is divided into families and subgenres, each with its origin, decade and where to start listening. Artists, songs and albums link to them, and every person has one page that brings all their roles together. Around them, cards on instruments, awards, festivals, TV shows and a glossary give the context of the scene. You can come in from any end, a genre, a name or a song, and follow the links to the rest. Tiers S, A and B mark each artist's relative importance within their field: S for legends, A for giants, B for references."),
-   ("Limits", "A catalogue is a selection. Rock is covered in depth (songs year by year, albums, regional scenes); the other families have more compact cards and will grow. Follower and sales figures change; where they appear, they date from the time of collection."),
+   ("Limits", "A catalogue is a selection: no list can cover all of a country's music, and this one keeps growing, with new artists, songs and albums. Follower and sales figures change; where they appear, they date from the time of collection."),
    ("How to cite", "Brazilian Music, a BiblioVerse project (brazilianmusic.biblioverse.org). Content free for educational use with credit."),
   ],
   privacyH="Privacy policy", privacyLead="This site collects no personal data.", privacy="This site collects no personal data and uses no tracking cookies or analytics. Filters run in your browser. To load the pages, your browser connects to GitHub Pages (hosting), Google Fonts (fonts) and biblioverse.org (the BiblioVerse bar at the top); each receives the usual technical data of any visit, such as your IP address, and follows its own policy. YouTube links open YouTube, subject to its policies.",

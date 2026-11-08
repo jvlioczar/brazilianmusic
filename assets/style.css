@@ -102,7 +102,16 @@ p{margin:0 0 1em}
 .hero h1 em{font-style:normal;color:var(--amarelo);position:relative;display:inline-block}
 .hero h1 em::after{content:"";position:absolute;left:0;right:0;bottom:-.12em;height:.1em;background:#fff;border-radius:999px;transform:scaleX(0);transform-origin:left;animation:underline 1s var(--ease) forwards .9s}
 .hero .lead{color:#eafff1;max-width:700px;animation:rise .8s var(--ease) both .25s}
-.cta{display:flex;gap:12px;flex-wrap:wrap;margin:26px 0 56px;animation:rise .8s var(--ease) both .4s}
+.cta{display:flex;gap:12px;flex-wrap:wrap;margin:26px 0 30px;animation:rise .8s var(--ease) both .4s}
+/* números no hero (arredondados) */
+.hero-stats{list-style:none;margin:0 0 56px;padding:18px 0 0;display:flex;flex-wrap:wrap;gap:14px 0;border-top:1px solid rgba(255,255,255,.28);animation:rise .8s var(--ease) both .55s}
+.hero-stats li{display:flex;flex-direction:column;gap:4px;padding:0 22px;border-left:1px solid rgba(255,255,255,.28)}
+.hero-stats li:first-child{padding-left:0;border-left:0}
+.hero-stats b{font-family:var(--disp);font-weight:400;font-size:2rem;line-height:1;color:var(--amarelo)}
+.hero-stats span{font-family:var(--mono);font-size:.68rem;text-transform:uppercase;letter-spacing:.06em;color:#eafff1}
+@media (max-width:640px){.hero-stats{display:grid;grid-template-columns:1fr 1fr;gap:18px 0}.hero-stats li:nth-child(odd){padding-left:0;border-left:0}.hero-stats b{font-size:1.7rem}}
+/* página Sobre: o catálogo em números */
+.about-stats .stats{background:var(--amarelo);border-radius:var(--r);padding:16px}
 .shapes{position:absolute;inset:0;pointer-events:none;z-index:1}
 .shape{position:absolute;will-change:transform;animation:float 9s ease-in-out infinite}
 .shape.s1{right:6%;top:8%;width:260px;animation-duration:11s}

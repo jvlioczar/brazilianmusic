@@ -397,6 +397,18 @@ def page_map(pg):
 
 
 # ── páginas ───────────────────────────────────────────────────────────────────
+def stats_grid(tt):
+    """O catálogo em números: contagem exata, com animação de contagem (fica na página Sobre)."""
+    return "".join(f'<div class="stat"><b data-count="{v}">{v}</b><span>{e(tt["stats"][k])}</span></div>' for k, v in
+                   [("families", STATS["f"]), ("subs", STATS["s"]), ("artists", STATS["a"]), ("musicians", STATS["m"]), ("songs", STATS["n"]), ("albums", STATS["d"])])
+
+
+def hero_stats(lang, tt):
+    """Números de abertura no hero: arredondados com '+', como no SEO."""
+    st = seo_stats(lang)
+    return "".join(f'<li><b>{e(st[k])}</b><span>{e(tt["heroStats"][k])}</span></li>' for k in ("gs", "am", "n", "d"))
+
+
 def page_home(pg):
     lang, tt = pg.lang, pg.t
     like = "".join(
@@ -406,15 +418,13 @@ def page_home(pg):
     fam_cards = "".join(
         f'<a class="fcard" style="--c:{f["color"]}" href="{pg.fam_url(0, f["id"])}" data-fam="{f["id"]}">{strip(sum(map(ord, f["id"])) % 1000, f["color"], ["#ffffff", "#fedd00"], cols=8, cls="tstrip card-strip")}<span class="mono code">{f["code"]} · {f["since"]}</span><h3>{e(t(f["name"], lang))}</h3><p>{e(t(f["where"], lang))}</p><span class="mono small">{len(f["subs"])} {e(tt["stats"]["subs"])} · {sum(1 for a in ARTISTS if a["family"] == f["id"])} {e(tt["stats"]["artists"])}</span></a>'
         for f in C.FAMILIES)
-    stats = "".join(f'<div class="stat"><b data-count="{v}">{v}</b><span>{e(tt["stats"][k])}</span></div>' for k, v in
-                    [("families", STATS["f"]), ("subs", STATS["s"]), ("artists", STATS["a"]), ("musicians", STATS["m"]), ("songs", STATS["n"]), ("albums", STATS["d"])])
     doors = "".join(f'<a class="door" href="{pg.p[k]}"><span class="mono">{e(m)}</span><h3>{e(h)}</h3><p>{e(d)}</p></a>' for k, m, h, d in tt["doors"])
     ticker = " · ".join(e(a["name"]) for a in ARTISTS if a["tier"] == "S")
     body = f"""<section class="hero"><div class="wrap hero-grid"><div class="hero-txt">
-<span class="kicker mono">{e(tt['heroKicker'].format(**seo_stats(lang)))}</span>
 <h1>{tt['heroH']}</h1>
 <p class="lead">{e(tt['heroP'])}</p>
 <div class="cta"><a class="btn pri" href="{pg.p['genres']}">{e(tt['ctaGenres'])}</a><a class="btn" href="#like">{e(tt['ctaLike'])}</a></div>
+<ul class="hero-stats" aria-label="{e(tt['statsH'])}">{hero_stats(lang, tt)}</ul>
 </div><div class="hero-panel">{mosaic(7, 9, "#007d36", FLAG_INKS, 7, cls="mosaic hero-mosaic")}</div></div><svg class="badge" viewBox="0 0 130 130" aria-hidden="true"><defs><path id="bc" d="M65 65m-50 0a50 50 0 1 1 100 0a50 50 0 1 1-100 0"/></defs><text textLength="310" lengthAdjust="spacingAndGlyphs"><textPath href="#bc" textLength="310" lengthAdjust="spacingAndGlyphs">{e(tt['heroBadge'])} ·</textPath></text></svg><div class="ticker" aria-hidden="true"><div class="ticker-in">{ticker} · {ticker}</div></div></section>
 <section class="sec s-like" id="like"><div class="wrap"><h2>{e(tt['likeH'])}</h2><p class="lead">{e(tt['likeP'])}</p>
 <div class="like-grid" id="likeGrid">{like}</div></div></section>
@@ -422,7 +432,6 @@ def page_home(pg):
 <section class="sec s-map"><div class="wrap"><h2>{e(tt['famH'])}</h2><p class="lead">{e(tt['famP'].format(**STATS))}</p>
 <div class="fgrid" id="famGrid">{fam_cards}</div>
 <p class="more-link"><a class="btn pri" href="{pg.p['genres']}">{e(tt['allGenres'])} →</a><a class="btn" href="{pg.p['map']}">{e(tt['mapBtn'])} →</a></p></div></section>
-<section class="sec s-stats"><div class="wrap"><h2>{e(tt['statsH'])}</h2><div class="stats">{stats}</div></div></section>
 <section class="sec s-doors"><div class="wrap"><h2>{e(tt['doorsH'])}</h2><div class="doors">{doors}</div></div></section>"""
     pg.write("index.html", "index.html", 0, tt["site"] + " · " + tt["homeTitle"], tt["homeDesc"].format(**seo_stats(lang)), body, "home")
 
@@ -665,7 +674,9 @@ def page_media(pg):
 
 def page_about(pg):
     lang, tt = pg.lang, pg.t
-    secs = "".join(f'<section class="sec-in"><h2>{e(h)}</h2><p>{e(p)}</p></section>' for h, p in tt["about"])
+    secs = [f'<section class="sec-in"><h2>{e(h)}</h2><p>{e(p)}</p></section>' for h, p in tt["about"]]
+    secs.insert(1, f'<section class="sec-in about-stats"><h2>{e(tt["statsH"])}</h2><div class="stats">{stats_grid(tt)}</div></section>')
+    secs = "".join(secs)
     body = f'<div class="wrap narrow">{head_block("BiblioVerse", e(tt["aboutH"]), tt["footer"], seed=101)}{secs}<p><a class="btn" href="https://www.linkedin.com/company/biblioverse.org" target="_blank" rel="noopener">BiblioVerse · LinkedIn</a></p></div>'
     pg.write(pg.p["about"], other(lang, "about"), 0, tt["aboutH"], tt["aboutDesc"], body, "about", kind="AboutPage")
 

@@ -720,4 +720,5 @@ HITS = """
 2009|Peixonauta (tema de abertura)|TV PinGuim|infantil
 2018|Atrasadinha|Felipe Araújo e Ferrugem|sertanejo
 2024|Casca de Bala|Thullio Milionário|forro
+2018|Jenifer|Gabriel Diniz|forro
 """

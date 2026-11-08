@@ -614,6 +614,78 @@ Paulo Sérgio|Cantor romântico de "Última Canção".|Romantic singer of "Últi
 Evaldo Braga|"O ídolo negro", de "Sorria, Sorria".|"The Black idol", of "Sorria, Sorria".
 Edson Gomes|Voz do reggae baiano.|Voice of Bahian reggae.
 Bidu Sayão|Soprano que brilhou no Metropolitan Opera de Nova York.|A soprano who shone at New York's Metropolitan Opera.
+Dorival Caymmi|Voz grave e calma que cantou o mar e a Bahia.|A deep, calm voice that sang the sea and Bahia.
+Mário Reis|Inventou o jeito coloquial de cantar samba.|Invented the conversational way of singing samba.
+Vicente Celestino|Tenor de "O Ébrio".|The tenor of "O Ébrio".
+Johnny Alf|Voz e piano que anteciparam a bossa nova.|A voice and piano that foreshadowed bossa nova.
+Pery Ribeiro|Intérprete da bossa nova, filho de Dalva de Oliveira.|A bossa nova interpreter, Dalva de Oliveira's son.
+Miúcha|Voz da bossa nova ao lado de Tom Jobim.|A bossa nova voice alongside Tom Jobim.
+Marcos Valle|Voz suave da bossa nova e do groove dos anos 1970.|A soft voice of bossa nova and 1970s groove.
+Tânia Maria|Scat e piano do jazz brasileiro.|Scat and piano of Brazilian jazz.
+João Bosco|Scat e divisão rítmica únicos na MPB.|Unique scat and phrasing in MPB.
+João Nogueira|Voz do samba carioca dos anos 1970.|A voice of 1970s Rio samba.
+Jards Macalé|Voz e violão da MPB maldita.|Voice and guitar of MPB's cult fringe.
+Maria Alcina|Voz grave e teatral de "Fio Maravilha".|The deep, theatrical voice of "Fio Maravilha".
+Evinha|Voz do Trio Esperança e de "Cantiga por Luciana".|The voice of Trio Esperança and "Cantiga por Luciana".
+Vanusa|Da Jovem Guarda a "Manhãs de Setembro".|From Jovem Guarda to "Manhãs de Setembro".
+Jane Duboc|Voz do Bacamarte e da MPB.|The voice of Bacamarte and of MPB.
+Ná Ozzetti|Voz do Grupo Rumo.|The voice of Grupo Rumo.
+Itamar Assumpção|Voz e presença cênica da Vanguarda Paulista.|The voice and stage presence of the São Paulo avant-garde.
+João Gordo|Ratos de Porão; a voz do hardcore paulistano.|Ratos de Porão; the voice of São Paulo hardcore.
+Fred Zero Quatro|Mundo Livre S/A; voz do manguebeat.|Mundo Livre S/A; a voice of manguebeat.
+Júlio Barroso|Gang 90 e as Absurdettes; "Perdidos na Selva".|Gang 90 e as Absurdettes; "Perdidos na Selva".
+Rodrigo Amarante|Los Hermanos, Little Joy e "Tuyo".|Los Hermanos, Little Joy and "Tuyo".
+Evandro Mesquita|Blitz; cantor, compositor e ator.|Blitz; singer, songwriter and actor.
+Roger Moreira|Ultraje a Rigor; voz, guitarra e composições.|Ultraje a Rigor; voice, guitar and songs.
+Paulo Miklos|Titãs; ex-vocalista e depois ator.|Titãs; former singer, later an actor.
+Sérgio Britto|Titãs; autor de "Epitáfio" e "Homem Primata".|Titãs; writer of "Epitáfio" and "Homem Primata".
+Branco Mello|Titãs; voz e baixo.|Titãs; voice and bass.
+Bruno Gouveia|Biquíni Cavadão; vocalista desde 1985.|Biquíni Cavadão; singer since 1985.
+Thedy Corrêa|Nenhum de Nós; a voz do rock gaúcho.|Nenhum de Nós; a voice of Rio Grande do Sul rock.
+Duca Leindecker|Cidadão Quem; depois a Pouca Vogal com Humberto Gessinger.|Cidadão Quem; later Pouca Vogal with Humberto Gessinger.
+Wander Wildner|Os Replicantes; voz do punk gaúcho dos anos 1980.|Os Replicantes; a voice of 1980s Rio Grande do Sul punk.
+Tico Santa Cruz|Detonautas Roque Clube; fundador e vocalista.|Detonautas Roque Clube; founder and singer.
+Marcus Menna|LS Jack; vocalista e líder.|LS Jack; singer and leader.
+Digão|Raimundos; guitarra e voz.|Raimundos; guitar and voice.
+Jimmy London|Matanza; fundador e vocalista até 2018.|Matanza; founder and singer until 2018.
+Guilherme de Sá|Rosa de Saron; vocalista de 2001 a 2019.|Rosa de Saron; singer from 2001 to 2019.
+Pit Passarell|Viper; compositor, cantor e baixista.|Viper; songwriter, singer and bassist.
+Pe Lu|Restart; fundador, guitarrista e vocalista.|Restart; founder, guitarist and singer.
+Pe Lanza|Restart; cantor e compositor.|Restart; singer and songwriter.
+Lovefoxxx|Cansei de Ser Sexy; a voz do indietronica brasileiro.|Cansei de Ser Sexy; the voice of Brazilian indietronica.
+Junior Lima|Sandy & Junior; músico, cantor e produtor.|Sandy & Junior; musician, singer and producer.
+Jorge Du Peixe|Nação Zumbi; responsável pelos vocais desde a morte de Chico Science, em 1997.|Nação Zumbi; in charge of vocals since Chico Science's death in 1997.
+Paulinho Boca de Cantor|Novos Baianos; um dos fundadores.|Novos Baianos; one of the founders.
+Renato Barros|Renato e Seus Blue Caps; vocalista, guitarrista e fundador.|Renato e Seus Blue Caps; singer, guitarist and founder.
+Mano Changes|Comunidade Nin-Jitsu; líder e vocalista.|Comunidade Nin-Jitsu; leader and singer.
+Russo Passapusso|BaianaSystem; voz da mistura de hip-hop e ritmos baianos.|BaianaSystem; the voice of its blend of hip-hop and Bahian rhythms.
+Alexandre Carlo|Natiruts; voz, guitarra e letras.|Natiruts; voice, guitar and lyrics.
+Fauzi Beydoun|Tribo de Jah; vocalista e principal compositor.|Tribo de Jah; singer and main songwriter.
+Tato|Falamansa; fundador e vocalista.|Falamansa; founder and singer.
+Loalwa Braz|Kaoma; a voz de "Lambada".|Kaoma; the voice of "Lambada".
+Márcia Freire|Cheiro de Amor; vocalista por 13 anos, ícone do axé.|Cheiro de Amor; singer for 13 years, an axé icon.
+Carla Visi|Cheiro de Amor; substituiu Márcia Freire em 1996.|Cheiro de Amor; replaced Márcia Freire in 1996.
+Alinne Rosa|Cheiro de Amor; vocalista a partir de 2003.|Cheiro de Amor; singer from 2003.
+Emanuelle Araújo|Banda Eva; substituiu Ivete Sangalo em 1999.|Banda Eva; replaced Ivete Sangalo in 1999.
+Tatau|Araketu; vocalista com sucesso também na Europa.|Araketu; a singer who also found success in Europe.
+Tuca Fernandes|Jammil; vocalista de 1998 a 2011.|Jammil; singer from 1998 to 2011.
+Paulinha Abelha|Calcinha Preta; voz do forró eletrônico.|Calcinha Preta; a voice of electronic forró.
+Silvânia Aquino|Calcinha Preta; voz do forró eletrônico.|Calcinha Preta; a voice of electronic forró.
+Walkyria Santos|Magníficos; voz do forró eletrônico.|Magníficos; a voice of electronic forró.
+Chrigor|Exaltasamba; vocalista de 1993 a 2002.|Exaltasamba; singer from 1993 to 2002.
+Anderson Leonardo|Molejo; cantor e compositor.|Molejo; singer and songwriter.
+Netinho de Paula|Negritude Júnior; cantor e apresentador.|Negritude Júnior; singer and TV host.
+Mário Sérgio|Fundo de Quintal; cantor e compositor.|Fundo de Quintal; singer and songwriter.
+Bira Presidente|Fundo de Quintal e Cacique de Ramos; fundador.|Fundo de Quintal and Cacique de Ramos; a founder.
+Sereno|Fundo de Quintal; introduziu o tantã no samba.|Fundo de Quintal; brought the tantã into samba.
+Gabi Melim|Melim; trio com os irmãos Rodrigo e Diogo.|Melim; a trio with her brothers Rodrigo and Diogo.
+Ana Caetano|Anavitória; cantora, compositora e multi-instrumentista.|Anavitória; singer, songwriter and multi-instrumentalist.
+Victor Chaves|Victor & Leo; cantor, compositor e arranjador.|Victor & Leo; singer, songwriter and arranger.
+José Rico|Milionário & José Rico; a dupla célebre do sertanejo.|Milionário & José Rico; the celebrated sertanejo duo.
+Milionário|Milionário & José Rico; "O Garganta de Ouro".|Milionário & José Rico; "The Golden Throat".
+Thaíde|Thaíde & DJ Hum; pioneiro do hip hop paulistano.|Thaíde & DJ Hum; a pioneer of São Paulo hip hop.
+Ice Blue|Racionais MC's; rapper.|Racionais MC's; rapper.
+BNegão|Planet Hemp; ex-vocalista.|Planet Hemp; former singer.
 """
 
 

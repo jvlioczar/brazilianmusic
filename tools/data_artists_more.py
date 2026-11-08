@@ -202,7 +202,7 @@ Alexandre Pires|solo|pagode-romantico,pagonejo|2001|MG|A||Ex-vocalista do Só Pr
 Pique Novo|band|pagode-romantico|||B||Grupo de pagode romântico dos anos 1990.|A 1990s romantic pagode group.
 Grupo Raça|band|pagode|||B||Grupo de pagode dos anos 1980 e 1990.|A pagode group of the 1980s and 1990s.
 Sombrinha|solo|pagode,partido-alto||SP|B||Cantor, compositor e cavaquinista que integrou o Fundo de Quintal.|Singer, songwriter and cavaquinho player who was a member of Fundo de Quintal.
-Reinaldo|solo|pagode||RJ|B||O "príncipe do pagode", sucesso dos anos 1990.|The "prince of pagode", a 1990s hitmaker.
+Reinaldo|solo|pagode-romantico,pagode||RJ|B||O "Príncipe do Pagode", um dos precursores do pagode romântico nos anos 1980.|The "Prince of Pagode", one of the forerunners of romantic pagode in the 1980s.
 Arlindinho|solo|pagode,samba-raiz||RJ|B||Cantor e compositor, filho de Arlindo Cruz.|Singer-songwriter, son of Arlindo Cruz.
 Monarco|solo|samba-raiz||RJ|A||Compositor e voz da Velha Guarda da Portela.|Composer and voice of the Velha Guarda da Portela.
 Velha Guarda da Portela|group|samba-raiz||RJ|A||Os bambas veteranos da Portela, guardiões do samba de terreiro.|Portela's veteran masters, guardians of terreiro samba.
@@ -538,4 +538,188 @@ Comunidade Nin-Jitsu|band|rap-rock,fock|1998|RS|B||Banda de Porto Alegre que mis
 Ultramen|band|rap-rock,fock|1991|RS|B||Banda de Porto Alegre que mistura rock, funk, rap, samba-rock, soul e reggae.|A Porto Alegre band mixing rock, funk, rap, samba-rock, soul and reggae.
 DeFalla|band|pos-punk,fock|1985|RS|B||Banda de rock de Porto Alegre que passou do new wave ao funk carioca e ao miami bass: "Popozuda Rock 'n' Roll".|A Porto Alegre rock band that moved from new wave to funk carioca and Miami bass: "Popozuda Rock 'n' Roll".
 Thullio Milionário|solo|forro-eletronico||RN|B||Cantor de Natal do forró de vaquejada: "Casca de Bala" (2024) chegou ao 8º lugar do Billboard Brasil Hot 100.|A singer from Natal in the vaquejada style of forró: "Casca de Bala" (2024) reached number 8 on the Billboard Brasil Hot 100.
+Vicente Celestino|solo|samba-cancao||RJ|A||Tenor da era do rádio, de voz operística: "O Ébrio" e "Coração Materno".|An operatic radio-era tenor: "O Ébrio" and "Coração Materno".
+Mário Reis|solo|samba-raiz|1928|RJ|A||Cantou o samba em tom de conversa, sem o vozeirão da época; gravou Sinhô e Noel Rosa e fez dupla com Francisco Alves.|Sang samba in a conversational tone, without the period's big-voiced style; recorded Sinhô and Noel Rosa and teamed up with Francisco Alves.
+Ismael Silva|solo|samba-raiz||RJ|A||Fundador da Deixa Falar, a primeira escola de samba, e autor de "Se Você Jurar".|Founder of Deixa Falar, the first samba school, and author of "Se Você Jurar".
+Pery Ribeiro|solo|bossa-nova||RJ|B||Filho de Dalva de Oliveira e Herivelto Martins; um dos primeiros a gravar "Garota de Ipanema".|Son of Dalva de Oliveira and Herivelto Martins; one of the first to record "Garota de Ipanema".
+Miúcha|solo|bossa-nova||RJ|B||Irmã de Chico Buarque e mãe de Bebel Gilberto; gravou com Tom Jobim e Stan Getz.|Chico Buarque's sister and Bebel Gilberto's mother; recorded with Tom Jobim and Stan Getz.
+Jards Macalé|solo|tropicalia,mpb-classica||RJ|A||Cantor, violonista e compositor maldito da MPB: "Vapor Barato" e "Gotham City".|MPB's cult singer, guitarist and songwriter: "Vapor Barato" and "Gotham City".
+Maria Alcina|solo|mpb-classica||MG|B||Venceu o Festival Internacional da Canção de 1972 com "Fio Maravilha", de Jorge Ben.|Won the 1972 International Song Festival with Jorge Ben's "Fio Maravilha".
+Evinha|solo|jovem-guarda,mpb-classica||RJ|B||Voz do Trio Esperança; venceu o Festival Internacional da Canção de 1969 com "Cantiga por Luciana".|The voice of Trio Esperança; won the 1969 International Song Festival with "Cantiga por Luciana".
+Vanusa|solo|jovem-guarda,mpb-classica||SP|B||Da Jovem Guarda à MPB romântica de "Manhãs de Setembro".|From Jovem Guarda to the romantic MPB of "Manhãs de Setembro".
+Jane Duboc|solo|mpb-classica||PA|B||Cantora paraense, voz do Bacamarte em "Depois do Fim" (1983) e da carreira solo na MPB.|Singer from Pará, the voice of Bacamarte's "Depois do Fim" (1983) and of a solo MPB career.
+Ná Ozzetti|solo|vanguarda-paulista||SP|B||Voz do Grupo Rumo e de uma carreira solo na Vanguarda Paulista.|The voice of Grupo Rumo and of a solo career in the São Paulo avant-garde.
+Rodrigo Amarante|solo|indie,nova-mpb||RJ|B||Dos Los Hermanos e do Little Joy à carreira solo; canta "Tuyo", tema de "Narcos".|From Los Hermanos and Little Joy to a solo career; sings "Tuyo", the "Narcos" theme.
+Otília Amorim|solo|samba-raiz||RJ|B||Atriz e cantora do teatro de revista, nascida em 1894, uma das primeiras vozes do samba em disco.|A revue-theatre actress and singer born in 1894, one of the first voices of samba on record.
+Heitor dos Prazeres|solo|samba-raiz||RJ|B||Compositor, cantor e pintor, pioneiro do samba e das primeiras escolas de samba.|Songwriter, singer and painter, a pioneer of samba and of the first samba schools.
+Herivelto Martins|solo|samba-cancao||RJ|A||Compositor de "Ave Maria no Morro" e criador do Trio de Ouro.|Songwriter of "Ave Maria no Morro" and creator of Trio de Ouro.
+Aurora Miranda|solo|marchinhas|1933|RJ|B||Irmã de Carmen Miranda; estreou em disco em 1933 com "Cai, Cai, Balão", ao lado de Francisco Alves.|Carmen Miranda's sister; made her record debut in 1933 with "Cai, Cai, Balão", alongside Francisco Alves.
+Elsie Houston|solo|classica-interpretes||RJ|B||Soprano carioca que levou canções populares brasileiras às salas de concerto de Paris e Nova York.|A Rio soprano who took Brazilian folk songs to the concert halls of Paris and New York.
+Anísio Silva|solo|samba-cancao||BA|B||Cantor romântico de boleros, campeão de vendas no fim dos anos 1950.|A romantic bolero singer and a top seller in the late 1950s.
+Noite Ilustrada|solo|samba-raiz||MG|B||Cantor e violonista que gravou "Volta por Cima", de Paulo Vanzolini.|A singer and guitarist who recorded Paulo Vanzolini's "Volta por Cima".
+Ellen de Lima|solo|samba-cancao||BA|B||Voz da era do rádio, intérprete da "Canção das Misses".|A radio-era voice, the singer of "Canção das Misses".
+Marisa Gata Mansa|solo|samba-cancao||RJ|B||Cantora e compositora do samba-canção dos anos 1950 e 1960.|A singer and songwriter of 1950s and 1960s samba-canção.
+Doris Monteiro|solo|samba-cancao,bossa-nova||RJ|B||Cantora e atriz da passagem do samba-canção para a bossa nova.|A singer and actress of the shift from samba-canção to bossa nova.
+Núbia Lafayette|solo|brega-romantico||RN|B||Cantora potiguar de boleros e canções românticas.|A singer from Rio Grande do Norte of boleros and romantic songs.
+Billy Blanco|solo|samba-cancao,bossa-nova||PA|B||Compositor paraense de "Tereza da Praia", com Tom Jobim, e da "Sinfonia do Rio de Janeiro".|A songwriter from Pará, of "Tereza da Praia" with Tom Jobim and the "Sinfonia do Rio de Janeiro".
+Sylvia Telles|solo|bossa-nova||RJ|B||Uma das maiores intérpretes da bossa nova; morreu em 1966, aos 32 anos.|One of bossa nova's great interpreters; she died in 1966, aged 32.
+Claudette Soares|solo|bossa-nova||RJ|B||Cantora carioca da bossa nova e da MPB.|A Rio singer of bossa nova and MPB.
+Alaíde Costa|solo|bossa-nova,mpb-classica||RJ|B||Voz delicada da bossa nova, com carreira de mais de seis décadas.|A delicate bossa nova voice with a career of more than six decades.
+Wanda Sá|solo|bossa-nova||SP|B||Violonista e cantora da bossa nova.|A bossa nova guitarist and singer.
+Maria Creuza|solo|bossa-nova||BA|B||Cantora baiana que excursionou com Vinicius de Moraes e Toquinho.|A singer from Bahia who toured with Vinicius de Moraes and Toquinho.
+Paula Morelenbaum|solo|bossa-nova||RJ|B||Cantou mais de dez anos ao lado de Tom Jobim antes da carreira solo.|Sang alongside Tom Jobim for more than ten years before going solo.
+Luiz Bonfá|solo|violao-brasileiro,bossa-nova||RJ|A||Violonista e compositor de "Manhã de Carnaval", do filme "Orfeu Negro".|Guitarist and composer of "Manhã de Carnaval", from the film "Black Orpheus".
+Rosinha de Valença|solo|violao-brasileiro||RJ|B||Violonista, cantora e compositora fluminense.|A guitarist, singer and songwriter from Rio de Janeiro state.
+Sérgio Ricardo|solo|mpb-classica,bossa-nova||SP|B||Músico e cineasta da bossa nova, do Cinema Novo e da canção de protesto.|A musician and filmmaker of bossa nova, Cinema Novo and protest song.
+MPB4|group|mpb-classica|1965|RJ|B||Conjunto vocal de Niterói com longa parceria com Chico Buarque.|A vocal group from Niterói with a long partnership with Chico Buarque.
+Francis Hime|solo|mpb-classica||RJ|B||Pianista, arranjador e compositor, com formação em regência e composição.|A pianist, arranger and composer trained in conducting and composition.
+Dori Caymmi|solo|mpb-classica||RJ|B||Arranjador, violonista e cantor, filho de Dorival Caymmi.|Arranger, guitarist and singer, Dorival Caymmi's son.
+Taiguara|solo|mpb-classica|||B||Cantor e compositor nascido no Uruguai, um dos artistas mais censurados pela ditadura.|A singer-songwriter born in Uruguay, one of the artists most censored by the dictatorship.
+Sérgio Sampaio|solo|mpb-classica||ES|B||Autor de "Eu Quero É Botar Meu Bloco na Rua" (1972), nome cultuado da MPB.|Author of "Eu Quero É Botar Meu Bloco na Rua" (1972), a cult name in MPB.
+Jorge Mautner|solo|tropicalia||RJ|B||Cantor, violinista e escritor, autor de "Maracatu Atômico".|A singer, violinist and writer, author of "Maracatu Atômico".
+Zezé Motta|solo|mpb-classica||RJ|B||Atriz e cantora, expoente da cultura afro-brasileira.|An actress and singer, a leading figure of Afro-Brazilian culture.
+Juca Chaves|solo|mpb-classica||RJ|B||Compositor e humorista, o "menestrel" das modinhas satíricas.|A songwriter and comedian, the "minstrel" of satirical modinhas.
+Zé Rodrix|solo|rock-rural||RJ|B||Multi-instrumentista do rock rural e coautor de "Casa no Campo".|A rural-rock multi-instrumentalist and co-writer of "Casa no Campo".
+Tavito|solo|clube-da-esquina||MG|B||Compositor de "Casa no Campo" (com Zé Rodrix) e "Rua Ramalhete".|Songwriter of "Casa no Campo" (with Zé Rodrix) and "Rua Ramalhete".
+Paulinho Pedra Azul|solo|mpb-classica||MG|B||Cantor e poeta mineiro de "Jardim da Fantasia".|A singer and poet from Minas Gerais, of "Jardim da Fantasia".
+Paulo Diniz|solo|mpb-classica||PE|B||Cantor e compositor pernambucano de "Quero Voltar pra Bahia".|A singer-songwriter from Pernambuco, of "Quero Voltar pra Bahia".
+Amelinha|solo|pessoal-do-ceara||CE|B||Cantora cearense de "Frevo Mulher" (1979).|A singer from Ceará, of "Frevo Mulher" (1979).
+Cátia de França|solo|mpb-classica||PB|B||Cantora e compositora paraibana de canções inspiradas na literatura.|A singer-songwriter from Paraíba whose songs draw on literature.
+Vital Farias|solo|mpb-classica||PB|B||Cantor e compositor paraibano de "Saga da Amazônia".|A singer-songwriter from Paraíba, of "Saga da Amazônia".
+Elomar|solo|mpb-classica||BA|B||Compositor e violonista do sertão baiano, gravado por Fagner, Elba Ramalho e Xangai.|A composer and guitarist from the Bahia backlands, recorded by Fagner, Elba Ramalho and Xangai.
+Xangai|solo|mpb-classica||BA|B||Cantor e violeiro do sul da Bahia.|A singer and viola player from southern Bahia.
+Patativa do Assaré|solo|repente||CE|A||Poeta popular e cantador; autor de "A Triste Partida", gravada por Luiz Gonzaga.|A folk poet and singer; author of "A Triste Partida", recorded by Luiz Gonzaga.
+João do Vale|solo|baiao||MA|A||Compositor maranhense de "Carcará" e "Pisa na Fulô".|A songwriter from Maranhão, of "Carcará" and "Pisa na Fulô".
+Lula Côrtes|solo|psicodelico||PE|B||Psicodelia nordestina; gravou "Paêbirú" (1975) com Zé Ramalho.|Northeastern psychedelia; recorded "Paêbirú" (1975) with Zé Ramalho.
+Tetê Espíndola|solo|mpb-classica||MS|B||Voz aguda e experimental do Mato Grosso do Sul; venceu o Festival dos Festivais com "Escrito nas Estrelas" (1985).|A high, experimental voice from Mato Grosso do Sul; won the Festival dos Festivais with "Escrito nas Estrelas" (1985).
+Hermes Aquino|solo|mpb-classica||RS|B||Cantor gaúcho de "Nuvem Passageira".|A singer from Rio Grande do Sul, of "Nuvem Passageira".
+Kleiton & Kledir|duo|mpb-classica,musica-gaucha||RS|B||Irmãos de Pelotas: "Deu pra Ti".|Brothers from Pelotas: "Deu pra Ti".
+Vitor Ramil|solo|musica-gaucha||RS|B||Cantor e escritor de Pelotas, criador da "estética do frio".|A singer and writer from Pelotas, creator of the "aesthetics of the cold".
+Antônio Carlos e Jocáfi|duo|mpb-classica|1969|BA|B||Dupla baiana de "Você Abusou" e de muitos temas de novela.|A duo from Bahia, of "Você Abusou" and many soap-opera themes.
+Fátima Guedes|solo|mpb-classica||RJ|B||Compositora gravada por Elis Regina, Maria Bethânia e Simone.|A songwriter recorded by Elis Regina, Maria Bethânia and Simone.
+Ruy Maurity|solo|mpb-classica||RJ|B||Cantor e compositor fluminense da MPB dos anos 1970 e 1980.|A singer-songwriter from Rio de Janeiro state, of 1970s and 1980s MPB.
+Olivia Byington|solo|mpb-classica||RJ|B||Cantora, compositora e violonista carioca.|A Rio singer, songwriter and guitarist.
+Jessé|solo|mpb-classica||RJ|B||Voz potente de "Porto Solidão" e "Voa Liberdade".|The powerful voice of "Porto Solidão" and "Voa Liberdade".
+Selma Reis|solo|mpb-classica||RJ|B||Cantora e atriz fluminense da MPB.|A singer and actress from Rio de Janeiro state.
+Claudia Telles|solo|mpb-classica||RJ|B||Intérprete romântica de "Fim de Tarde" e "Eu Preciso Te Esquecer".|A romantic interpreter of "Fim de Tarde" and "Eu Preciso Te Esquecer".
+Edson Cordeiro|solo|mpb-classica||SP|B||Contratenor que transita entre ópera e música popular.|A countertenor who moves between opera and popular music.
+Mônica Salmaso|solo|nova-mpb||SP|B||Cantora de repertório amplo e arranjos sofisticados, que resgata canções pouco visitadas.|A singer with a broad repertoire and refined arrangements who revives seldom-heard songs.
+Zé Renato|solo|mpb-classica||ES|B||Cantor e violonista capixaba da MPB.|A singer and guitarist from Espírito Santo.
+Orlando Morais|solo|mpb-classica||GO|B||Cantor, compositor e multi-instrumentista goiano.|A singer, songwriter and multi-instrumentalist from Goiás.
+Vinícius Cantuária|solo|mpb-classica,bossa-nova||AM|B||Cantor, compositor e multi-instrumentista amazonense de "Só Você".|A singer, songwriter and multi-instrumentalist from Amazonas, of "Só Você".
+Marcus Viana|solo|progressivo||MG|B||Violinista e compositor do rock progressivo mineiro e de trilhas de novela.|A violinist and composer of Minas Gerais prog rock and soap-opera scores.
+Eduardo Dussek|solo|rock-comico,pop-rock||RJ|B||Cantor, pianista e ator do pop teatral e bem-humorado dos anos 1980.|A singer, pianist and actor of 1980s theatrical, humorous pop.
+Vange Leonel|solo|pop-rock||SP|B||Cantora e guitarrista paulistana de "Noite Preta" e ativista LGBT.|A São Paulo singer and guitarist, of "Noite Preta", and an LGBT activist.
+Celso Blues Boy|solo|brock||RJ|B||Guitarrista e cantor do blues brasileiro: "Aumenta Que Isso Aí É Rock and Roll".|A guitarist and singer of Brazilian blues: "Aumenta Que Isso Aí É Rock and Roll".
+Martinha|solo|jovem-guarda||MG|B||O "Queijinho de Minas" da Jovem Guarda: "Eu Daria a Minha Vida" (1968).|Jovem Guarda's "Queijinho de Minas": "Eu Daria a Minha Vida" (1968).
+Wanderley Cardoso|solo|jovem-guarda||SP|B||Ídolo da Jovem Guarda, "O Bom Rapaz".|A Jovem Guarda idol, "O Bom Rapaz".
+Eduardo Araújo|solo|jovem-guarda||MG|B||Da Jovem Guarda, estourou com "O Bom" (1966).|A Jovem Guarda name who broke through with "O Bom" (1966).
+Leno & Lílian|duo|jovem-guarda|||B||Dupla da Jovem Guarda: "Pobre Menina" e "Devolva-Me".|A Jovem Guarda duo: "Pobre Menina" and "Devolva-Me".
+Antônio Marcos|solo|brega-romantico||SP|B||Cantor e compositor romântico, autor de "Como Vai Você" com Mário Marcos.|A romantic singer-songwriter, author of "Como Vai Você" with Mário Marcos.
+Moacyr Franco|solo|brega-romantico||MG|B||Cantor, compositor, ator e apresentador; boleros, marchinhas e baladas românticas em mais de cinco décadas.|A singer, songwriter, actor and TV host; boleros, carnival marches and romantic ballads over five decades.
+Nilton César|solo|brega-romantico||MG|B||Cantor romântico de "Férias na Índia" (1969).|A romantic singer, of "Férias na Índia" (1969).
+Márcio Greyck|solo|brega-romantico||MG|B||Cantor e compositor romântico de "Aparências"; Roberto Carlos também gravou suas canções.|A romantic singer-songwriter, of "Aparências"; Roberto Carlos also recorded his songs.
+Jane e Herondy|duo|brega-romantico|||B||Casal de grande sucesso nos anos 1970 com "Não Se Vá".|A couple who were a big 1970s hit with "Não Se Vá".
+Almir Rogério|solo|brega-romantico||SP|B||"Fuscão Preto" (1982), cerca de 1,5 milhão de discos.|"Fuscão Preto" (1982), about 1.5 million records.
+Bartô Galeno|solo|brega-romantico||PB|B||Cantor paraibano do brega romântico.|A singer from Paraíba of romantic brega.
+Alípio Martins|solo|brega-romantico||PA|B||Cantor, compositor e produtor paraense do brega.|A brega singer, songwriter and producer from Pará.
+Zezo|solo|brega-romantico||RN|B||O "Zezo dos Teclados", do forró ao brega romântico.|"Zezo dos Teclados", from forró to romantic brega.
+Morris Albert|solo|pop-contemporaneo||SP|B||Autor de "Feelings" (1974), sucesso em mais de 50 países.|Author of "Feelings" (1974), a hit in more than 50 countries.
+Michael Sullivan|solo|pop-contemporaneo||PE|B||Cantor, compositor e produtor pernambucano no Latin Songwriters Hall of Fame.|A singer, songwriter and producer from Pernambuco in the Latin Songwriters Hall of Fame.
+Fernanda Abreu|solo|disco-dance,pop-contemporaneo||RJ|A||Ex-Blitz, pioneira do pop dançante brasileiro a partir de 1990: "Rio 40 Graus".|Ex-Blitz, the pioneer of Brazilian dance-pop from 1990: "Rio 40 Graus".
+Deborah Blando|solo|pop-contemporaneo|||B||Cantora ítalo-brasileira de voz suave, recordista de vendas em trilhas de novela.|An Italian-Brazilian singer with a soft voice, a top seller on soap-opera soundtracks.
+Patricia Marx|solo|pop-contemporaneo||SP|B||Do Trem da Alegria à carreira solo de pop e soul.|From Trem da Alegria to a solo pop and soul career.
+Pepê & Neném|duo|pop-contemporaneo|1999|RJ|B||Gêmeas cariocas; o primeiro disco (1999) foi ouro e "Mania de Você" vendeu 200 mil cópias.|Twin sisters from Rio; their first album (1999) went gold and "Mania de Você" sold 200,000 copies.
+Maurício Manieri|solo|pop-contemporaneo||SP|B||Pianista e cantor de pop, MPB e soul: "Bem Querer".|A pianist and singer of pop, MPB and soul: "Bem Querer".
+Marina Elali|solo|pop-contemporaneo||RN|B||Cantora e compositora de Natal.|A singer-songwriter from Natal.
+Preta Gil|solo|pop-contemporaneo,axe-music||RJ|B||Cantora e apresentadora, filha de Gilberto Gil, à frente do Bloco da Preta no carnaval carioca.|A singer and TV host, Gilberto Gil's daughter, who led the Bloco da Preta at Rio carnival.
+Luiza Possi|solo|nova-mpb||RJ|B||Cantora de MPB e pop desde os anos 2000, filha de Zizi Possi.|An MPB and pop singer since the 2000s, Zizi Possi's daughter.
+Pedro Mariano|solo|nova-mpb||SP|B||Cantor e compositor, filho de Elis Regina e César Camargo Mariano.|A singer-songwriter, son of Elis Regina and César Camargo Mariano.
+Jair Oliveira|solo|nova-mpb||SP|B||O antigo Jairzinho, filho de Jair Rodrigues; cantor, compositor e produtor.|Formerly Jairzinho, Jair Rodrigues's son; a singer, songwriter and producer.
+Luciana Mello|solo|nova-mpb||SP|B||Cantora e compositora, filha de Jair Rodrigues.|A singer-songwriter, Jair Rodrigues's daughter.
+Wilson Simoninha|solo|soul-brasileiro||RJ|B||Cantor, compositor e produtor, filho de Wilson Simonal.|A singer, songwriter and producer, Wilson Simonal's son.
+Max de Castro|solo|soul-brasileiro||RJ|B||Multi-instrumentista e produtor de soul e samba-rock, filho de Wilson Simonal.|A soul and samba-rock multi-instrumentalist and producer, Wilson Simonal's son.
+Léo Maia|solo|soul-brasileiro||RJ|B||Cantor e guitarrista de soul, filho afetivo de Tim Maia.|A soul singer and guitarist, Tim Maia's adopted son.
+Di Melo|solo|soul-brasileiro||PE|B||Soul e funk com psicodelia; o disco de estreia (1975) virou cult.|Soul and funk with psychedelia; his debut album (1975) became a cult record.
+Cláudio Zoli|solo|soul-brasileiro||RJ|B||Ex-vocalista do Brylho ("Noite do Prazer") e nome do soul carioca.|Former Brylho singer ("Noite do Prazer") and a name in Rio soul.
+Bebeto|solo|samba-rock||SP|B||O "Rei do Samba-Rock" dos bailes paulistanos.|The "King of Samba-Rock" of São Paulo dance parties.
+Noriel Vilela|solo|samba-rock||RJ|B||Voz de baixo profundo que juntou samba-rock e temas afro-religiosos: "Só o Ôme".|A deep-bass voice that joined samba-rock with Afro-Brazilian religious themes: "Só o Ôme".
+Luiz Ayrão|solo|samba-raiz||RJ|B||"Os Amantes" (1977) vendeu cerca de dois milhões de cópias.|"Os Amantes" (1977) sold about two million copies.
+Roberto Ribeiro|solo|samba-raiz,samba-enredo||RJ|B||Sambista do Império Serrano, intérprete e compositor.|An Império Serrano samba singer and songwriter.
+Nelson Sargento|solo|samba-raiz||RJ|B||Sambista da Mangueira, compositor de "Agoniza Mas Não Morre".|A Mangueira sambista, composer of "Agoniza Mas Não Morre".
+Luiz Carlos da Vila|solo|samba-raiz,samba-enredo||RJ|B||Compositor da Vila Isabel, coautor de "Kizomba, Festa da Raça" (1988).|A Vila Isabel songwriter, co-author of "Kizomba, Festa da Raça" (1988).
+Beto sem Braço|solo|samba-enredo||RJ|B||Cantor e compositor, um dos maiores nomes do Império Serrano.|A singer and songwriter, one of the great names of Império Serrano.
+Neguinho da Beija-Flor|solo|samba-enredo||RJ|A||Intérprete oficial da Beija-Flor por quase cinquenta anos.|Beija-Flor's official samba singer for almost fifty years.
+Wander Pires|solo|samba-enredo||RJ|B||Intérprete de samba-enredo carioca.|A Rio samba-enredo singer.
+Dicró|solo|samba-raiz||RJ|B||Sambista dos sambas satíricos, na linha de Moreira da Silva e Bezerra da Silva.|A singer of satirical sambas, in the line of Moreira da Silva and Bezerra da Silva.
+Cristina Buarque|solo|samba-raiz||SP|B||Cantora e pesquisadora que preservou a memória do samba carioca e paulista.|A singer and researcher who preserved the memory of Rio and São Paulo samba.
+Moacyr Luz|solo|samba-raiz||RJ|B||Compositor carioca à frente do Samba do Trabalhador.|A Rio songwriter who leads the Samba do Trabalhador.
+Pretinho da Serrinha|solo|samba-raiz||RJ|B||Cantor, percussionista, arranjador e produtor de samba.|A samba singer, percussionist, arranger and producer.
+Leandro Sapucahy|solo|samba-raiz||RJ|B||Produtor, cantor e percussionista de samba.|A samba producer, singer and percussionist.
+Dudu Nobre|solo|pagode||RJ|B||Cavaquinista, cantor e compositor de samba, afilhado de Zeca Pagodinho.|A cavaquinho player, singer and samba songwriter, Zeca Pagodinho's godson.
+Toninho Geraes|solo|pagode||MG|B||Compositor mineiro de "Mulheres", sucesso de Martinho da Vila.|A songwriter from Minas Gerais, of "Mulheres", a Martinho da Vila hit.
+Délcio Luiz|solo|pagode||RJ|B||Compositor de "Cilada", "Marrom Bombom" e "40 Graus de Amor".|Songwriter of "Cilada", "Marrom Bombom" and "40 Graus de Amor".
+Eliana de Lima|solo|pagode||SP|B||Puxadora de escolas de samba; "Desejo de Amar" (1991).|A samba-school lead singer; "Desejo de Amar" (1991).
+Marvvila|solo|pagode||RJ|B||Cantora carioca da nova geração do pagode.|A Rio singer of the new pagode generation.
+Chico da Silva|solo|bumba-meu-boi,samba-raiz||AM|B||Compositor de Parintins, de toadas de boi e sambas como "Pandeiro É Meu Nome".|A songwriter from Parintins, of boi toadas and sambas such as "Pandeiro É Meu Nome".
+Gino & Geno|duo|sertanejo-romantico||MG|B||Dupla sertaneja mineira em atividade desde os anos 1970.|A sertanejo duo from Minas Gerais active since the 1970s.
+Chico Rey & Paraná|duo|sertanejo-romantico|1981||B||Dupla sertaneja formada em 1981.|A sertanejo duo formed in 1981.
+Lourenço & Lourival|duo|caipira|1956|SP|B||Irmãos da música sertaneja de raiz, formados em Ribeirão Preto.|Brothers of roots sertanejo, formed in Ribeirão Preto.
+As Galvão|duo|caipira|1947|SP|B||Irmãs Meire e Marilene, a dupla sertaneja com mais tempo de atividade no país.|Sisters Meire and Marilene, the longest-running sertanejo duo in the country.
+Rolando Boldrin|solo|caipira||SP|B||Cantor, ator e apresentador do "Sr. Brasil" na TV Cultura.|A singer, actor and host of "Sr. Brasil" on TV Cultura.
+Sula Miranda|solo|sertanejo-romantico|1986|SP|B||Ex-Melindrosas, a "Rainha dos Caminhoneiros" do sertanejo.|Ex-Melindrosas, sertanejo's "Queen of the Truckers".
+João Carreiro & Capataz|duo|universitario||MT|B||Dupla cuiabana de modão e sertanejo.|A duo from Cuiabá of modão and sertanejo.
+Bruna Viola|solo|caipira||MT|B||Violeira mato-grossense, vencedora de um Grammy Latino em 2017.|A viola player from Mato Grosso, winner of a 2017 Latin Grammy.
+Gabriel Diniz|solo|forro-eletronico||MS|B||"Jenifer" (2018), do refrão "o nome dela é Jenifer", foi um dos maiores sucessos de 2019; morreu num acidente aéreo em 2019.|"Jenifer" (2018), with the chorus "o nome dela é Jenifer" ("her name is Jenifer"), was one of the biggest hits of 2019; he died in a plane crash in 2019.
+Frank Aguiar|solo|forro-eletronico||PI|B||O "cãozinho dos teclados" do forró eletrônico.|Electronic forró's "little keyboard dog".
+Márcia Fellipe|solo|forro-eletronico||AM|B||Voz amazonense do forró eletrônico.|An electronic-forró voice from Amazonas.
+Michele Andrade|solo|forro-eletronico||PE|B||Cantora e instrumentista pernambucana da nova geração do forró.|A singer and instrumentalist from Pernambuco of the new forró generation.
+Rey Vaqueiro|solo|forro-eletronico||SP|B||Forró de vaquejada, projetado a partir do Rio Grande do Norte.|Vaquejada forró, launched from Rio Grande do Norte.
+Manu Bahtidão|solo|forro-eletronico||AL|B||"Daqui Pra Sempre" (2023), com Simone Mendes, chegou ao topo da Billboard Brasil.|"Daqui Pra Sempre" (2023), with Simone Mendes, topped the Billboard Brasil chart.
+Stefhany|solo|forro-eletronico||SP|B||Viralizou em 2009 com "Eu Sou Stefhany", a do Crossfox.|Went viral in 2009 with "Eu Sou Stefhany", the Crossfox song.
+Filho do Piseiro|solo|piseiro||AM|B||Cantor manauara de piseiro que viralizou no Instagram.|A piseiro singer from Manaus who went viral on Instagram.
+Tayrone|solo|arrocha||BA|B||Um dos principais nomes do arrocha.|One of arrocha's leading names.
+Nadson o Ferinha|solo|arrocha||SE|B||Versões em arrocha de sucessos sertanejos.|Arrocha versions of sertanejo hits.
+Gilmelândia|solo|axe-music||BA|B||Ex-Banda Beijo; "Maionese" e "Chegou o Verão".|Ex-Banda Beijo; "Maionese" and "Chegou o Verão".
+Larissa Luz|solo|nova-mpb||BA|B||Ex-Araketu, voz do afrofuturismo baiano.|Ex-Araketu, a voice of Bahian Afrofuturism.
+Brisa Star|solo|brega-funk||MG|B||"Se Joga no Passinho" (2020) viralizou no TikTok.|"Se Joga no Passinho" (2020) went viral on TikTok.
+Clarice Falcão|solo|nova-mpb,indie||PE|B||Cantora, atriz e humorista; indicada ao Grammy Latino de Artista Revelação em 2013.|A singer, actress and comedian; nominated for Best New Artist at the 2013 Latin Grammys.
+Tiê|solo|nova-mpb||SP|B||"Piscar o Olho" (2011) e "A Noite" (2014), temas de novela.|"Piscar o Olho" (2011) and "A Noite" (2014), soap-opera themes.
+Ana Cañas|solo|nova-mpb||SP|B||Cantora e compositora paulistana da nova MPB.|A São Paulo singer-songwriter of new MPB.
+Roberta Campos|solo|nova-mpb||MG|B||Mais de vinte trilhas de novela, como "De Janeiro a Janeiro".|More than twenty soap-opera songs, such as "De Janeiro a Janeiro".
+Isabella Taviani|solo|nova-mpb||RJ|B||Cantora e compositora carioca de pop e MPB.|A Rio singer-songwriter of pop and MPB.
+Mariana Aydar|solo|nova-mpb,forro-pe-de-serra||SP|B||Cantora paulistana do forró e da MPB, vencedora de Grammy Latino.|A São Paulo singer of forró and MPB, a Latin Grammy winner.
+Josyara|solo|nova-mpb||BA|B||Violão percussivo e ritmos nordestinos: "Mansa Fúria" (2018).|Percussive guitar and Northeastern rhythms: "Mansa Fúria" (2018).
+Alice Caymmi|solo|nova-mpb||RJ|B||Neta de Dorival Caymmi, da MPB ao pop.|Dorival Caymmi's granddaughter, from MPB to pop.
+Anelis Assumpção|solo|nova-mpb||SP|B||Dub, reggae, afrobeat e samba; filha de Itamar Assumpção.|Dub, reggae, afrobeat and samba; Itamar Assumpção's daughter.
+Daniel Gonzaga|solo|nova-mpb||RJ|B||Filho de Gonzaguinha e neto de Luiz Gonzaga.|Gonzaguinha's son and Luiz Gonzaga's grandson.
+Catto|solo|nova-mpb||RS|B||Da MPB e do samba ao rock e ao bolero.|From MPB and samba to rock and bolero.
+Bia Ferreira|solo|nova-mpb||MG|B||"Música de Mulher Preta": "Cota Não É Esmola".|"Black Women's Music": "Cota Não É Esmola".
+Zé Ibarra|solo|nova-mpb||RJ|B||Voz aguda do Bala Desejo, Grammy Latino em 2022, e da carreira solo.|The high voice of Bala Desejo, a 2022 Latin Grammy winner, and of a solo career.
+Dora Morelenbaum|solo|nova-mpb|||B||Do Bala Desejo, Grammy Latino em 2022, à carreira solo.|From Bala Desejo, a 2022 Latin Grammy winner, to a solo career.
+Julia Mestre|solo|nova-mpb||RJ|B||Cantora, compositora e baixista do Bala Desejo e da carreira solo.|A singer, songwriter and bassist of Bala Desejo and of a solo career.
+Letrux|solo|pop-alternativo||RJ|B||"Letrux em Noite de Climão" (2017), depois do duo Letuce.|"Letrux em Noite de Climão" (2017), after the duo Letuce.
+Bárbara Eugênia|solo|indie||RJ|B||Cantora, compositora, DJ e produtora de Niterói.|A singer, songwriter, DJ and producer from Niterói.
+Thiago Pethit|solo|indie||SP|B||"Berlim, Texas" (2010), Aposta MTV no VMB 2010.|"Berlim, Texas" (2010), MTV's Best Bet at the 2010 VMB.
+Francisco, el Hombre|band|indie|2013|SP|B||Banda de Campinas; "Triste, Louca ou Má" foi indicada ao Grammy Latino em 2017.|A band from Campinas; "Triste, Louca ou Má" was nominated for a Latin Grammy in 2017.
+Otto|solo|manguebeat,nova-mpb||PE|B||Percussionista da cena mangue que seguiu carreira solo: "Samba pra Burro" (1998).|A mangue-scene percussionist who went solo: "Samba pra Burro" (1998).
+Yago Oproprio|solo|rap-nacional||SP|B||Rap com samba, MPB e R&B; o álbum de estreia "Oproprio" (2024) foi indicado ao Grammy Latino.|Rap with samba, MPB and R&B; his debut album "Oproprio" (2024) got a Latin Grammy nomination.
+FBC|mc|rap-nacional||MG|B||Rapper de Belo Horizonte, notório com o álbum "Baile" (2021).|A Belo Horizonte rapper known for the album "Baile" (2021).
+GOG|mc|rap-nacional||DF|B||Pioneiro do rap de Brasília.|A pioneer of Brasília rap.
+MC Marechal|mc|rap-nacional||RJ|B||Ex-Quinto Andar, rapper e ativista de Niterói.|Ex-Quinto Andar, a rapper and activist from Niterói.
+Afro-X|mc|rap-nacional||SP|B||Formou o 509-E com Dexter.|Formed 509-E with Dexter.
+Cesar MC|mc|rap-nacional||ES|B||Campeão do Duelo de MCs Nacional em 2017: "Canção Infantil".|Winner of the 2017 national Duelo de MCs: "Canção Infantil".
+Katú Mirim|mc|indigena-contemporanea,rap-nacional||SP|B||Cantora e rapper indígena de Jundiaí.|An Indigenous singer and rapper from Jundiaí.
+Frei Gilson|solo|musica-catolica||SP|A||Frade carmelita do ministério Som do Monte, um dos religiosos mais populares do país nas redes.|A Carmelite friar of the Som do Monte ministry, one of the country's most popular clergy online.
+Padre Antônio Maria|solo|musica-catolica||RJ|B||Padre cantor que fez duetos com Roberto Carlos e Ângela Maria.|A singing priest who duetted with Roberto Carlos and Ângela Maria.
+Irmã Kelly Patrícia|solo|musica-catolica||CE|B||Religiosa e cantora, fundadora do Instituto Hesed.|A nun and singer, founder of the Instituto Hesed.
+Anjos de Resgate|band|musica-catolica|2000||B||Banda católica com mais de 1 milhão de cópias vendidas.|A Catholic band with more than a million copies sold.
+Vida Reluz|band|musica-catolica|1985|SP|B||Banda de música católica de São José dos Campos.|A Catholic music band from São José dos Campos.
+Ozeias de Paula|solo|gospel-pentecostal||MG|B||Um dos maiores intérpretes da música evangélica, da Assembleia de Deus.|One of the great voices of evangelical music, from the Assembleia de Deus.
+Sérgio Lopes|solo|louvor||PB|B||Cantor e compositor paraibano da música cristã.|A Christian singer-songwriter from Paraíba.
+Arautos do Rei|group|louvor|1962||B||Quarteto vocal adventista do programa "A Voz da Profecia".|An Adventist vocal quartet of the radio programme "A Voz da Profecia".
+Marina de Oliveira|solo|louvor||RJ|B||Ex-Voices e fundadora da gravadora MK Music.|Ex-Voices and co-founder of the MK Music label.
+Cristina Mel|solo|louvor||RJ|B||Quatro indicações ao Grammy Latino e recordista do Troféu Talento.|Four Latin Grammy nominations and a record holder at the Troféu Talento.
+Mariana Valadão|solo|louvor||MG|B||Ex-Diante do Trono, em carreira solo desde os anos 2000.|Ex-Diante do Trono, solo since the 2000s.
+Bokaloka|band|pagode-romantico||RJ|B||Grupo de pagode do Rio, também escrito Boka Loka; começou como Água na Boca e adotou o nome em 1999. O disco ao vivo "Bokaloka de Verdade" (2001) ganhou disco de ouro: "Mais Uma Chance", "Não Pedi pra Me Apaixonar".|A pagode group from Rio, also spelled Boka Loka; it started as Água na Boca and took its name in 1999. The live album "Bokaloka de Verdade" (2001) went gold: "Mais Uma Chance", "Não Pedi pra Me Apaixonar".
 """

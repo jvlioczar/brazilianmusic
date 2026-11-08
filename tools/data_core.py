@@ -145,6 +145,7 @@ FAMILIES = [
    dict(id="rap-nacional", name=("Rap nacional", "Rap nacional"), since=1988, blurb=("De Thaíde & DJ Hum e Racionais a Emicida, Criolo, Djonga e BK': a crônica da periferia.", "From Thaíde & DJ Hum and Racionais to Emicida, Criolo, Djonga and BK': chronicles of the periphery.")),
    dict(id="trap", name=("Trap brasileiro", "Brazilian trap"), since=2016, blurb=("Matuê e o 30PRAUM (Teto, Wiu), Veigh, L7nnon, Orochi: hi-hats e autotune em português.", "Matuê and 30PRAUM (Teto, Wiu), Veigh, L7nnon, Orochi: hi-hats and autotune in Portuguese.")),
    dict(id="drill", name=("Drill", "Drill"), since=2019, blurb=("As batidas deslizantes do drill de Chicago e Londres em português: Vandal na Bahia, Leall e L7nnon no Rio.", "The sliding beats of Chicago and London drill in Portuguese: Vandal in Bahia, Leall and L7nnon in Rio.")),
+   dict(id="slam", name=("Slam e poesia falada", "Slam and spoken word"), since=2008, blurb=("Poesia falada em competição, nascida do hip-hop: em 2008 Roberta Estrela D'Alva criou em São Paulo o ZAP! (Zona Autônoma da Palavra), o primeiro slam do Brasil. Desde 2014 o SLAM BR reúne poetas de todo o país e manda o vencedor à Copa do Mundo de Slam, em Paris. Mel Duarte.", "Spoken poetry as a competition, born from hip-hop: in 2008 Roberta Estrela D'Alva founded ZAP! (Zona Autônoma da Palavra) in São Paulo, Brazil's first slam. Since 2014 SLAM BR has brought together poets from across the country and sends its winner to the Slam World Cup in Paris. Mel Duarte.")),
   ],
   songs=[("Diário de um Detento", "Racionais MC's", 1997), ("Negro Drama", "Racionais MC's", 2002), ("Um Bom Lugar", "Sabotage", 2000), ("Não Existe Amor em SP", "Criolo", 2011), ("Levanta e Anda", "Emicida", 2013), ("Olho de Tigre", "Djonga", 2017), ("Máquina do Tempo", "Matuê", 2020), ("Boa Noite", "Karol Conká", 2013)]),
 
@@ -408,6 +409,7 @@ POP_INSTRUMENTS = [
 # GLOSSÁRIO
 # ──────────────────────────────────────────────────────────────────────────────
 GLOSSARY = [
+ ("Slam", ("Competição de poesia falada nascida do hip-hop: poetas recitam textos autorais e o público dá as notas. Em inglês, poetry slam; a forma mais ampla, sem competição, é o spoken word.", "A spoken-poetry competition born from hip-hop: poets recite their own texts and the audience scores them. In English, poetry slam; the broader, non-competitive form is spoken word.")),
  ("Gênero de fusão", ("Gênero nascido da mistura de dois ou mais estilos, como o funknejo (funk + sertanejo) ou o tecnobrega (brega + eletrônica); em inglês, fusion genre. Crossover é outra coisa: um artista ou uma música que alcança o público de outro gênero.", "A genre born from mixing two or more styles, such as funknejo (funk + sertanejo) or tecnobrega (brega + electronic music); in Portuguese, gênero de fusão. Crossover is something else: an artist or song reaching the audience of another genre.")),
  ("MPB", ("Música Popular Brasileira: não é um ritmo, mas a tradição de canção autoral surgida nos festivais dos anos 1960.", "Música Popular Brasileira: not a rhythm but the songwriting tradition born at the 1960s festivals.")),
  ("Bateria", ("Na escola de samba, não é o instrumento de kit: é a seção de percussão com centenas de ritmistas.", "In a samba school this is not the drum kit: it is the percussion section with hundreds of players.")),
@@ -501,7 +503,7 @@ AWARDS = [
  dict(name="MTV Video Music Brasil (VMB)", since=1995, org=("MTV Brasil (1995–2012)", "MTV Brasil (1995–2012)"), blurb=("Durante quase duas décadas, o prêmio que definiu o pop e o rock brasileiros para a juventude.", "For almost two decades, the award that defined Brazilian pop and rock for the young.")),
  dict(name="Troféu Imprensa", since=1958, org=("SBT (Silvio Santos)", "SBT (Silvio Santos)"), blurb=("Prêmio de televisão com categorias de melhor cantor e cantora, votado por jornalistas e público.", "A TV award with best male and female singer categories, voted by journalists and the public.")),
  dict(name="WME Awards", since=2017, org=("Women's Music Event", "Women's Music Event"), blurb=("Premiação dedicada às mulheres da música brasileira, em todas as funções da cadeia.", "An award dedicated to women in Brazilian music, across every role in the industry.")),
- dict(name="Prêmio Profissionais da Música", since=2015, org=("Independente", "Independent"), blurb=("Reconhece produtores, técnicos, músicos de apoio e outros profissionais de bastidores.", "Recognizes producers, engineers, backing musicians and other backstage professionals.")),
+ dict(name="Prêmio Profissionais da Música", since=2015, ig="premioprofissionaisdamusica", org=("Independente", "Independent"), blurb=("Reconhece produtores, técnicos, músicos de apoio e outros profissionais de bastidores.", "Recognizes producers, engineers, backing musicians and other backstage professionals.")),
  dict(name="Prêmio Jovem Brasileiro", since=2002, org=("Independente", "Independent"), blurb=("Voltado ao público jovem; categorias de música, TV e internet.", "Aimed at a young audience; music, TV and internet categories.")),
  dict(name="Troféu Promessas", since=2011, org=("Geo Eventos e TV Globo", "Geo Eventos and TV Globo"), blurb=("Premiação da música gospel realizada com apoio da TV Globo entre 2011 e 2013.", "A gospel music award held with TV Globo's support from 2011 to 2013.")),
  dict(name="Grammy", since=1959, org=("Recording Academy (EUA)", "Recording Academy (US)"), blurb=("O prêmio americano em que “Getz/Gilberto” foi Álbum do Ano em 1965; Sérgio Mendes, Caetano Veloso e Gilberto Gil também venceram.", "The American award where “Getz/Gilberto” was Album of the Year in 1965; Sérgio Mendes, Caetano Veloso and Gilberto Gil have also won.")),
@@ -593,7 +595,7 @@ BLOGS = [
  ("Tracklist", "https://tracklist.com.br/musica/", "geral"), ("Tribhus Blog", "https://tribhus.com/blog", "geral"),
  ("Venenos do Rock", "https://www.venenosdorock.com.br/", "rock"), ("Whiplash", "http://whiplash.net/", "metal"), ("Wikimetal", "https://www.wikimetal.com.br/", "metal"),
  ("Um Outro Lado da Música", "https://umoutroladodamusica.com.br/", "geral"), ("Noize", "https://www.noize.com.br/", "geral"), ("Igor Miranda", "https://igormiranda.com.br/", "geral"),
- ("Rap Mais", "https://portalrapmais.com/", "rap"), ("Sertanejo Oficial", "https://www.sertanejooficial.com.br/", "sertanejo"),
+ ("Rap Mais", "https://portalrapmais.com/", "rap"), ("Trapground", "https://www.trapground.com.br/", "rap"), ("Sertanejo Oficial", "https://www.sertanejooficial.com.br/", "sertanejo"),
  ("Sambabook", "https://sambabook.com.br/", "samba"), ("MPBNet", "https://www.mpbnet.com.br/", "samba"),
  ("Dicionário Cravo Albin da MPB", "https://dicionariompb.com.br/", "ref"), ("IMMuB", "https://immub.org/", "ref"), ("Rádio Batuta (IMS)", "https://radiobatuta.ims.com.br/", "ref"),
 ]
@@ -603,18 +605,25 @@ BLOGS_GONE = ["MTV Brasil", "505 Indie", "Blckdmnds", "Bossa Nova Foda", "Bota p
 CREATORS = [
  ("André Garcia", "ocamaradagarcia", "crit"), ("Bruna Parrado", "brunaparrado", "crit"), ("Eduardo Ascenço", "thatsperalta", "crit"), ("Gabrielle Neves", "gabrielle.jpgg", "crit"),
  ("Giulianna Iannaco", "pokegiu", "crit"), ("Gustavo Vaz", "eugustavovaz", "crit"), ("Ingrid Natalie Leão", "femalerocksquad", "crit"), ("Isabela Barros", "bellsbarros", "crit"),
- ("Isis Correa", "isiscorreia", "crit"), ("Jessica Valentim", "jessvlntm", "crit"), ("José Norberto Flesch", "jnflesch", "crit"), ("Leo Ronki", "leoronki", "crit"),
+ ("Isis Correia", "isiscorreia", "crit"), ("Jessica Valentim", "jessvlntm", "crit"), ("José Norberto Flesch", "jnflesch", "crit"), ("Leo Ronki", "leoronki", "crit"),
  ("Marcella Lasneaux", "amagricella", "crit"), ("Mari Stefani", "maristefani", "crit"), ("Matheus Emekatê", "matheus.emekate", "crit"), ("Paolla Raven", "paollaraven", "crit"),
  ("Patricia Palumbo", "patriciapalumbo", "crit"), ("Raphaella Santucci", "raphaellasantucci", "crit"), ("Silvia Tancredi", "silviavtancredi", "crit"), ("Sylvia Süssekind", "sussekind", "crit"),
  ("Tarso Oliveira", "tarsooliveira", "crit"), ("Thiago de Souza", "canaldothiagson", "crit"),
+ ("MariMoon", "marimoon", "crit"), ("Bruna Paulin", "brunapaulin", "crit"), ("Mayse Bertani", "maysebertani", "crit"),
  ("Daiany Dezembro", "possotocar_dd", "edu"), ("Daniel Bertamini", "danielbertamini", "edu"), ("Elize Fleury", "elizefleury", "edu"), ("Felipe Vassão", "felipevassao", "edu"),
  ("Gabrilhoes", "gabrilhoes", "edu"), ("Henrique Guedes", "omagodamusica", "edu"), ("Jessica Waltrick", "jessvocalcoach", "edu"), ("Júlia Rezende", "julia.rznd", "edu"),
  ("Leo David", "euleodavid", "edu"), ("Marcio Guerra", "marcioguerracan", "edu"), ("Rafael Bittencourt", "rbittencourton", "edu"), ("Rick Bonadio", "rickbonadio", "edu"),
  ("Tico Fahur", "ticofahur", "edu"), ("Thiago Vitório", "thivitorio", "edu"), ("Kevinho do Acordeon", "kevinhodoacordeon", "edu"),
+ ("Eduardo Seabra", "eddyseabra", "edu"), ("Paulo Anhaia", "paulo_anhaia", "edu"),
 ]
 
 # foco de cada criador, só quando confirmado (os demais mostram a frase do grupo)
 CREATOR_FOCUS = {
+ "MariMoon": ("Apresentadora e influenciadora digital, considerada a primeira celebridade surgida na internet brasileira.", "A presenter and digital influencer, considered the first celebrity to emerge from the Brazilian internet."),
+ "Bruna Paulin": ("Jornalista e pesquisadora musical; cria e apresenta o podcast A História do Disco.", "A journalist and music researcher; she creates and hosts the podcast A História do Disco."),
+ "Mayse Bertani": ("Apresenta a coluna #KillYourLogo do Tenho Mais Discos Que Amigos!.", "Presents the #KillYourLogo column for Tenho Mais Discos Que Amigos!."),
+ "Eduardo Seabra": ("Baixista da Mamafeet e produtor do Metal Jam Rio.", "Bassist in Mamafeet and producer of Metal Jam Rio."),
+ "Paulo Anhaia": ("Produtor musical de Charlie Brown Jr., Los Hermanos, CPM 22 e NX Zero.", "Music producer for Charlie Brown Jr., Los Hermanos, CPM 22 and NX Zero."),
  "Rafael Bittencourt": ("Guitarrista do Angra; fala de guitarra e de metal.", "Angra's guitarist; talks about guitar and metal."),
  "Rick Bonadio": ("Produtor musical; fala de produção e do mercado da música.", "Music producer; talks about production and the music business."),
  "Tico Fahur": ("Guitarrista; ensina guitarra.", "Guitarist; teaches guitar."),

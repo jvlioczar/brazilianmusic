@@ -722,4 +722,8 @@ Marina de Oliveira|solo|louvor||RJ|B||Ex-Voices e fundadora da gravadora MK Musi
 Cristina Mel|solo|louvor||RJ|B||Quatro indicações ao Grammy Latino e recordista do Troféu Talento.|Four Latin Grammy nominations and a record holder at the Troféu Talento.
 Mariana Valadão|solo|louvor||MG|B||Ex-Diante do Trono, em carreira solo desde os anos 2000.|Ex-Diante do Trono, solo since the 2000s.
 Bokaloka|band|pagode-romantico||RJ|B||Grupo de pagode do Rio, também escrito Boka Loka; começou como Água na Boca e adotou o nome em 1999. O disco ao vivo "Bokaloka de Verdade" (2001) ganhou disco de ouro: "Mais Uma Chance", "Não Pedi pra Me Apaixonar".|A pagode group from Rio, also spelled Boka Loka; it started as Água na Boca and took its name in 1999. The live album "Bokaloka de Verdade" (2001) went gold: "Mais Uma Chance", "Não Pedi pra Me Apaixonar".
+Guxta|solo|rap-nacional,trap||RJ|B|battle|Rapper carioca que começou nas batalhas de rima: "Marcha", com a LOUD, e "R.U.A.S".|A Rio rapper who started in rap battles: "Marcha", with LOUD, and "R.U.A.S".
+Maicon Küster|solo|trap|||B||Youtuber e humorista que faz rap satírico: personagens como Lucas Hype parodiam os jovens rappers e o trap.|A YouTuber and comedian who makes satirical rap: characters such as Lucas Hype parody young rappers and trap.
+Roberta Estrela D'Alva|solo|slam,rap-nacional||SP|B||Atriz, poeta e MC de Diadema que criou em 2008 o ZAP!, o primeiro slam do Brasil, e organiza o SLAM BR.|An actress, poet and MC from Diadema who founded ZAP!, Brazil's first slam, in 2008, and runs SLAM BR.
+Mel Duarte|solo|slam||SP|B||Poeta e slammer paulistana, um dos nomes mais conhecidos da poesia falada no Brasil.|A São Paulo poet and slammer, one of the best-known names in Brazilian spoken word.
 """

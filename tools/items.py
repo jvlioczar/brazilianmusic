@@ -13,7 +13,9 @@ WL = _json.load(open(_WL_PATH, encoding="utf8")) if _os.path.exists(_WL_PATH) el
 
 
 # links fixados à mão; valem nos dois idiomas e não são trocados pelo fetch_wiki.py
-WIKI_FIX = {"m:luciano-carlos-cunha": "https://pt.wikipedia.org/wiki/Luciano_Carlos_Cunha"}
+WIKI_FIX = {"m:luciano-carlos-cunha": "https://pt.wikipedia.org/wiki/Luciano_Carlos_Cunha",
+            "a:mel-duarte": "https://pt.wikipedia.org/wiki/Mel_Duarte",
+            "m:marimoon": "https://pt.wikipedia.org/wiki/MariMoon"}
 
 
 def wiki_for(lang, key, name, extra):
@@ -480,6 +482,8 @@ def page_award(pg, a):
     lang, tt, T = pg.lang, pg.t, ITXT[pg.lang]
     facts = fact(T["sinceL"], str(a["since"])) + fact(T["orgL"], e(t(a["org"], lang)))
     links = [("Wikipedia", wiki_for(lang, "aw:" + a["slug"], a["name"], "")), ("YouTube", B.yt(a["name"]))]
+    if a.get("ig"):
+        links.append(("Instagram", f"https://www.instagram.com/{a['ig']}/"))
     simple_page(pg, "aw", a["slug"], "#1f8441", e(tt["awA"]), a["name"], facts, t(a["blurb"], lang), [], links, "", "awards", (tt["nav"]["awards"], pg.href(1, pg.p["awards"]) + "#awards"))
 
 

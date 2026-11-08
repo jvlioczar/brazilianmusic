@@ -715,4 +715,6 @@ HITS = """
 2026|Vagabundo|Gusttavo Lima|sertanejo
 2000|Aclame ao Senhor|Diante do Trono|gospel
 2016|Voando pro Pará|Joelma|brega
+2019|Caneta Azul|Manoel Gomes|brega
+2022|Tá na Hora do Jair (Já Ir Embora)|Tiago Doidão e Juliano Maderada|forro
 """

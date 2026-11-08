@@ -525,4 +525,6 @@ Amilcka e Chocolate|duo|funk-consciente||RJ|B||Dupla de "Som de Preto" (2007).|T
 MC Niack|mc|mandelao|||B||MC de "Oh Juliana" (2020).|MC of "Oh Juliana" (2020).
 Dick Farney|solo|samba-cancao||RJ|A||Cantor e pianista de "Copacabana" (1946), precursor da bossa nova.|Singer and pianist of "Copacabana" (1946), a forerunner of bossa nova.
 Nora Ney|solo|samba-cancao||RJ|B||Cantora de samba-canção, de "Ninguém Me Ama" (1952).|Samba-canção singer of "Ninguém Me Ama" (1952).
+Manoel Gomes|solo|brega-romantico|2019|MA|B||Cantor de Balsas, no Maranhão, autor de "Caneta Azul", que viralizou em 2019.|Singer from Balsas, Maranhão, author of "Caneta Azul", which went viral in 2019.
+Êxodos|band|louvor|||B||Banda gospel que gravou "Galhos Secos", canção também gravada por Catedral e Paulo César Baruk.|Gospel band that recorded "Galhos Secos", a song also recorded by Catedral and Paulo César Baruk.
 """

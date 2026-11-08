@@ -292,7 +292,7 @@ Alternative System|band|hardcore|2000|SP|B||Hardcore.|Hardcore.
 Benin|band|hardcore|2000|SP|B||Hardcore.|Hardcore.
 Def|band|hardcore|2000|SP|B||Hardcore.|Hardcore.
 Os Cabeloduro|band|hardcore|2000|SP|B||Hardcore.|Hardcore.
-Hardneja Sertacore|band|hardcore,rock-comico|2005|SP|B||Hardcore com sertanejo e humor.|Hardcore with sertanejo and humour.
+Hardneja Sertacore|band|hardcore,rock-comico,rocknejo|2005|SP|B||Hardcore com sertanejo e humor: sucessos sertanejos como "Evidências" em versão hardcore. Também escrita Hardnejo Sertacore.|Hardcore with sertanejo and humour: sertanejo hits such as "Evidências" played as hardcore. Also spelled Hardnejo Sertacore.
 Devotos|band|hardcore,manguebeat|1988|PE|B||Hardcore do Alto José do Pinho, Recife.|Hardcore from Alto José do Pinho, Recife.
 Mundo Livre S/A|band|manguebeat|1984|PE|A||Fred Zero Quatro; "Samba Esquema Noise" (1994).|Fred Zero Quatro; "Samba Esquema Noise" (1994).
 Strike|band|pop-punk|2003|MG|B||Pop punk, skate punk e rap rock de Juiz de Fora: "Aquela História".|Pop punk, skate punk and rap rock from Juiz de Fora: "Aquela História".

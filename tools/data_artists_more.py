@@ -537,4 +537,5 @@ MC Taya|solo|fock|2019|RJ|B||Baixista e MC de Nova Iguaçu que batizou o fock, m
 Comunidade Nin-Jitsu|band|rap-rock,fock|1998|RS|B||Banda de Porto Alegre que mistura rock, rap, funk carioca e reggae: "Detetive", "Casa do Sol".|A Porto Alegre band mixing rock, rap, funk carioca and reggae: "Detetive", "Casa do Sol".
 Ultramen|band|rap-rock,fock|1991|RS|B||Banda de Porto Alegre que mistura rock, funk, rap, samba-rock, soul e reggae.|A Porto Alegre band mixing rock, funk, rap, samba-rock, soul and reggae.
 DeFalla|band|pos-punk,fock|1985|RS|B||Banda de rock de Porto Alegre que passou do new wave ao funk carioca e ao miami bass: "Popozuda Rock 'n' Roll".|A Porto Alegre rock band that moved from new wave to funk carioca and Miami bass: "Popozuda Rock 'n' Roll".
+Thullio Milionário|solo|forro-eletronico||RN|B||Cantor de Natal do forró de vaquejada: "Casca de Bala" (2024) chegou ao 8º lugar do Billboard Brasil Hot 100.|A singer from Natal in the vaquejada style of forró: "Casca de Bala" (2024) reached number 8 on the Billboard Brasil Hot 100.
 """

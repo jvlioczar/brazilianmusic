@@ -12,7 +12,7 @@ Mozart Mello|Professor que formou gerações, entre elas Edu Ardanuy e Kiko Lour
 Pepeu Gomes|Novos Baianos; psicodelia com ritmos brasileiros, citado pela Guitar World nos anos 1970|Novos Baianos; psychedelia with Brazilian rhythms, cited by Guitar World in the 1970s
 Prika Amaral|Nervosa; referência feminina do thrash e do metal extremo|Nervosa; a female reference in thrash and extreme metal
 Cacau Santos|Guitarra gospel que mescla rock, jazz e música brasileira|Gospel guitar blending rock, jazz and Brazilian music
-Luciano Carlos Cunha|Guitarrista e professor em Florianópolis; aulas online e presenciais de guitarra e teoria musical|Guitarist and teacher in Florianópolis; online and in-person guitar and music-theory lessons
+Luciano Carlos Cunha|Compositor, guitarrista e professor de música em Florianópolis. Guitarrista prolífico e shredder, transita pelo rock progressivo, fusion, metal neoclássico, choro, suítes, concertos sinfônicos e música clássica.|Composer, guitarist and music teacher in Florianópolis. A prolific guitarist and shredder, he moves across progressive rock, fusion, neoclassical metal, choro, suites, symphonic concertos and classical music.
 Ximbinha|Banda Calypso; a guitarra do brega paraense|Banda Calypso; the guitar of Pará's brega
 Larissa Liveir|Guitarrista e criadora de conteúdo com milhões de seguidores|Guitarist and content creator with millions of followers
 Lulu Santos|Cantor, compositor e guitarrista do pop rock desde os anos 1980|Singer, songwriter and guitarist of pop rock since the 1980s
@@ -474,6 +474,146 @@ Simone Mendes|Cantora de "Erro Gostoso" e "P do Pecado".|Singer of "Erro Gostoso
 Ana Castela|A "boiadeira" do agronejo.|The "cowgirl" of agronejo.
 Cassiane|Cantora gospel de "Hino da Vitória".|Gospel singer of "Hino da Vitória".
 Gabriela Rocha|Cantora de louvor de "Lugar Secreto".|Worship singer of "Lugar Secreto".
+Carmen Miranda|A "Pequena Notável", que levou o samba a Hollywood.|The "Brazilian Bombshell", who took samba to Hollywood.
+Aracy de Almeida|A grande intérprete de Noel Rosa.|The great interpreter of Noel Rosa.
+Sílvio Caldas|O "seresteiro do Brasil", de "Chão de Estrelas".|"Brazil's serenader", of "Chão de Estrelas".
+Emilinha Borba|Rainha do rádio e das marchinhas de carnaval.|Queen of radio and carnival marchinhas.
+Marlene|Rainha do rádio, de "Lata d'Água".|Queen of radio, of "Lata d'Água".
+Linda Batista|Rainha do rádio nos anos 1930 e 1940.|Queen of radio in the 1930s and 1940s.
+Dolores Duran|Cantora e compositora do samba-canção, de "A Noite do Meu Bem".|Samba-canção singer-songwriter of "A Noite do Meu Bem".
+Dick Farney|Cantor e pianista de "Copacabana", precursor da bossa nova.|Singer and pianist of "Copacabana", a forerunner of bossa nova.
+Lúcio Alves|Cantor de voz suave, precursor da bossa nova.|A soft-voiced singer, a forerunner of bossa nova.
+Jamelão|A voz dos sambas-enredo da Mangueira.|The voice of Mangueira's sambas-enredo.
+Ciro Monteiro|Sambista de balanço e de "Falsa Baiana".|A swinging sambista of "Falsa Baiana".
+Moreira da Silva|O mestre do samba de breque.|The master of samba de breque.
+Nara Leão|A "musa da bossa nova", que depois cantou o samba do morro.|The "muse of bossa nova", who later sang hillside samba.
+Astrud Gilberto|A voz de "The Girl from Ipanema" com Stan Getz.|The voice of "The Girl from Ipanema" with Stan Getz.
+Agostinho dos Santos|Cantor de "Manhã de Carnaval" no filme "Orfeu Negro".|Singer of "Manhã de Carnaval" in the film "Black Orpheus".
+Cartola|Cantor e compositor de "As Rosas Não Falam".|Singer-songwriter of "As Rosas Não Falam".
+Paulinho da Viola|Cantor e compositor de "Foi um Rio que Passou em Minha Vida".|Singer-songwriter of "Foi um Rio que Passou em Minha Vida".
+Martinho da Vila|Sambista de "Canta Canta, Minha Gente".|Sambista of "Canta Canta, Minha Gente".
+Dona Ivone Lara|A primeira mulher a compor samba-enredo numa grande escola, de "Sonho Meu".|The first woman to write a samba-enredo for a major school, of "Sonho Meu".
+Jovelina Pérola Negra|Voz do pagode de partido-alto dos anos 1980.|Voice of 1980s partido-alto pagode.
+Leci Brandão|Sambista de "Zé do Caroço".|Sambista of "Zé do Caroço".
+Bezerra da Silva|O sambista dos "sambandidos", de "Malandragem Dá um Tempo".|The sambista of outlaw sambas, of "Malandragem Dá um Tempo".
+Jorge Aragão|Cantor e compositor de "Identidade".|Singer-songwriter of "Identidade".
+Arlindo Cruz|Cantor e compositor do pagode de partido-alto.|Singer-songwriter of partido-alto pagode.
+Teresa Cristina|Sambista carioca da nova geração de raiz.|Rio sambista of the new roots generation.
+Mart'nália|Sambista, filha de Martinho da Vila.|Sambista, daughter of Martinho da Vila.
+Roberta Sá|Cantora de samba e MPB.|Samba and MPB singer.
+Diogo Nogueira|Sambista, filho de João Nogueira.|Sambista, son of João Nogueira.
+Ferrugem|Voz do pagode romântico de "Pirata e Tesouro".|Voice of romantic pagode, of "Pirata e Tesouro".
+Dilsinho|Voz do pagode romântico de "Péssimo Negócio".|Voice of romantic pagode, of "Péssimo Negócio".
+Edu Lobo|Cantor e compositor de "Ponteio".|Singer-songwriter of "Ponteio".
+Ivan Lins|Cantor e compositor de "Começar de Novo".|Singer-songwriter of "Começar de Novo".
+Jorge Ben Jor|Voz e violão de "Mas Que Nada" e "País Tropical".|Voice and guitar of "Mas Que Nada" and "País Tropical".
+Luiz Melodia|Cantor e compositor de "Pérola Negra".|Singer-songwriter of "Pérola Negra".
+Gonzaguinha|Cantor e compositor de "O Que É, O Que É?".|Singer-songwriter of "O Que É, O Que É?".
+Fagner|Cantor cearense de "Borbulhas de Amor".|Ceará singer of "Borbulhas de Amor".
+Belchior|Cantor e compositor de "Como Nossos Pais".|Singer-songwriter of "Como Nossos Pais".
+Zé Ramalho|Cantor paraibano de "Admirável Gado Novo".|Paraíba singer of "Admirável Gado Novo".
+Alceu Valença|Cantor pernambucano de "Anunciação".|Pernambuco singer of "Anunciação".
+Geraldo Azevedo|Cantor e compositor pernambucano.|Pernambuco singer-songwriter.
+Moraes Moreira|Voz dos Novos Baianos e do trio elétrico.|Voice of Novos Baianos and of the trio elétrico.
+Baby do Brasil|Voz dos Novos Baianos.|Voice of Novos Baianos.
+Joanna|Cantora romântica dos anos 1980.|A 1980s romantic singer.
+Ângela Ro Ro|Cantora e compositora de "Amor, Meu Grande Amor".|Singer-songwriter of "Amor, Meu Grande Amor".
+Leila Pinheiro|Cantora de MPB e bossa nova.|MPB and bossa nova singer.
+Joyce Moreno|Cantora, violonista e compositora.|Singer, guitarist and songwriter.
+Sandra de Sá|Voz do soul brasileiro, de "Olhos Coloridos".|Voice of Brazilian soul, of "Olhos Coloridos".
+Cassiano|Cantor e compositor do soul, de "A Lua e Eu".|Soul singer-songwriter of "A Lua e Eu".
+Hyldon|Cantor de "Na Rua, na Chuva, na Fazenda".|Singer of "Na Rua, na Chuva, na Fazenda".
+Toni Tornado|Cantor de "BR-3".|Singer of "BR-3".
+Maria Gadú|Cantora de "Shimbalaiê".|Singer of "Shimbalaiê".
+Mallu Magalhães|Cantora e compositora revelada na internet nos anos 2000.|Singer-songwriter discovered online in the 2000s.
+Tulipa Ruiz|Cantora e compositora paulistana.|São Paulo singer-songwriter.
+Xênia França|Cantora baiana do neo-soul.|Bahian neo-soul singer.
+Luedji Luna|Cantora baiana de MPB.|Bahian MPB singer.
+Erasmo Carlos|O "Tremendão" da Jovem Guarda.|The "Tremendão" of Jovem Guarda.
+Wanderléa|A "Ternurinha" da Jovem Guarda.|The "Ternurinha" of Jovem Guarda.
+Celly Campello|Cantora de "Estúpido Cupido", pioneira do rock no Brasil.|Singer of "Estúpido Cupido", a Brazilian rock pioneer.
+Lulu Santos|Cantor e guitarrista de "Como uma Onda".|Singer and guitarist of "Como uma Onda".
+Marina Lima|Cantora e compositora do pop-rock dos anos 1980.|Singer-songwriter of 1980s pop-rock.
+Fábio Jr.|Cantor romântico de "Pai".|Romantic singer of "Pai".
+Lobão|Cantor e compositor do rock dos anos 1980.|Singer-songwriter of 1980s rock.
+Frejat|Voz e guitarra do Barão Vermelho depois de Cazuza.|Voice and guitar of Barão Vermelho after Cazuza.
+Nando Reis|Cantor e compositor, ex-Titãs.|Singer-songwriter, formerly of Titãs.
+Arnaldo Antunes|Cantor e poeta, ex-Titãs e Tribalistas.|Singer and poet, formerly of Titãs and Tribalistas.
+Marcelo Camelo|Voz e compositor dos Los Hermanos.|Voice and songwriter of Los Hermanos.
+Chico Science|Voz do manguebeat, à frente da Nação Zumbi.|Voice of manguebeat, fronting Nação Zumbi.
+Toni Garrido|Voz do Cidade Negra.|The voice of Cidade Negra.
+Leoni|Cantor e compositor do rock dos anos 1980.|Singer-songwriter of 1980s rock.
+Chitãozinho|Voz da dupla Chitãozinho & Xororó.|Voice of the duo Chitãozinho & Xororó.
+Xororó|Voz da dupla Chitãozinho & Xororó.|Voice of the duo Chitãozinho & Xororó.
+Daniel|Cantor sertanejo, antes da dupla João Paulo & Daniel.|Sertanejo singer, formerly of the duo João Paulo & Daniel.
+Marrone|Voz da dupla Bruno & Marrone.|Voice of the duo Bruno & Marrone.
+Maiara|Voz da dupla Maiara & Maraisa.|Voice of the duo Maiara & Maraisa.
+Maraisa|Voz da dupla Maiara & Maraisa.|Voice of the duo Maiara & Maraisa.
+Michel Teló|Cantor de "Ai Se Eu Te Pego".|Singer of "Ai Se Eu Te Pego".
+Roberta Miranda|A "rainha do sertanejo", de "Majestade, o Sabiá".|The "queen of sertanejo", of "Majestade, o Sabiá".
+Sérgio Reis|Cantor de "Menino da Porteira".|Singer of "Menino da Porteira".
+Inezita Barroso|Voz e pesquisadora da música caipira.|Voice and researcher of caipira music.
+Cristiano Araújo|Cantor de "Caso Indefinido".|Singer of "Caso Indefinido".
+Lauana Prado|Cantora do feminejo, de "Cobaia".|Feminejo singer of "Cobaia".
+Naiara Azevedo|Cantora do feminejo.|Feminejo singer.
+Murilo Huff|Cantor e compositor sertanejo, de "Deixa Eu".|Sertanejo singer-songwriter of "Deixa Eu".
+Luiz Gonzaga|O "rei do baião", de "Asa Branca".|The "king of baião", of "Asa Branca".
+Jackson do Pandeiro|O "rei do ritmo", de "Chiclete com Banana".|The "king of rhythm", of "Chiclete com Banana".
+Dominguinhos|Cantor e sanfoneiro de "Eu Só Quero um Xodó".|Singer and accordionist of "Eu Só Quero um Xodó".
+Marinês|A "rainha do xaxado".|The "queen of xaxado".
+Flávio José|Cantor paraibano do forró pé-de-serra.|Paraíba singer of pé-de-serra forró.
+Xand Avião|Voz do Aviões do Forró.|The voice of Aviões do Forró.
+Solange Almeida|Voz do Aviões do Forró.|The voice of Aviões do Forró.
+Mari Fernandez|Cantora do forró e do piseiro.|Forró and piseiro singer.
+Nattan|Cantor do forró e do piseiro.|Forró and piseiro singer.
+Luiz Caldas|O criador do axé, de "Fricote".|The creator of axé, of "Fricote".
+Netinho|Cantor de axé de "Milla".|Axé singer of "Milla".
+Durval Lélys|Voz do Asa de Águia.|The voice of Asa de Águia.
+Carlinhos Brown|Cantor, percussionista e compositor baiano.|Bahian singer, percussionist and songwriter.
+Saulo Fernandes|Cantor baiano, ex-Banda Eva.|Bahian singer, formerly of Banda Eva.
+Léo Santana|Voz do pagode baiano, de "Zona de Perigo".|Voice of pagode baiano, of "Zona de Perigo".
+Kelly Key|Cantora de "Baba".|Singer of "Baba".
+Wanessa Camargo|Cantora pop de "Amor, Amor".|Pop singer of "Amor, Amor".
+Jão|Cantor pop de "Idiota".|Pop singer of "Idiota".
+Duda Beat|Cantora de "Sinto Muito".|Singer of "Sinto Muito".
+Urias|Cantora pop mineira.|Pop singer from Minas Gerais.
+MC Marcinho|O "príncipe do funk melody", de "Glamurosa".|The "prince of funk melody", of "Glamurosa".
+Buchecha|Voz de Claudinho & Buchecha.|Voice of Claudinho & Buchecha.
+Claudinho|Voz de Claudinho & Buchecha.|Voice of Claudinho & Buchecha.
+Kevin o Chris|Voz do funk 150 BPM.|Voice of 150 BPM funk.
+MC Livinho|Cantor do funk paulista.|São Paulo funk singer.
+Lexa|Cantora de funk pop.|Funk-pop singer.
+Valesca Popozuda|Voz do funk carioca, ex-Gaiola das Popozudas.|Voice of funk carioca, formerly of Gaiola das Popozudas.
+Tati Quebra Barraco|Voz do funk carioca dos anos 2000.|Voice of 2000s funk carioca.
+Criolo|Rapper e cantor de "Não Existe Amor em SP".|Rapper and singer of "Não Existe Amor em SP".
+Djonga|Rapper mineiro de "Olho de Tigre".|Minas Gerais rapper of "Olho de Tigre".
+Karol Conká|Rapper de "Tombei".|Rapper of "Tombei".
+Sabotage|Rapper de "Um Bom Lugar".|Rapper of "Um Bom Lugar".
+Gabriel o Pensador|Rapper de "Cachimbo da Paz".|Rapper of "Cachimbo da Paz".
+Baco Exu do Blues|Rapper baiano de "Bluesman".|Bahian rapper of "Bluesman".
+Matuê|Rapper do trap, de "Máquina do Tempo".|Trap rapper of "Máquina do Tempo".
+Filipe Ret|Rapper carioca.|Rio rapper.
+Xamã|Rapper de "Malvadão 3".|Rapper of "Malvadão 3".
+Black Alien|Rapper de "Babylon by Gus".|Rapper of "Babylon by Gus".
+Fernandinho|Cantor de louvor de "Uma Nova História".|Worship singer of "Uma Nova História".
+Ana Paula Valadão|Voz do Diante do Trono.|The voice of Diante do Trono.
+Damares|Cantora gospel de "Diamante".|Gospel singer of "Diamante".
+Bruna Karla|Cantora gospel de "Advogado Fiel".|Gospel singer of "Advogado Fiel".
+Anderson Freire|Cantor gospel de "Raridade".|Gospel singer of "Raridade".
+Thalles Roberto|Cantor gospel de "Casa do Pai".|Gospel singer of "Casa do Pai".
+Padre Marcelo Rossi|Padre e cantor de "Erguei as Mãos".|Priest and singer of "Erguei as Mãos".
+Padre Fábio de Melo|Padre e cantor de "Humano Demais".|Priest and singer of "Humano Demais".
+Reginaldo Rossi|O "rei do brega", de "Garçom".|The "king of brega", of "Garçom".
+Waldick Soriano|Cantor de "Eu Não Sou Cachorro, Não".|Singer of "Eu Não Sou Cachorro, Não".
+Odair José|Cantor de "Pare de Tomar a Pílula".|Singer of "Pare de Tomar a Pílula".
+Amado Batista|Cantor romântico com dezenas de discos de sucesso.|A romantic singer with dozens of hit albums.
+Wando|Cantor romântico de "Fogo e Paixão".|Romantic singer of "Fogo e Paixão".
+Sidney Magal|Cantor de "Sandra Rosa Madalena".|Singer of "Sandra Rosa Madalena".
+Altemar Dutra|O "rei do bolero" brasileiro.|Brazil's "king of bolero".
+Paulo Sérgio|Cantor romântico de "Última Canção".|Romantic singer of "Última Canção".
+Evaldo Braga|"O ídolo negro", de "Sorria, Sorria".|"The Black idol", of "Sorria, Sorria".
+Edson Gomes|Voz do reggae baiano.|Voice of Bahian reggae.
+Bidu Sayão|Soprano que brilhou no Metropolitan Opera de Nova York.|A soprano who shone at New York's Metropolitan Opera.
 """
 
 

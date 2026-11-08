@@ -12,8 +12,14 @@ _WL_PATH = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "wiki_lin
 WL = _json.load(open(_WL_PATH, encoding="utf8")) if _os.path.exists(_WL_PATH) else {"pt": {}, "en": {}}
 
 
+# links fixados à mão; valem nos dois idiomas e não são trocados pelo fetch_wiki.py
+WIKI_FIX = {"m:luciano-carlos-cunha": "https://pt.wikipedia.org/wiki/Luciano_Carlos_Cunha"}
+
+
 def wiki_for(lang, key, name, extra):
     """Artigo confirmado (tools/fetch_wiki.py) ou, sem confirmação, uma busca com qualificador (nunca um 'go' às cegas)."""
+    if key in WIKI_FIX:
+        return WIKI_FIX[key]
     title = WL.get(lang, {}).get(key)
     host = "pt" if lang == "pt" else "en"
     if title:

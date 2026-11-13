@@ -37,6 +37,41 @@ def wiki_for(lang, key, name, extra):
         return f"https://{host}.wikipedia.org/wiki/" + quote(title.replace(" ", "_"), safe="()_,'!-.")
     return wiki(lang, name, False, extra)
 
+def wiki_same(*keys):
+    """Só artigos confirmados (WIKI_FIX ou tools/fetch_wiki.py), nunca buscas: vão no sameAs do JSON-LD."""
+    out = []
+    for key in keys:
+        if key in WIKI_FIX and WIKI_FIX[key] not in out:
+            out.append(WIKI_FIX[key])
+        for lg in ("pt", "en"):
+            title = WL.get(lg, {}).get(key)
+            if title:
+                u = f"https://{lg}.wikipedia.org/wiki/" + quote(title.replace(" ", "_"), safe="()_,'!-.")
+                if u not in out:
+                    out.append(u)
+    return out
+
+
+def abs_url(lang, kind, slug):
+    return f"{B.SITE}/{'pt/' if lang == 'pt' else ''}{DIRS[lang][kind]}/{slug}.html"
+
+
+def plain(html_txt):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html_txt)).strip()
+
+
+def state_ld(uf, lang):
+    loc = UF.get(uf)
+    if not loc:
+        return None
+    name = re.sub(r"^d[oae]s? ", "", loc[0]) if lang == "pt" else re.sub(r"^the ", "", loc[1])
+    return {"@type": "State", "name": name, "containedInPlace": {"@type": "Country", "name": "Brasil" if lang == "pt" else "Brazil"}}
+
+
+def ld_compact(d):
+    return {k: v for k, v in d.items() if v not in (None, "", [])}
+
+
 DIRS = {"pt": dict(a="artistas", m="pessoas", s="subgeneros", sh="programas", aw="premiacoes", fe="festivais", ins="instrumentos"),
         "en": dict(a="artists", m="people", s="subgenres", sh="shows", aw="awards", fe="festivals", ins="instruments")}
 
@@ -384,9 +419,14 @@ def page_artist(pg, a, prev, nxt):
     body += f'<section class="sec-in"><h2>{e(T["related"])}</h2><div class="agrid">{"".join(B.artist_card(pg, 1, x, compact=True) for x in rel[:8])}</div></section>'
     body += pager(prev, nxt) + "</div>"
     desc = f'{a["name"]}: {t(a["blurb"], lang) or artist_paras(a, lang)[0]}'[:300]
-    entity = {"@type": "MusicGroup", "name": a["name"], "genre": [t(B.SUB[g]["name"], lang) for g in a["genres"]], "url": f"{B.SITE}/{'pt/' if lang == 'pt' else ''}{DIRS[lang]['a']}/{a['id']}.html"}
-    if a["year"]:
-        entity["foundingDate"] = str(a["year"])
+    url = abs_url(lang, "a", a["id"])
+    entity = ld_compact({"@type": "MusicGroup", "@id": url + "#artist", "name": a["name"], "url": url,
+                         "description": t(a["blurb"], lang) or plain(artist_paras(a, lang)[0]),
+                         "genre": [t(B.SUB[g]["name"], lang) for g in a["genres"]],
+                         "foundingDate": str(a["year"]) if a["year"] else None, "foundingLocation": state_ld(a["uf"], lang),
+                         "sameAs": wiki_same("a:" + a["id"]),
+                         "track": [{"@type": "MusicRecording", "name": r[1], "datePublished": str(r[0])} for r in songs[:30]],
+                         "album": [{"@type": "MusicAlbum", "name": r[1], "datePublished": str(r[0])} for r in albums]})
     oth = "en" if lang == "pt" else "pt"
     pg.write(f"{DIRS[lang]['a']}/{a['id']}.html", f"{DIRS[oth]['a']}/{a['id']}.html", 1, a["name"], desc, body, "artists", kind="ProfilePage", entity=entity)
 
@@ -421,7 +461,10 @@ def page_musician(pg, m, prev, nxt):
         body += f'<section class="sec-in"><h2>{e(T["sameRole"])} · {e(T["roles"][m["roles"][0]])}</h2>{name_chips([(x["name"], mus_url(pg, 1, x)) for x in same])}</section>'
     body += pager(prev, nxt) + "</div>"
     oth = "en" if lang == "pt" else "pt"
-    entity = {"@type": "Person", "name": m["name"], "jobTitle": ", ".join(roles)}
+    url = abs_url(lang, "m", m["slug"])
+    entity = ld_compact({"@type": "Person", "@id": url + "#person", "name": m["name"], "url": url, "jobTitle": ", ".join(roles),
+                         "description": lead or plain(paras[0]),
+                         "sameAs": wiki_same("m:" + m["slug"], *(["a:" + m["self_artist"]["id"]] if m["self_artist"] else []))})
     pg.write(f"{DIRS[lang]['m']}/{m['slug']}.html", f"{DIRS[oth]['m']}/{m['slug']}.html", 1, m["name"], (lead or paras[0])[:300], body, ROLE_PAGE[m["roles"][0]], kind="ProfilePage", entity=entity)
 
 
@@ -458,17 +501,23 @@ def page_subgenre(pg, s, prev, nxt):
         body += f'<section class="sec-in"><h2>{e(T["siblings"])}</h2>{name_chips([(t(x["name"], lang), sub_url(pg, 1, x["id"])) for x in sib])}</section>'
     body += pager(prev, nxt) + "</div>"
     oth = "en" if lang == "pt" else "pt"
-    pg.write(f"{DIRS[lang]['s']}/{s['id']}.html", f"{DIRS[oth]['s']}/{s['id']}.html", 1, name, (t(s["blurb"], lang) or paras[0])[:300], body, "genres", kind="Article")
+    url = abs_url(lang, "s", s["id"])
+    entity = ld_compact({"@type": "DefinedTerm", "@id": url + "#genre", "name": name, "url": url, "description": t(s["blurb"], lang) or plain(paras[0]),
+                         "inDefinedTermSet": {"@type": "DefinedTermSet", "name": tt["genresH"], "url": f"{B.SITE}/{'pt/' if lang == 'pt' else ''}{pg.p['genres']}"}})
+    pg.write(f"{DIRS[lang]['s']}/{s['id']}.html", f"{DIRS[oth]['s']}/{s['id']}.html", 1, name, (t(s["blurb"], lang) or paras[0])[:300], body, "genres", kind="Article", entity=entity)
 
 
 # ── programas, prêmios, festivais, instrumentos ───────────────────────────────
-def simple_page(pg, kind, slug, color, kicker, title, facts, lead, paras, links, extra, cur, back):
+def simple_page(pg, kind, slug, color, kicker, title, facts, lead, paras, links, extra, cur, back, entity=None):
     e = B.e
     lang = pg.lang
     body = item_head(pg, 1, color, kicker, title, facts, lead, sum(map(ord, slug)) + 3, back[0], back[1])
     body += '<div class="wrap">' + desc_block(pg, paras, links) + extra + "</div>"
     oth = "en" if lang == "pt" else "pt"
-    pg.write(f"{DIRS[lang][kind]}/{slug}.html", f"{DIRS[oth][kind]}/{slug}.html", 1, title, (lead or title)[:300], body, cur, kind="Article")
+    if entity:
+        url = abs_url(lang, kind, slug)
+        entity = ld_compact({"@id": url + "#thing", "name": title, "url": url, "description": lead} | entity)
+    pg.write(f"{DIRS[lang][kind]}/{slug}.html", f"{DIRS[oth][kind]}/{slug}.html", 1, title, (lead or title)[:300], body, cur, kind="Article", entity=entity)
 
 
 def page_show(pg, s):
@@ -481,7 +530,8 @@ def page_show(pg, s):
         extra += f'<section class="sec-in"><h2>{e(T["alumni"])}</h2><div class="chips">' + "".join(
             f'<a class="chip plain" href="{art_url(pg, 1, a)}">{e(n)}</a>' if a else f'<span class="chip plain">{e(n)}</span>' for n, a in alumni) + "</div></section>"
     links = [("Wikipedia", wiki_for(lang, "sh:" + s["slug"], s["name"], "")), ("YouTube", B.yt(s["name"]))]
-    simple_page(pg, "sh", s["slug"], "#012169", e(tt["awS"]), s["name"], facts, t(s["blurb"], lang), [], links, extra, "awards", (tt["nav"]["awards"], pg.href(1, pg.p["awards"]) + "#shows"))
+    simple_page(pg, "sh", s["slug"], "#012169", e(tt["awS"]), s["name"], facts, t(s["blurb"], lang), [], links, extra, "awards", (tt["nav"]["awards"], pg.href(1, pg.p["awards"]) + "#shows"),
+                entity={"@type": "TVSeries", "sameAs": wiki_same("sh:" + s["slug"])})
 
 
 def page_award(pg, a):
@@ -499,7 +549,9 @@ def page_festival(pg, f):
     lang, tt, T = pg.lang, pg.t, ITXT[pg.lang]
     facts = fact(T["sinceL"], str(f["since"])) + fact(T["cityL"], e(f["city"]))
     links = [("Wikipedia", wiki_for(lang, "fe:" + f["slug"], f["name"], "")), ("YouTube", B.yt(f["name"]))]
-    simple_page(pg, "fe", f["slug"], "#bf4c22", e(tt["awF"]), f["name"], facts, t(f["blurb"], lang), [], links, "", "awards", (tt["nav"]["awards"], pg.href(1, pg.p["awards"]) + "#festivals"))
+    simple_page(pg, "fe", f["slug"], "#bf4c22", e(tt["awF"]), f["name"], facts, t(f["blurb"], lang), [], links, "", "awards", (tt["nav"]["awards"], pg.href(1, pg.p["awards"]) + "#festivals"),
+                entity={"@type": "Festival", "location": {"@type": "Place", "name": f["city"], "address": {"@type": "PostalAddress", "addressCountry": "BR"}},
+                        "sameAs": wiki_same("fe:" + f["slug"])})
 
 
 def page_instrument(pg, i):

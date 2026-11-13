@@ -1,3 +1,7 @@
+# Música Brasileira / Brazilian Music: todo o conteúdo pode ser lido e indexado, inclusive por assistentes de IA.
+# Resumo para modelos de linguagem: https://brazilianmusic.biblioverse.org/llms.txt
+
 User-agent: *
 Allow: /
+
 Sitemap: https://brazilianmusic.biblioverse.org/sitemap.xml

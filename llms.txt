@@ -1,0 +1,75 @@
+# Brazilian Music (Música Brasileira)
+
+> +160 genres and subgenres, +2,100 music artists, +1,700 songs and +350 albums: Brazilian music catalogued in English and Portuguese.
+
+Brazilian Music (Música Brasileira) is a free, bilingual catalogue of Brazilian music, part of BiblioVerse. English lives at the root and Brazilian Portuguese at /pt/. Every artist, person, subgenre, award, festival and TV show has its own page with links to Wikipedia, Spotify, Last.fm and YouTube. Artists are ranked in three tiers: S (legend), A (giant) and B (reference). Song and album credits name the performers, not the composers. Last updated: 2026-11-14.
+
+## Full content
+
+- [Full catalogue in English](https://brazilianmusic.biblioverse.org/llms-full.txt): every genre, artist, person, song, album, award, instrument and glossary term, in Markdown
+- [Catálogo completo em português](https://brazilianmusic.biblioverse.org/pt/llms-full.txt): o mesmo conteúdo em português
+
+## Main pages
+
+- [Brazilian Music](https://brazilianmusic.biblioverse.org/): +160 genres and subgenres, +2,100 music artists, +1,700 songs and +350 albums: Brazilian music catalogued in English and Portuguese.
+- [Brazilian genres and subgenres](https://brazilianmusic.biblioverse.org/genres.html): +160 Brazilian music genres and subgenres, with origin, decade, artists and songs to start with.
+- [Brazilian genre map](https://brazilianmusic.biblioverse.org/genre-map.html): A timeline of +160 Brazilian music genres and subgenres, with a chart for each family.
+- [Brazilian artists](https://brazilianmusic.biblioverse.org/artists.html): +1,700 Brazilian music artists with genre, type, tier, state and debut year. Filter and search.
+- [Brazilian singers](https://brazilianmusic.biblioverse.org/singers.html): +300 voices of Brazilian music, from radio-era singers to band frontpeople.
+- [Brazilian instrumentalists](https://brazilianmusic.biblioverse.org/instrumentalists.html): +350 Brazilian musicians: electric and acoustic guitar, bass, drums, percussion, keyboards, accordion, mandolin, cavaquinho and winds.
+- [Brazilian music producers](https://brazilianmusic.biblioverse.org/producers.html): +40 producers of Brazilian music.
+- [Brazilian music influencers](https://brazilianmusic.biblioverse.org/influencers.html): +50 Brazilian content creators who talk about music.
+- [Timeline of Brazilian songs](https://brazilianmusic.biblioverse.org/songs.html): +1,700 Brazilian hits of every genre, year by year from 1870 to 2026, with links to listen.
+- [Essential Brazilian albums](https://brazilianmusic.biblioverse.org/albums.html): +350 hit and essential Brazilian albums, from every genre, 1950 to 2025.
+- [Brazilian awards, festivals and talent shows](https://brazilianmusic.biblioverse.org/awards.html): The main awards of Brazilian music, the big festivals and the TV music competitions, with every finalist of The Voice Brasil.
+- [Brazilian instruments](https://brazilianmusic.biblioverse.org/instruments.html): +30 Brazilian instruments explained, plus the popular instruments Brazilian music also uses.
+- [Brazilian music glossary](https://brazilianmusic.biblioverse.org/glossary.html): +80 Brazilian music terms explained for beginners.
+- [Brazilian music media](https://brazilianmusic.biblioverse.org/media.html): Brazilian music websites, magazines and blogs.
+- [About the catalogue](https://brazilianmusic.biblioverse.org/about.html): What the Brazilian Music catalogue is, how its content is organised and how to cite it.
+
+## Genre families
+
+- [Samba](https://brazilianmusic.biblioverse.org/genres/samba.html): Heir to the samba de roda of Bahia's Recôncavo, carried into the homes of Rio's 'Bahian aunts' in the early 20th century, samba is the rhythm the world associates with Brazil. 'Pelo Telefone' (1917) is the first registered samba; from there came the samba schools, samba-canção, partido-alto and, in the 1980s, pagode. (since 1860; 14 subgenres; 144 artists)
+- [Choro](https://brazilianmusic.biblioverse.org/genres/choro.html): Brazil's first urban instrumental genre: European polkas and waltzes played with African syncopation on flute, cavaquinho and guitars. Pixinguinha is the central name; 'Carinhoso' and 'Brasileirinho' are known worldwide. (since 1770; 3 subgenres; 16 artists)
+- [Bossa Nova](https://brazilianmusic.biblioverse.org/genres/bossa.html): Slowed-down samba, jazz harmony and a near-whispered voice: bossa nova was born in Rio's Zona Sul apartments with João Gilberto, Tom Jobim and Vinicius de Moraes, and in 1964 'The Girl from Ipanema' made it the most-heard Brazilian music on the planet. (since 1958; 1 subgenres; 24 artists)
+- [MPB](https://brazilianmusic.biblioverse.org/genres/mpb.html): 'Música Popular Brasileira' is the name the country gave, from the 1960s TV festivals on, to the sophisticated songwriting of Chico Buarque, Elis Regina, Caetano Veloso, Gilberto Gil, Milton Nascimento and Djavan. It is not a rhythm: it is a song tradition that absorbs samba, bossa, baião, rock and jazz. (since 1965; 7 subgenres; 140 artists)
+- [Brazilian Rock](https://brazilianmusic.biblioverse.org/genres/rock.html): It began with rock'n'roll covers in 1955, became Jovem Guarda in the 1960s, psychedelia with Os Mutantes, and exploded in the 1980s with the 'BRock' of Legião Urbana, Titãs and Paralamas. It has export-grade metal (Sepultura, Angra), hardcore, manguebeat, emo and a vigorous indie scene. (since 1955; 29 subgenres; 493 artists)
+- [Sertanejo](https://brazilianmusic.biblioverse.org/genres/sertanejo.html): Brazil's most-streamed genre today was born as caipira music in 1929, with viola duos singing in thirds. It modernized with Chitãozinho & Xororó, became romantic pop in the 1990s and, after 2005, the 'universitário' of Jorge & Mateus, Luan Santana and Marília Mendonça took over the charts. (since 1929; 9 subgenres; 102 artists)
+- [Brazilian Funk](https://brazilianmusic.biblioverse.org/genres/funk.html): Nothing to do with American funk: funk carioca was born at 1980s dance parties out of Miami bass and found its Portuguese voice with DJ Marlboro (1989). It moved through melody, proibidão, tamborzão, São Paulo's ostentação and 150 BPM; today 'baile funk' is exported by Anitta, Kevin o Chris and São Paulo's mandelão. (since 1989; 10 subgenres; 121 artists)
+- [Rap and Hip-Hop](https://brazilianmusic.biblioverse.org/genres/rap.html): Brazilian hip-hop grew up in black dance parties and at São Paulo's São Bento metro station. Racionais MC's gave the genre its masterpiece in 1997; in the 2010s Emicida, Criolo and Djonga took rap to the centre of culture, and Matuê made trap the most-streamed sound among the young. (since 1988; 4 subgenres; 119 artists)
+- [Forró](https://brazilianmusic.biblioverse.org/genres/forro.html): Luiz Gonzaga invented the accordion, zabumba and triangle trio and launched baião in 1946; 'Asa Branca' is the anthem of the sertão. From xote and xaxado to pé-de-serra, forró reached the universities in the 1990s, the huge stages of Fortaleza's electronic forró and, in the 2020s, piseiro. (since 1946; 6 subgenres; 70 artists)
+- [Axé and Bahian Music](https://brazilianmusic.biblioverse.org/genres/axe.html): Salvador invented the trio elétrico in 1950 and, in 1985, Luiz Caldas's 'Fricote' christened axé: Bahian frevo, ijexá, reggae and pop. Olodum created samba-reggae; Daniela Mercury and Ivete Sangalo took it nationwide. Salvador's carnival is the genre's biggest stage. (since 1949; 8 subgenres; 64 artists)
+- [Brazilian Pop](https://brazilianmusic.biblioverse.org/genres/pop.html): From disco-era girl groups (Frenéticas) to the teen pop of Sandy & Junior and Rouge, to the global divas of the 21st century: Anitta, Pabllo Vittar, Ludmilla, Iza and Luísa Sonza. Today's Brazilian pop absorbs funk, sertanejo and R&B and leads the streaming platforms. (since 1976; 5 subgenres; 82 artists)
+- [Brega, Calypso and Sounds of Pará](https://brazilianmusic.biblioverse.org/genres/brega.html): 'Brega' was a critics' insult for the popular romantic music of Waldick Soriano, Odair José and Reginaldo Rossi; it became a genre name. In Pará, brega met carimbó and guitarrada and produced lambada, Banda Calypso and the tecnobrega of Belém's giant sound systems. (since 1800; 8 subgenres; 54 artists)
+- [Gospel and Religious Music](https://brazilianmusic.biblioverse.org/genres/gospel.html): One of Brazil's biggest music markets: the evangelical worship of Aline Barros, Fernandinho, Gabriela Rocha and Diante do Trono fills stadiums and leads YouTube, while Padre Marcelo Rossi's Catholic music sold millions in the 1990s. There is also Christian rock, rap and sertanejo. (since 1966; 4 subgenres; 68 artists)
+- [Electronic](https://brazilianmusic.biblioverse.org/genres/eletronica.html): DJ Marky took Brazilian drum'n'bass to London in the 1990s; in the 2010s, the 'Brazilian bass' of Alok and Vintage Culture placed Brazilian DJs among the world's most streamed. The country has one of the largest psytrance scenes and a constant dialogue between electronics and funk. (since 1995; 5 subgenres; 39 artists)
+- [Brazilian Reggae](https://brazilianmusic.biblioverse.org/genres/reggae.html): São Luís do Maranhão is the 'Brazilian Jamaica', where roots reggae has played on sound systems since the 1970s. In the 1990s Cidade Negra and, later, Natiruts, Armandinho and Maneva made Portuguese-language reggae a mass genre. (since 1975; 2 subgenres; 18 artists)
+- [Soul and Black Music](https://brazilianmusic.biblioverse.org/genres/soul.html): Tim Maia came back from the United States in 1970 and invented Brazilian soul; the Black Rio movement's dance parties, Banda Black Rio, Toni Tornado and Jorge Ben created a funk-soul with its own identity. Today Liniker, Iza and Ed Motta carry the lineage. (since 1969; 5 subgenres; 25 artists)
+- [Jazz and Instrumental](https://brazilianmusic.biblioverse.org/genres/instrumental.html): Hermeto Pascoal, Egberto Gismonti, Airto Moreira and Naná Vasconcelos are revered by world jazz; Azymuth became a DJ cult; Toninho Horta and Hamilton de Holanda take Brazilian guitar and mandolin to international stages. (since 1930; 3 subgenres; 38 artists)
+- [Classical Music](https://brazilianmusic.biblioverse.org/genres/classica.html): Carlos Gomes premiered 'O Guarani' at La Scala in 1870; Heitor Villa-Lobos made the 'Bachianas Brasileiras' the most-performed Brazilian classical work in the world. Nelson Freire, Guiomar Novaes and Bidu Sayão were performers of global reputation, and OSESP is the reference orchestra. (since 1760; 5 subgenres; 21 artists)
+- [Folk Traditions](https://brazilianmusic.biblioverse.org/genres/regional.html): The music that lives in festivals, terreiros and circles: frevo and maracatu in Pernambuco, coco, ciranda and repente in the Northeast, jongo in the Southeast, catira, chamamé, siriri and cururu in the Centre-West, caiçara fandango on the coast of the South and São Paulo, gaúcho music, bumba-meu-boi, marchinhas and the rhythms of capoeira. (since 1800; 15 subgenres; 40 artists)
+- [Indigenous Music](https://brazilianmusic.biblioverse.org/genres/indigena.html): More than 300 Indigenous peoples live in Brazil, each with its own songs, flutes and maracas tied to ritual, work and memory. Pero Vaz de Caminha's letter (1500) already describes Indigenous people dancing; today artists such as Djuena Tikuna, Brô MC's and Kaê Guajajara carry these languages into rap, pop and song. (since 1500; 2 subgenres; 6 artists)
+- [Children's Music](https://brazilianmusic.biblioverse.org/genres/infantil.html): Xuxa sold the most popular children's records in the country's history in the 1980s; Turma do Balão Mágico and Trem da Alegria ruled TV. Today Galinha Pintadinha and Mundo Bita are among the most-watched children's channels on YouTube worldwide. (since 1982; 1 subgenres; 23 artists)
+
+## Em português
+
+- [Música Brasileira](https://brazilianmusic.biblioverse.org/pt/): +160 gêneros e subgêneros, +2.100 artistas musicais, +1.700 músicas e +350 discos: a música brasileira catalogada em português e inglês.
+- [Gêneros e subgêneros brasileiros](https://brazilianmusic.biblioverse.org/pt/generos.html): +160 gêneros e subgêneros da música brasileira, com origem, década, artistas e músicas para começar.
+- [Mapa dos gêneros brasileiros](https://brazilianmusic.biblioverse.org/pt/mapa-dos-generos.html): Linha do tempo de +160 gêneros e subgêneros da música brasileira, com o gráfico de cada família.
+- [Artistas brasileiros](https://brazilianmusic.biblioverse.org/pt/artistas.html): +1.700 artistas da música brasileira com gênero, tipo, nível, estado e ano de estreia. Filtre e pesquise.
+- [Vocalistas brasileiros](https://brazilianmusic.biblioverse.org/pt/vocalistas.html): +300 vozes da música brasileira, das cantoras da era do rádio aos vocalistas de banda.
+- [Instrumentistas brasileiros](https://brazilianmusic.biblioverse.org/pt/instrumentistas.html): +350 instrumentistas da música brasileira: guitarra, violão, baixo, bateria, percussão, teclados, sanfona, bandolim, cavaquinho e sopros.
+- [Produtores musicais brasileiros](https://brazilianmusic.biblioverse.org/pt/produtores.html): +40 produtores e produtoras da música brasileira.
+- [Influenciadores brasileiros de música](https://brazilianmusic.biblioverse.org/pt/influenciadores.html): +50 criadores de conteúdo brasileiros que falam de música.
+- [Linha do tempo das músicas brasileiras](https://brazilianmusic.biblioverse.org/pt/musicas.html): +1.700 grandes sucessos da música brasileira, de todos os gêneros, ano a ano, de 1870 a 2026, com links para ouvir.
+- [Discos brasileiros essenciais](https://brazilianmusic.biblioverse.org/pt/discos.html): +350 discos de sucesso e essenciais da música brasileira, de todos os gêneros, de 1950 a 2025.
+- [Prêmios, festivais e realities brasileiros](https://brazilianmusic.biblioverse.org/pt/premios.html): As principais premiações da música brasileira, os grandes festivais e os realities musicais da TV, com todos os finalistas do The Voice Brasil.
+- [Instrumentos brasileiros](https://brazilianmusic.biblioverse.org/pt/instrumentos.html): +30 instrumentos brasileiros explicados, e os instrumentos populares que a música brasileira também usa.
+- [Glossário da música brasileira](https://brazilianmusic.biblioverse.org/pt/glossario.html): +80 termos da música brasileira explicados para quem está começando.
+- [Mídia musical brasileira](https://brazilianmusic.biblioverse.org/pt/midia.html): Sites, revistas e blogs brasileiros sobre música.
+- [Sobre o catálogo](https://brazilianmusic.biblioverse.org/pt/sobre.html): O que é o catálogo Música Brasileira, como o conteúdo se organiza e como citar.
+
+## Optional
+
+- [Sitemap](https://brazilianmusic.biblioverse.org/sitemap.xml): every page in both languages
+- [BiblioVerse](https://biblioverse.org/llms.txt): the library of everything this catalogue belongs to, with its own llms.txt

@@ -3,7 +3,7 @@
 realities, mídia e textos da interface. Tuplas (pt, en) em todo texto bilíngue."""
 
 SITE = "https://brazilianmusic.biblioverse.org"
-BUILT = "2026-11-07"
+BUILT = "2026-11-14"
 
 # ──────────────────────────────────────────────────────────────────────────────
 # FAMÍLIAS DE GÊNEROS

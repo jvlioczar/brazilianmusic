@@ -116,6 +116,23 @@ def seo_stats(lang):
     return {k: approx(v, lang) for k, v in STATS.items()} | {"gs": approx(STATS["f"] + STATS["s"], lang), "am": approx(n_music_artists(), lang),
             "y0": SONGS[0][0], "y1": SONGS[-1][0], "ay0": ALBUMS[0][0], "ay1": ALBUMS[-1][0]}
 
+ORG = {"@type": "Organization", "@id": "https://biblioverse.org/#org", "name": "BiblioVerse", "url": "https://biblioverse.org/",
+       "logo": "https://biblioverse.org/images/logo.png", "sameAs": ["https://www.linkedin.com/company/biblioverse.org"]}
+
+
+def item_list(lang, name, rows, total=None):
+    """ItemList para o JSON-LD das páginas de coleção. rows: (nome, url absoluta ou None)."""
+    out = {"@type": "ItemList", "name": name, "numberOfItems": total or len(rows),
+           "itemListElement": [dict({"@type": "ListItem", "position": i + 1, "name": n}, **({"url": u} if u else {})) for i, (n, u) in enumerate(rows)]}
+    if not rows:
+        del out["itemListElement"]
+    return out
+
+
+def abs_page(lang, rel):
+    return f"{SITE}/{'pt/' if lang == 'pt' else ''}{rel}"
+
+
 LOGO = '<svg viewBox="0 0 70 49" aria-hidden="true"><rect width="70" height="49" rx="10" fill="#009739"/><path d="M35 4.5 65.5 24.5 35 44.5 4.5 24.5z" fill="#fedd00"/><circle cx="35" cy="24.5" r="12.5" fill="#012169"/><circle cx="31.3" cy="30.2" r="3.7" fill="#fff"/><path d="M34.6 29.6V16.2" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/><path d="M34.6 16.2c4.2 1.4 6.4 4.3 5.2 8.4" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>'
 URLS = []
 
@@ -214,10 +231,20 @@ class Page:
         nav = self.menu(depth, cur)
         og = f"{SITE}/assets/share-{lang}.png"
         home_url = SITE + "/" + prefix
+        org_ref = {"@id": ORG["@id"]}
         graph = [{"@type": kind, "@id": canonical + "#page", "name": title, "headline": title, "description": desc, "url": canonical, "image": og, "inLanguage": tt["html"],
-                  "dateModified": BUILT, "isPartOf": {"@id": home_url + "#website"}, "author": {"@type": "Organization", "name": "BiblioVerse", "url": "https://biblioverse.org"},
-                  "publisher": {"@type": "Organization", "name": "BiblioVerse", "url": "https://biblioverse.org"}},
-                 {"@type": "WebSite", "@id": home_url + "#website", "name": tt["site"], "url": home_url, "inLanguage": tt["html"], "description": tt["homeDesc"].format(**seo_stats(lang))}]
+                  "dateModified": BUILT, "isPartOf": {"@id": home_url + "#website"}, "author": org_ref, "publisher": org_ref},
+                 {"@type": "WebSite", "@id": home_url + "#website", "name": tt["site"], "alternateName": UI["pt" if lang == "en" else "en"]["site"], "url": home_url,
+                  "inLanguage": tt["html"], "description": tt["homeDesc"].format(**seo_stats(lang)), "publisher": org_ref, "isPartOf": {"@id": "https://biblioverse.org/#website"}},
+                 ORG]
+        crumbs = [(tt["site"], home_url)]
+        if rel != "index.html":
+            if depth and cur in p and cur in tt["nav"] and p[cur] != rel:
+                crumbs.append((tt["nav"][cur], SITE + "/" + prefix + p[cur]))
+            crumbs.append((title, canonical))
+            graph[0]["breadcrumb"] = {"@id": canonical + "#crumbs"}
+            graph.append({"@type": "BreadcrumbList", "@id": canonical + "#crumbs",
+                          "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": n, "item": u} for i, (n, u) in enumerate(crumbs)]})
         if entity:
             graph[0]["mainEntity"] = entity
         ld = json.dumps({"@context": "https://schema.org", "@graph": graph}, ensure_ascii=False)
@@ -250,6 +277,7 @@ class Page:
 <link rel="icon" href="{assets}assets/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{assets}assets/icon-180.png">
 <link rel="manifest" href="{assets}site.webmanifest">
+<link rel="alternate" type="text/plain" title="llms.txt" href="{SITE}/llms.txt">
 <script type="application/ld+json">{ld}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -452,7 +480,8 @@ def page_genres(pg):
         f'<span class="mono small">{e(t(f["name"], lang))} · {s["since"]}</span></a></li>' for s, f in fus)
     fus_sec = f'<section class="sec-in" id="fusion"><h2>{e(tt["fusionH"])} <span class="mono small">{len(fus)}</span></h2><p class="lead">{e(tt["fusionP"])}</p><ul class="fus-list">{fus_html}</ul></section>'
     body = f'<div class="wrap">{head_block(f"{STATS["f"]} {e(tt["stats"]["families"])} · {STATS["s"]} {e(tt["stats"]["subs"])}", e(tt["genresH"]), tt["genresLead"], extra=f'<p class="head-cta"><a class="btn" href="{pg.p["map"]}">{e(tt["mapBtn"])} →</a></p>')}<div class="ggrid">{cards}</div>{fus_sec}</div>'
-    pg.write(pg.p["genres"], other(lang, "genres"), 0, tt["genresH"], tt["genresDesc"].format(**seo_stats(lang)), body, "genres", kind="CollectionPage")
+    ent = item_list(lang, tt["genresH"], [(t(f["name"], lang), abs_page(lang, f'{pg.p["gdir"]}/{f["id"]}.html')) for f in C.FAMILIES])
+    pg.write(pg.p["genres"], other(lang, "genres"), 0, tt["genresH"], tt["genresDesc"].format(**seo_stats(lang)), body, "genres", kind="CollectionPage", entity=ent)
 
 
 def page_family(pg, f, i):
@@ -500,7 +529,11 @@ def page_family(pg, f, i):
 <section class="sec-in"><h2>{e(tt['artistsH'])}</h2><div class="agrid">{cards}</div>
 <p class="more-link dir-tip"><a href="../{pg.p['artists']}?f={f['code']}">{e(tt['allArtists'])} →</a></p></section>
 {pager}</div>"""
-    pg.write(f"{pg.p['gdir']}/{fid}.html", f"{other(lang, 'gdir')}/{fid}.html", 1, t(f["name"], lang), t(f["blurb"], lang)[:300], body, "genres", kind="Article")
+    furl = abs_page(lang, f"{pg.p['gdir']}/{fid}.html")
+    ent = {"@type": "DefinedTerm", "@id": furl + "#genre", "name": t(f["name"], lang), "url": furl, "description": t(f["blurb"], lang),
+           "inDefinedTermSet": {"@type": "DefinedTermSet", "name": tt["genresH"], "url": abs_page(lang, pg.p["genres"])},
+           "hasPart": [{"@type": "DefinedTerm", "name": t(x["name"], lang), "url": IT.abs_url(lang, "s", x["id"]) if x["id"] not in IT.SAME_AS_FAMILY else furl} for x in f["subs"]]}
+    pg.write(f"{pg.p['gdir']}/{fid}.html", f"{other(lang, 'gdir')}/{fid}.html", 1, t(f["name"], lang), t(f["blurb"], lang)[:300], body, "genres", kind="Article", entity=ent)
 
 
 def page_artists(pg):
@@ -525,7 +558,8 @@ def page_artists(pg):
 <span class="mono count"><b id="count">{STATS['a']}</b> {e(tt['results'])}</span>
 </div>
 <div class="agrid" id="agrid">{cards}</div><p class="none mono" id="noneMsg" hidden>{e(tt['none'])}</p></div>"""
-    pg.write(pg.p["artists"], other(lang, "artists"), 0, tt["artistsH2"], tt["artistsDesc"].format(**seo_stats(lang)), body, "artists", kind="CollectionPage")
+    ent = item_list(lang, tt["artistsH2"], [(a["name"], IT.abs_url(lang, "a", a["id"])) for a in ARTISTS if a["tier"] == "S"], total=len(ARTISTS))
+    pg.write(pg.p["artists"], other(lang, "artists"), 0, tt["artistsH2"], tt["artistsDesc"].format(**seo_stats(lang)), body, "artists", kind="CollectionPage", entity=ent)
 
 
 def mus_section(pg, hid, title, rows, featured):
@@ -540,21 +574,24 @@ def page_musicians(pg):
     n = len({IT.slugify(r[0]) for _, _, rows, _ in INSTR for r in rows})
     body = f'<div class="wrap">{head_block(f"{n} {e(tt["nav"]["musicians"]).lower()}", e(tt["musiciansH"]), tt["musiciansLead"], seed=41)}'
     body += "".join(mus_section(pg, code, tt[key], rows, feat) for code, key, rows, feat in INSTR) + "</div>"
-    pg.write(pg.p["musicians"], other(lang, "musicians"), 0, tt["musiciansH"], tt["musiciansDesc"].format(n=approx(n, lang)), body, "musicians", kind="CollectionPage")
+    ent = item_list(lang, tt["musiciansH"], [(r[0], IT.abs_url(lang, "m", IT.slugify(r[0]))) for _c, _k, rows, feat in INSTR for r in rows[:feat]], total=n)
+    pg.write(pg.p["musicians"], other(lang, "musicians"), 0, tt["musiciansH"], tt["musiciansDesc"].format(n=approx(n, lang)), body, "musicians", kind="CollectionPage", entity=ent)
 
 
 def page_singers(pg):
     lang, tt = pg.lang, pg.t
     body = f'<div class="wrap">{head_block(f"{len(VOC)} {e(tt["nav"]["singers"]).lower()}", e(tt["singersH"]), tt["singersLead"], seed=43)}'
     body += mus_section(pg, "voc", tt["nav"]["singers"], VOC, 15) + "</div>"
-    pg.write(pg.p["singers"], other(lang, "singers"), 0, tt["singersH"], tt["singersDesc"].format(n=approx(len(VOC), lang)), body, "singers", kind="CollectionPage")
+    ent = item_list(lang, tt["singersH"], [(n, IT.abs_url(lang, "m", IT.slugify(n))) for n, _a, _b in VOC], total=len(VOC))
+    pg.write(pg.p["singers"], other(lang, "singers"), 0, tt["singersH"], tt["singersDesc"].format(n=approx(len(VOC), lang)), body, "singers", kind="CollectionPage", entity=ent)
 
 
 def page_producers(pg):
     lang, tt = pg.lang, pg.t
     body = f'<div class="wrap">{head_block(f"{len(PROD)} {e(tt["nav"]["producers"]).lower()}", e(tt["producersH"]), tt["producersLead"], seed=47)}'
     body += mus_section(pg, "prd", tt["prod"], PROD, 15) + "</div>"
-    pg.write(pg.p["producers"], other(lang, "producers"), 0, tt["producersH"], tt["producersDesc"].format(n=approx(len(PROD), lang)), body, "producers", kind="CollectionPage")
+    ent = item_list(lang, tt["producersH"], [(r[0], IT.abs_url(lang, "m", IT.slugify(r[0]))) for r in PROD], total=len(PROD))
+    pg.write(pg.p["producers"], other(lang, "producers"), 0, tt["producersH"], tt["producersDesc"].format(n=approx(len(PROD), lang)), body, "producers", kind="CollectionPage", entity=ent)
 
 
 def page_influencers(pg):
@@ -591,7 +628,8 @@ def page_songs(pg):
 <span class="mono count"><b id="scount">{STATS['n']}</b> {e(tt['results'])}</span></div>
 <div class="tabs" id="decTabs">{tabs}</div>
 <ol class="songlist" id="songlist">{items}</ol></div>"""
-    pg.write(pg.p["songs"], other(lang, "songs"), 0, tt["songsH"], tt["songsDesc"].format(**seo_stats(lang)), body, "songs", kind="CollectionPage")
+    ent = item_list(lang, tt["songsH"], [], total=len(SONGS))
+    pg.write(pg.p["songs"], other(lang, "songs"), 0, tt["songsH"], tt["songsDesc"].format(**seo_stats(lang)), body, "songs", kind="CollectionPage", entity=ent)
 
 
 def _unused_album_list(pg, rows, prefix):
@@ -622,7 +660,8 @@ def page_albums(pg):
 <span class="mono count"><b id="acount">{STATS['d']}</b> {e(tt['results'])}</span></div>
 <div class="tabs" id="adecTabs">{tabs}</div>
 <ol class="albums" id="alist">{items}</ol></div>"""
-    pg.write(pg.p["albums"], other(lang, "albums"), 0, tt["albumsH"], tt["albumsDesc"].format(**seo_stats(lang)), body, "albums", kind="CollectionPage")
+    ent = item_list(lang, tt["albumsH"], [], total=len(ALBUMS))
+    pg.write(pg.p["albums"], other(lang, "albums"), 0, tt["albumsH"], tt["albumsDesc"].format(**seo_stats(lang)), body, "albums", kind="CollectionPage", entity=ent)
 
 
 def page_awards(pg):
@@ -635,7 +674,8 @@ def page_awards(pg):
 <section class="sec-in" id="awards"><h2>{e(tt['awA'])}</h2><div class="cards3">{aw}</div></section>
 <section class="sec-in" id="festivals"><h2>{e(tt['awF'])}</h2><div class="cards3">{fe}</div></section>
 <section class="sec-in" id="shows"><h2>{e(tt['awS'])}</h2><div class="cards3">{sh}</div></section></div>"""
-    pg.write(pg.p["awards"], other(lang, "awards"), 0, tt["awardsH"], tt["awardsDesc"], body, "awards", kind="CollectionPage")
+    ent = item_list(lang, tt["awardsH"], [(x["name"], IT.abs_url(lang, k, x["slug"])) for k, xs in (("aw", C.AWARDS), ("fe", C.FESTIVALS), ("sh", C.SHOWS)) for x in xs])
+    pg.write(pg.p["awards"], other(lang, "awards"), 0, tt["awardsH"], tt["awardsDesc"], body, "awards", kind="CollectionPage", entity=ent)
 
 
 def page_instruments(pg):
@@ -657,7 +697,11 @@ def page_glossary(pg):
     lang, tt = pg.lang, pg.t
     items = "".join(f'<div class="term" id="g-{re.sub(r"[^a-z0-9]+", "-", term.lower())}"><dt>{e(term)}</dt><dd>{e(t(d, lang))}</dd></div>' for term, d in sorted(C.GLOSSARY, key=lambda x: x[0].lower()))
     body = f'<div class="wrap">{head_block(f"{len(C.GLOSSARY)} {e(tt["nav"]["glossary"]).lower()}", e(tt["glossH"]), tt["glossLead"], seed=81)}<dl class="gloss">{items}</dl></div>'
-    pg.write(pg.p["glossary"], other(lang, "glossary"), 0, tt["glossH"], tt["glossDesc"].format(n=approx(len(C.GLOSSARY), lang)), body, "glossary")
+    gurl = abs_page(lang, pg.p["glossary"])
+    ent = {"@type": "DefinedTermSet", "@id": gurl + "#terms", "name": tt["glossH"], "url": gurl,
+           "hasDefinedTerm": [{"@type": "DefinedTerm", "name": term, "description": t(d, lang), "url": gurl + "#g-" + re.sub(r"[^a-z0-9]+", "-", term.lower())}
+                              for term, d in sorted(C.GLOSSARY, key=lambda x: x[0].lower())]}
+    pg.write(pg.p["glossary"], other(lang, "glossary"), 0, tt["glossH"], tt["glossDesc"].format(n=approx(len(C.GLOSSARY), lang)), body, "glossary", kind="CollectionPage", entity=ent)
 
 
 def page_media(pg):
@@ -736,7 +780,11 @@ def main():
         for u, pt, en in URLS:
             f.write(f'<url><loc>{u}</loc><lastmod>{BUILT}</lastmod><xhtml:link rel="alternate" hreflang="pt-BR" href="{pt}"/><xhtml:link rel="alternate" hreflang="en" href="{en}"/><xhtml:link rel="alternate" hreflang="x-default" href="{en}"/></url>\n')
         f.write("</urlset>\n")
-    open(os.path.join(ROOT, "robots.txt"), "w", encoding="utf8", newline="\n").write(f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
+    open(os.path.join(ROOT, "robots.txt"), "w", encoding="utf8", newline="\n").write(
+        "# Música Brasileira / Brazilian Music: todo o conteúdo pode ser lido e indexado, inclusive por assistentes de IA.\n"
+        f"# Resumo para modelos de linguagem: {SITE}/llms.txt\n\nUser-agent: *\nAllow: /\n\nSitemap: {SITE}/sitemap.xml\n")
+    import llms
+    llms.write_all(sys.modules[__name__])
     open(os.path.join(ROOT, "CNAME"), "w", encoding="utf8", newline="\n").write("brazilianmusic.biblioverse.org\n")
     man = {"name": "Brazilian Music · Música Brasileira", "short_name": "BR Music", "start_url": "/", "display": "standalone", "background_color": "#f4efe4", "theme_color": "#c62828",
            "icons": [{"src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png"}]}

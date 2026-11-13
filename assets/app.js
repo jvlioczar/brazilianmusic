@@ -165,16 +165,7 @@
 
   // revelação ao rolar, contadores e mapa animado
   var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  var targets = $$('.sec h2, .sec .lead, .like-btn, .fcard, .door, .stat, .gcard, .sub, .card, .mcard, .term, .album, .page-head, .sec-in h2, .songs li, .acard, .tablewrap').slice(0, 90);
   if (!reduce && 'IntersectionObserver' in window) {
-    var vh = window.innerHeight || 800;
-    targets.forEach(function (el, i) {
-      el.classList.add('reveal'); el.style.transitionDelay = ((i % 6) * 60) + 'ms';
-      if (el.getBoundingClientRect().top < vh * 1.05) requestAnimationFrame(function () { el.classList.add('in'); });
-    });
-    var io = new IntersectionObserver(function (es) { es.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); } }); }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
-    targets.forEach(function (el) { io.observe(el); });
-    setTimeout(function () { if (!$('.reveal.in')) targets.forEach(function (el) { el.classList.add('in'); }); }, 2500);
     var maps = $$('.gmap');
     if (maps.length) { var mo = new IntersectionObserver(function (es) { es.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('in'); mo.unobserve(en.target); } }); }, { threshold: 0.2 }); maps.forEach(function (m) { mo.observe(m); }); }
     var counters = $$('[data-count]');

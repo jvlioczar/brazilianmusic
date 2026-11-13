@@ -124,7 +124,7 @@ p{margin:0 0 1em}
 @keyframes rise{from{opacity:0;transform:translateY(26px)}to{opacity:1;transform:none}}
 @keyframes pop{from{opacity:0;transform:scale(.7)}to{opacity:1;transform:none}}
 @keyframes underline{to{transform:scaleX(1)}}
-.badge{position:absolute;right:40px;bottom:60px;width:130px;height:130px;z-index:2;animation:spin 18s linear infinite;pointer-events:none}
+.badge{position:absolute;right:40px;bottom:60px;width:130px;height:130px;z-index:2;pointer-events:none}
 .badge text{font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;fill:#fff;text-transform:uppercase}
 @keyframes spin{to{transform:rotate(360deg)}}
 @media (max-width:900px){.badge{display:none}}
@@ -367,7 +367,9 @@ footer .wrap{display:grid;grid-template-columns:1fr auto;gap:18px 30px;align-ite
 .tstrip{display:block;width:100%;height:40px}
 .tstrip.card-strip{height:22px;border-radius:10px;margin:0 0 14px;width:auto}
 .tstrip.head-strip{height:22px;border-radius:999px;margin-top:22px;max-width:760px}
-.tile .tin{transform-box:fill-box;transform-origin:center;animation:tturn var(--p,14s) cubic-bezier(.6,0,.2,1) infinite;animation-delay:calc(var(--d,0s) * -1)}
+/* azulejos estáticos; só o mosaico do topo de cada página (classe .anim) gira */
+.tile .tin{transform-box:fill-box;transform-origin:center}
+.anim .tile .tin{animation:tturn var(--p,14s) cubic-bezier(.6,0,.2,1) infinite;animation-delay:calc(var(--d,0s) * -1)}
 @keyframes tturn{0%,21%{transform:rotate(0)}25%,46%{transform:rotate(90deg)}50%,71%{transform:rotate(180deg)}75%,96%{transform:rotate(270deg)}100%{transform:rotate(360deg)}}
 @media (prefers-reduced-motion:reduce){.tile .tin{animation:none}}
 

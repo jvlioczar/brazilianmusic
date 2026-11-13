@@ -686,6 +686,14 @@ Milionário|Milionário & José Rico; "O Garganta de Ouro".|Milionário & José 
 Thaíde|Thaíde & DJ Hum; pioneiro do hip hop paulistano.|Thaíde & DJ Hum; a pioneer of São Paulo hip hop.
 Ice Blue|Racionais MC's; rapper.|Racionais MC's; rapper.
 BNegão|Planet Hemp; ex-vocalista.|Planet Hemp; former singer.
+Petra Sofia Sávio|Cantora e artista.|A singer and artist.
+Marilia Piovesan|Cantora e compositora de Pelotas (RS), bacharel em canto e professora de canto.|A singer and songwriter from Pelotas (Rio Grande do Sul) with a degree in singing; she also teaches singing.
+Bill Sandre|Professor de canto ("Voz & Ciência") que se apresenta como preparador vocal de nomes como Matuê, NX Zero e CPM 22.|A singing teacher ("Voz & Ciência") who presents himself as vocal coach to names such as Matuê, NX Zero and CPM 22.
+Ian Gonçalves|Cantor, vocalista da banda de metal Nevra e professor de canto online.|A singer, vocalist of the metal band Nevra and an online singing teacher.
+Gabriel Bonilha|Vocalista de metal da Vulcane, produtor vocal e dublador.|Metal vocalist in Vulcane, a vocal producer and a voice actor.
+Samantha Ayara|Venceu o The Voice Brasil 2017, no time de Michel Teló; depois fez uma pausa na carreira musical.|Won The Voice Brasil 2017 on Michel Teló's team; she later paused her music career.
+Hugo Rafael|Vocalista da banda Sambô desde 2015; finalista do The Voice Brasil 2021.|Vocalist of the band Sambô since 2015; a finalist on The Voice Brasil 2021.
+Romero Ribeiro|Finalista do The Voice Brasil 2014 que passou a integrar o Exaltasamba.|A finalist on The Voice Brasil 2014 who went on to join Exaltasamba.
 """
 
 
@@ -804,3 +812,12 @@ def rows(block):
         assert len(parts) == 3, line
         out.append(parts)
     return out
+
+# @ do Instagram de quem não está em data_core.CREATORS (aparece na página da pessoa)
+HANDLES = {
+ "Petra Sofia Sávio": "petrasofiasavio",
+ "Marilia Piovesan": "mariliapiovesan",
+ "Bill Sandre": "billsandreoficial",
+ "Ian Gonçalves": "ianggoncalves",
+ "Gabriel Bonilha": "gabrielmonstrovocal",
+}

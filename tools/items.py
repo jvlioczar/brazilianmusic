@@ -16,6 +16,8 @@ WL = _json.load(open(_WL_PATH, encoding="utf8")) if _os.path.exists(_WL_PATH) el
 WIKI_FIX = {"m:luciano-carlos-cunha": "https://pt.wikipedia.org/wiki/Luciano_Carlos_Cunha",
             "a:mel-duarte": "https://pt.wikipedia.org/wiki/Mel_Duarte",
             "a:pepita": "https://pt.wikipedia.org/wiki/Pepita_(artista)",
+            "a:nikki-valentine": "https://pt.wikipedia.org/wiki/Nikki_(cantora)",
+            "m:hugo-rafael": "https://pt.wikipedia.org/wiki/Hugo_Rafael",
             "m:marimoon": "https://pt.wikipedia.org/wiki/MariMoon",
             "m:gastao-moreira": "https://pt.wikipedia.org/wiki/Gast%C3%A3o_Moreira",
             "m:fabio-massari": "https://pt.wikipedia.org/wiki/Fabio_Massari",
@@ -188,7 +190,8 @@ def setup(build):
             ALBUMS_BY.setdefault(a["id"], []).append(row)
     # instrumentistas: uma página por pessoa, com todas as listas em que aparece
     creators = [(n,) + B.C.CREATOR_FOCUS.get(n, (ITXT["pt"]["infNote"][g], ITXT["en"]["infNote"][g])) for n, h, g in B.C.CREATORS]
-    handles = {slugify(n): h for n, h, g in B.C.CREATORS}
+    handles = {slugify(n): h for n, h, g in B.C.CREATORS if h}
+    handles.update({slugify(n): h for n, h in getattr(B.M, "HANDLES", {}).items()})
     for role, rows, feat in [("voc", B.VOC, 15)] + [(c, r, f) for c, _, r, f in B.INSTR] + [("prd", B.PROD, 15), ("inf", creators, 0)]:
         for i, (n, pt, en) in enumerate(rows):
             sl = slugify(n)
@@ -477,9 +480,6 @@ def page_show(pg, s):
     if alumni:
         extra += f'<section class="sec-in"><h2>{e(T["alumni"])}</h2><div class="chips">' + "".join(
             f'<a class="chip plain" href="{art_url(pg, 1, a)}">{e(n)}</a>' if a else f'<span class="chip plain">{e(n)}</span>' for n, a in alumni) + "</div></section>"
-    if s["name"] == "The Voice Brasil":
-        rows = "".join(f'<tr><td class="mono">{n}</td><td class="mono">{y}</td><td><b>{link_name(pg, 1, w)}</b></td><td>{link_name(pg, 1, c)}</td><td>{", ".join(link_name(pg, 1, x.strip()) for x in fi.split(","))}</td></tr>' for n, y, w, c, fi in B.C.VOICE)
-        extra += f'<section class="sec-in"><h2>{e(T["winners"])}</h2><div class="tablewrap"><table class="voice"><thead><tr><th>{e(tt["vSeason"])}</th><th>{e(tt["vYear"])}</th><th>{e(tt["vWinner"])}</th><th>{e(tt["vCoach"])}</th><th>{e(tt["vFinal"])}</th></tr></thead><tbody>{rows}</tbody></table></div></section>'
     links = [("Wikipedia", wiki_for(lang, "sh:" + s["slug"], s["name"], "")), ("YouTube", B.yt(s["name"]))]
     simple_page(pg, "sh", s["slug"], "#012169", e(tt["awS"]), s["name"], facts, t(s["blurb"], lang), [], links, extra, "awards", (tt["nav"]["awards"], pg.href(1, pg.p["awards"]) + "#shows"))
 

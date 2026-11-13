@@ -540,7 +540,7 @@ FESTIVALS = [
 ]
 
 SHOWS = [
- dict(name="The Voice Brasil", net="Globo", years="2012–2023", blurb=("Doze temporadas; técnicos ao longo dos anos incluíram Carlinhos Brown, Claudia Leitte, Lulu Santos, Daniel, Michel Teló, Ivete Sangalo, Iza e Gaby Amarantos. Michel Teló venceu como técnico sete vezes.", "Twelve seasons; coaches over the years included Carlinhos Brown, Claudia Leitte, Lulu Santos, Daniel, Michel Teló, Ivete Sangalo, Iza and Gaby Amarantos. Michel Teló won as a coach seven times."), alumni=["Ellen Oléria", "Sam Alves", "Lucy Alves", "Carol Biazin", "Day", "Vinícius D'Black"]),
+ dict(name="The Voice Brasil", net="Globo, SBT", years="2012–2023, 2025–", blurb=("Doze temporadas na Globo, de 2012 a 2023; técnicos ao longo dos anos incluíram Carlinhos Brown, Claudia Leitte, Lulu Santos, Daniel, Michel Teló, Ivete Sangalo, Iza e Gaby Amarantos, e Michel Teló venceu como técnico sete vezes. Em 2025 o programa passou para o SBT, onde Thiago Garcia, do time de Mumuzinho, venceu.", "Twelve seasons on Globo, from 2012 to 2023; coaches over the years included Carlinhos Brown, Claudia Leitte, Lulu Santos, Daniel, Michel Teló, Ivete Sangalo, Iza and Gaby Amarantos, and Michel Teló won as a coach seven times. In 2025 the show moved to SBT, where Thiago Garcia, from Mumuzinho's team, won."), alumni=["Ellen Oléria", "Sam Alves", "Danilo Reis & Rafael", "Renato Vianna", "Mylena Jardim", "Samantha Ayara", "Léo Pain", "Tony Gordon", "Victor Alves", "Giuliano Eriston", "Keilla Júnia", "Ivan Barreto", "Thiago Garcia", "Ju Moraes", "Liah Soares", "Lucy Alves", "Romero Ribeiro", "Ayrton Montarroyos", "Nikki Valentine", "Carol Biazin", "Day", "Vinícius D'Black", "Hugo Rafael"]),
  dict(name="The Voice Kids", net="Globo", years="2016–2023", blurb=("Versão infantil, com técnicos como Carlinhos Brown, Ivete Sangalo, Simone & Simaria, Michel Teló, Gaby Amarantos e Mumuzinho.", "The children's version, with coaches such as Carlinhos Brown, Ivete Sangalo, Simone & Simaria, Michel Teló, Gaby Amarantos and Mumuzinho."), alumni=[]),
  dict(name="The Voice +", net="Globo", years="2021–2022", blurb=("Versão para maiores de 60 anos.", "The version for singers over 60."), alumni=[]),
  dict(name="Popstars", net="SBT", years="2002–2003", blurb=("Formou o Rouge (2002), maior girlgroup brasileiro, e a boyband Br'oz (2003).", "Formed Rouge (2002), Brazil's biggest girl group, and the boy band Br'oz (2003)."), alumni=["Rouge", "Br'oz"]),
@@ -577,10 +577,21 @@ VOICE = [
 # ──────────────────────────────────────────────────────────────────────────────
 # MÍDIA: blogs, sites e criadores
 # ──────────────────────────────────────────────────────────────────────────────
+# grande mídia musical: ganha cards na página de mídia
+MAINSTREAM = [
+ ("Billboard Brasil", "https://billboard.com.br/", ("Edição brasileira da Billboard: notícias, entrevistas e as paradas da Billboard Brasil.", "The Brazilian edition of Billboard: news, interviews and the Billboard Brasil charts.")),
+ ("Rolling Stone Brasil", "https://rollingstone.com.br/", ("Edição brasileira da Rolling Stone: reportagens, críticas, entrevistas e listas como os 100 maiores discos da música brasileira.", "The Brazilian edition of Rolling Stone: features, reviews, interviews and lists such as the 100 greatest Brazilian albums.")),
+ ("POPline", "https://portalpopline.com.br/", ("Portal de música pop: lançamentos, paradas e bastidores do pop brasileiro e internacional.", "A pop music portal: releases, charts and behind-the-scenes of Brazilian and international pop.")),
+ ("Noize", "https://www.noize.com.br/", ("Revista e site de música com entrevistas e reportagens; mantém o clube de vinis Noize Record Club.", "A music magazine and site with interviews and features; it runs the vinyl club Noize Record Club.")),
+ ("Tracklist", "https://tracklist.com.br/musica/", ("Site de notícias de música e cultura pop.", "A news site about music and pop culture.")),
+ ("Cifra Club News", "https://www.cifraclub.com.br/blog/", ("O portal de notícias do Cifra Club, o maior site de cifras do Brasil.", "The news portal of Cifra Club, Brazil's biggest chord site.")),
+]
+
+# mídia alternativa: sites dedicados a um gênero e blogs
 BLOGS = [
  ("AltPop", "https://www.altpop.net/", "pop"), ("A Pista", "https://apistajornal.com/category/musica/", "geral"), ("Artescétera", "https://www.artescetera.com.br/categoria/musica/", "geral"),
- ("Atitude Rock'n'Roll", "http://atituderocknroll.com.br", "rock"), ("Billboard Brasil", "https://billboard.com.br/", "geral"), ("Cangaço Rock", "https://cangacorock.online/", "rock"),
- ("Cifra Club News", "https://www.cifraclub.com.br/blog/", "geral"), ("Deu Rock", "http://deurockportal.com.br/", "rock"), ("Dissonância", "https://www.dissonancia.com/", "indie"),
+ ("Atitude Rock'n'Roll", "http://atituderocknroll.com.br", "rock"), ("Cangaço Rock", "https://cangacorock.online/", "rock"),
+ ("Deu Rock", "http://deurockportal.com.br/", "rock"), ("Dissonância", "https://www.dissonancia.com/", "indie"),
  ("Downstage", "https://downstage.com.br/", "rock"), ("EHB Rock", "https://ehbrock.com.br/", "rock"), ("Female Rock Squad", "http://www.femalerocksquad.com/", "rock"),
  ("Fita Bruta", "http://fitabruta.com.br/", "indie"), ("Gramofone Ativo", "https://gramofoneativo.com/", "geral"), ("Guitarload", "http://www.guitarload.com.br/", "rock"),
  ("Headbangers News", "https://www.headbangersnews.com.br/", "metal"), ("Hits Perdidos", "https://hitsperdidos.com/", "indie"), ("Dossiê Indiefólio", "https://dossie.indiefolio.com.br/", "indie"),
@@ -588,13 +599,11 @@ BLOGS = [
  ("Mundo de Músicas", "http://mundodemusicas.com/", "geral"), ("Mundo Metal", "https://www.mundometalbr.com/", "metal"),
  ("Música Boa", "https://www.blogmusicaboa.com/", "geral"), ("Música Instantânea", "http://musicainstantanea.com.br", "indie"), ("Música Pavê", "http://musicapave.com/", "pop"),
  ("Music Cult", "https://musicult.com.br/", "geral"), ("Nação da Música", "https://br.nacaodamusica.com/", "geral"), ("O Subsolo", "http://www.osubsolo.com/", "rock"),
- ("Pequenos Clássicos Perdidos", "https://pequenosclassicosperdidos.com.br/", "geral"), ("Pop Core Lab", "https://popcorelab.com.br/", "pop"), ("POPline", "https://portalpopline.com.br/", "pop"),
- ("Popload", "https://www.popload.com.br/", "indie"), ("Rifferama", "http://rifferama.com/", "rock"), ("Roadie Metal", "http://roadie-metal.com/", "metal"),
- ("Road to Cydonia", "https://roadtocydonia.com.br/", "rock"), ("RockBizz", "http://rockbizz.com.br", "rock"), ("Rolling Stone Brasil", "https://rollingstone.com.br/", "geral"),
- ("Rota Indie", "https://rotaindie.com/", "indie"), ("Scream & Yell", "https://screamyell.com.br/site/", "indie"), ("Tenho Mais Discos Que Amigos!", "http://www.tenhomaisdiscosqueamigos.com/", "rock"),
- ("Tracklist", "https://tracklist.com.br/musica/", "geral"), ("Tribhus Blog", "https://tribhus.com/blog", "geral"),
+ ("Pequenos Clássicos Perdidos", "https://pequenosclassicosperdidos.com.br/", "geral"), ("Pop Core Lab", "https://popcorelab.com.br/", "pop"),  ("Popload", "https://www.popload.com.br/", "indie"), ("Rifferama", "http://rifferama.com/", "rock"), ("Roadie Metal", "http://roadie-metal.com/", "metal"),
+ ("Road to Cydonia", "https://roadtocydonia.com.br/", "rock"), ("RockBizz", "http://rockbizz.com.br", "rock"),  ("Rota Indie", "https://rotaindie.com/", "indie"), ("Scream & Yell", "https://screamyell.com.br/site/", "indie"), ("Tenho Mais Discos Que Amigos!", "http://www.tenhomaisdiscosqueamigos.com/", "rock"),
+ ("Tribhus Blog", "https://tribhus.com/blog", "geral"),
  ("Venenos do Rock", "https://www.venenosdorock.com.br/", "rock"), ("Whiplash", "http://whiplash.net/", "metal"), ("Wikimetal", "https://www.wikimetal.com.br/", "metal"),
- ("Um Outro Lado da Música", "https://umoutroladodamusica.com.br/", "geral"), ("Noize", "https://www.noize.com.br/", "geral"), ("Igor Miranda", "https://igormiranda.com.br/", "geral"),
+ ("Um Outro Lado da Música", "https://umoutroladodamusica.com.br/", "geral"), ("Igor Miranda", "https://igormiranda.com.br/", "geral"),
  ("Rap Mais", "https://portalrapmais.com/", "rap"), ("Trapground", "https://www.trapground.com.br/", "rap"), ("Sertanejo Oficial", "https://www.sertanejooficial.com.br/", "sertanejo"),
  ("Sambabook", "https://sambabook.com.br/", "samba"), ("MPBNet", "https://www.mpbnet.com.br/", "samba"),
  ("Dicionário Cravo Albin da MPB", "https://dicionariompb.com.br/", "ref"), ("IMMuB", "https://immub.org/", "ref"), ("Rádio Batuta (IMS)", "https://radiobatuta.ims.com.br/", "ref"),
@@ -608,18 +617,20 @@ CREATORS = [
  ("Isis Correia", "isiscorreia", "crit"), ("Jessica Valentim", "jessvlntm", "crit"), ("José Norberto Flesch", "jnflesch", "crit"), ("Leo Ronki", "leoronki", "crit"),
  ("Marcella Lasneaux", "amagricella", "crit"), ("Mari Stefani", "maristefani", "crit"), ("Matheus Emekatê", "matheus.emekate", "crit"), ("Paolla Raven", "paollaraven", "crit"),
  ("Patricia Palumbo", "patriciapalumbo", "crit"), ("Raphaella Santucci", "raphaellasantucci", "crit"), ("Silvia Tancredi", "silviavtancredi", "crit"), ("Sylvia Süssekind", "sussekind", "crit"),
- ("Tarso Oliveira", "tarsooliveira", "crit"), ("Thiago de Souza", "canaldothiagson", "crit"),
+ ("Tarso Oliveira", "tarsooliveira", "crit"), ("Thiago de Souza", "canaldothiagson", "crit"), ("Gustavo Chagas", "gustavodaschagas", "crit"),
  ("Bruna Paulin", "brunapaulin", "crit"), ("Mayse Bertani", "maysebertani", "crit"),
  ("Daiany Dezembro", "possotocar_dd", "edu"), ("Daniel Bertamini", "danielbertamini", "edu"), ("Elize Fleury", "elizefleury", "edu"), ("Felipe Vassão", "felipevassao", "edu"),
  ("Gabrilhoes", "gabrilhoes", "edu"), ("Henrique Guedes", "omagodamusica", "edu"), ("Jessica Waltrick", "jessvocalcoach", "edu"), ("Júlia Rezende", "julia.rznd", "edu"),
  ("Leo David", "euleodavid", "edu"), ("Marcio Guerra", "marcioguerracan", "edu"), ("Rafael Bittencourt", "rbittencourton", "edu"), ("Rick Bonadio", "rickbonadio", "edu"),
  ("Tico Fahur", "ticofahur", "edu"), ("Thiago Vitório", "thivitorio", "edu"), ("Kevinho do Acordeon", "kevinhodoacordeon", "edu"),
- ("MariMoon", "marimoon", "vj"), ("Gastão Moreira", "kazagastao", "vj"), ("Fabio Massari", "", "vj"), ("Luiz Thunderbird", "luizthunderbird", "vj"), ("Edgard Piccoli", "edgardpiccoli", "vj"), ("Sarah Oliveira", "saraholiveira", "vj"), ("Chuck Hipolitho", "chuckhipolitho", "vj"), ("Roberta Martinelli", "", "vj"), ("Terence Machado", "", "vj"),
+ ("MariMoon", "marimoon", "vj"), ("Gastão Moreira", "kazagastao", "vj"), ("Fabio Massari", "", "vj"), ("Luiz Thunderbird", "luizthunderbird", "vj"), ("Edgard Piccoli", "edgardpiccoli", "vj"), ("Sarah Oliveira", "saraholiveira", "vj"), ("Chuck Hipolitho", "chuckhipolitho", "vj"), ("Roberta Martinelli", "", "vj"), ("Terence Machado", "", "vj"), ("Rafaella Rondelli", "rafaellarondelli", "vj"),
  ("Eduardo Seabra", "eddyseabra", "edu"), ("Paulo Anhaia", "paulo_anhaia", "edu"),
 ]
 
 # foco de cada criador, só quando confirmado (os demais mostram a frase do grupo)
 CREATOR_FOCUS = {
+ "Gustavo Chagas": ("Criador de conteúdo do Toca (UOL) e curador no Groover e no Novos Flows; fala de música.", "A content creator for Toca (UOL) and a curator on Groover and Novos Flows; he talks about music."),
+ "Rafaella Rondelli": ("Jornalista e apresentadora do Do Balacobaco 2.Zé, na 89 A Rádio Rock.", "A journalist and presenter of Do Balacobaco 2.Zé on 89 A Rádio Rock."),
  "Gastão Moreira": ("Ex-VJ da MTV Brasil; mantém o canal Kazagastão, sobre rock e cultura pop, no YouTube.", "Former MTV Brasil VJ; runs Kazagastão, a YouTube channel about rock and pop culture."),
  "Fabio Massari": ("Ex-VJ da MTV Brasil (1991–2003), o \"Reverendo\"; jornalista musical que colabora com o canal Kazagastão.", "Former MTV Brasil VJ (1991–2003), known as \"Reverendo\"; a music journalist who contributes to the Kazagastão channel."),
  "Luiz Thunderbird": ("Ex-VJ da MTV Brasil, músico e DJ; mantém o canal e podcast Music Thunder Vision.", "Former MTV Brasil VJ, musician and DJ; runs the channel and podcast Music Thunder Vision."),
@@ -704,7 +715,7 @@ UI = {
   vSeason="Temp.", vYear="Ano", vWinner="Vencedor(a)", vCoach="Técnico(a)", vFinal="Outros finalistas", alumni="Revelou", org="Organiza", years="Anos", net="Emissora",
   instrH="Instrumentos brasileiros", instrDesc="{n} instrumentos brasileiros explicados, e os instrumentos populares que a música brasileira também usa.", instrLead="O que você está ouvindo: os instrumentos que dão identidade a cada gênero brasileiro e, no fim, os instrumentos populares no mundo todo que a música brasileira adotou à sua maneira.", instrPopH="Instrumentos populares na música brasileira", instrPopLead="Instrumentos tocados no mundo todo que ganharam sotaque próprio no Brasil.", kinds=dict(perc="Percussão", cordas="Cordas", sopro="Sopro", teclas="Teclas"), usedIn="Onde aparece",
   glossH="Glossário da música brasileira", glossDesc="{n} termos da música brasileira explicados para quem está começando.", glossLead="Palavras que você vai ouvir em letras, shows e conversas, e o que elas querem dizer.",
-  mediaH="Mídia musical brasileira", mediaDesc="Sites, revistas e blogs brasileiros sobre música.", mediaLead="Onde acompanhar a música brasileira hoje: sites, revistas e blogs em atividade, e um registro dos sites que já saíram do ar.", mBlogs="Sites e blogs em atividade", mCreators="Criadores de conteúdo", mVj="VJs e apresentadores", mCrit="Jornalistas e críticos", mEdu="Instrumentistas, produtores e professores", mChan="Canais de ensino no YouTube", mGone="Registro: sites desativados", focus=dict(geral="Geral", rock="Rock", metal="Metal", indie="Indie", pop="Pop", rap="Rap", sertanejo="Sertanejo", samba="Samba e MPB", ref="Referência"),
+  mediaH="Mídia musical brasileira", mediaDesc="Sites, revistas e blogs brasileiros sobre música.", mediaLead="Onde acompanhar a música brasileira hoje: sites, revistas e blogs em atividade, e um registro dos sites que já saíram do ar.", mMain="Grande mídia musical", mBlogs="Mídia alternativa: sites de gênero e blogs", mCreators="Criadores de conteúdo", mVj="VJs e apresentadores", mCrit="Jornalistas e críticos", mEdu="Instrumentistas, produtores e professores", mChan="Canais de ensino no YouTube", mGone="Registro: sites desativados", focus=dict(geral="Geral", rock="Rock", metal="Metal", indie="Indie", pop="Pop", rap="Rap", sertanejo="Sertanejo", samba="Samba e MPB", ref="Referência"),
   aboutH="Sobre o catálogo", aboutDesc="O que é o catálogo Música Brasileira, como o conteúdo se organiza e como citar.",
   about=[
    ("O que é", "Música Brasileira é um catálogo bilíngue da música do Brasil para quem chega de fora e para quem é de casa. Em vez de opinião, ficha: cada gênero, artista, música, disco e instrumento recebe uma entrada curta, objetiva e localizável."),
@@ -767,7 +778,7 @@ UI = {
   vSeason="Season", vYear="Year", vWinner="Winner", vCoach="Coach", vFinal="Other finalists", alumni="Launched", org="Organizer", years="Years", net="Network",
   instrH="Brazilian instruments", instrDesc="{n} Brazilian instruments explained, plus the popular instruments Brazilian music also uses.", instrLead="What you are hearing: the instruments that give each Brazilian genre its identity and, at the end, the instruments played worldwide that Brazilian music made its own.", instrPopH="Popular instruments in Brazilian music", instrPopLead="Instruments played all over the world that took on a Brazilian accent.", kinds=dict(perc="Percussion", cordas="Strings", sopro="Winds", teclas="Keys"), usedIn="Where it appears",
   glossH="Brazilian music glossary", glossDesc="{n} Brazilian music terms explained for beginners.", glossLead="Words you will hear in lyrics, concerts and conversations, and what they mean.",
-  mediaH="Brazilian music media", mediaDesc="Brazilian music websites, magazines and blogs.", mediaLead="Where to follow Brazilian music today: active sites, magazines and blogs, and a record of the sites that have gone offline.", mBlogs="Active sites and blogs", mCreators="Content creators", mVj="VJs and presenters", mCrit="Journalists and critics", mEdu="Musicians, producers and teachers", mChan="Teaching channels on YouTube", mGone="Record: sites no longer online", focus=dict(geral="General", rock="Rock", metal="Metal", indie="Indie", pop="Pop", rap="Rap", sertanejo="Sertanejo", samba="Samba and MPB", ref="Reference"),
+  mediaH="Brazilian music media", mediaDesc="Brazilian music websites, magazines and blogs.", mediaLead="Where to follow Brazilian music today: active sites, magazines and blogs, and a record of the sites that have gone offline.", mMain="Major music media", mBlogs="Alternative media: genre sites and blogs", mCreators="Content creators", mVj="VJs and presenters", mCrit="Journalists and critics", mEdu="Musicians, producers and teachers", mChan="Teaching channels on YouTube", mGone="Record: sites no longer online", focus=dict(geral="General", rock="Rock", metal="Metal", indie="Indie", pop="Pop", rap="Rap", sertanejo="Sertanejo", samba="Samba and MPB", ref="Reference"),
   aboutH="About the catalogue", aboutDesc="What the Brazilian Music catalogue is, how its content is organised and how to cite it.",
   about=[
    ("What it is", "Brazilian Music is a bilingual catalogue of Brazil's music for newcomers and for Brazilians alike. Instead of opinion, cards: every genre, artist, song, album and instrument gets a short, objective, findable entry."),

@@ -132,6 +132,7 @@ MOTIF_KEYS = ["tri", "tri", "quarter", "quarter", "half", "dot", "corner", "bar"
 def mosaic(cols, rows, bg, inks, seed, cls="mosaic", density=.82, anim=True, label=""):
     """SVG de cols×rows azulejos. bg = cor do azulejo; inks = cores dos motivos (escolhidas ao acaso)."""
     r = _rnd.Random(seed)
+    cls = f"{cls} anim" if anim else cls
     out = [f'<svg class="{cls}" viewBox="0 0 {cols} {rows}" preserveAspectRatio="{'xMinYMin slice' if rows == 1 else 'xMidYMid slice'}" aria-hidden="true" role="img"{" aria-label=" + chr(34) + e(label) + chr(34) if label else ""}>',
            f'<rect width="{cols}" height="{rows}" fill="{bg}"/>']
     for y in range(rows):
@@ -147,11 +148,11 @@ def mosaic(cols, rows, bg, inks, seed, cls="mosaic", density=.82, anim=True, lab
     return "".join(out)
 
 
-def strip(seed, bg, inks, cols=36, cls="tstrip"):
+def strip(seed, bg, inks, cols=36, cls="tstrip", anim=False):
     """Faixa de azulejos: desenha azulejos de sobra e o CSS mostra só azulejos inteiros (largura múltipla do lado do azulejo)."""
     if "foot" not in cls and cols < 80:
         cols = 80
-    return mosaic(cols, 1, bg, inks, seed, cls=cls, density=.9)
+    return mosaic(cols, 1, bg, inks, seed, cls=cls, density=.9, anim=anim)
 
 
 FLAG_INKS = ["#fedd00", "#ffffff", "#012169"]
@@ -289,7 +290,7 @@ def other(lang, key):
 
 
 def head_block(kicker, h1, lead, extra="", seed=5):
-    return f'<div class="page-head"><span class="kicker mono">{kicker}</span><h1>{h1}</h1><p class="lead">{e(lead)}</p>{extra}{strip(seed, "#007d36", FLAG_INKS, cols=40, cls="tstrip head-strip")}</div>'
+    return f'<div class="page-head"><span class="kicker mono">{kicker}</span><h1>{h1}</h1><p class="lead">{e(lead)}</p>{extra}{strip(seed, "#007d36", FLAG_INKS, cols=40, cls="tstrip head-strip", anim=True)}</div>'
 
 
 def chips(pg, depth, ids, cls="chips"):
@@ -629,13 +630,11 @@ def page_awards(pg):
     aw = "".join(f'<article class="card"><span class="mono code">{e(tt["since"])} {a["since"]}</span><h3><a href="{IT.iurl(pg, 0, "aw", a["slug"])}">{e(a["name"])}</a></h3><div class="meta mono">{e(tt["org"])}: {e(t(a["org"], lang))}</div><p>{e(t(a["blurb"], lang))}</p></article>' for a in C.AWARDS)
     fe = "".join(f'<article class="card"><span class="mono code">{e(tt["since"])} {f["since"]} · {e(f["city"])}</span><h3><a href="{IT.iurl(pg, 0, "fe", f["slug"])}">{e(f["name"])}</a></h3><p>{e(t(f["blurb"], lang))}</p></article>' for f in sorted(C.FESTIVALS, key=lambda f: f["since"]))
     sh = "".join(f'<article class="card"><span class="mono code">{e(s["net"])} · {e(s["years"])}</span><h3><a href="{IT.iurl(pg, 0, "sh", s["slug"])}">{e(s["name"])}</a></h3><p>{e(t(s["blurb"], lang))}</p>{f"<div class=meta><b>{e(tt['alumni'])}:</b> {', '.join(IT.link_name(pg, 0, x) for x in s['alumni'])}</div>" if s["alumni"] else ""}</article>' for s in C.SHOWS)
-    rows = "".join(f'<tr><td class="mono">{n}</td><td class="mono">{y}</td><td><b>{IT.link_name(pg, 0, w)}</b></td><td>{IT.link_name(pg, 0, c)}</td><td>{", ".join(IT.link_name(pg, 0, x.strip()) for x in fi.split(","))}</td></tr>' for n, y, w, c, fi in C.VOICE)
     body = f"""<div class="wrap">{head_block(f'{len(C.AWARDS)} + {len(C.FESTIVALS)} + {len(C.SHOWS)}', e(tt["awardsH"]), tt["awardsLead"], seed=61)}
-<nav class="subnav mono"><a href="#awards">{e(tt['awA'])}</a><a href="#festivals">{e(tt['awF'])}</a><a href="#shows">{e(tt['awS'])}</a><a href="#voice">The Voice Brasil</a></nav>
+<nav class="subnav mono"><a href="#awards">{e(tt['awA'])}</a><a href="#festivals">{e(tt['awF'])}</a><a href="#shows">{e(tt['awS'])}</a></nav>
 <section class="sec-in" id="awards"><h2>{e(tt['awA'])}</h2><div class="cards3">{aw}</div></section>
 <section class="sec-in" id="festivals"><h2>{e(tt['awF'])}</h2><div class="cards3">{fe}</div></section>
-<section class="sec-in" id="shows"><h2>{e(tt['awS'])}</h2><div class="cards3">{sh}</div></section>
-<section class="sec-in" id="voice"><h2>{e(tt['voiceH'])}</h2><div class="tablewrap"><table class="voice"><thead><tr><th>{e(tt['vSeason'])}</th><th>{e(tt['vYear'])}</th><th>{e(tt['vWinner'])}</th><th>{e(tt['vCoach'])}</th><th>{e(tt['vFinal'])}</th></tr></thead><tbody>{rows}</tbody></table></div></section></div>"""
+<section class="sec-in" id="shows"><h2>{e(tt['awS'])}</h2><div class="cards3">{sh}</div></section></div>"""
     pg.write(pg.p["awards"], other(lang, "awards"), 0, tt["awardsH"], tt["awardsDesc"], body, "awards", kind="CollectionPage")
 
 
@@ -663,9 +662,14 @@ def page_glossary(pg):
 
 def page_media(pg):
     lang, tt = pg.lang, pg.t
-    body = f'<div class="wrap">{head_block(f"{len(C.BLOGS)} sites", e(tt["mediaH"]), tt["mediaLead"], seed=91)}<section class="sec-in"><h2>{e(tt["mBlogs"])}</h2>'
+    main = "".join(f'<article class="mcard"><h3><a href="{u}" target="_blank" rel="noopener">{e(n)} ↗</a></h3><p>{e(t(d, lang))}</p></article>' for n, u, d in C.MAINSTREAM)
+    body = (f'<div class="wrap">{head_block(f"{len(C.MAINSTREAM) + len(C.BLOGS)} sites", e(tt["mediaH"]), tt["mediaLead"], seed=91)}'
+            f'<section class="sec-in"><h2>{e(tt["mMain"])} <span class="mono small">{len(C.MAINSTREAM)}</span></h2><div class="mgrid">{main}</div></section>'
+            f'<section class="sec-in"><h2>{e(tt["mBlogs"])} <span class="mono small">{len(C.BLOGS)}</span></h2>')
     for foc in ("geral", "samba", "sertanejo", "rap", "rock", "metal", "indie", "pop", "ref"):
         items = [b for b in C.BLOGS if b[2] == foc]
+        if not items:
+            continue
         body += f'<h3 class="mono">{e(tt["focus"][foc])}</h3><div class="chips big">' + "".join(f'<a class="chip plain" href="{u}" target="_blank" rel="noopener">{e(n)} ↗</a>' for n, u, _ in items) + "</div>"
     body += '</section>'
     body += f'<section class="sec-in"><h2>{e(tt["mGone"])}</h2><p class="mono small gone">{e(" · ".join(C.BLOGS_GONE))}</p></section></div>'
@@ -696,10 +700,7 @@ def page_404(pg):
 
 def footer_tiles():
     svg = strip(99, "#012169", ["#fedd00", "#007d36", "#ffffff"], cols=48, cls="foot").replace('<svg class="foot"', '<svg xmlns="http://www.w3.org/2000/svg"', 1)
-    css = ("<style>.tin{transform-box:fill-box;transform-origin:center;animation:tturn var(--p,14s) cubic-bezier(.6,0,.2,1) infinite;animation-delay:calc(var(--d,0s) * -1)}"
-           "@keyframes tturn{0%,21%{transform:rotate(0)}25%,46%{transform:rotate(90deg)}50%,71%{transform:rotate(180deg)}75%,96%{transform:rotate(270deg)}100%{transform:rotate(360deg)}}"
-           "@media (prefers-reduced-motion:reduce){.tin{animation:none}}</style>")
-    svg = svg.replace(" aria-hidden=\"true\" role=\"img\">", ">" + css, 1)
+    svg = svg.replace(" aria-hidden=\"true\" role=\"img\">", ">", 1)  # rodapé estático, sem animação
     open(os.path.join(ROOT, "assets", "footer-tiles.svg"), "w", encoding="utf8", newline="\n").write(svg)
 
 

@@ -1,6 +1,6 @@
 # Brazilian Music (Música Brasileira)
 
-> +160 genres and subgenres, +2,400 music artists, +1,700 songs and +350 albums: Brazilian music catalogued in English and Portuguese.
+> +160 genres and subgenres, +2,500 music artists, +1,700 songs and +350 albums: Brazilian music catalogued in English and Portuguese.
 
 Brazilian Music (Música Brasileira) is a free, bilingual catalogue of Brazilian music, part of BiblioVerse. English lives at the root and Brazilian Portuguese at /pt/. Every artist, person, subgenre, award, festival and TV show has its own page with links to Wikipedia, Spotify, Last.fm and YouTube. Artists are ranked in three tiers: S (legend), A (giant) and B (reference). Song and album credits name the performers, not the composers. Last updated: 2026-11-14.
 
@@ -222,7 +222,7 @@ Carlos Gomes premiered 'O Guarani' at La Scala in 1870; Heitor Villa-Lobos made 
 - [Romanticism](https://brazilianmusic.biblioverse.org/subgenres/classica-romantica.html) (since 1861): Opera and parlour music of the Empire: Carlos Gomes of 'O Guarani', and Alberto Nepomuceno.
 - [Nationalism](https://brazilianmusic.biblioverse.org/subgenres/classica-nacionalista.html) (since 1910): Villa-Lobos, Mignone, Camargo Guarnieri and Guerra-Peixe used popular rhythms and melodies in concert music.
 - [Contemporary music](https://brazilianmusic.biblioverse.org/subgenres/classica-contemporanea.html) (since 1963): From Gilberto Mendes's Música Nova manifesto (1963) to Marlos Nobre and Almeida Prado.
-- [Performers and orchestras](https://brazilianmusic.biblioverse.org/subgenres/classica-interpretes.html) (since 1911): Guiomar Novaes, Bidu Sayão, Nelson Freire, João Carlos Martins, Antonio Meneses and OSESP.
+- [Performers, orchestras and choirs](https://brazilianmusic.biblioverse.org/subgenres/classica-interpretes.html) (since 1911): Guiomar Novaes, Bidu Sayão, Nelson Freire, João Carlos Martins, Antonio Meneses and OSESP.
 
 ### [Folk Traditions](https://brazilianmusic.biblioverse.org/genres/regional.html) (since 1800)
 
@@ -259,7 +259,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 
 ## Artists
 
-### Samba (144)
+### Samba (151)
 
 - [Francisco Alves](https://brazilianmusic.biblioverse.org/artists/francisco-alves.html): Solo · Rio de Janeiro · debut 1919 · tier S (Legend). Samba-canção, Samba-exaltação. The "King of Voice", the greatest singer of the radio era; first to record "Aquarela do Brasil" (1939).
 - [Carmen Miranda](https://brazilianmusic.biblioverse.org/artists/carmen-miranda.html): Solo · Rio de Janeiro · debut 1929 · tier S (Legend). Samba-canção, Carnival marchinhas. The "Brazilian Bombshell" took samba and marchinhas to Hollywood in the 1940s.
@@ -326,6 +326,8 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Wilson Batista](https://brazilianmusic.biblioverse.org/artists/wilson-batista.html): Solo · Rio de Janeiro · tier A (Giant). Roots samba. Composer of "Chico Brito" and of the famous song feud with Noel Rosa.
 - [Zimbo Trio](https://brazilianmusic.biblioverse.org/artists/zimbo-trio.html): Band · São Paulo · tier A (Giant). Samba-jazz. São Paulo samba-jazz trio.
 - [Moreira da Silva](https://brazilianmusic.biblioverse.org/artists/moreira-da-silva.html): Solo · Rio de Janeiro · debut 1934 · tier B (Reference). Roots samba, Samba de breque. Creator of samba de breque, with pauses for streetwise spoken lines.
+- [Orquestra Tabajara](https://brazilianmusic.biblioverse.org/artists/orquestra-tabajara.html): Group · Paraíba · debut 1934 · tier B (Reference). Samba de gafieira. Severino Araújo's orchestra, the reference for gafieira dances; founded in 1934 in João Pessoa.
+- [Riachão](https://brazilianmusic.biblioverse.org/artists/riachao.html): Solo · Bahia · debut 1943 · tier B (Reference). Roots samba. Nominated for the Latin Grammy for Best Samba/Pagode Album.
 - [Dolores Duran](https://brazilianmusic.biblioverse.org/artists/dolores-duran.html): Solo · Rio de Janeiro · debut 1952 · tier B (Reference). Samba-canção. Songwriter and singer of "A Noite do Meu Bem" and "Por Causa de Você".
 - [Zé Kéti](https://brazilianmusic.biblioverse.org/artists/ze-keti.html): Solo · Rio de Janeiro · debut 1955 · tier B (Reference). Roots samba. "A Voz do Morro" and "Máscara Negra".
 - [Originais do Samba](https://brazilianmusic.biblioverse.org/artists/originais-do-samba.html): Group · Rio de Janeiro · debut 1960 · tier B (Reference). Roots samba. The group where Mussum, of Os Trapalhões, started.
@@ -341,8 +343,11 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Soweto](https://brazilianmusic.biblioverse.org/artists/soweto.html): Band · São Paulo · debut 1991 · tier B (Reference). Romantic pagode. The romantic pagode group that revealed Belo.
 - [Pixote](https://brazilianmusic.biblioverse.org/artists/pixote.html): Band · São Paulo · debut 1993 · tier B (Reference). Romantic pagode. São Paulo pagode with "Insegurança".
 - [Teresa Cristina](https://brazilianmusic.biblioverse.org/artists/teresa-cristina.html): Solo · Rio de Janeiro · debut 1998 · tier B (Reference). Roots samba. Interpreter from Rio's Lapa and of the pandemic samba livestreams.
+- [Monobloco](https://brazilianmusic.biblioverse.org/artists/monobloco.html): Band · Rio de Janeiro · debut 2000 · tier B (Reference). Roots samba. Nominated for the Latin Grammy for Best Samba/Pagode Album.
+- [Inimigos da HP](https://brazilianmusic.biblioverse.org/artists/inimigos-da-hp.html): Group · debut 2001 · tier B (Reference). Pagode. Nominated for the Latin Grammy for Best Samba/Pagode Album.
 - [Diogo Nogueira](https://brazilianmusic.biblioverse.org/artists/diogo-nogueira.html): Solo · Rio de Janeiro · debut 2007 · tier B (Reference). Roots samba, Pagode. João Nogueira's son; roots samba for new generations.
 - [Oba Oba Samba House](https://brazilianmusic.biblioverse.org/artists/oba-oba-samba-house.html): Band · São Paulo · debut 2012 · tier B (Reference). Pagode, Pagonejo. A Ribeirão Preto group mixing samba and house; albums "Pagofunk" (2016) and "Pagonejo" (2018).
+- [Anaí Rosa](https://brazilianmusic.biblioverse.org/artists/anai-rosa.html): Solo · tier B (Reference). Roots samba. Nominated for the Latin Grammy for Best Samba/Pagode Album.
 - [Anísio Silva](https://brazilianmusic.biblioverse.org/artists/anisio-silva.html): Solo · Bahia · tier B (Reference). Samba-canção. A romantic bolero singer and a top seller in the late 1950s.
 - [Arlindinho](https://brazilianmusic.biblioverse.org/artists/arlindinho.html): Solo · Rio de Janeiro · tier B (Reference). Pagode, Roots samba. Singer-songwriter, son of Arlindo Cruz.
 - [Atitude 67](https://brazilianmusic.biblioverse.org/artists/atitude-67.html): Band · São Paulo · tier B (Reference). Pagode. Campinas group mixing pagode, pop and reggae.
@@ -350,6 +355,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Beto sem Braço](https://brazilianmusic.biblioverse.org/artists/beto-sem-braco.html): Solo · Rio de Janeiro · tier B (Reference). Samba-enredo. A singer and songwriter, one of the great names of Império Serrano.
 - [Billy Blanco](https://brazilianmusic.biblioverse.org/artists/billy-blanco.html): Solo · Pará · tier B (Reference). Samba-canção, Bossa nova. A songwriter from Pará, of "Tereza da Praia" with Tom Jobim and the "Sinfonia do Rio de Janeiro".
 - [Bokaloka](https://brazilianmusic.biblioverse.org/artists/bokaloka.html): Band · Rio de Janeiro · tier B (Reference). Romantic pagode. A pagode group from Rio, also spelled Boka Loka; it started as Água na Boca and took its name in 1999. The live album "Bokaloka de Verdade" (2001) went gold: "Mais Uma Chance", "Não Pedi pra Me Apaixonar".
+- [Cláudio Jorge](https://brazilianmusic.biblioverse.org/artists/claudio-jorge.html): Solo · Rio de Janeiro · tier B (Reference). Roots samba. Nominated for the Latin Grammy for Best Samba/Pagode Album.
 - [Cristina Buarque](https://brazilianmusic.biblioverse.org/artists/cristina-buarque.html): Solo · São Paulo · tier B (Reference). Roots samba. A singer and researcher who preserved the memory of Rio and São Paulo samba.
 - [Dicró](https://brazilianmusic.biblioverse.org/artists/dicro.html): Solo · Rio de Janeiro · tier B (Reference). Roots samba. A singer of satirical sambas, in the line of Moreira da Silva and Bezerra da Silva.
 - [Doce Encontro](https://brazilianmusic.biblioverse.org/artists/doce-encontro.html): Band · tier B (Reference). Romantic pagode. A 1990s romantic pagode group.
@@ -381,13 +387,14 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Mumuzinho](https://brazilianmusic.biblioverse.org/artists/mumuzinho.html): Solo · Rio de Janeiro · tier B (Reference). Pagode. Pagode and TV; a coach on The Voice Kids.
 - [Nei Lopes](https://brazilianmusic.biblioverse.org/artists/nei-lopes.html): Solo · Rio de Janeiro · tier B (Reference). Roots samba, Partido-alto. Composer, writer and researcher of Afro-Brazilian culture.
 - [Nelson Sargento](https://brazilianmusic.biblioverse.org/artists/nelson-sargento.html): Solo · Rio de Janeiro · tier B (Reference). Roots samba. A Mangueira sambista, composer of "Agoniza Mas Não Morre".
+- [Nilze Carvalho](https://brazilianmusic.biblioverse.org/artists/nilze-carvalho.html): Solo · Rio de Janeiro · tier B (Reference). Roots samba. Nominated for the Latin Grammy for Best Samba/Pagode Album.
 - [Noite Ilustrada](https://brazilianmusic.biblioverse.org/artists/noite-ilustrada.html): Solo · Minas Gerais · tier B (Reference). Roots samba. A singer and guitarist who recorded Paulo Vanzolini's "Volta por Cima".
 - [Nora Ney](https://brazilianmusic.biblioverse.org/artists/nora-ney.html): Solo · Rio de Janeiro · tier B (Reference). Samba-canção. Samba-canção singer of "Ninguém Me Ama" (1952).
 - [Noriel Vilela](https://brazilianmusic.biblioverse.org/artists/noriel-vilela.html): Solo · Rio de Janeiro · tier B (Reference). Samba-rock. A deep-bass voice that joined samba-rock with Afro-Brazilian religious themes: "Só o Ôme".
 - [Orlandivo](https://brazilianmusic.biblioverse.org/artists/orlandivo.html): Solo · tier B (Reference). Sambalanço. Singer-songwriter who defined 1960s sambalanço.
-- [Orquestra Tabajara](https://brazilianmusic.biblioverse.org/artists/orquestra-tabajara.html): Group · tier B (Reference). Samba de gafieira. Severino Araújo's orchestra, the reference for gafieira dances.
 - [Os Travessos](https://brazilianmusic.biblioverse.org/artists/os-travessos.html): Band · São Paulo · tier B (Reference). Romantic pagode. The pagode group that revealed Rodriguinho.
 - [Otília Amorim](https://brazilianmusic.biblioverse.org/artists/otilia-amorim.html): Solo · Rio de Janeiro · tier B (Reference). Roots samba. A revue-theatre actress and singer born in 1894, one of the first voices of samba on record.
+- [Pedro Miranda](https://brazilianmusic.biblioverse.org/artists/pedro-miranda.html): Solo · Rio de Janeiro · tier B (Reference). Roots samba. Nominated for the Latin Grammy for Best Samba/Pagode Album.
 - [Pique Novo](https://brazilianmusic.biblioverse.org/artists/pique-novo.html): Band · tier B (Reference). Romantic pagode. A 1990s romantic pagode group.
 - [Pretinho da Serrinha](https://brazilianmusic.biblioverse.org/artists/pretinho-da-serrinha.html): Solo · Rio de Janeiro · tier B (Reference). Roots samba. A samba singer, percussionist, arranger and producer.
 - [Reinaldo](https://brazilianmusic.biblioverse.org/artists/reinaldo.html): Solo · Rio de Janeiro · tier B (Reference). Romantic pagode, Pagode. The "Prince of Pagode", one of the forerunners of romantic pagode in the 1980s.
@@ -425,7 +432,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Rabo de Lagartixa](https://brazilianmusic.biblioverse.org/artists/rabo-de-lagartixa.html): Group · tier B (Reference). Choro. A choro group.
 - [Xisto Bahia](https://brazilianmusic.biblioverse.org/artists/xisto-bahia.html): Solo · Bahia · tier B (Reference). Modinha and lundu. 19th-century Bahian actor and composer of lundus such as "Isto É Bom".
 
-### Bossa Nova (24)
+### Bossa Nova (26)
 
 - [Tom Jobim](https://brazilianmusic.biblioverse.org/artists/tom-jobim.html): Solo · Rio de Janeiro · debut 1956 · tier S (Legend). Bossa nova, Festival-era MPB. The most recorded Brazilian composer in the world: "The Girl from Ipanema", "Águas de Março", "Wave".
 - [Vinicius de Moraes](https://brazilianmusic.biblioverse.org/artists/vinicius-de-moraes.html): Solo · Rio de Janeiro · debut 1956 · tier S (Legend). Bossa nova, Festival-era MPB, Afro-samba. The "poetinha": bossa nova's lyricist and partner of Jobim, Baden and Toquinho.
@@ -443,7 +450,9 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Leny Andrade](https://brazilianmusic.biblioverse.org/artists/leny-andrade.html): Solo · Rio de Janeiro · debut 1958 · tier B (Reference). Bossa nova, Samba-jazz. The "first lady of Brazilian jazz".
 - [Joyce Moreno](https://brazilianmusic.biblioverse.org/artists/joyce-moreno.html): Solo · Rio de Janeiro · debut 1968 · tier B (Reference). Bossa nova. Guitarist and songwriter with a career in Japan and Europe.
 - [Bebel Gilberto](https://brazilianmusic.biblioverse.org/artists/bebel-gilberto.html): Solo · Rio de Janeiro · debut 1986 · tier B (Reference). Bossa nova, New MPB. "Tanto Tempo" (2000) renewed bossa nova for a global audience.
+- [Bossacucanova](https://brazilianmusic.biblioverse.org/artists/bossacucanova.html): Band · debut 1999 · tier B (Reference). Bossa nova. Nominated for the Latin Grammy for Best Portuguese Language Contemporary Pop Album.
 - [Alaíde Costa](https://brazilianmusic.biblioverse.org/artists/alaide-costa.html): Solo · Rio de Janeiro · tier B (Reference). Bossa nova, Festival-era MPB. A delicate bossa nova voice with a career of more than six decades.
+- [Celso Fonseca](https://brazilianmusic.biblioverse.org/artists/celso-fonseca.html): Solo · Rio de Janeiro · tier B (Reference). Bossa nova. Nominated for the Latin Grammy for Best Portuguese Language Song and the Latin Grammy for Best MPB Album.
 - [Claudette Soares](https://brazilianmusic.biblioverse.org/artists/claudette-soares.html): Solo · Rio de Janeiro · tier B (Reference). Bossa nova. A Rio singer of bossa nova and MPB.
 - [Maria Creuza](https://brazilianmusic.biblioverse.org/artists/maria-creuza.html): Solo · Bahia · tier B (Reference). Bossa nova. A singer from Bahia who toured with Vinicius de Moraes and Toquinho.
 - [Miúcha](https://brazilianmusic.biblioverse.org/artists/miucha.html): Solo · Rio de Janeiro · tier B (Reference). Bossa nova. Chico Buarque's sister and Bebel Gilberto's mother; recorded with Tom Jobim and Stan Getz.
@@ -452,7 +461,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Sylvia Telles](https://brazilianmusic.biblioverse.org/artists/sylvia-telles.html): Solo · Rio de Janeiro · tier B (Reference). Bossa nova. One of bossa nova's great interpreters; she died in 1966, aged 32.
 - [Wanda Sá](https://brazilianmusic.biblioverse.org/artists/wanda-sa.html): Solo · São Paulo · tier B (Reference). Bossa nova. A bossa nova guitarist and singer.
 
-### MPB (140)
+### MPB (160)
 
 - [Elis Regina](https://brazilianmusic.biblioverse.org/artists/elis-regina.html): Solo · Rio Grande do Sul · debut 1961 · tier S (Legend). Festival-era MPB. The "Pimentinha": MPB's greatest interpreter; "Arrastão", "Águas de Março", "Como Nossos Pais".
 - [Gilberto Gil](https://brazilianmusic.biblioverse.org/artists/gilberto-gil.html): Solo · Bahia · debut 1962 · tier S (Legend). Tropicália, Festival-era MPB, Afoxé and ijexá. Tropicalist and former Minister of Culture: "Aquele Abraço", "Andar com Fé", "Palco".
@@ -492,17 +501,22 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Nana Caymmi](https://brazilianmusic.biblioverse.org/artists/nana-caymmi.html): Solo · Rio de Janeiro · debut 1960 · tier B (Reference). Festival-era MPB. Deep-voiced interpreter and Dorival Caymmi's daughter.
 - [MPB4](https://brazilianmusic.biblioverse.org/artists/mpb4.html): Group · Rio de Janeiro · debut 1965 · tier B (Reference). Festival-era MPB. A vocal group from Niterói with a long partnership with Chico Buarque.
 - [Antônio Carlos e Jocáfi](https://brazilianmusic.biblioverse.org/artists/antonio-carlos-e-jocafi.html): Duo · Bahia · debut 1969 · tier B (Reference). Festival-era MPB. A duo from Bahia, of "Você Abusou" and many soap-opera themes.
+- [Luiz Cláudio Ramos](https://brazilianmusic.biblioverse.org/artists/luiz-claudio-ramos.html): Solo · Rio de Janeiro · debut 1969 · tier B (Reference). Festival-era MPB. Nominated for the Latin Grammy for Best Arrangement.
+- [Banda de Pau e Corda](https://brazilianmusic.biblioverse.org/artists/banda-de-pau-e-corda.html): Band · debut 1972 · tier B (Reference). Festival-era MPB. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Geraldo Azevedo](https://brazilianmusic.biblioverse.org/artists/geraldo-azevedo.html): Solo · Pernambuco · debut 1972 · tier B (Reference). Festival-era MPB. "Dia Branco", "Táxi Lunar".
 - [Ednardo](https://brazilianmusic.biblioverse.org/artists/ednardo.html): Solo · Ceará · debut 1973 · tier B (Reference). Pessoal do Ceará. "Pavão Mysteriozo".
 - [Luiz Melodia](https://brazilianmusic.biblioverse.org/artists/luiz-melodia.html): Solo · Rio de Janeiro · debut 1973 · tier B (Reference). Festival-era MPB, Brazilian soul. "Pérola Negra", "Magrelinha".
 - [Simone](https://brazilianmusic.biblioverse.org/artists/simone.html): Solo · Bahia · debut 1973 · tier B (Reference). Festival-era MPB. "Então É Natal", "Começar de Novo".
 - [Fafá de Belém](https://brazilianmusic.biblioverse.org/artists/fafa-de-belem.html): Solo · Pará · debut 1975 · tier B (Reference). Festival-era MPB, Carimbó. Pará's voice in MPB: "Filho da Bahia", "Vermelho".
+- [Boca Livre](https://brazilianmusic.biblioverse.org/artists/boca-livre.html): Group · debut 1978 · tier B (Reference). Festival-era MPB. Nominated for a Grammy.
 - [Zizi Possi](https://brazilianmusic.biblioverse.org/artists/zizi-possi.html): Solo · São Paulo · debut 1978 · tier B (Reference). Festival-era MPB. "Perigo" and "Per Amore".
 - [Joanna](https://brazilianmusic.biblioverse.org/artists/joanna.html): Solo · Rio de Janeiro · debut 1979 · tier B (Reference). Festival-era MPB. A romantic interpreter with big hits in the 1980s and 1990s.
 - [Ângela Ro Ro](https://brazilianmusic.biblioverse.org/artists/angela-ro-ro.html): Solo · Rio de Janeiro · debut 1979 · tier B (Reference). Festival-era MPB. "Amor, Meu Grande Amor".
 - [Zélia Duncan](https://brazilianmusic.biblioverse.org/artists/zelia-duncan.html): Solo · Rio de Janeiro · debut 1990 · tier B (Reference). New MPB, Pop rock. "Catedral", "Pagu" with Rita Lee.
+- [Thalma de Freitas](https://brazilianmusic.biblioverse.org/artists/thalma-de-freitas.html): Solo · Rio de Janeiro · debut 1992 · tier B (Reference). New MPB. Nominated for a Grammy.
 - [Paulinho Moska](https://brazilianmusic.biblioverse.org/artists/paulinho-moska.html): Solo · Rio de Janeiro · debut 1993 · tier B (Reference). New MPB. "Pensando em Você" and "A Seta e o Alvo".
 - [Chico César](https://brazilianmusic.biblioverse.org/artists/chico-cesar.html): Solo · Paraíba · debut 1995 · tier B (Reference). New MPB. "Mama África", "À Primeira Vista".
+- [Patrícia Bastos](https://brazilianmusic.biblioverse.org/artists/patricia-bastos.html): Solo · Amapá · debut 1997 · tier B (Reference). New MPB. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Zeca Baleiro](https://brazilianmusic.biblioverse.org/artists/zeca-baleiro.html): Solo · Maranhão · debut 1997 · tier B (Reference). New MPB. "Salão de Beleza" and "Telegrama".
 - [Vanessa da Mata](https://brazilianmusic.biblioverse.org/artists/vanessa-da-mata.html): Solo · Mato Grosso · debut 2002 · tier B (Reference). New MPB. "Ai, Ai, Ai", "Boa Sorte/Good Luck" with Ben Harper.
 - [Maria Rita](https://brazilianmusic.biblioverse.org/artists/maria-rita.html): Solo · São Paulo · debut 2003 · tier B (Reference). New MPB, Roots samba. Elis Regina's daughter; "A Festa", "Cara Valente".
@@ -510,16 +524,20 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Roberta Sá](https://brazilianmusic.biblioverse.org/artists/roberta-sa.html): Solo · Rio Grande do Norte · debut 2005 · tier B (Reference). New MPB, Roots samba. Samba and MPB, from Natal to Rio.
 - [Mallu Magalhães](https://brazilianmusic.biblioverse.org/artists/mallu-magalhaes.html): Solo · São Paulo · debut 2007 · tier B (Reference). New MPB, Indie rock. Revealed on MySpace at 15; "Você Não Presta", "Velha e Louca".
 - [Tiago Iorc](https://brazilianmusic.biblioverse.org/artists/tiago-iorc.html): Solo · Federal District (Brasília) · debut 2008 · tier B (Reference). New MPB, Alternative pop. "Amei Te Ver", "Coisa Linda".
+- [5 a Seco](https://brazilianmusic.biblioverse.org/artists/5-a-seco.html): Band · debut 2009 · tier B (Reference). New MPB. Nominated for the Latin Grammy for Best MPB Album.
 - [Ellen Oléria](https://brazilianmusic.biblioverse.org/artists/ellen-oleria.html): Solo · Federal District (Brasília) · debut 2009 · tier B (Reference). New MPB. Won the first season of The Voice Brasil (2012) on Carlinhos Brown's team; she mixes jazz, samba, pop and hip-hop. Album "Re.trato" (2022).
 - [Maria Gadú](https://brazilianmusic.biblioverse.org/artists/maria-gadu.html): Solo · São Paulo · debut 2009 · tier B (Reference). New MPB. "Shimbalaiê" (2009).
 - [Tim Bernardes](https://brazilianmusic.biblioverse.org/artists/tim-bernardes.html): Solo · São Paulo · debut 2009 · tier B (Reference). New MPB, Indie rock. O Terno's voice; "Recomeçar" (2017) and a collaboration with Fleet Foxes.
 - [Marcelo Jeneci](https://brazilianmusic.biblioverse.org/artists/marcelo-jeneci.html): Solo · São Paulo · debut 2010 · tier B (Reference). New MPB. "Felicidade".
 - [Tulipa Ruiz](https://brazilianmusic.biblioverse.org/artists/tulipa-ruiz.html): Solo · São Paulo · debut 2010 · tier B (Reference). New MPB. "Efêmera", "Pedrinho".
+- [As Bahias e a Cozinha Mineira](https://brazilianmusic.biblioverse.org/artists/as-bahias-e-a-cozinha-mineira.html): Band · debut 2011 · tier B (Reference). New MPB. Nominated for the Latin Grammy for Best Portuguese Language Contemporary Pop Album.
 - [Ayrton Montarroyos](https://brazilianmusic.biblioverse.org/artists/ayrton-montarroyos.html): Solo · Pernambuco · debut 2011 · tier B (Reference). New MPB. A singer from Recife and a finalist on The Voice Brasil 2015; before the show he already had a Latin Grammy nomination for the album "Herivelto Martins - 100 Anos".
 - [Rubel](https://brazilianmusic.biblioverse.org/artists/rubel.html): Solo · Rio de Janeiro · debut 2013 · tier B (Reference). New MPB. "Pearl" (2013) and "Casas" (2018).
+- [Jadsa](https://brazilianmusic.biblioverse.org/artists/jadsa.html): Solo · debut 2015 · tier B (Reference). New MPB. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Ana Frango Elétrico](https://brazilianmusic.biblioverse.org/artists/ana-frango-eletrico.html): Solo · Rio de Janeiro · debut 2018 · tier B (Reference). New MPB, Indie rock. "Little Electric Chicken Heart" (2019).
 - [Agnes Nunes](https://brazilianmusic.biblioverse.org/artists/agnes-nunes.html): Solo · Paraíba · debut 2019 · tier B (Reference). New MPB. Discovered online; a deep voice and guitar.
 - [Bala Desejo](https://brazilianmusic.biblioverse.org/artists/bala-desejo.html): Band · Rio de Janeiro · debut 2021 · tier B (Reference). New MPB. The album "Sim Sim Sim" (2022), a Latin Grammy winner.
+- [Alessandra Leão](https://brazilianmusic.biblioverse.org/artists/alessandra-leao.html): Solo · Pernambuco · tier B (Reference). New MPB. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Alice Caymmi](https://brazilianmusic.biblioverse.org/artists/alice-caymmi.html): Solo · Rio de Janeiro · tier B (Reference). New MPB. Dorival Caymmi's granddaughter, from MPB to pop.
 - [Amelinha](https://brazilianmusic.biblioverse.org/artists/amelinha.html): Solo · Ceará · tier B (Reference). Pessoal do Ceará. A singer from Ceará, of "Frevo Mulher" (1979).
 - [Ana Cañas](https://brazilianmusic.biblioverse.org/artists/ana-canas.html): Solo · São Paulo · tier B (Reference). New MPB. A São Paulo singer-songwriter of new MPB.
@@ -533,7 +551,9 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Clarice Falcão](https://brazilianmusic.biblioverse.org/artists/clarice-falcao.html): Solo · Pernambuco · tier B (Reference). New MPB, Indie rock. A singer, actress and comedian; nominated for Best New Artist at the 2013 Latin Grammys.
 - [Claudia Telles](https://brazilianmusic.biblioverse.org/artists/claudia-telles.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. A romantic interpreter of "Fim de Tarde" and "Eu Preciso Te Esquecer".
 - [Cátia de França](https://brazilianmusic.biblioverse.org/artists/catia-de-franca.html): Solo · Paraíba · tier B (Reference). Festival-era MPB. A singer-songwriter from Paraíba whose songs draw on literature.
+- [Dani Black](https://brazilianmusic.biblioverse.org/artists/dani-black.html): Solo · São Paulo · tier B (Reference). New MPB. Nominated for the Latin Grammy for Best Portuguese Language Song and the Latin Grammy for Best MPB Album.
 - [Daniel Gonzaga](https://brazilianmusic.biblioverse.org/artists/daniel-gonzaga.html): Solo · Rio de Janeiro · tier B (Reference). New MPB. Gonzaguinha's son and Luiz Gonzaga's grandson.
+- [Danilo Caymmi](https://brazilianmusic.biblioverse.org/artists/danilo-caymmi.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. Nominated for the Latin Grammy for Best Samba/Pagode Album and the Latin Grammy for Best MPB Album.
 - [Dora Morelenbaum](https://brazilianmusic.biblioverse.org/artists/dora-morelenbaum.html): Solo · tier B (Reference). New MPB. From Bala Desejo, a 2022 Latin Grammy winner, to a solo career.
 - [Dori Caymmi](https://brazilianmusic.biblioverse.org/artists/dori-caymmi.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. Arranger, guitarist and singer, Dorival Caymmi's son.
 - [Edson Cordeiro](https://brazilianmusic.biblioverse.org/artists/edson-cordeiro.html): Solo · São Paulo · tier B (Reference). Festival-era MPB. A countertenor who moves between opera and popular music.
@@ -548,6 +568,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Isabella Taviani](https://brazilianmusic.biblioverse.org/artists/isabella-taviani.html): Solo · Rio de Janeiro · tier B (Reference). New MPB. A Rio singer-songwriter of pop and MPB.
 - [Jair Oliveira](https://brazilianmusic.biblioverse.org/artists/jair-oliveira.html): Solo · São Paulo · tier B (Reference). New MPB. Formerly Jairzinho, Jair Rodrigues's son; a singer, songwriter and producer.
 - [Jane Duboc](https://brazilianmusic.biblioverse.org/artists/jane-duboc.html): Solo · Pará · tier B (Reference). Festival-era MPB. Singer from Pará, the voice of Bacamarte's "Depois do Fim" (1983) and of a solo MPB career.
+- [Jaques Morelenbaum](https://brazilianmusic.biblioverse.org/artists/jaques-morelenbaum.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. Cellist, arranger and conductor; nominated for the Latin Grammy for Album of the Year as co-producer of Caetano Veloso's "Livro".
 - [Jessé](https://brazilianmusic.biblioverse.org/artists/jesse.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. The powerful voice of "Porto Solidão" and "Voa Liberdade".
 - [Jorge Mautner](https://brazilianmusic.biblioverse.org/artists/jorge-mautner.html): Solo · Rio de Janeiro · tier B (Reference). Tropicália. A singer, violinist and writer, author of "Maracatu Atômico".
 - [Jorge Vercillo](https://brazilianmusic.biblioverse.org/artists/jorge-vercillo.html): Solo · Rio de Janeiro · tier B (Reference). New MPB. "Que Nem Maré" and "Monalisa".
@@ -562,9 +583,12 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Luiza Possi](https://brazilianmusic.biblioverse.org/artists/luiza-possi.html): Solo · Rio de Janeiro · tier B (Reference). New MPB. An MPB and pop singer since the 2000s, Zizi Possi's daughter.
 - [Maria Alcina](https://brazilianmusic.biblioverse.org/artists/maria-alcina.html): Solo · Minas Gerais · tier B (Reference). Festival-era MPB. Won the 1972 International Song Festival with Jorge Ben's "Fio Maravilha".
 - [Mariana Aydar](https://brazilianmusic.biblioverse.org/artists/mariana-aydar.html): Solo · São Paulo · tier B (Reference). New MPB, Pé-de-serra forró. A São Paulo singer of forró and MPB, a Latin Grammy winner.
+- [Moreno Veloso](https://brazilianmusic.biblioverse.org/artists/moreno-veloso.html): Solo · Bahia · tier B (Reference). New MPB. Singer and producer; nominated for the Latin Grammy for Producer of the Year for albums by Gilberto Gil and Caetano Veloso.
 - [Mônica Salmaso](https://brazilianmusic.biblioverse.org/artists/monica-salmaso.html): Solo · São Paulo · tier B (Reference). New MPB. A singer with a broad repertoire and refined arrangements who revives seldom-heard songs.
+- [Nilson Chaves](https://brazilianmusic.biblioverse.org/artists/nilson-chaves.html): Solo · Pará · tier B (Reference). Festival-era MPB. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Ná Ozzetti](https://brazilianmusic.biblioverse.org/artists/na-ozzetti.html): Solo · São Paulo · tier B (Reference). Vanguarda Paulista. The voice of Grupo Rumo and of a solo career in the São Paulo avant-garde.
 - [Olivia Byington](https://brazilianmusic.biblioverse.org/artists/olivia-byington.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. A Rio singer, songwriter and guitarist.
+- [Olívia Hime](https://brazilianmusic.biblioverse.org/artists/olivia-hime.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. Nominated for the Latin Grammy for Best Portuguese Language Song.
 - [Orlando Morais](https://brazilianmusic.biblioverse.org/artists/orlando-morais.html): Solo · Goiás · tier B (Reference). Festival-era MPB. A singer, songwriter and multi-instrumentalist from Goiás.
 - [Oswaldo Montenegro](https://brazilianmusic.biblioverse.org/artists/oswaldo-montenegro.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. "Bandolins" and "Lua e Flor".
 - [Paulinho Pedra Azul](https://brazilianmusic.biblioverse.org/artists/paulinho-pedra-azul.html): Solo · Minas Gerais · tier B (Reference). Festival-era MPB. A singer and poet from Minas Gerais, of "Jardim da Fantasia".
@@ -573,6 +597,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Peninha](https://brazilianmusic.biblioverse.org/artists/peninha.html): Solo · São Paulo · tier B (Reference). Festival-era MPB. Singer-songwriter of "Sonhos" and "Sozinho".
 - [Premeditando o Breque](https://brazilianmusic.biblioverse.org/artists/premeditando-o-breque.html): Band · São Paulo · tier B (Reference). Vanguarda Paulista, Comic rock. Premê: São Paulo humour and samba from the Vanguarda Paulista.
 - [Quinteto Armorial](https://brazilianmusic.biblioverse.org/artists/quinteto-armorial.html): Group · Pernambuco · tier B (Reference). Armorial music. Movimento Armorial group that joined rabeca, viola and flute to concert music.
+- [Quinteto Violado](https://brazilianmusic.biblioverse.org/artists/quinteto-violado.html): Group · tier B (Reference). Festival-era MPB. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Rita Benneditto](https://brazilianmusic.biblioverse.org/artists/rita-benneditto.html): Solo · Maranhão · tier B (Reference). New MPB. Maranhão singer mixing MPB and Afro-Brazilian rhythms.
 - [Roberta Campos](https://brazilianmusic.biblioverse.org/artists/roberta-campos.html): Solo · Minas Gerais · tier B (Reference). New MPB. More than twenty soap-opera songs, such as "De Janeiro a Janeiro".
 - [Ruy Maurity](https://brazilianmusic.biblioverse.org/artists/ruy-maurity.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. A singer-songwriter from Rio de Janeiro state, of 1970s and 1980s MPB.
@@ -580,13 +605,16 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Sá & Guarabyra](https://brazilianmusic.biblioverse.org/artists/sa-e-guarabyra.html): Duo · tier B (Reference). Festival-era MPB, Rock rural. The "rural rock" of "Sobradinho".
 - [Sérgio Ricardo](https://brazilianmusic.biblioverse.org/artists/sergio-ricardo.html): Solo · São Paulo · tier B (Reference). Festival-era MPB, Bossa nova. A musician and filmmaker of bossa nova, Cinema Novo and protest song.
 - [Sérgio Sampaio](https://brazilianmusic.biblioverse.org/artists/sergio-sampaio.html): Solo · Espírito Santo · tier B (Reference). Festival-era MPB. Author of "Eu Quero É Botar Meu Bloco na Rua" (1972), a cult name in MPB.
+- [Sérgio Santos](https://brazilianmusic.biblioverse.org/artists/sergio-santos.html): Solo · Minas Gerais · tier B (Reference). New MPB. Nominated for the Latin Grammy for Best Portuguese Language Song.
 - [Taiguara](https://brazilianmusic.biblioverse.org/artists/taiguara.html): Solo · tier B (Reference). Festival-era MPB. A singer-songwriter born in Uruguay, one of the artists most censored by the dictatorship.
 - [Tavito](https://brazilianmusic.biblioverse.org/artists/tavito.html): Solo · Minas Gerais · tier B (Reference). Clube da Esquina. Songwriter of "Casa no Campo" (with Zé Rodrix) and "Rua Ramalhete".
+- [Teca Calazans](https://brazilianmusic.biblioverse.org/artists/teca-calazans.html): Solo · Espírito Santo · tier B (Reference). Festival-era MPB. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Tetê Espíndola](https://brazilianmusic.biblioverse.org/artists/tete-espindola.html): Solo · Mato Grosso do Sul · tier B (Reference). Festival-era MPB. A high, experimental voice from Mato Grosso do Sul; won the Festival dos Festivais with "Escrito nas Estrelas" (1985).
 - [Tiê](https://brazilianmusic.biblioverse.org/artists/tie.html): Solo · São Paulo · tier B (Reference). New MPB. "Piscar o Olho" (2011) and "A Noite" (2014), soap-opera themes.
 - [Tunai](https://brazilianmusic.biblioverse.org/artists/tunai.html): Solo · Minas Gerais · tier B (Reference). Festival-era MPB. Minas Gerais singer-songwriter.
 - [Vander Lee](https://brazilianmusic.biblioverse.org/artists/vander-lee.html): Solo · Minas Gerais · tier B (Reference). New MPB. Minas Gerais singer-songwriter.
 - [Vinícius Cantuária](https://brazilianmusic.biblioverse.org/artists/vinicius-cantuaria.html): Solo · Amazonas · tier B (Reference). Festival-era MPB, Bossa nova. A singer, songwriter and multi-instrumentalist from Amazonas, of "Só Você".
+- [Virgínia Rodrigues](https://brazilianmusic.biblioverse.org/artists/virginia-rodrigues.html): Solo · Bahia · tier B (Reference). New MPB. Nominated for the Latin Grammy for Best Portuguese Language Song.
 - [Vital Farias](https://brazilianmusic.biblioverse.org/artists/vital-farias.html): Solo · Paraíba · tier B (Reference). Festival-era MPB. A singer-songwriter from Paraíba, of "Saga da Amazônia".
 - [Walter Franco](https://brazilianmusic.biblioverse.org/artists/walter-franco.html): Solo · São Paulo · tier B (Reference). Festival-era MPB, Psychedelic rock. Experimental songwriter of "Cabeça" and "Vela Aberta".
 - [Xangai](https://brazilianmusic.biblioverse.org/artists/xangai.html): Solo · Bahia · tier B (Reference). Festival-era MPB. A singer and viola player from southern Bahia.
@@ -594,8 +622,9 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Zezé Motta](https://brazilianmusic.biblioverse.org/artists/zeze-motta.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. An actress and singer, a leading figure of Afro-Brazilian culture.
 - [Zé Ibarra](https://brazilianmusic.biblioverse.org/artists/ze-ibarra.html): Solo · Rio de Janeiro · tier B (Reference). New MPB. The high voice of Bala Desejo, a 2022 Latin Grammy winner, and of a solo career.
 - [Zé Renato](https://brazilianmusic.biblioverse.org/artists/ze-renato.html): Solo · Espírito Santo · tier B (Reference). Festival-era MPB. A singer and guitarist from Espírito Santo.
+- [Áurea Martins](https://brazilianmusic.biblioverse.org/artists/aurea-martins.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 
-### Brazilian Rock (494)
+### Brazilian Rock (509)
 
 - [Roberto Carlos](https://brazilianmusic.biblioverse.org/artists/roberto-carlos.html): Solo · Espírito Santo · debut 1960 · tier S (Legend). Jovem Guarda / iê-iê-iê, Pop rock. The "King": from Jovem Guarda's iê-iê-iê to romantic ballads.
 - [Rita Lee](https://brazilianmusic.biblioverse.org/artists/rita-lee.html): Solo · São Paulo · debut 1963 · tier S (Legend). Psychedelic rock, Pop rock. From Os Mutantes to a solo career: the "queen of Brazilian rock".
@@ -712,6 +741,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Catedral](https://brazilianmusic.biblioverse.org/artists/catedral.html): Band · Rio de Janeiro · debut 1988 · tier B (Reference). Christian rock. Christian pop rock.
 - [Devotos](https://brazilianmusic.biblioverse.org/artists/devotos.html): Band · Pernambuco · debut 1988 · tier B (Reference). Hardcore, Manguebeat. Hardcore from Alto José do Pinho, Recife.
 - [Anjos da Noite](https://brazilianmusic.biblioverse.org/artists/anjos-da-noite.html): Band · São Paulo · debut 1989 · tier B (Reference). Hard rock. 1990s hard/glam.
+- [Lan Lan](https://brazilianmusic.biblioverse.org/artists/lan-lan.html): Solo · Bahia · debut 1989 · tier B (Reference). Pop rock. Nominated for the Latin Grammy for Best Portuguese Language Song.
 - [Resgate](https://brazilianmusic.biblioverse.org/artists/resgate.html): Band · São Paulo · debut 1989 · tier B (Reference). Christian rock. Christian rock since the 1980s.
 - [Virna Lisi](https://brazilianmusic.biblioverse.org/artists/virna-lisi.html): Band · São Paulo · debut 1989 · tier B (Reference). Comic rock. São Paulo comic rock.
 - [Ajna](https://brazilianmusic.biblioverse.org/artists/ajna.html): Band · São Paulo · debut 1990 · tier B (Reference). Heavy and power metal. Heavy/thrash in English.
@@ -735,7 +765,9 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Miasthenia](https://brazilianmusic.biblioverse.org/artists/miasthenia.html): Band · Federal District (Brasília) · debut 1994 · tier B (Reference). Thrash, death and black metal. Black/death metal.
 - [O Surto](https://brazilianmusic.biblioverse.org/artists/o-surto.html): Band · Goiás · debut 1994 · tier B (Reference). Grunge / post-grunge, Alternative rock. Early-2000s rock, known for "A Cera".
 - [Os Ostras](https://brazilianmusic.biblioverse.org/artists/os-ostras.html): Band · São Paulo · debut 1994 · tier B (Reference). Comic rock. Comic rock.
+- [Beto Lee](https://brazilianmusic.biblioverse.org/artists/beto-lee.html): Solo · São Paulo · debut 1995 · tier B (Reference). Pop rock. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Mukeka di Rato](https://brazilianmusic.biblioverse.org/artists/mukeka-di-rato.html): Band · Espírito Santo · debut 1995 · tier B (Reference). Punk, Hardcore. Punk/hardcore from Espírito Santo, humour and critique.
+- [Os Infernais](https://brazilianmusic.biblioverse.org/artists/os-infernais.html): Band · Rio de Janeiro · debut 1995 · tier B (Reference). Alternative rock. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Paura](https://brazilianmusic.biblioverse.org/artists/paura.html): Band · São Paulo · debut 1995 · tier B (Reference). Hardcore, Thrash, death and black metal. Hardcore/groove in English.
 - [Sapo Banjo](https://brazilianmusic.biblioverse.org/artists/sapo-banjo.html): Band · São Paulo · debut 1995 · tier B (Reference). Ska / reggae rock. Sarcastic, political ska, one of the country's oldest.
 - [Dance of Days](https://brazilianmusic.biblioverse.org/artists/dance-of-days.html): Band · São Paulo · debut 1996 · tier B (Reference). Emo, Hardcore. A pioneer of São Paulo emo: "Adeus Sofia".
@@ -772,6 +804,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Fire Driven](https://brazilianmusic.biblioverse.org/artists/fire-driven.html): Band · São Paulo · debut 2000 · tier B (Reference). Hardcore. Hardcore.
 - [Fistt](https://brazilianmusic.biblioverse.org/artists/fistt.html): Band · São Paulo · debut 2000 · tier B (Reference). Hardcore. Hardcore.
 - [Houdini](https://brazilianmusic.biblioverse.org/artists/houdini.html): Band · São Paulo · debut 2000 · tier B (Reference). Hardcore. Hardcore.
+- [Jay Vaquer](https://brazilianmusic.biblioverse.org/artists/jay-vaquer.html): Solo · Rio de Janeiro · debut 2000 · tier B (Reference). Pop rock. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Maguerbes](https://brazilianmusic.biblioverse.org/artists/maguerbes.html): Band · São Paulo · debut 2000 · tier B (Reference). Hardcore. Hardcore.
 - [Noção de Nada](https://brazilianmusic.biblioverse.org/artists/nocao-de-nada.html): Band · São Paulo · debut 2000 · tier B (Reference). Hardcore. Hardcore.
 - [Os Cabeloduro](https://brazilianmusic.biblioverse.org/artists/os-cabeloduro.html): Band · São Paulo · debut 2000 · tier B (Reference). Hardcore. Hardcore.
@@ -782,6 +815,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Di Ferrero](https://brazilianmusic.biblioverse.org/artists/di-ferrero.html): Solo · São Paulo · debut 2001 · tier B (Reference). Pop rock. NX Zero's singer; solo career.
 - [Dibob](https://brazilianmusic.biblioverse.org/artists/dibob.html): Band · São Paulo · debut 2001 · tier B (Reference). Pop punk, Ska / reggae rock. Pop punk/ska.
 - [Forfun](https://brazilianmusic.biblioverse.org/artists/forfun.html): Band · Rio de Janeiro · debut 2001 · tier B (Reference). Ska / reggae rock, Pop rock. From surf/alt-rock to reggae and MPB, with upbeat lyrics that marked the 2000s; ended in 2015.
+- [Leela](https://brazilianmusic.biblioverse.org/artists/leela.html): Band · debut 2001 · tier B (Reference). Pop rock. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Rancore](https://brazilianmusic.biblioverse.org/artists/rancore.html): Band · São Paulo · debut 2001 · tier B (Reference). Hardcore, Alternative rock. Hardcore/alt with the cult album "Seiva" and intense performances.
 - [Rock Rocket](https://brazilianmusic.biblioverse.org/artists/rock-rocket.html): Band · São Paulo · debut 2001 · tier B (Reference). Punk. Punk rock.
 - [Ecos Falsos](https://brazilianmusic.biblioverse.org/artists/ecos-falsos.html): Band · São Paulo · debut 2002 · tier B (Reference). Garage rock, Indie rock. Garage/indie.
@@ -805,6 +839,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Massacration](https://brazilianmusic.biblioverse.org/artists/massacration.html): Band · São Paulo · debut 2004 · tier B (Reference). Comic rock, Heavy and power metal. A metal parody that became a phenomenon, with shows, albums and an MTV programme.
 - [Moptop](https://brazilianmusic.biblioverse.org/artists/moptop.html): Band · Rio de Janeiro · debut 2004 · tier B (Reference). Indie rock. "O Rock Acabou", "Contramão".
 - [Scracho](https://brazilianmusic.biblioverse.org/artists/scracho.html): Band · Rio de Janeiro · debut 2004 · tier B (Reference). Ska / reggae rock, Pop rock. Reggae rock: "Morena", "Divina Comédia".
+- [The Baggios](https://brazilianmusic.biblioverse.org/artists/the-baggios.html): Band · debut 2004 · tier B (Reference). Alternative rock. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Abaskadabra](https://brazilianmusic.biblioverse.org/artists/abaskadabra.html): Band · Paraná · debut 2005 · tier B (Reference). Ska / reggae rock. Ska in English from Curitiba.
 - [Ba-Boom](https://brazilianmusic.biblioverse.org/artists/ba-boom.html): Band · São Paulo · debut 2005 · tier B (Reference). Ska / reggae rock. Afoxé, samba and baião with Jamaican music.
 - [Black Drawing Chalks](https://brazilianmusic.biblioverse.org/artists/black-drawing-chalks.html): Band · Goiás · debut 2005 · tier B (Reference). Stoner rock, Hard rock. Stoner/hard rock from Goiás in English; "Life Is a Big Holiday for Us".
@@ -837,6 +872,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Cavalera Conspiracy](https://brazilianmusic.biblioverse.org/artists/cavalera-conspiracy.html): Band · São Paulo · debut 2007 · tier B (Reference). Thrash, death and black metal. Reunites brothers Max and Igor Cavalera and revives Brazilian thrash/groove worldwide.
 - [Endigna](https://brazilianmusic.biblioverse.org/artists/endigna.html): Band · São Paulo · debut 2007 · tier B (Reference). Thrash, death and black metal. Deathcore.
 - [Hellbenders](https://brazilianmusic.biblioverse.org/artists/hellbenders.html): Band · Goiás · debut 2007 · tier B (Reference). Stoner rock, Hard rock. Hard rock and stoner from Goiânia.
+- [Jonas Sá](https://brazilianmusic.biblioverse.org/artists/jonas-sa.html): Solo · Rio de Janeiro · debut 2007 · tier B (Reference). Indie rock. Nominated for the Latin Grammy for Best Portuguese Language Contemporary Pop Album.
 - [Kiara Rocks](https://brazilianmusic.biblioverse.org/artists/kiara-rocks.html): Band · São Paulo · debut 2007 · tier B (Reference). Hard rock. Hard rock fronted by Kiara.
 - [Pense](https://brazilianmusic.biblioverse.org/artists/pense.html): Band · Minas Gerais · debut 2007 · tier B (Reference). Hardcore. "Além Daquilo Que Te Cega" (2014), about 50 shows in 10 months.
 - [Ponto Nulo no Céu](https://brazilianmusic.biblioverse.org/artists/ponto-nulo-no-ceu.html): Band · São Paulo · debut 2007 · tier B (Reference). Post-hardcore / metalcore. "Horizontal".
@@ -851,6 +887,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Hover](https://brazilianmusic.biblioverse.org/artists/hover.html): Band · São Paulo · debut 2008 · tier B (Reference). Grunge / post-grunge. Post grunge in English.
 - [John Wayne](https://brazilianmusic.biblioverse.org/artists/john-wayne.html): Band · São Paulo · debut 2008 · tier B (Reference). Post-hardcore / metalcore. Metalcore.
 - [Loomer](https://brazilianmusic.biblioverse.org/artists/loomer.html): Band · São Paulo · debut 2008 · tier B (Reference). Shoegaze. São Paulo shoegaze.
+- [Metá Metá](https://brazilianmusic.biblioverse.org/artists/meta-meta.html): Band · debut 2008 · tier B (Reference). Alternative rock. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Orquestra Brasileira de Música Jamaicana](https://brazilianmusic.biblioverse.org/artists/orquestra-brasileira-de-musica-jamaicana.html): Band · São Paulo · debut 2008 · tier B (Reference). Ska / reggae rock. A big band playing Brazilian classics in Jamaican rhythms.
 - [Project46](https://brazilianmusic.biblioverse.org/artists/project46.html): Band · São Paulo · debut 2008 · tier B (Reference). Post-hardcore / metalcore, Thrash, death and black metal. Metalcore: "Erro +55", "Rédeas".
 - [Restart](https://brazilianmusic.biblioverse.org/artists/restart.html): Band · São Paulo · debut 2008 · tier B (Reference). Pop punk, Pop rock. The teen phenomenon of "happy rock" in the late 2000s.
@@ -1046,9 +1083,12 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Canvas](https://brazilianmusic.biblioverse.org/artists/canvas.html): Band · São Paulo · debut 2024 · tier B (Reference). Ska / reggae rock. Reggae rock.
 - [Paralelo Ao Fim](https://brazilianmusic.biblioverse.org/artists/paralelo-ao-fim.html): Band · São Paulo · debut 2025 · tier B (Reference). Emo, Alternative rock. Emo/alternative.
 - [A Barca do Sol](https://brazilianmusic.biblioverse.org/artists/a-barca-do-sol.html): Band · Rio de Janeiro · tier B (Reference). Progressive rock. A 1970s Rio progressive band.
+- [André Abujamra](https://brazilianmusic.biblioverse.org/artists/andre-abujamra.html): Solo · São Paulo · tier B (Reference). Alternative rock. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Baby Santiago](https://brazilianmusic.biblioverse.org/artists/baby-santiago.html): Solo · tier B (Reference). Jovem Guarda / iê-iê-iê. Singer of "Estou Louco" (1962).
 - [Bárbara Eugênia](https://brazilianmusic.biblioverse.org/artists/barbara-eugenia.html): Solo · Rio de Janeiro · tier B (Reference). Indie rock. A singer, songwriter, DJ and producer from Niterói.
+- [Cascabulho](https://brazilianmusic.biblioverse.org/artists/cascabulho.html): Band · Pernambuco · tier B (Reference). Manguebeat. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Celso Blues Boy](https://brazilianmusic.biblioverse.org/artists/celso-blues-boy.html): Solo · Rio de Janeiro · tier B (Reference). BRock (1980s). A guitarist and singer of Brazilian blues: "Aumenta Que Isso Aí É Rock and Roll".
+- [Ceremonya](https://brazilianmusic.biblioverse.org/artists/ceremonya.html): Band · tier B (Reference). Christian rock. Nominated for the Latin Grammy for Best Christian Album (Portuguese Language).
 - [Dorsal Atlântica](https://brazilianmusic.biblioverse.org/artists/dorsal-atlantica.html): Band · Rio de Janeiro · tier B (Reference). Thrash, death and black metal. A pioneer of Rio thrash in the 1980s.
 - [Eduardo Araújo](https://brazilianmusic.biblioverse.org/artists/eduardo-araujo.html): Solo · Minas Gerais · tier B (Reference). Jovem Guarda / iê-iê-iê. A Jovem Guarda name who broke through with "O Bom" (1966).
 - [Eduardo Dussek](https://brazilianmusic.biblioverse.org/artists/eduardo-dussek.html): Solo · Rio de Janeiro · tier B (Reference). Comic rock, Pop rock. A singer, pianist and actor of 1980s theatrical, humorous pop.
@@ -1057,6 +1097,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Hanói Hanói](https://brazilianmusic.biblioverse.org/artists/hanoi-hanoi.html): Band · Rio de Janeiro · tier B (Reference). BRock (1980s). Arnaldo Brandão's band, of "Totalmente Demais" (1986).
 - [Herva Doce](https://brazilianmusic.biblioverse.org/artists/herva-doce.html): Band · tier B (Reference). BRock (1980s). The band of "Amante Profissional" (1985).
 - [Heróis da Resistência](https://brazilianmusic.biblioverse.org/artists/herois-da-resistencia.html): Band · Rio de Janeiro · tier B (Reference). BRock (1980s). Leoni's band, of "Só pro Meu Prazer" (1986).
+- [Ian Ramil](https://brazilianmusic.biblioverse.org/artists/ian-ramil.html): Solo · Rio Grande do Sul · tier B (Reference). Alternative rock. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Kid Vinil](https://brazilianmusic.biblioverse.org/artists/kid-vinil.html): Solo · São Paulo · tier B (Reference). Post-punk / new wave. Magazine's singer and a DJ who championed punk and new wave.
 - [Kiko Zambianchi](https://brazilianmusic.biblioverse.org/artists/kiko-zambianchi.html): Solo · São Paulo · tier B (Reference). BRock (1980s). Singer of "Primeiros Erros (Chove)" (1985).
 - [Leno & Lílian](https://brazilianmusic.biblioverse.org/artists/leno-e-lilian.html): Duo · tier B (Reference). Jovem Guarda / iê-iê-iê. A Jovem Guarda duo: "Pobre Menina" and "Devolva-Me".
@@ -1071,10 +1112,12 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Os Virgulóides](https://brazilianmusic.biblioverse.org/artists/os-virguloides.html): Band · São Paulo · tier B (Reference). Comic rock. The band of "Bagulho no Bumba" (1997).
 - [Otto](https://brazilianmusic.biblioverse.org/artists/otto.html): Solo · Pernambuco · tier B (Reference). Manguebeat, New MPB. A mangue-scene percussionist who went solo: "Samba pra Burro" (1998).
 - [Papas da Língua](https://brazilianmusic.biblioverse.org/artists/papas-da-lingua.html): Band · Rio Grande do Sul · tier B (Reference). Pop rock. Gaúcho band of "Eu Sei" (1997).
+- [Pavilhão 9](https://brazilianmusic.biblioverse.org/artists/pavilhao-9.html): Band · São Paulo · tier B (Reference). Rap rock / nu metal. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Pedro Luís e a Parede](https://brazilianmusic.biblioverse.org/artists/pedro-luis-e-a-parede.html): Band · Rio de Janeiro · tier B (Reference). Alternative rock. Percussion and rock group of "Caio no Suingue".
 - [Picassos Falsos](https://brazilianmusic.biblioverse.org/artists/picassos-falsos.html): Band · Rio de Janeiro · tier B (Reference). Post-punk / new wave. Rio band of "Quadrinhos" (1987).
 - [Rebanhão](https://brazilianmusic.biblioverse.org/artists/rebanhao.html): Band · tier B (Reference). Christian rock. A pioneering Brazilian Christian rock band.
 - [Restos de Nada](https://brazilianmusic.biblioverse.org/artists/restos-de-nada.html): Band · São Paulo · tier B (Reference). Punk. A pioneering São Paulo punk band.
+- [Roberto de Carvalho](https://brazilianmusic.biblioverse.org/artists/roberto-de-carvalho.html): Solo · Rio de Janeiro · tier B (Reference). Pop rock. Nominated for the Latin Grammy for Best Portuguese Language Song.
 - [Rodrigo Amarante](https://brazilianmusic.biblioverse.org/artists/rodrigo-amarante.html): Solo · Rio de Janeiro · tier B (Reference). Indie rock, New MPB. From Los Hermanos and Little Joy to a solo career; sings "Tuyo", the "Narcos" theme.
 - [Ronnie Cord](https://brazilianmusic.biblioverse.org/artists/ronnie-cord.html): Solo · São Paulo · tier B (Reference). Jovem Guarda / iê-iê-iê. Singer of "Rua Augusta" (1964).
 - [Rádio Táxi](https://brazilianmusic.biblioverse.org/artists/radio-taxi.html): Band · São Paulo · tier B (Reference). Pop rock. A 1980s pop-rock band.
@@ -1088,11 +1131,12 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Vanusa](https://brazilianmusic.biblioverse.org/artists/vanusa.html): Solo · São Paulo · tier B (Reference). Jovem Guarda / iê-iê-iê, Festival-era MPB. From Jovem Guarda to the romantic MPB of "Manhãs de Setembro".
 - [Wanderley Cardoso](https://brazilianmusic.biblioverse.org/artists/wanderley-cardoso.html): Solo · São Paulo · tier B (Reference). Jovem Guarda / iê-iê-iê. A Jovem Guarda idol, "O Bom Rapaz".
 - [Wilson Miranda](https://brazilianmusic.biblioverse.org/artists/wilson-miranda.html): Solo · tier B (Reference). Jovem Guarda / iê-iê-iê. Singer of "Alguém É Sempre Bobo de Alguém" (1961).
+- [Wilson Sideral](https://brazilianmusic.biblioverse.org/artists/wilson-sideral.html): Solo · tier B (Reference). Pop rock. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Yahoo](https://brazilianmusic.biblioverse.org/artists/yahoo.html): Band · tier B (Reference). Pop rock. The band of "Mordida de Amor" (1988).
 - [Zé Geraldo](https://brazilianmusic.biblioverse.org/artists/ze-geraldo.html): Solo · Minas Gerais · tier B (Reference). Rock rural. Rock rural singer, known for "Cidadão".
 - [Zé Rodrix](https://brazilianmusic.biblioverse.org/artists/ze-rodrix.html): Solo · Rio de Janeiro · tier B (Reference). Rock rural. A rural-rock multi-instrumentalist and co-writer of "Casa no Campo".
 
-### Sertanejo (102)
+### Sertanejo (111)
 
 - [Tonico & Tinoco](https://brazilianmusic.biblioverse.org/artists/tonico-e-tinoco.html): Duo · São Paulo · debut 1942 · tier S (Legend). Caipira / roots. The longest-lived and best-selling caipira duo: "Tristeza do Jeca", "Chico Mineiro".
 - [Tião Carreiro & Pardinho](https://brazilianmusic.biblioverse.org/artists/tiao-carreiro-e-pardinho.html): Duo · São Paulo · debut 1961 · tier S (Legend). Caipira / roots. Creators of the pagode de viola: "Pagode em Brasília", "Rei do Gado".
@@ -1142,8 +1186,10 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Raul Torres & Florêncio](https://brazilianmusic.biblioverse.org/artists/raul-torres-e-florencio.html): Duo · São Paulo · debut 1942 · tier B (Reference). Caipira / roots. Radio pioneers of the caipira duo.
 - [As Galvão](https://brazilianmusic.biblioverse.org/artists/as-galvao.html): Duo · São Paulo · debut 1947 · tier B (Reference). Caipira / roots. Sisters Meire and Marilene, the longest-running sertanejo duo in the country.
 - [Lourenço & Lourival](https://brazilianmusic.biblioverse.org/artists/lourenco-e-lourival.html): Duo · São Paulo · debut 1956 · tier B (Reference). Caipira / roots. Brothers of roots sertanejo, formed in Ribeirão Preto.
+- [Liu & Léu](https://brazilianmusic.biblioverse.org/artists/liu-e-leu.html): Duo · debut 1957 · tier B (Reference). Caipira / roots. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Belmonte & Amaraí](https://brazilianmusic.biblioverse.org/artists/belmonte-e-amarai.html): Duo · São Paulo · debut 1967 · tier B (Reference). Caipira / roots. The caipira duo of "Saudade de Minha Terra".
 - [João Mineiro & Marciano](https://brazilianmusic.biblioverse.org/artists/joao-mineiro-e-marciano.html): Duo · São Paulo · debut 1973 · tier B (Reference). Romantic sertanejo. "Ainda Ontem Chorei de Saudade".
+- [Cezar & Paulinho](https://brazilianmusic.biblioverse.org/artists/cezar-e-paulinho.html): Duo · São Paulo · debut 1974 · tier B (Reference). Caipira / roots. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Matogrosso & Mathias](https://brazilianmusic.biblioverse.org/artists/matogrosso-e-mathias.html): Duo · Mato Grosso do Sul · debut 1976 · tier B (Reference). Romantic sertanejo. "Chico Mineiro", "Pensamentos".
 - [Pena Branca & Xavantinho](https://brazilianmusic.biblioverse.org/artists/pena-branca-e-xavantinho.html): Duo · Minas Gerais · debut 1980 · tier B (Reference). Caipira / roots. Award-winning roots caipira music.
 - [Chico Rey & Paraná](https://brazilianmusic.biblioverse.org/artists/chico-rey-e-parana.html): Duo · debut 1981 · tier B (Reference). Romantic sertanejo. A sertanejo duo formed in 1981.
@@ -1154,6 +1200,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Rionegro & Solimões](https://brazilianmusic.biblioverse.org/artists/rionegro-e-solimoes.html): Duo · Minas Gerais · debut 1989 · tier B (Reference). Romantic sertanejo. "Peão Apaixonado", "Frio da Madrugada".
 - [Jads & Jadson](https://brazilianmusic.biblioverse.org/artists/jads-e-jadson.html): Duo · Mato Grosso do Sul · debut 1990 · tier B (Reference). Romantic sertanejo. Romantic sertanejo of the 1990s and 2000s.
 - [Edson & Hudson](https://brazilianmusic.biblioverse.org/artists/edson-e-hudson.html): Duo · São Paulo · debut 1995 · tier B (Reference). Romantic sertanejo, Rocknejo. "Azul", "Foi Deus".
+- [Marlon & Maicon](https://brazilianmusic.biblioverse.org/artists/marlon-e-maicon.html): Duo · debut 2001 · tier B (Reference). Sertanejo universitário. Nominated for the Latin Grammy for Best Sertaneja Music Album.
 - [Osmar & Osmailson](https://brazilianmusic.biblioverse.org/artists/osmar-e-osmailson.html): Duo · debut 2001 · tier B (Reference). Forronejo. The first duo to take forronejo nationwide, in 2001: "24 Horas de Amor", "No Banco do Carro".
 - [João Bosco & Vinícius](https://brazilianmusic.biblioverse.org/artists/joao-bosco-e-vinicius.html): Duo · Mato Grosso do Sul · debut 2003 · tier B (Reference). Sertanejo universitário. "Chora, Me Liga".
 - [César Menotti & Fabiano](https://brazilianmusic.biblioverse.org/artists/cesar-menotti-e-fabiano.html): Duo · Minas Gerais · debut 2007 · tier B (Reference). Sertanejo universitário. 2000s sertanejo: "Leilão".
@@ -1164,6 +1211,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Israel & Rodolffo](https://brazilianmusic.biblioverse.org/artists/israel-e-rodolffo.html): Duo · Goiás · debut 2011 · tier B (Reference). Sertanejo universitário. "Batom de Cereja".
 - [Naiara Azevedo](https://brazilianmusic.biblioverse.org/artists/naiara-azevedo.html): Solo · Paraná · debut 2011 · tier B (Reference). Feminejo. "50 Reais".
 - [Thaeme & Thiago](https://brazilianmusic.biblioverse.org/artists/thaeme-e-thiago.html): Duo · São Paulo · debut 2011 · tier B (Reference). Sertanejo universitário. Thaeme won Ídolos 2007.
+- [Day & Lara](https://brazilianmusic.biblioverse.org/artists/day-e-lara.html): Duo · debut 2016 · tier B (Reference). Sertanejo universitário. Nominated for the Latin Grammy for Best Sertaneja Music Album.
 - [Hugo & Guilherme](https://brazilianmusic.biblioverse.org/artists/hugo-e-guilherme.html): Duo · Goiás · debut 2016 · tier B (Reference). Sertanejo universitário. Sertanejo of the 2010s and 2020s.
 - [Gustavo Mioto](https://brazilianmusic.biblioverse.org/artists/gustavo-mioto.html): Solo · São Paulo · debut 2017 · tier B (Reference). Sertanejo universitário. "Anti-Amor".
 - [Guilherme & Benuto](https://brazilianmusic.biblioverse.org/artists/guilherme-e-benuto.html): Duo · Goiás · debut 2019 · tier B (Reference). Sertanejo universitário. "Haja Colírio", with Hugo & Guilherme.
@@ -1174,6 +1222,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Danilo Reis & Rafael](https://brazilianmusic.biblioverse.org/artists/danilo-reis-e-rafael.html): Duo · tier B (Reference). Sertanejo universitário. A sertanejo duo that won The Voice Brasil 2014 on Lulu Santos's team.
 - [Felipe & Rodrigo](https://brazilianmusic.biblioverse.org/artists/felipe-e-rodrigo.html): Duo · tier B (Reference). Sertanejo universitário. Duo of "Gosta de Rua" and "Ignora", among the most-streamed songs of 2025 and 2026.
 - [Felipe Araújo](https://brazilianmusic.biblioverse.org/artists/felipe-araujo.html): Solo · Goiás · tier B (Reference). Sertanejo universitário, Pagonejo. Sertanejo singer, Cristiano Araújo's brother.
+- [Gabeu](https://brazilianmusic.biblioverse.org/artists/gabeu.html): Solo · tier B (Reference). Sertanejo universitário. Nominated for the Latin Grammy for Best Sertaneja Music Album.
 - [George Henrique & Rodrigo](https://brazilianmusic.biblioverse.org/artists/george-henrique-e-rodrigo.html): Duo · tier B (Reference). Sertanejo universitário. A 2010s sertanejo duo.
 - [Gino & Geno](https://brazilianmusic.biblioverse.org/artists/gino-e-geno.html): Duo · Minas Gerais · tier B (Reference). Romantic sertanejo. A sertanejo duo from Minas Gerais active since the 1970s.
 - [Grupo Tradição](https://brazilianmusic.biblioverse.org/artists/grupo-tradicao.html): Band · Mato Grosso do Sul · tier B (Reference). Romantic sertanejo. A Mato Grosso do Sul sertanejo group of the 1990s.
@@ -1190,11 +1239,15 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Léo & Raphael](https://brazilianmusic.biblioverse.org/artists/leo-e-raphael.html): Duo · tier B (Reference). Sertanejo universitário. A 2010s sertanejo duo.
 - [Léo Pain](https://brazilianmusic.biblioverse.org/artists/leo-pain.html): Solo · Rio Grande do Sul · tier B (Reference). Romantic sertanejo. A singer from Alegrete (Rio Grande do Sul) who won The Voice Brasil 2018 on Michel Teló's team.
 - [Mayke & Rodrigo](https://brazilianmusic.biblioverse.org/artists/mayke-e-rodrigo.html): Duo · tier B (Reference). Sertanejo universitário. Duo of "Bebe, Beija e Trai", with Panda.
+- [Mazinho Quevedo](https://brazilianmusic.biblioverse.org/artists/mazinho-quevedo.html): Solo · São Paulo · tier B (Reference). Caipira / roots. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Pedro Paulo & Alex](https://brazilianmusic.biblioverse.org/artists/pedro-paulo-e-alex.html): Duo · tier B (Reference). Sertanejo universitário. A 2010s sertanejo duo.
+- [Pena Branca](https://brazilianmusic.biblioverse.org/artists/pena-branca.html): Solo · São Paulo · tier B (Reference). Caipira / roots. Nominated for the Latin Grammy for Best Sertaneja Music Album and the Latin Grammy for Best Portuguese Language Roots Album.
 - [Rafa & Junior](https://brazilianmusic.biblioverse.org/artists/rafa-e-junior.html): Duo · tier B (Reference). Sertanejo universitário. Duo of "Ama um Maloqueiro", with Hugo & Guilherme.
 - [Rolando Boldrin](https://brazilianmusic.biblioverse.org/artists/rolando-boldrin.html): Solo · São Paulo · tier B (Reference). Caipira / roots. A singer, actor and host of "Sr. Brasil" on TV Cultura.
 - [Thiago Brava](https://brazilianmusic.biblioverse.org/artists/thiago-brava.html): Solo · tier B (Reference). Sertanejo universitário. A 2010s sertanejo singer.
+- [Wilson & Soraia](https://brazilianmusic.biblioverse.org/artists/wilson-e-soraia.html): Duo · tier B (Reference). Romantic sertanejo. Nominated for the Latin Grammy for Best Sertaneja Music Album.
 - [Yasmin Santos](https://brazilianmusic.biblioverse.org/artists/yasmin-santos.html): Solo · tier B (Reference). Feminejo. A 2020s feminejo singer.
+- [Zé Mulato & Cassiano](https://brazilianmusic.biblioverse.org/artists/ze-mulato-e-cassiano.html): Duo · tier B (Reference). Caipira / roots. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Ícaro & Gilmar](https://brazilianmusic.biblioverse.org/artists/icaro-e-gilmar.html): Duo · tier B (Reference). Sertanejo universitário. Duo of "Baqueado", with Panda.
 
 ### Brazilian Funk (121)
@@ -1321,7 +1374,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [SD Boys](https://brazilianmusic.biblioverse.org/artists/sd-boys.html): Group · Rio de Janeiro · tier B (Reference). Tamborzão. The group behind "Tá Tudo Dominado" (2001).
 - [Ws da Igrejinha](https://brazilianmusic.biblioverse.org/artists/ws-da-igrejinha.html): DJ · São Paulo · tier B (Reference). Mandelão / bruxaria. DJ and producer of São Paulo mandelão.
 
-### Rap and Hip-Hop (119)
+### Rap and Hip-Hop (120)
 
 - [Racionais MC's](https://brazilianmusic.biblioverse.org/artists/racionais-mc-s.html): Band · São Paulo · debut 1988 · tier S (Legend). Rap nacional. Mano Brown, Ice Blue, Edi Rock and KL Jay; "Sobrevivendo no Inferno" (1997) is the most important Brazilian rap album.
 - [Criolo](https://brazilianmusic.biblioverse.org/artists/criolo.html): Solo · São Paulo · debut 1989 · tier S (Legend). Rap nacional, New MPB. "Nó na Orelha" (2011) joined rap, samba and afrobeat: "Não Existe Amor em SP".
@@ -1349,6 +1402,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Stefanie MC](https://brazilianmusic.biblioverse.org/artists/stefanie-mc.html): Solo · São Paulo · debut 1997 · tier B (Reference). Rap nacional. Re-recorded Emicida's "Rua Augusta".
 - [Black Alien](https://brazilianmusic.biblioverse.org/artists/black-alien.html): Solo · Rio de Janeiro · debut 1998 · tier B (Reference). Rap nacional. Planet Hemp and "Babylon by Gus" (2004), a cult classic.
 - [MV Bill](https://brazilianmusic.biblioverse.org/artists/mv-bill.html): Solo · Rio de Janeiro · debut 1998 · tier B (Reference). Rap nacional. Rap from Cidade de Deus and CUFA activism.
+- [Rapadura](https://brazilianmusic.biblioverse.org/artists/rapadura.html): MC · Ceará · debut 1998 · tier B (Reference). Rap nacional. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Dory de Oliveira](https://brazilianmusic.biblioverse.org/artists/dory-de-oliveira.html): Solo · São Paulo · debut 2000 · tier B (Reference). Rap nacional. MC with XIS and DMN.
 - [Luana Hansen](https://brazilianmusic.biblioverse.org/artists/luana-hansen.html): Solo · São Paulo · debut 2000 · tier B (Reference). Rap nacional. Feminist, Black and lesbian protest rap.
 - [Lívia Cruz](https://brazilianmusic.biblioverse.org/artists/livia-cruz.html): Solo · Pernambuco · debut 2003 · tier B (Reference). Rap nacional. From Brutal Crew to the Hutuz Prize with "Viúva Rainha".
@@ -1443,7 +1497,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Yago Oproprio](https://brazilianmusic.biblioverse.org/artists/yago-oproprio.html): Solo · São Paulo · tier B (Reference). Rap nacional. Rap with samba, MPB and R&B; his debut album "Oproprio" (2024) got a Latin Grammy nomination.
 - [Yunk Vino](https://brazilianmusic.biblioverse.org/artists/yunk-vino.html): Solo · tier B (Reference). Brazilian trap. A 2020s trap rapper.
 
-### Forró (70)
+### Forró (73)
 
 - [Luiz Gonzaga](https://brazilianmusic.biblioverse.org/artists/luiz-gonzaga.html): Solo · Pernambuco · debut 1941 · tier S (Legend). Baião, Xote and xaxado. The "King of Baião": "Asa Branca" (1947), "Baião", "Olha pro Céu"; invented the accordion, zabumba and triangle trio.
 - [Jackson do Pandeiro](https://brazilianmusic.biblioverse.org/artists/jackson-do-pandeiro.html): Solo · Paraíba · debut 1953 · tier S (Legend). Pé-de-serra forró, Coco and ciranda. The "King of Rhythm": coco, forró and swing; "Chiclete com Banana".
@@ -1464,6 +1518,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Mari Fernandez](https://brazilianmusic.biblioverse.org/artists/mari-fernandez.html): Solo · Ceará · tier A (Giant). Piseiro, Electronic forró. The female voice of piseiro in the 2020s.
 - [Natanzinho Lima](https://brazilianmusic.biblioverse.org/artists/natanzinho-lima.html): Solo · tier A (Giant). Piseiro. Romantic piseiro of the 2020s.
 - [Nattan](https://brazilianmusic.biblioverse.org/artists/nattan.html): Solo · Ceará · tier A (Giant). Piseiro, Electronic forró. Forró and piseiro from Ceará, among the most streamed of the 2020s.
+- [Banda de Pífanos Zabumba de Caruaru](https://brazilianmusic.biblioverse.org/artists/banda-de-pifanos-zabumba-de-caruaru.html): Group · debut 1924 · tier B (Reference). Baião. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Marinês](https://brazilianmusic.biblioverse.org/artists/marines.html): Solo · Pernambuco · debut 1955 · tier B (Reference). Pé-de-serra forró, Xote and xaxado. The "Queen of Xaxado".
 - [Genival Lacerda](https://brazilianmusic.biblioverse.org/artists/genival-lacerda.html): Solo · Paraíba · debut 1960 · tier B (Reference). Pé-de-serra forró. "Severina Xique-Xique".
 - [Oswaldinho do Acordeon](https://brazilianmusic.biblioverse.org/artists/oswaldinho-do-acordeon.html): Solo · Rio de Janeiro · debut 1960 · tier B (Reference). Pé-de-serra forró. Accordionist of forró and choro.
@@ -1486,6 +1541,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Eric Land](https://brazilianmusic.biblioverse.org/artists/eric-land.html): Solo · tier B (Reference). Piseiro. Piseiro singer of "Pilantra e Meio", with Natanzinho Lima.
 - [Felipe Amorim](https://brazilianmusic.biblioverse.org/artists/felipe-amorim.html): Solo · Ceará · tier B (Reference). Piseiro. Piseiro from Ceará.
 - [Filho do Piseiro](https://brazilianmusic.biblioverse.org/artists/filho-do-piseiro.html): Solo · Amazonas · tier B (Reference). Piseiro. A piseiro singer from Manaus who went viral on Instagram.
+- [Forroçacana](https://brazilianmusic.biblioverse.org/artists/forrocacana.html): Band · tier B (Reference). Pé-de-serra forró. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Forró do Muído](https://brazilianmusic.biblioverse.org/artists/forro-do-muido.html): Band · tier B (Reference). Electronic forró. A 2000s electronic forró band.
 - [Frank Aguiar](https://brazilianmusic.biblioverse.org/artists/frank-aguiar.html): Solo · Piauí · tier B (Reference). Electronic forró. Electronic forró's "little keyboard dog".
 - [Gabriel Diniz](https://brazilianmusic.biblioverse.org/artists/gabriel-diniz.html): Solo · Mato Grosso do Sul · tier B (Reference). Electronic forró. "Jenifer" (2018), with the chorus "o nome dela é Jenifer" ("her name is Jenifer"), was one of the biggest hits of 2019; he died in a plane crash in 2019.
@@ -1512,6 +1568,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Taty Girl](https://brazilianmusic.biblioverse.org/artists/taty-girl.html): Solo · Ceará · tier B (Reference). Electronic forró. Electronic forró singer from Ceará.
 - [Thullio Milionário](https://brazilianmusic.biblioverse.org/artists/thullio-milionario.html): Solo · Rio Grande do Norte · tier B (Reference). Electronic forró. A singer from Natal in the vaquejada style of forró: "Casca de Bala" (2024) reached number 8 on the Billboard Brasil Hot 100.
 - [Toque Dez](https://brazilianmusic.biblioverse.org/artists/toque-dez.html): Band · tier B (Reference). Electronic forró. Electronic forró band.
+- [Trio Virgulino](https://brazilianmusic.biblioverse.org/artists/trio-virgulino.html): Group · tier B (Reference). Pé-de-serra forró. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Vitor Fernandes](https://brazilianmusic.biblioverse.org/artists/vitor-fernandes.html): Solo · tier B (Reference). Piseiro. A 2020s piseiro singer.
 - [Waldonys](https://brazilianmusic.biblioverse.org/artists/waldonys.html): Solo · Ceará · tier B (Reference). Pé-de-serra forró. Accordionist from Ceará.
 - [Zé Cantor](https://brazilianmusic.biblioverse.org/artists/ze-cantor.html): Solo · tier B (Reference). Electronic forró. Electronic forró singer.
@@ -1583,7 +1640,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [ÀTTOOXXÁ](https://brazilianmusic.biblioverse.org/artists/attooxxa.html): Band · Bahia · tier B (Reference). Pagode baiano. Salvador's "electronic pagodão".
 - [Àttøøxxá](https://brazilianmusic.biblioverse.org/artists/attxxa.html): Band · Bahia · tier B (Reference). Pagode baiano. Electronic pagodão from Salvador.
 
-### Brazilian Pop (82)
+### Brazilian Pop (88)
 
 - [Sandy & Junior](https://brazilianmusic.biblioverse.org/artists/sandy-e-junior.html): Duo · São Paulo · debut 1989 · tier S (Legend). Teen pop. The sibling duo that ruled 1990s–2000s teen pop.
 - [Rouge](https://brazilianmusic.biblioverse.org/artists/rouge.html): Group · São Paulo · debut 2002 · tier S (Legend). Teen pop. Born on Popstars (SBT), Brazil's biggest girl group: "Ragatanga", "Um Anjo Veio Me Falar"; reunited in 2017.
@@ -1612,16 +1669,19 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Wanessa Camargo](https://brazilianmusic.biblioverse.org/artists/wanessa-camargo.html): Solo · Goiás · debut 2000 · tier B (Reference). Contemporary pop. Zezé Di Camargo's daughter; "Amor, Amor", "Sticky Dough".
 - [Kelly Key](https://brazilianmusic.biblioverse.org/artists/kelly-key.html): Solo · Rio de Janeiro · debut 2001 · tier B (Reference). Contemporary pop, Teen pop. "Baba", "Cachorrinho": 2000s teen pop.
 - [Br'oz](https://brazilianmusic.biblioverse.org/artists/br-oz.html): Group · São Paulo · debut 2003 · tier B (Reference). Teen pop. Boy band from Popstars 2003.
+- [Danni Carlos](https://brazilianmusic.biblioverse.org/artists/danni-carlos.html): Solo · Rio de Janeiro · debut 2003 · tier B (Reference). Contemporary pop. Nominated for the Latin Grammy for Best Portuguese Language Song and the Latin Grammy for Best Portuguese Language Contemporary Pop Album.
 - [Liah Soares](https://brazilianmusic.biblioverse.org/artists/liah-soares.html): Solo · Pará · debut 2003 · tier B (Reference). Contemporary pop. A singer-songwriter from Marabá (Pará): "Poesia e Paixão" reached number one and her debut album went double platinum; a finalist on The Voice Brasil 2012.
 - [Luka](https://brazilianmusic.biblioverse.org/artists/luka.html): Solo · Rio de Janeiro · debut 2003 · tier B (Reference). Contemporary pop. "Tô Nem Aí" (2003).
 - [As Leoas](https://brazilianmusic.biblioverse.org/artists/as-leoas.html): Group · São Paulo · debut 2005 · tier B (Reference). Contemporary pop. "Emboladeira".
 - [Maisa Silva](https://brazilianmusic.biblioverse.org/artists/maisa-silva.html): Solo · São Paulo · debut 2005 · tier B (Reference). Contemporary pop. TV host and actress who also sings.
+- [Sophia Abrahão](https://brazilianmusic.biblioverse.org/artists/sophia-abrahao.html): Solo · São Paulo · debut 2007 · tier B (Reference). Contemporary pop. Nominated for the Latin Grammy for Best New Artist.
 - [Manu Gavassi](https://brazilianmusic.biblioverse.org/artists/manu-gavassi.html): Solo · São Paulo · debut 2009 · tier B (Reference). Contemporary pop, Alternative pop. Actress and singer; "Garoto Errado", album "Gracinha" (2021).
 - [Sexy Dolls](https://brazilianmusic.biblioverse.org/artists/sexy-dolls.html): Group · São Paulo · debut 2009 · tier B (Reference). Contemporary pop. "Teu Beijo".
 - [Valkyrias](https://brazilianmusic.biblioverse.org/artists/valkyrias.html): Group · São Paulo · debut 2009 · tier B (Reference). Contemporary pop. "Dar Certo", "Feel Good".
 - [Rebeldes](https://brazilianmusic.biblioverse.org/artists/rebeldes.html): Group · São Paulo · debut 2011 · tier B (Reference). Teen pop. The band from Record's soap opera "Rebelde".
 - [Day Limns](https://brazilianmusic.biblioverse.org/artists/day-limns.html): Solo · São Paulo · debut 2012 · tier B (Reference). Contemporary pop. Pop.
 - [Gabi Luthai](https://brazilianmusic.biblioverse.org/artists/gabi-luthai.html): Solo · São Paulo · debut 2012 · tier B (Reference). Contemporary pop. Pop.
+- [Jenni Mosello](https://brazilianmusic.biblioverse.org/artists/jenni-mosello.html): Solo · Paraná · debut 2012 · tier B (Reference). Contemporary pop. Nominated for the Latin Grammy for Best Portuguese Language Song and the Latin Grammy for Best Portuguese Language Contemporary Pop Album.
 - [Carol & Vitoria](https://brazilianmusic.biblioverse.org/artists/carol-e-vitoria.html): Duo · São Paulo · debut 2013 · tier B (Reference). Contemporary pop. Sister pop duo.
 - [Girls](https://brazilianmusic.biblioverse.org/artists/girls.html): Group · São Paulo · debut 2013 · tier B (Reference). Teen pop. "Acenda a Luz".
 - [P9](https://brazilianmusic.biblioverse.org/artists/p9.html): Group · São Paulo · debut 2013 · tier B (Reference). Teen pop. A 2010s boy band.
@@ -1647,16 +1707,19 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Schutz Band](https://brazilianmusic.biblioverse.org/artists/schutz-band.html): Group · São Paulo · debut 2022 · tier B (Reference). Contemporary pop. "Perigosa".
 - [Ella](https://brazilianmusic.biblioverse.org/artists/ella.html): Group · São Paulo · debut 2024 · tier B (Reference). Contemporary pop. A 2024 girl group.
 - [Ana Gabriela](https://brazilianmusic.biblioverse.org/artists/ana-gabriela.html): Solo · tier B (Reference). Alternative pop. Platform-era pop singer-songwriter.
+- [Anaadi](https://brazilianmusic.biblioverse.org/artists/anaadi.html): Solo · Rio Grande do Sul · tier B (Reference). Contemporary pop. Nominated for the Latin Grammy for Best Portuguese Language Contemporary Pop Album and the Latin Grammy for Record of the Year.
 - [Byafra](https://brazilianmusic.biblioverse.org/artists/byafra.html): Solo · Rio de Janeiro · tier B (Reference). Contemporary pop. A 1980s romantic pop singer.
 - [Dalto](https://brazilianmusic.biblioverse.org/artists/dalto.html): Solo · tier B (Reference). Contemporary pop. A 1980s romantic pop singer.
 - [Deborah Blando](https://brazilianmusic.biblioverse.org/artists/deborah-blando.html): Solo · tier B (Reference). Contemporary pop. An Italian-Brazilian singer with a soft voice, a top seller on soap-opera soundtracks.
 - [Jaloo](https://brazilianmusic.biblioverse.org/artists/jaloo.html): Solo · Pará · tier B (Reference). Alternative pop. Electronic pop artist from Pará.
+- [Jamz](https://brazilianmusic.biblioverse.org/artists/jamz.html): Band · tier B (Reference). Contemporary pop. Nominated for the Latin Grammy for Best Portuguese Language Contemporary Pop Album.
 - [Johnny Hooker](https://brazilianmusic.biblioverse.org/artists/johnny-hooker.html): Solo · Pernambuco · tier B (Reference). LGBTQIA+ pop. Singer-songwriter from Recife.
 - [Juliette](https://brazilianmusic.biblioverse.org/artists/juliette.html): Solo · Paraíba · tier B (Reference). Alternative pop. Winner of Big Brother Brasil 21 who became a singer.
 - [Jullie](https://brazilianmusic.biblioverse.org/artists/jullie.html): Solo · tier B (Reference). Teen pop. A 2000s teen-pop singer.
 - [Lady Zu](https://brazilianmusic.biblioverse.org/artists/lady-zu.html): Solo · São Paulo · tier B (Reference). Disco and dance-pop. The voice of "A Noite Vai Chegar", a Brazilian disco anthem.
 - [Letrux](https://brazilianmusic.biblioverse.org/artists/letrux.html): Solo · Rio de Janeiro · tier B (Reference). Alternative pop. "Letrux em Noite de Climão" (2017), after the duo Letuce.
 - [Lindy XOXO](https://brazilianmusic.biblioverse.org/artists/lindy-xoxo.html): Solo · São Paulo · tier B (Reference). LGBTQIA+ pop, Alternative pop. A drag queen, singer and songwriter from São Paulo nightlife: hyperpop, techno and funk on her debut EP "TAPASSADA".
+- [Maria Beraldo](https://brazilianmusic.biblioverse.org/artists/maria-beraldo.html): Solo · Santa Catarina · tier B (Reference). Alternative pop. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Marina Elali](https://brazilianmusic.biblioverse.org/artists/marina-elali.html): Solo · Rio Grande do Norte · tier B (Reference). Contemporary pop. A singer-songwriter from Natal.
 - [Mateus Carrilho](https://brazilianmusic.biblioverse.org/artists/mateus-carrilho.html): Solo · tier B (Reference). LGBTQIA+ pop. LGBTQIA+ pop singer.
 - [Maurício Manieri](https://brazilianmusic.biblioverse.org/artists/mauricio-manieri.html): Solo · São Paulo · tier B (Reference). Contemporary pop. A pianist and singer of pop, MPB and soul: "Bem Querer".
@@ -1725,7 +1788,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Zaynara](https://brazilianmusic.biblioverse.org/artists/zaynara.html): Solo · Pará · tier B (Reference). Tecnobrega. The only Brazilian on Amazon Music's "Artists to Watch 2026" list.
 - [Zezo](https://brazilianmusic.biblioverse.org/artists/zezo.html): Solo · Rio Grande do Norte · tier B (Reference). Romantic brega. "Zezo dos Teclados", from forró to romantic brega.
 
-### Gospel and Religious Music (68)
+### Gospel and Religious Music (74)
 
 - [Aline Barros](https://brazilianmusic.biblioverse.org/artists/aline-barros.html): Solo · Rio de Janeiro · debut 1992 · tier S (Legend). Worship. The country's biggest gospel singer; Latin Grammys; "Ressuscita-me".
 - [Diante do Trono](https://brazilianmusic.biblioverse.org/artists/diante-do-trono.html): Collective · Minas Gerais · debut 1998 · tier S (Legend). Worship. Ana Paula Valadão; the world's largest gospel recording in 2003 (2 million people).
@@ -1742,11 +1805,15 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Valesca Mayssa](https://brazilianmusic.biblioverse.org/artists/valesca-mayssa.html): Solo · tier A (Giant). Pentecostal gospel. A gospel singer with a huge YouTube reach.
 - [Arautos do Rei](https://brazilianmusic.biblioverse.org/artists/arautos-do-rei.html): Group · debut 1962 · tier B (Reference). Worship. An Adventist vocal quartet of the radio programme "A Voz da Profecia".
 - [Vida Reluz](https://brazilianmusic.biblioverse.org/artists/vida-reluz.html): Band · São Paulo · debut 1985 · tier B (Reference). Catholic music. A Catholic music band from São José dos Campos.
+- [Renascer Praise](https://brazilianmusic.biblioverse.org/artists/renascer-praise.html): Group · debut 1993 · tier B (Reference). Worship. Nominated for the Latin Grammy for Best Christian Album (Portuguese Language).
+- [Fernanda Lara](https://brazilianmusic.biblioverse.org/artists/fernanda-lara.html): Solo · debut 1997 · tier B (Reference). Worship. Nominated for the Latin Grammy for Best Christian Album (Portuguese Language).
 - [Pregador Luo](https://brazilianmusic.biblioverse.org/artists/pregador-luo.html): Solo · São Paulo · debut 1998 · tier B (Reference). Gospel rap. Apocalipse 16; gospel rap.
 - [Damares](https://brazilianmusic.biblioverse.org/artists/damares.html): Solo · São Paulo · debut 1999 · tier B (Reference). Pentecostal gospel. "Diamante".
 - [Anjos de Resgate](https://brazilianmusic.biblioverse.org/artists/anjos-de-resgate.html): Band · debut 2000 · tier B (Reference). Catholic music. A Catholic band with more than a million copies sold.
 - [Ao Cubo](https://brazilianmusic.biblioverse.org/artists/ao-cubo.html): Band · São Paulo · debut 2003 · tier B (Reference). Gospel rap. São Paulo gospel rap.
 - [Bruna Karla](https://brazilianmusic.biblioverse.org/artists/bruna-karla.html): Solo · Rio de Janeiro · debut 2006 · tier B (Reference). Pentecostal gospel. "Advogado Fiel".
+- [Delino Marçal](https://brazilianmusic.biblioverse.org/artists/delino-marcal.html): Solo · Tocantins · debut 2011 · tier B (Reference). Worship. Nominated for the Latin Grammy for Best Christian Album (Portuguese Language).
+- [Pr. Lucas](https://brazilianmusic.biblioverse.org/artists/pr-lucas.html): Solo · Minas Gerais · debut 2011 · tier B (Reference). Worship. Nominated for the Latin Grammy for Best Christian Album (Portuguese Language).
 - [Preto no Branco](https://brazilianmusic.biblioverse.org/artists/preto-no-branco.html): Band · Paraná · debut 2012 · tier B (Reference). Worship. "Ninguém Explica Deus".
 - [Kemuel](https://brazilianmusic.biblioverse.org/artists/kemuel.html): Band · Rio de Janeiro · debut 2015 · tier B (Reference). Worship. Contemporary worship.
 - [Isadora Pompeo](https://brazilianmusic.biblioverse.org/artists/isadora-pompeo.html): Solo · Rio Grande do Sul · debut 2017 · tier B (Reference). Worship. From the internet to gospel pop.
@@ -1764,6 +1831,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Fernanda Brum](https://brazilianmusic.biblioverse.org/artists/fernanda-brum.html): Solo · Rio de Janeiro · tier B (Reference). Worship. One of the voices of Brazilian worship since the 1990s.
 - [Fhop Music](https://brazilianmusic.biblioverse.org/artists/fhop-music.html): Collective · tier B (Reference). Worship. A worship collective among the most-played of 2025.
 - [Gabriel Guedes](https://brazilianmusic.biblioverse.org/artists/gabriel-guedes.html): Solo · tier B (Reference). Worship. Worship singer.
+- [Giordani Vidal](https://brazilianmusic.biblioverse.org/artists/giordani-vidal.html): Solo · Rio Grande do Sul · tier B (Reference). Worship. Nominated for the Latin Grammy for Best Christian Album (Portuguese Language).
 - [Irmã Kelly Patrícia](https://brazilianmusic.biblioverse.org/artists/irma-kelly-patricia.html): Solo · Ceará · tier B (Reference). Catholic music. A nun and singer, founder of the Instituto Hesed.
 - [Jefferson & Suellen](https://brazilianmusic.biblioverse.org/artists/jefferson-e-suellen.html): Duo · tier B (Reference). Worship. A married worship singing duo.
 - [Julliany Souza](https://brazilianmusic.biblioverse.org/artists/julliany-souza.html): Solo · tier B (Reference). Worship. Singer of "Quem É Esse?", among the most-streamed songs of 2026.
@@ -1784,6 +1852,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Padre Antônio Maria](https://brazilianmusic.biblioverse.org/artists/padre-antonio-maria.html): Solo · Rio de Janeiro · tier B (Reference). Catholic music. A singing priest who duetted with Roberto Carlos and Ângela Maria.
 - [Padre Reginaldo Manzotti](https://brazilianmusic.biblioverse.org/artists/padre-reginaldo-manzotti.html): Solo · Paraná · tier B (Reference). Catholic music. Catholic priest and singer from Curitiba.
 - [Paulo César Baruk](https://brazilianmusic.biblioverse.org/artists/paulo-cesar-baruk.html): Solo · São Paulo · tier B (Reference). Worship. Evangelical singer-songwriter.
+- [Priscilla Alcantara](https://brazilianmusic.biblioverse.org/artists/priscilla-alcantara.html): Solo · São Paulo · tier B (Reference). Worship. Nominated for the Latin Grammy for Best Christian Album (Portuguese Language).
 - [Rose Nascimento](https://brazilianmusic.biblioverse.org/artists/rose-nascimento.html): Solo · tier B (Reference). Pentecostal gospel. Pentecostal gospel singer.
 - [Régis Danese](https://brazilianmusic.biblioverse.org/artists/regis-danese.html): Solo · tier B (Reference). Worship. "Faz um Milagre em Mim" (2008).
 - [Sarah Farias](https://brazilianmusic.biblioverse.org/artists/sarah-farias.html): Solo · tier B (Reference). Pentecostal gospel. Pentecostal gospel singer.
@@ -1887,7 +1956,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Trio Ternura](https://brazilianmusic.biblioverse.org/artists/trio-ternura.html): Group · Rio de Janeiro · tier B (Reference). Brazilian soul. Vocal trio of "Sempre Existe Alguém" (1971).
 - [Wilson Simoninha](https://brazilianmusic.biblioverse.org/artists/wilson-simoninha.html): Solo · Rio de Janeiro · tier B (Reference). Brazilian soul. A singer, songwriter and producer, Wilson Simonal's son.
 
-### Jazz and Instrumental (38)
+### Jazz and Instrumental (54)
 
 - [Hermeto Pascoal](https://brazilianmusic.biblioverse.org/artists/hermeto-pascoal.html): Solo · Alagoas · debut 1958 · tier S (Legend). Brazilian jazz. The "Sorcerer": a multi-instrumentalist recorded by Miles Davis; "Bebê", "Chorinho pra Ele".
 - [Airto Moreira](https://brazilianmusic.biblioverse.org/artists/airto-moreira.html): Solo · São Paulo · debut 1964 · tier S (Legend). Brazilian jazz. Drummer and percussionist with Miles Davis, Weather Report and Return to Forever.
@@ -1900,59 +1969,113 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Quarteto Novo](https://brazilianmusic.biblioverse.org/artists/quarteto-novo.html): Band · São Paulo · debut 1967 · tier A (Giant). Brazilian jazz. Hermeto, Airto, Heraldo do Monte and Théo de Barros: baião in jazz.
 - [Tania Maria](https://brazilianmusic.biblioverse.org/artists/tania-maria.html): Solo · Maranhão · debut 1970 · tier A (Giant). Brazilian jazz. Piano and voice between samba and jazz, based in Europe and the US.
 - [Uakti](https://brazilianmusic.biblioverse.org/artists/uakti.html): Band · Minas Gerais · debut 1978 · tier A (Giant). Brazilian jazz. Invented instruments in PVC and glass; recorded with Philip Glass.
+- [Eliane Elias](https://brazilianmusic.biblioverse.org/artists/eliane-elias.html): Solo · São Paulo · debut 1981 · tier A (Giant). Brazilian jazz. Nominated for the Latin Grammy for Best Portuguese Language Song and the Latin Grammy for Best Latin Jazz/Jazz Album.
 - [Amaro Freitas](https://brazilianmusic.biblioverse.org/artists/amaro-freitas.html): Solo · Pernambuco · tier A (Giant). Brazilian jazz. Recife pianist who brings frevo and maracatu into jazz.
 - [Cesar Camargo Mariano](https://brazilianmusic.biblioverse.org/artists/cesar-camargo-mariano.html): Solo · São Paulo · tier A (Giant). Brazilian jazz. Pianist and arranger, Elis Regina's partner.
 - [Garoto](https://brazilianmusic.biblioverse.org/artists/garoto.html): Solo · São Paulo · tier A (Giant). Brazilian guitar, Choro. Aníbal Augusto Sardinha, a guitarist who anticipated bossa nova harmony.
 - [João Donato](https://brazilianmusic.biblioverse.org/artists/joao-donato.html): Solo · Acre · tier A (Giant). Brazilian jazz, Bossa nova. Pianist from Acre, a pioneer of bossa nova and Latin jazz.
+- [Laurindo Almeida](https://brazilianmusic.biblioverse.org/artists/laurindo-almeida.html): Solo · São Paulo · tier A (Giant). Brazilian guitar. Nominated for a Grammy.
 - [Luiz Bonfá](https://brazilianmusic.biblioverse.org/artists/luiz-bonfa.html): Solo · Rio de Janeiro · tier A (Giant). Brazilian guitar, Bossa nova. Guitarist and composer of "Manhã de Carnaval", from the film "Black Orpheus".
 - [Raphael Rabello](https://brazilianmusic.biblioverse.org/artists/raphael-rabello.html): Solo · Rio de Janeiro · tier A (Giant). Brazilian guitar, Choro. A virtuoso of the seven-string guitar.
 - [Toninho Horta](https://brazilianmusic.biblioverse.org/artists/toninho-horta.html): Solo · Minas Gerais · tier A (Giant). Brazilian jazz, Clube da Esquina. Guitarist and composer of Clube da Esquina, a worldwide guitar reference.
+- [Orquestra Afro-Brasileira](https://brazilianmusic.biblioverse.org/artists/orquestra-afro-brasileira.html): Collective · Rio de Janeiro · debut 1942 · tier B (Reference). Brazilian jazz. Created in 1942 by Abigail Moura, it joined Western horns with Afro-Brazilian percussion; revived in 2021.
 - [Dom Um Romão](https://brazilianmusic.biblioverse.org/artists/dom-um-romao.html): Solo · Rio de Janeiro · debut 1960 · tier B (Reference). Brazilian jazz. Drummer with Weather Report and Sérgio Mendes.
 - [Raul de Souza](https://brazilianmusic.biblioverse.org/artists/raul-de-souza.html): Solo · Rio de Janeiro · debut 1965 · tier B (Reference). Brazilian jazz. Trombonist in Brazilian and American jazz.
+- [Romero Lubambo](https://brazilianmusic.biblioverse.org/artists/romero-lubambo.html): Solo · Rio de Janeiro · debut 1980 · tier B (Reference). Brazilian jazz. Nominated for the Latin Grammy for Best MPB Album.
+- [Brasil Jazz Sinfônica](https://brazilianmusic.biblioverse.org/artists/brasil-jazz-sinfonica.html): Collective · São Paulo · debut 1989 · tier B (Reference). Brazilian jazz. A 70-piece orchestra created in 1989 by the São Paulo state government, with symphonic arrangements of Brazilian popular music.
 - [Banda Mantiqueira](https://brazilianmusic.biblioverse.org/artists/banda-mantiqueira.html): Band · São Paulo · debut 1991 · tier B (Reference). Brazilian jazz. São Paulo big band.
+- [Luciana Souza](https://brazilianmusic.biblioverse.org/artists/luciana-souza.html): Solo · São Paulo · debut 1992 · tier B (Reference). Brazilian jazz. Nominated for a Grammy.
 - [André Mehmari](https://brazilianmusic.biblioverse.org/artists/andre-mehmari.html): Solo · São Paulo · debut 1995 · tier B (Reference). Brazilian jazz. Pianist and composer in jazz and classical music.
+- [Brazilian Guitar Quartet](https://brazilianmusic.biblioverse.org/artists/brazilian-guitar-quartet.html): Group · debut 1998 · tier B (Reference). Brazilian guitar. Nominated for the Latin Grammy for Best Classical Album.
 - [Trio Corrente](https://brazilianmusic.biblioverse.org/artists/trio-corrente.html): Band · São Paulo · debut 2001 · tier B (Reference). Brazilian jazz. Latin Grammy with Paquito D'Rivera (2014).
+- [Orkestra Rumpilezz](https://brazilianmusic.biblioverse.org/artists/orkestra-rumpilezz.html): Collective · Bahia · debut 2006 · tier B (Reference). Brazilian jazz. A percussion and wind orchestra created in 2006 by Letieres Leite; the name joins the candomblé drums (rum, rumpi and lé) with jazz.
+- [André Marques](https://brazilianmusic.biblioverse.org/artists/andre-marques.html): Solo · tier B (Reference). Brazilian jazz. Nominated for the Latin Grammy for Best Latin Jazz/Jazz Album.
 - [Antonio Loureiro](https://brazilianmusic.biblioverse.org/artists/antonio-loureiro.html): Solo · Minas Gerais · tier B (Reference). Brazilian jazz, New MPB. Minas Gerais multi-instrumentalist and composer.
 - [Arismar do Espírito Santo](https://brazilianmusic.biblioverse.org/artists/arismar-do-espirito-santo.html): Solo · São Paulo · tier B (Reference). Brazilian jazz. A multi-instrumentalist of Brazilian jazz.
 - [Chico Pinheiro](https://brazilianmusic.biblioverse.org/artists/chico-pinheiro.html): Solo · São Paulo · tier B (Reference). Brazilian jazz. Guitarist and composer.
+- [Cristovão Bastos](https://brazilianmusic.biblioverse.org/artists/cristovao-bastos.html): Solo · Rio de Janeiro · tier B (Reference). Brazilian jazz. Nominated for the Latin Grammy for Best Instrumental Album.
+- [Delia Fischer](https://brazilianmusic.biblioverse.org/artists/delia-fischer.html): Solo · Rio de Janeiro · tier B (Reference). Brazilian jazz. Nominated for the Latin Grammy for Best MPB Album.
+- [Diego Figueiredo](https://brazilianmusic.biblioverse.org/artists/diego-figueiredo.html): Solo · São Paulo · tier B (Reference). Brazilian guitar. Nominated for a Grammy.
 - [Dilermando Reis](https://brazilianmusic.biblioverse.org/artists/dilermando-reis.html): Solo · São Paulo · tier B (Reference). Brazilian guitar. Radio-era guitarist, a performer of waltzes and choros.
 - [Duofel](https://brazilianmusic.biblioverse.org/artists/duofel.html): Duo · tier B (Reference). Brazilian guitar. An acoustic guitar duo.
+- [Guga Stroeter](https://brazilianmusic.biblioverse.org/artists/guga-stroeter.html): Solo · São Paulo · tier B (Reference). Brazilian jazz. Nominated for the Latin Grammy for Best Samba/Pagode Album.
 - [Heraldo do Monte](https://brazilianmusic.biblioverse.org/artists/heraldo-do-monte.html): Solo · Pernambuco · tier B (Reference). Brazilian jazz. Guitarist of Quarteto Novo.
 - [Itiberê Zwarg](https://brazilianmusic.biblioverse.org/artists/itibere-zwarg.html): Solo · tier B (Reference). Brazilian jazz. Bassist in Hermeto Pascoal's group.
 - [Jovino Santos Neto](https://brazilianmusic.biblioverse.org/artists/jovino-santos-neto.html): Solo · tier B (Reference). Brazilian jazz. Pianist and flautist, formerly in Hermeto Pascoal's group.
 - [Léa Freire](https://brazilianmusic.biblioverse.org/artists/lea-freire.html): Solo · São Paulo · tier B (Reference). Brazilian jazz. Flautist and composer.
+- [Mauro Senise](https://brazilianmusic.biblioverse.org/artists/mauro-senise.html): Solo · Rio de Janeiro · tier B (Reference). Brazilian jazz. Nominated for the Latin Grammy for Best MPB Album and the Latin Grammy for Best Instrumental Album.
+- [Nailor Azevedo](https://brazilianmusic.biblioverse.org/artists/nailor-azevedo.html): Solo · tier B (Reference). Brazilian jazz. Nominated for the Latin Grammy for Best Latin Jazz/Jazz Album.
 - [Nelson Ayres](https://brazilianmusic.biblioverse.org/artists/nelson-ayres.html): Solo · São Paulo · tier B (Reference). Brazilian jazz. Pianist, arranger and conductor.
 - [Pau Brasil](https://brazilianmusic.biblioverse.org/artists/pau-brasil.html): Band · São Paulo · tier B (Reference). Brazilian jazz. São Paulo instrumental group.
 - [Rosinha de Valença](https://brazilianmusic.biblioverse.org/artists/rosinha-de-valenca.html): Solo · Rio de Janeiro · tier B (Reference). Brazilian guitar. A guitarist, singer and songwriter from Rio de Janeiro state.
+- [Rubem Dantas](https://brazilianmusic.biblioverse.org/artists/rubem-dantas.html): Solo · Bahia · tier B (Reference). Brazilian jazz. Nominated for the Latin Grammy for Best Latin Jazz/Jazz Album.
 - [Teco Cardoso](https://brazilianmusic.biblioverse.org/artists/teco-cardoso.html): Solo · tier B (Reference). Brazilian jazz. Saxophonist and flautist.
 - [Victor Assis Brasil](https://brazilianmusic.biblioverse.org/artists/victor-assis-brasil.html): Solo · Rio de Janeiro · tier B (Reference). Brazilian jazz. Brazilian jazz saxophonist.
 - [Wagner Tiso](https://brazilianmusic.biblioverse.org/artists/wagner-tiso.html): Solo · Minas Gerais · tier B (Reference). Brazilian jazz, Clube da Esquina. Pianist and arranger of Clube da Esquina.
 
-### Classical Music (21)
+### Classical Music (59)
 
 - [Carlos Gomes](https://brazilianmusic.biblioverse.org/artists/carlos-gomes.html): Solo · São Paulo · debut 1861 · tier S (Legend). Romanticism. "O Guarani" (1870) premiered at La Scala in Milan.
 - [Heitor Villa-Lobos](https://brazilianmusic.biblioverse.org/artists/heitor-villa-lobos.html): Solo · Rio de Janeiro · debut 1910 · tier S (Legend). Nationalism. Brazil's greatest composer: "Bachianas Brasileiras", "Choros", "Floresta do Amazonas".
-- [Nelson Freire](https://brazilianmusic.biblioverse.org/artists/nelson-freire.html): Solo · Minas Gerais · debut 1957 · tier S (Legend). Performers and orchestras. World-renowned pianist; duos with Martha Argerich.
-- [Guiomar Novaes](https://brazilianmusic.biblioverse.org/artists/guiomar-novaes.html): Solo · São Paulo · debut 1911 · tier A (Giant). Performers and orchestras. Pianist acclaimed in Paris and New York in the early 20th century.
+- [Nelson Freire](https://brazilianmusic.biblioverse.org/artists/nelson-freire.html): Solo · Minas Gerais · debut 1957 · tier S (Legend). Performers, orchestras and choirs. World-renowned pianist; duos with Martha Argerich.
+- [Guiomar Novaes](https://brazilianmusic.biblioverse.org/artists/guiomar-novaes.html): Solo · São Paulo · debut 1911 · tier A (Giant). Performers, orchestras and choirs. Pianist acclaimed in Paris and New York in the early 20th century.
 - [Francisco Mignone](https://brazilianmusic.biblioverse.org/artists/francisco-mignone.html): Solo · São Paulo · debut 1920 · tier A (Giant). Nationalism. "Maracatu de Chico Rei", street-corner waltzes.
-- [Bidu Sayão](https://brazilianmusic.biblioverse.org/artists/bidu-sayao.html): Solo · Rio de Janeiro · debut 1926 · tier A (Giant). Performers and orchestras. Soprano at the Metropolitan Opera from 1937 to 1952.
+- [Bidu Sayão](https://brazilianmusic.biblioverse.org/artists/bidu-sayao.html): Solo · Rio de Janeiro · debut 1926 · tier A (Giant). Performers, orchestras and choirs. Soprano at the Metropolitan Opera from 1937 to 1952.
 - [Camargo Guarnieri](https://brazilianmusic.biblioverse.org/artists/camargo-guarnieri.html): Solo · São Paulo · debut 1928 · tier A (Giant). Nationalism. Musical nationalism; symphonies and "Dansa Brasileira".
 - [Radamés Gnattali](https://brazilianmusic.biblioverse.org/artists/radames-gnattali.html): Solo · Rio Grande do Sul · debut 1930 · tier A (Giant). Nationalism, Choro. Between classical and popular; arranger for Rádio Nacional.
-- [OSESP](https://brazilianmusic.biblioverse.org/artists/osesp.html): Collective · São Paulo · debut 1954 · tier A (Giant). Performers and orchestras. São Paulo State Symphony; Sala São Paulo; led by John Neschling, Marin Alsop and Thierry Fischer.
+- [OSESP](https://brazilianmusic.biblioverse.org/artists/osesp.html): Collective · São Paulo · debut 1954 · tier A (Giant). Performers, orchestras and choirs. São Paulo State Symphony; Sala São Paulo; led by John Neschling, Marin Alsop and Thierry Fischer.
+- [Orquestra Filarmônica de Minas Gerais](https://brazilianmusic.biblioverse.org/artists/orquestra-filarmonica-de-minas-gerais.html): Collective · Minas Gerais · debut 2008 · tier A (Giant). Performers, orchestras and choirs. A symphony orchestra created in 2008 in Belo Horizonte, conducted by Fabio Mechetti.
+- [Isaac Karabtchevsky](https://brazilianmusic.biblioverse.org/artists/isaac-karabtchevsky.html): Solo · São Paulo · tier A (Giant). Performers, orchestras and choirs. Nominated for the Latin Grammy for Best Classical Album.
 - [José Maurício Nunes Garcia](https://brazilianmusic.biblioverse.org/artists/jose-mauricio-nunes-garcia.html): Solo · Rio de Janeiro · tier A (Giant). Colonial music. Priest and court composer in Rio, the greatest name in Brazilian colonial music.
-- [João Carlos Martins](https://brazilianmusic.biblioverse.org/artists/joao-carlos-martins.html): Solo · São Paulo · tier A (Giant). Performers and orchestras. Pianist and conductor, a performer of Bach.
+- [João Carlos Martins](https://brazilianmusic.biblioverse.org/artists/joao-carlos-martins.html): Solo · São Paulo · tier A (Giant). Performers, orchestras and choirs. Pianist and conductor, a performer of Bach.
+- [Orquestra Sinfônica Brasileira](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-brasileira.html): Collective · Rio de Janeiro · tier A (Giant). Performers, orchestras and choirs. OSB, one of the country's most important orchestras, based in central Rio de Janeiro.
+- [Orquestra Lira Sanjoanense](https://brazilianmusic.biblioverse.org/artists/orquestra-lira-sanjoanense.html): Collective · Minas Gerais · debut 1776 · tier B (Reference). Colonial music. A São João del-Rei orchestra founded in 1776, cited as one of the oldest active orchestras in the Americas.
 - [Alberto Nepomuceno](https://brazilianmusic.biblioverse.org/artists/alberto-nepomuceno.html): Solo · Ceará · debut 1880 · tier B (Reference). Romanticism, Nationalism. Father of Brazilian musical nationalism.
+- [Orquestra Sinfônica do Recife](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-do-recife.html): Collective · Pernambuco · debut 1930 · tier B (Reference). Performers, orchestras and choirs. Founded in 1930, it is considered Brazil's oldest orchestra in uninterrupted activity.
 - [César Guerra-Peixe](https://brazilianmusic.biblioverse.org/artists/cesar-guerra-peixe.html): Solo · Rio de Janeiro · debut 1940 · tier B (Reference). Nationalism. Researched maracatu and northeastern folklore.
-- [Eleazar de Carvalho](https://brazilianmusic.biblioverse.org/artists/eleazar-de-carvalho.html): Solo · Ceará · debut 1941 · tier B (Reference). Performers and orchestras. Conductor and teacher of Claudio Abbado and Zubin Mehta at Tanglewood.
+- [Eleazar de Carvalho](https://brazilianmusic.biblioverse.org/artists/eleazar-de-carvalho.html): Solo · Ceará · debut 1941 · tier B (Reference). Performers, orchestras and choirs. Conductor and teacher of Claudio Abbado and Zubin Mehta at Tanglewood.
+- [Orquestra Sinfônica da Paraíba](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-da-paraiba.html): Collective · Paraíba · debut 1945 · tier B (Reference). Performers, orchestras and choirs. OSPB, founded in 1945 in João Pessoa.
+- [Orquestra Sinfônica de Porto Alegre](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-de-porto-alegre.html): Collective · Rio Grande do Sul · debut 1950 · tier B (Reference). Performers, orchestras and choirs. OSPA, founded in 1949 and re-founded as an independent body in 1950.
+- [Madrigal Renascentista](https://brazilianmusic.biblioverse.org/artists/madrigal-renascentista.html): Collective · Minas Gerais · debut 1956 · tier B (Reference). Performers, orchestras and choirs. A professional choir founded in 1956 in Belo Horizonte; it sang at the inaugural mass of Brasília.
 - [Marlos Nobre](https://brazilianmusic.biblioverse.org/artists/marlos-nobre.html): Solo · Pernambuco · debut 1960 · tier B (Reference). Contemporary music. Award-winning contemporary composer.
-- [Arnaldo Cohen](https://brazilianmusic.biblioverse.org/artists/arnaldo-cohen.html): Solo · Rio de Janeiro · debut 1972 · tier B (Reference). Performers and orchestras. Pianist based in the US.
+- [Orquestra Sinfônica Nacional da UFF](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-nacional-da-uff.html): Collective · Rio de Janeiro · debut 1961 · tier B (Reference). Performers, orchestras and choirs. Founded in 1961 by Juscelino Kubitschek to spread Brazilian concert music; part of UFF since 1984.
+- [Quinteto Villa-Lobos](https://brazilianmusic.biblioverse.org/artists/quinteto-villa-lobos.html): Group · debut 1962 · tier B (Reference). Performers, orchestras and choirs. Nominated for the Latin Grammy for Best Instrumental Album.
+- [Coralusp](https://brazilianmusic.biblioverse.org/artists/coralusp.html): Collective · São Paulo · debut 1967 · tier B (Reference). Performers, orchestras and choirs. The University of São Paulo choir, founded in 1967 by Benito Juarez and José Luiz Visconti.
+- [Arnaldo Cohen](https://brazilianmusic.biblioverse.org/artists/arnaldo-cohen.html): Solo · Rio de Janeiro · debut 1972 · tier B (Reference). Performers, orchestras and choirs. Pianist based in the US.
+- [Orquestra Petrobras Sinfônica](https://brazilianmusic.biblioverse.org/artists/orquestra-petrobras-sinfonica.html): Collective · Rio de Janeiro · debut 1972 · tier B (Reference). Performers, orchestras and choirs. Created in 1972 by conductor Armando Prazeres; Isaac Karabtchevsky is its principal conductor.
+- [Orquestra Sinfônica da USP](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-da-usp.html): Collective · São Paulo · debut 1975 · tier B (Reference). Performers, orchestras and choirs. OSUSP, the University of São Paulo orchestra, founded in 1975.
+- [Meninas Cantoras de Petrópolis](https://brazilianmusic.biblioverse.org/artists/meninas-cantoras-de-petropolis.html): Collective · Rio de Janeiro · debut 1976 · tier B (Reference). Performers, orchestras and choirs. Founded in 1976, it was considered the first choir made up only of girls.
+- [Orquestra Sinfônica do Teatro Nacional Claudio Santoro](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-do-teatro-nacional-claudio-santoro.html): Collective · Federal District (Brasília) · debut 1979 · tier B (Reference). Performers, orchestras and choirs. Founded in 1979 in Brasília by conductor and composer Claudio Santoro, after whom it is now named.
+- [Orquestra Sinfônica da Bahia](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-da-bahia.html): Collective · Bahia · debut 1982 · tier B (Reference). Performers, orchestras and choirs. OSBA, founded in 1944 and re-founded in 1982; a resident ensemble of Teatro Castro Alves in Salvador.
+- [Orquestra Sinfônica do Paraná](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-do-parana.html): Collective · Paraná · debut 1985 · tier B (Reference). Performers, orchestras and choirs. Created in 1985 at Teatro Guaíra in Curitiba.
+- [Calíope](https://brazilianmusic.biblioverse.org/artists/caliope.html): Collective · Rio de Janeiro · debut 1993 · tier B (Reference). Performers, orchestras and choirs. A Rio de Janeiro vocal group since 1993; it won the Carlos Gomes Prize for choirs in 2002.
+- [Orquestra Sinfônica do Teatro da Paz](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-do-teatro-da-paz.html): Collective · Pará · debut 1996 · tier B (Reference). Performers, orchestras and choirs. Created in 1996 in Belém for the concerts of the Theatro da Paz.
+- [Sinfônica Heliópolis](https://brazilianmusic.biblioverse.org/artists/sinfonica-heliopolis.html): Collective · São Paulo · debut 1996 · tier B (Reference). Performers, orchestras and choirs. The Instituto Baccarelli orchestra, born in 1996 with students from the Heliópolis community in São Paulo.
+- [Amazonas Filarmônica](https://brazilianmusic.biblioverse.org/artists/amazonas-filarmonica.html): Collective · Amazonas · debut 1997 · tier B (Reference). Performers, orchestras and choirs. A Manaus orchestra founded in 1997.
+- [Orquestra Ouro Preto](https://brazilianmusic.biblioverse.org/artists/orquestra-ouro-preto.html): Collective · Minas Gerais · debut 2000 · tier B (Reference). Performers, orchestras and choirs. A Minas Gerais orchestra founded in 2000, conducted by Rodrigo Toffolo.
 - [Almeida Prado](https://brazilianmusic.biblioverse.org/artists/almeida-prado.html): Solo · São Paulo · tier B (Reference). Contemporary music. Composer and pianist, author of the "Cartas Celestes".
-- [Antonio Meneses](https://brazilianmusic.biblioverse.org/artists/antonio-meneses.html): Solo · Pernambuco · tier B (Reference). Performers and orchestras. Cellist from Recife, a member of the Beaux Arts Trio.
-- [Elsie Houston](https://brazilianmusic.biblioverse.org/artists/elsie-houston.html): Solo · Rio de Janeiro · tier B (Reference). Performers and orchestras. A Rio soprano who took Brazilian folk songs to the concert halls of Paris and New York.
+- [Antonio Meneses](https://brazilianmusic.biblioverse.org/artists/antonio-meneses.html): Solo · Pernambuco · tier B (Reference). Performers, orchestras and choirs. Cellist from Recife, a member of the Beaux Arts Trio.
+- [Canarinhos de Petrópolis](https://brazilianmusic.biblioverse.org/artists/canarinhos-de-petropolis.html): Collective · Rio de Janeiro · tier B (Reference). Performers, orchestras and choirs. A youth choir of the Instituto dos Meninos Cantores de Petrópolis.
+- [Clara Sverner](https://brazilianmusic.biblioverse.org/artists/clara-sverner.html): Solo · São Paulo · tier B (Reference). Performers, orchestras and choirs. Nominated for the Latin Grammy for Best Classical Album.
+- [Coral Ars Nova](https://brazilianmusic.biblioverse.org/artists/coral-ars-nova.html): Collective · Minas Gerais · tier B (Reference). Performers, orchestras and choirs. The UFMG choir, described as the country's most awarded.
+- [Coral Paulistano Mário de Andrade](https://brazilianmusic.biblioverse.org/artists/coral-paulistano-mario-de-andrade.html): Collective · São Paulo · tier B (Reference). Performers, orchestras and choirs. The choir of São Paulo's Theatro Municipal, singing a cappella repertoire, above all by 20th-century Brazilian composers.
+- [Coro da Osesp](https://brazilianmusic.biblioverse.org/artists/coro-da-osesp.html): Collective · São Paulo · tier B (Reference). Performers, orchestras and choirs. The symphonic choir of Sala São Paulo; conducted for two decades by Naomi Munakata, it is a national vocal reference.
+- [Coro do Theatro Municipal do Rio de Janeiro](https://brazilianmusic.biblioverse.org/artists/coro-do-theatro-municipal-do-rio-de-janeiro.html): Collective · Rio de Janeiro · tier B (Reference). Performers, orchestras and choirs. A 95-voice choir for the operas and concerts of Rio de Janeiro's Theatro Municipal.
+- [Coro Lírico Municipal de São Paulo](https://brazilianmusic.biblioverse.org/artists/coro-lirico-municipal-de-sao-paulo.html): Collective · São Paulo · tier B (Reference). Performers, orchestras and choirs. An 88-voice opera choir of São Paulo's Theatro Municipal.
+- [Débora Halász](https://brazilianmusic.biblioverse.org/artists/debora-halasz.html): Solo · tier B (Reference). Performers, orchestras and choirs. Nominated for the Latin Grammy for Best Classical Album.
+- [Elsie Houston](https://brazilianmusic.biblioverse.org/artists/elsie-houston.html): Solo · Rio de Janeiro · tier B (Reference). Performers, orchestras and choirs. A Rio soprano who took Brazilian folk songs to the concert halls of Paris and New York.
 - [Gilberto Mendes](https://brazilianmusic.biblioverse.org/artists/gilberto-mendes.html): Solo · São Paulo · tier B (Reference). Contemporary music. Composer from Santos, a signatory of the Música Nova manifesto (1963).
+- [John Neschling](https://brazilianmusic.biblioverse.org/artists/john-neschling.html): Solo · Rio de Janeiro · tier B (Reference). Performers, orchestras and choirs. Nominated for the Latin Grammy for Best Classical Album.
 - [Lobo de Mesquita](https://brazilianmusic.biblioverse.org/artists/lobo-de-mesquita.html): Solo · Minas Gerais · tier B (Reference). Colonial music. Composer and organist of 18th-century sacred music in Minas.
+- [Orquestra Experimental de Repertório](https://brazilianmusic.biblioverse.org/artists/orquestra-experimental-de-repertorio.html): Collective · São Paulo · tier B (Reference). Performers, orchestras and choirs. OER, a resident ensemble of São Paulo's Theatro Municipal, based at Praça das Artes.
+- [Orquestra Ribeiro Bastos](https://brazilianmusic.biblioverse.org/artists/orquestra-ribeiro-bastos.html): Collective · Minas Gerais · tier B (Reference). Colonial music. A musical ensemble based in São João del-Rei, Minas Gerais.
+- [Orquestra Sinfônica de Minas Gerais](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-de-minas-gerais.html): Collective · Minas Gerais · tier B (Reference). Performers, orchestras and choirs. OSMG, the orchestra of the Palácio das Artes in Belo Horizonte.
+- [Orquestra Sinfônica do Theatro Municipal do Rio de Janeiro](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-do-theatro-municipal-do-rio-de-janeiro.html): Collective · Rio de Janeiro · tier B (Reference). Performers, orchestras and choirs. The orchestra of the opera seasons at Rio de Janeiro's Theatro Municipal.
+- [Orquestra Sinfônica Municipal de Campinas](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-municipal-de-campinas.html): Collective · São Paulo · tier B (Reference). Performers, orchestras and choirs. The Campinas Symphony, one of the country's biggest orchestras outside a state capital.
+- [Orquestra Sinfônica Municipal de São Paulo](https://brazilianmusic.biblioverse.org/artists/orquestra-sinfonica-municipal-de-sao-paulo.html): Collective · São Paulo · tier B (Reference). Performers, orchestras and choirs. OSM, the orchestra of São Paulo's Theatro Municipal, playing opera and concerts.
+- [Sonia Rubinsky](https://brazilianmusic.biblioverse.org/artists/sonia-rubinsky.html): Solo · São Paulo · tier B (Reference). Performers, orchestras and choirs. Nominated for the Latin Grammy for Best Classical Album.
 
-### Folk Traditions (40)
+### Folk Traditions (42)
 
 - [Mestre Bimba](https://brazilianmusic.biblioverse.org/artists/mestre-bimba.html): Solo · Bahia · debut 1932 · tier S (Legend). Capoeira. Creator of capoeira regional; berimbau rhythms and ladainhas.
 - [Teixeirinha](https://brazilianmusic.biblioverse.org/artists/teixeirinha.html): Solo · Rio Grande do Sul · debut 1959 · tier S (Legend). Gaúcho / nativist music. The "Gaúcho Coração do Rio Grande": "Coração de Luto" sold millions.
@@ -1981,9 +2104,11 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Baitaca](https://brazilianmusic.biblioverse.org/artists/baitaca.html): Solo · Rio Grande do Sul · debut 1990 · tier B (Reference). Gaúcho / nativist music. Fandango and trova.
 - [Luiz Marenco](https://brazilianmusic.biblioverse.org/artists/luiz-marenco.html): Solo · Rio Grande do Sul · debut 1990 · tier B (Reference). Gaúcho / nativist music. Contemporary nativist song.
 - [Selma do Coco](https://brazilianmusic.biblioverse.org/artists/selma-do-coco.html): Solo · Pernambuco · debut 1990 · tier B (Reference). Coco and ciranda. Coco de roda from Olinda.
+- [Tchê Guri](https://brazilianmusic.biblioverse.org/artists/tche-guri.html): Band · debut 1990 · tier B (Reference). Tchê music. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Lenine & Suzano](https://brazilianmusic.biblioverse.org/artists/lenine-e-suzano.html): Duo · Pernambuco · debut 1993 · tier B (Reference). Frevo. "Olho de Peixe" (1993), guitar and percussion.
 - [Flor Ribeirinha](https://brazilianmusic.biblioverse.org/artists/flor-ribeirinha.html): Group · Mato Grosso · debut 1995 · tier B (Reference). Siriri and cururu. Siriri and cururu group from the São Gonçalo Beira Rio community in Cuiabá, a winner at folklore festivals around the world.
 - [Tchê Barbaridade](https://brazilianmusic.biblioverse.org/artists/tche-barbaridade.html): Band · Rio Grande do Sul · debut 1996 · tier B (Reference). Tchê music. Tchê music.
+- [César Oliveira & Rogério Melo](https://brazilianmusic.biblioverse.org/artists/cesar-oliveira-e-rogerio-melo.html): Duo · debut 1999 · tier B (Reference). Gaúcho / nativist music. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Spok Frevo Orquestra](https://brazilianmusic.biblioverse.org/artists/spok-frevo-orquestra.html): Band · Pernambuco · debut 2001 · tier B (Reference). Frevo, Brazilian jazz. Instrumental frevo with a jazz vocabulary.
 - [André Filho](https://brazilianmusic.biblioverse.org/artists/andre-filho.html): Solo · Rio de Janeiro · tier B (Reference). Carnival marchinhas. Author of "Cidade Maravilhosa" (1935), Rio's anthem.
 - [Carlos Galhardo](https://brazilianmusic.biblioverse.org/artists/carlos-galhardo.html): Solo · tier B (Reference). Carnival marchinhas, Samba-canção. Radio-era singer of "Allah-lá-ô".
@@ -2004,7 +2129,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Kaê Guajajara](https://brazilianmusic.biblioverse.org/artists/kae-guajajara.html): Solo · tier B (Reference). Contemporary Indigenous artists. Singer-songwriter of the Guajajara people.
 - [Owerá](https://brazilianmusic.biblioverse.org/artists/owera.html): Solo · São Paulo · tier B (Reference). Contemporary Indigenous artists, Rap nacional. Guarani Mbya rapper from São Paulo, formerly known as Kunumí MC.
 
-### Children's Music (23)
+### Children's Music (24)
 
 - [A Turma do Balão Mágico](https://brazilianmusic.biblioverse.org/artists/a-turma-do-balao-magico.html): Group · São Paulo · debut 1982 · tier S (Legend). Children's. "Superfantástico", "Amigos do Peito".
 - [Xuxa](https://brazilianmusic.biblioverse.org/artists/xuxa.html): Solo · Rio Grande do Sul · debut 1986 · tier S (Legend). Children's. The "Queen of the Little Ones": "Ilariê"; the best-selling children's records in the country's history.
@@ -2019,6 +2144,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [A Patotinha](https://brazilianmusic.biblioverse.org/artists/a-patotinha.html): Group · Rio de Janeiro · debut 1978 · tier B (Reference). Children's. "Natal Numa Discotheque", "Melô dos Patins".
 - [Angélica](https://brazilianmusic.biblioverse.org/artists/angelica.html): Solo · Rio de Janeiro · debut 1988 · tier B (Reference). Children's. "Vou de Táxi".
 - [Eliana](https://brazilianmusic.biblioverse.org/artists/eliana.html): Solo · São Paulo · debut 1993 · tier B (Reference). Children's. "Os Dedinhos".
+- [Banda de Boca](https://brazilianmusic.biblioverse.org/artists/banda-de-boca.html): Group · tier B (Reference). Children's. Nominated for the Latin Grammy for Best Children's Music Album.
 - [Barbatuques](https://brazilianmusic.biblioverse.org/artists/barbatuques.html): Group · São Paulo · tier B (Reference). Children's. São Paulo body-percussion group.
 - [Bia Bedran](https://brazilianmusic.biblioverse.org/artists/bia-bedran.html): Solo · Rio de Janeiro · tier B (Reference). Children's. Singer and storyteller for children.
 - [Bob Zoom](https://brazilianmusic.biblioverse.org/artists/bob-zoom.html): Collective · tier B (Reference). Children's. A children's music channel.
@@ -2030,7 +2156,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Pequeno Cidadão](https://brazilianmusic.biblioverse.org/artists/pequeno-cidadao.html): Band · São Paulo · tier B (Reference). Children's. A children's music band made up of musicians and their kids.
 - [Simony](https://brazilianmusic.biblioverse.org/artists/simony.html): Solo · São Paulo · tier B (Reference). Children's. Former member of A Turma do Balão Mágico.
 
-## Singers (1070)
+## Singers (1071)
 
 - [Elis Regina](https://brazilianmusic.biblioverse.org/people/elis-regina.html): The "Pimentinha", regarded as MPB's greatest interpreter: "Como Nossos Pais", "Águas de Março".
 - [Milton Nascimento](https://brazilianmusic.biblioverse.org/people/milton-nascimento.html): A unique falsetto and timbre; Clube da Esquina and "Travessia".
@@ -2992,6 +3118,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Priscila Senna](https://brazilianmusic.biblioverse.org/artists/priscila-senna.html)
 - [Projota](https://brazilianmusic.biblioverse.org/artists/projota.html)
 - [Rael](https://brazilianmusic.biblioverse.org/artists/rael.html)
+- [Rapadura](https://brazilianmusic.biblioverse.org/artists/rapadura.html)
 - [Raphaela Santos](https://brazilianmusic.biblioverse.org/artists/raphaela-santos.html)
 - [Rappin' Hood](https://brazilianmusic.biblioverse.org/artists/rappin-hood.html)
 - [Ras Bernardo](https://brazilianmusic.biblioverse.org/artists/ras-bernardo.html)
@@ -5826,10 +5953,52 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Canta Comigo](https://brazilianmusic.biblioverse.org/shows/canta-comigo.html) (network: Record; years: 2018–): The 'All Together Now' format with 100 judges, hosted by Rodrigo Faro; it has a Teen version.
 - [The Masked Singer Brasil](https://brazilianmusic.biblioverse.org/shows/the-masked-singer-brasil.html) (network: Globo; years: 2021–): Celebrities sing in masks; hosted by Ivete Sangalo and later Eliana.
 - [Estrelas da Casa](https://brazilianmusic.biblioverse.org/shows/estrelas-da-casa.html) (network: Globo; years: 2024): A music confinement reality show created by Globo, formerly called Estrela da Casa.
+- [Covernation](https://brazilianmusic.biblioverse.org/shows/covernation.html) (network: MTV Brasil; years: 2005–2007): A duel between cover bands hosted by Marcos Mion, with two seasons in the regular schedule.
 - [Jovem Guarda](https://brazilianmusic.biblioverse.org/shows/jovem-guarda.html) (network: Record; years: 1965–1968): Roberto Carlos, Erasmo Carlos and Wanderléa's show, which gave the movement its name. Artists who came through it: Roberto Carlos, Erasmo Carlos, Wanderléa.
 - [Globo de Ouro](https://brazilianmusic.biblioverse.org/shows/globo-de-ouro.html) (network: Globo; years: 1972–1990): TV's hit parade, featuring the artists behind the most-played songs.
 - [Som Brasil](https://brazilianmusic.biblioverse.org/shows/som-brasil.html) (network: Globo; years: 1981): Rolando Boldrin's show devoted to caipira and sertanejo music.
 - [Ensaio](https://brazilianmusic.biblioverse.org/shows/ensaio.html) (network: TV Tupi e TV Cultura; years: 1969): Fernando Faro's interview and music show with the great names of MPB.
+- [O Fino da Bossa](https://brazilianmusic.biblioverse.org/shows/o-fino-da-bossa.html) (network: Record; years: 1965–1967): Hosted by Elis Regina and Jair Rodrigues; its success led to three live LPs.
+- [Programa Raul Gil](https://brazilianmusic.biblioverse.org/shows/programa-raul-gil.html) (network: Record, Tupi, Manchete, Band e SBT; years: 1973): Raul Gil's live-audience show; it launched in 1973 on Record and later aired on Tupi, Manchete, Band and SBT.
+- [Roberto Carlos Especial](https://brazilianmusic.biblioverse.org/shows/roberto-carlos-especial.html) (network: Globo; years: 1974–): Roberto Carlos's year-end special, on air since 1974; it only skipped 1999.
+- [Viola, Minha Viola](https://brazilianmusic.biblioverse.org/shows/viola-minha-viola.html) (network: TV Cultura e TV Brasil; years: 1980–2019): The caipira music show, hosted by Inezita Barroso from 1980 to 2014.
+- [Grandes Nomes](https://brazilianmusic.biblioverse.org/shows/grandes-nomes.html) (network: Globo; years: 1980–1981): A monthly music series devoted to one great name of Brazilian music per episode.
+- [Cassino do Chacrinha](https://brazilianmusic.biblioverse.org/shows/cassino-do-chacrinha.html) (network: Globo; years: 1982–1988): Chacrinha's Saturday-afternoon live-audience show on TV Globo.
+- [Galpão Crioulo](https://brazilianmusic.biblioverse.org/shows/galpao-crioulo.html) (network: RBS TV; years: 1982–): An RBS TV programme on air since 1982, hosted by the nativist singers Nico Fagundes and later Neto Fagundes.
+- [Fábrica do Som](https://brazilianmusic.biblioverse.org/shows/fabrica-do-som.html) (network: TV Cultura; years: 1983–1984): A music programme made with Sesc, hosted by Tadeu Jungle.
+- [Clip Clip](https://brazilianmusic.biblioverse.org/shows/clip-clip.html) (network: Globo; years: 1984–1987): A Sunday music show hosted by the puppets Muquirana Jones and Edgar Ganta.
+- [Mixto Quente](https://brazilianmusic.biblioverse.org/shows/mixto-quente.html) (network: Globo; years: 1986): A Sunday-afternoon music festival in the summer of 1986, inspired by Rock in Rio.
+- [Clip Trip](https://brazilianmusic.biblioverse.org/shows/clip-trip.html) (network: TV Gazeta; years: 1989–1994): A daily music-video show hosted by Beto Rivera.
+- [Som Pop](https://brazilianmusic.biblioverse.org/shows/som-pop.html) (network: TV Cultura; years: 1989–1993): A music-video show hosted by Kid Vinil.
+- [Disk MTV](https://brazilianmusic.biblioverse.org/shows/disk-mtv.html) (network: MTV Brasil; years: 1990): Launched on 22 October 1990, right after MTV Brasil went on air; the Brazilian version of Dial MTV and one of the channel's biggest hits.
+- [Top 20 Brasil](https://brazilianmusic.biblioverse.org/shows/top-20-brasil.html) (network: MTV Brasil; years: 1990–2006, 2013): MTV Brasil's music-video chart, on air from the channel's launch.
+- [Yo! MTV](https://brazilianmusic.biblioverse.org/shows/yo-mtv.html) (network: MTV Brasil; years: 1990–2006): The first Brazilian TV programme devoted to rap.
+- [Lado B](https://brazilianmusic.biblioverse.org/shows/lado-b.html) (network: MTV Brasil; years: 1991–2000): MTV's midnight show, hosted by Luiz Thunderbird, Soninha Francine, Fabio Massari and Kid Vinil.
+- [Acústico MTV](https://brazilianmusic.biblioverse.org/shows/acustico-mtv.html) (network: MTV Brasil): The Brazilian version of MTV Unplugged: bands and artists playing their songs acoustically.
+- [Programa Livre](https://brazilianmusic.biblioverse.org/shows/programa-livre.html) (network: SBT; years: 1991–2001): An SBT talk show hosted by Serginho Groisman from 1991 to 1999.
+- [TVZ](https://brazilianmusic.biblioverse.org/shows/tvz.html) (network: Multishow; years: 1993–): Multishow's prime-time music-video show, on air since 1993.
+- [Acervo MPB](https://brazilianmusic.biblioverse.org/shows/acervo-mpb.html) (network: TVE Brasil e TV Brasil; years: 1996–): MPB concerts shown in full, recorded exclusively by the broadcaster.
+- [Luau MTV](https://brazilianmusic.biblioverse.org/shows/luau-mtv.html) (network: MTV Brasil; years: 1996–2012): MTV acoustic concerts, on and off from 1996 to 2012; the first host was Cuca Lazzarotto.
+- [Piores Clipes do Mundo](https://brazilianmusic.biblioverse.org/shows/piores-clipes-do-mundo.html) (network: MTV Brasil; years: 1999–2002): Comedy built on questionable music videos, with Marina Person, Marcos Mion and João Gordo.
+- [Demo MTV](https://brazilianmusic.biblioverse.org/shows/demo-mtv.html) (network: MTV Brasil; years: 2000–2001): A showcase for Brazilian independent bands and their videos.
+- [Musikaos](https://brazilianmusic.biblioverse.org/shows/musikaos.html) (network: TV Cultura; years: 2000–2003): A music programme hosted by Gastão Moreira, with 143 episodes.
+- [Gordo a Go-Go](https://brazilianmusic.biblioverse.org/shows/gordo-a-go-go.html) (network: MTV Brasil; years: 2000–2005): João Gordo's talk show, one of MTV's big ratings winners.
+- [Altas Horas](https://brazilianmusic.biblioverse.org/shows/altas-horas.html) (network: Globo; years: 2000–): Serginho Groisman's Saturday-night talk show.
+- [Um Barzinho, Um Violão](https://brazilianmusic.biblioverse.org/shows/um-barzinho-um-violao.html) (network: Multishow; years: 2001): Big names of MPB and pop rock singing classics; it became a series of albums.
+- [ClipMania](https://brazilianmusic.biblioverse.org/shows/clipmania.html) (network: Band; years: 2001–2004): A music show hosted by Sabrina Parlatore.
+- [Estúdio Coca-Cola](https://brazilianmusic.biblioverse.org/shows/estudio-coca-cola.html) (network: MTV Brasil; years: 2007): Unlikely musical meetings: artists from different worlds on the same stage for the first time.
+- [O Som do Vinil](https://brazilianmusic.biblioverse.org/shows/o-som-do-vinil.html) (network: Canal Brasil; years: 2007–): Hosted by musician and researcher Charles Gavin, on air since 2007.
+- [Terra Nativa](https://brazilianmusic.biblioverse.org/shows/terra-nativa.html) (network: Band; years: 2007): A music show hosted by the sertanejo duo Guilherme & Santiago.
+- [Samba na Gamboa](https://brazilianmusic.biblioverse.org/shows/samba-na-gamboa.html) (network: TV Brasil; years: 2008–2022, 2024–): The many forms of samba and MPB, with Diogo Nogueira until 2022 and Teresa Cristina since 2024.
+- [Top 10 MTV](https://brazilianmusic.biblioverse.org/shows/top-10-mtv.html) (network: MTV Brasil; years: 2008, 2010–2013): The ten music videos most voted by viewers online; a spin-off of Disk MTV.
+- [Esquenta!](https://brazilianmusic.biblioverse.org/shows/esquenta.html) (network: Globo; years: 2011–2017): Regina Casé's Sunday-afternoon live-audience show.
+- [Mix Ao Vivo](https://brazilianmusic.biblioverse.org/shows/mix-ao-vivo.html) (network: Mix TV): Concerts where bands played classic albums live, such as RPM with "Rádio Pirata".
+- [Música Boa Ao Vivo](https://brazilianmusic.biblioverse.org/shows/musica-boa-ao-vivo.html) (network: Multishow; years: 2014–): A music show hosted over the years by Thiaguinho, Anitta, Iza and Ivete Sangalo.
+- [SóTocaTop](https://brazilianmusic.biblioverse.org/shows/sotocatop.html) (network: Globo; years: 2018–2020): A Saturday-afternoon music show with hosts such as Luan Santana, Iza and Ludmilla.
+- [Circuito Sertanejo](https://brazilianmusic.biblioverse.org/shows/circuito-sertanejo.html) (network: Globo e Multishow; years: 2022–): A variety show focused on sertanejo and modão.
+- [Bem Brasil](https://brazilianmusic.biblioverse.org/shows/bem-brasil.html) (network: TV Cultura): Live Brazilian music concerts, recorded first at USP and later at Sesc, hosted by Wandi Doratiotto.
+- [Cultura Livre](https://brazilianmusic.biblioverse.org/shows/cultura-livre.html) (network: TV Cultura): Artists from the contemporary alternative circuit, hosted by Roberta Martinelli.
+- [Sr. Brasil](https://brazilianmusic.biblioverse.org/shows/sr-brasil.html) (network: TV Cultura, SescTV e TV Brasil): A Brazilian music programme created, directed and hosted by Rolando Boldrin.
 
 ## Instruments
 

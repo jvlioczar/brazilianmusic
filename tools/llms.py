@@ -177,7 +177,8 @@ def write_all(B):
         out += [f"- [{x['name']}]({IT.abs_url(lang, 'fe', x['slug'])}) ({T['since']} {x['since']}; {T['city']}: {x['city']}): {t(x['blurb'], lang)}" for x in C.FESTIVALS] + [""]
         out += [f"## {T['shows_h']}", ""]
         for s in C.SHOWS:
-            line = f"- [{s['name']}]({IT.abs_url(lang, 'sh', s['slug'])}) ({T['net']}: {s['net']}; {T['years']}: {s['years']}): {t(s['blurb'], lang)}"
+            meta = "; ".join(x for x in (f"{T['net']}: {s['net']}", f"{T['years']}: {s['years']}" if s["years"] else "") if x)
+            line = f"- [{s['name']}]({IT.abs_url(lang, 'sh', s['slug'])}) ({meta}): {t(s['blurb'], lang)}"
             if s["alumni"]:
                 line += f" {T['alumni'].capitalize()}: {', '.join(s['alumni'])}."
             out.append(line)

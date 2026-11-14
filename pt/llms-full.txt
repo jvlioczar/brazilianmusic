@@ -1,6 +1,6 @@
 # Música Brasileira (Brazilian Music)
 
-> +160 gêneros e subgêneros, +2.400 artistas musicais, +1.700 músicas e +350 discos: a música brasileira catalogada em português e inglês.
+> +160 gêneros e subgêneros, +2.500 artistas musicais, +1.700 músicas e +350 discos: a música brasileira catalogada em português e inglês.
 
 Música Brasileira (Brazilian Music) é um catálogo gratuito e bilíngue da música brasileira, parte da BiblioVerse. O português fica em /pt/ e o inglês na raiz. Cada artista, pessoa, subgênero, prêmio, festival e programa de TV tem página própria, com links para Wikipedia, Spotify, Last.fm e YouTube. Os artistas estão em três níveis: S (lenda), A (gigante) e B (referência). Os créditos de músicas e discos citam os intérpretes, não os compositores. Última atualização: 2026-11-14.
 
@@ -222,7 +222,7 @@ Carlos Gomes estreou 'O Guarani' no Scala de Milão em 1870; Heitor Villa-Lobos 
 - [Romantismo](https://brazilianmusic.biblioverse.org/pt/subgeneros/classica-romantica.html) (desde 1861): A ópera e a música de salão do Império: Carlos Gomes, de 'O Guarani', e Alberto Nepomuceno.
 - [Nacionalismo](https://brazilianmusic.biblioverse.org/pt/subgeneros/classica-nacionalista.html) (desde 1910): Villa-Lobos, Mignone, Camargo Guarnieri e Guerra-Peixe usaram ritmos e melodias populares na música de concerto.
 - [Música contemporânea](https://brazilianmusic.biblioverse.org/pt/subgeneros/classica-contemporanea.html) (desde 1963): Do manifesto Música Nova (1963) de Gilberto Mendes a Marlos Nobre e Almeida Prado.
-- [Intérpretes e orquestras](https://brazilianmusic.biblioverse.org/pt/subgeneros/classica-interpretes.html) (desde 1911): Guiomar Novaes, Bidu Sayão, Nelson Freire, João Carlos Martins, Antonio Meneses e a OSESP.
+- [Intérpretes, orquestras e coros](https://brazilianmusic.biblioverse.org/pt/subgeneros/classica-interpretes.html) (desde 1911): Guiomar Novaes, Bidu Sayão, Nelson Freire, João Carlos Martins, Antonio Meneses e a OSESP.
 
 ### [Tradições Populares](https://brazilianmusic.biblioverse.org/pt/generos/regional.html) (desde 1800)
 
@@ -259,7 +259,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 
 ## Artistas
 
-### Samba (144)
+### Samba (151)
 
 - [Francisco Alves](https://brazilianmusic.biblioverse.org/pt/artistas/francisco-alves.html): Solo · Rio de Janeiro · estreia 1919 · nível S (Lenda). Samba-canção, Samba-exaltação. O "Rei da Voz", maior cantor da era do rádio; primeiro a gravar "Aquarela do Brasil" (1939).
 - [Carmen Miranda](https://brazilianmusic.biblioverse.org/pt/artistas/carmen-miranda.html): Solo · Rio de Janeiro · estreia 1929 · nível S (Lenda). Samba-canção, Marchinhas de carnaval. A "Pequena Notável" levou o samba e as marchinhas a Hollywood nos anos 1940.
@@ -326,6 +326,8 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Wilson Batista](https://brazilianmusic.biblioverse.org/pt/artistas/wilson-batista.html): Solo · Rio de Janeiro · nível A (Gigante). Samba de raiz. Compositor de "Chico Brito" e da célebre polêmica em versos com Noel Rosa.
 - [Zimbo Trio](https://brazilianmusic.biblioverse.org/pt/artistas/zimbo-trio.html): Banda · São Paulo · nível A (Gigante). Samba-jazz. Trio paulista de samba-jazz.
 - [Moreira da Silva](https://brazilianmusic.biblioverse.org/pt/artistas/moreira-da-silva.html): Solo · Rio de Janeiro · estreia 1934 · nível B (Referência). Samba de raiz, Samba de breque. Criador do samba de breque, com pausas para falas malandras.
+- [Orquestra Tabajara](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-tabajara.html): Grupo · Paraíba · estreia 1934 · nível B (Referência). Samba de gafieira. A orquestra de Severino Araújo, referência dos bailes de gafieira; fundada em 1934 em João Pessoa.
+- [Riachão](https://brazilianmusic.biblioverse.org/pt/artistas/riachao.html): Solo · Bahia · estreia 1943 · nível B (Referência). Samba de raiz. Concorreu ao Grammy Latino de Melhor Álbum de Samba/Pagode.
 - [Dolores Duran](https://brazilianmusic.biblioverse.org/pt/artistas/dolores-duran.html): Solo · Rio de Janeiro · estreia 1952 · nível B (Referência). Samba-canção. Compositora e cantora de "A Noite do Meu Bem" e "Por Causa de Você".
 - [Zé Kéti](https://brazilianmusic.biblioverse.org/pt/artistas/ze-keti.html): Solo · Rio de Janeiro · estreia 1955 · nível B (Referência). Samba de raiz. "A Voz do Morro" e "Máscara Negra".
 - [Originais do Samba](https://brazilianmusic.biblioverse.org/pt/artistas/originais-do-samba.html): Grupo · Rio de Janeiro · estreia 1960 · nível B (Referência). Samba de raiz. Grupo onde surgiu Mussum, dos Trapalhões.
@@ -341,8 +343,11 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Soweto](https://brazilianmusic.biblioverse.org/pt/artistas/soweto.html): Banda · São Paulo · estreia 1991 · nível B (Referência). Pagode romântico. Grupo de pagode romântico que revelou Belo.
 - [Pixote](https://brazilianmusic.biblioverse.org/pt/artistas/pixote.html): Banda · São Paulo · estreia 1993 · nível B (Referência). Pagode romântico. Pagode paulista com "Insegurança".
 - [Teresa Cristina](https://brazilianmusic.biblioverse.org/pt/artistas/teresa-cristina.html): Solo · Rio de Janeiro · estreia 1998 · nível B (Referência). Samba de raiz. Intérprete da Lapa carioca e das lives de samba na pandemia.
+- [Monobloco](https://brazilianmusic.biblioverse.org/pt/artistas/monobloco.html): Banda · Rio de Janeiro · estreia 2000 · nível B (Referência). Samba de raiz. Concorreu ao Grammy Latino de Melhor Álbum de Samba/Pagode.
+- [Inimigos da HP](https://brazilianmusic.biblioverse.org/pt/artistas/inimigos-da-hp.html): Grupo · estreia 2001 · nível B (Referência). Pagode. Concorreu ao Grammy Latino de Melhor Álbum de Samba/Pagode.
 - [Diogo Nogueira](https://brazilianmusic.biblioverse.org/pt/artistas/diogo-nogueira.html): Solo · Rio de Janeiro · estreia 2007 · nível B (Referência). Samba de raiz, Pagode. Filho de João Nogueira; samba de raiz para novas gerações.
 - [Oba Oba Samba House](https://brazilianmusic.biblioverse.org/pt/artistas/oba-oba-samba-house.html): Banda · São Paulo · estreia 2012 · nível B (Referência). Pagode, Pagonejo. Grupo de Ribeirão Preto que mistura samba e house; discos "Pagofunk" (2016) e "Pagonejo" (2018).
+- [Anaí Rosa](https://brazilianmusic.biblioverse.org/pt/artistas/anai-rosa.html): Solo · nível B (Referência). Samba de raiz. Concorreu ao Grammy Latino de Melhor Álbum de Samba/Pagode.
 - [Anísio Silva](https://brazilianmusic.biblioverse.org/pt/artistas/anisio-silva.html): Solo · Bahia · nível B (Referência). Samba-canção. Cantor romântico de boleros, campeão de vendas no fim dos anos 1950.
 - [Arlindinho](https://brazilianmusic.biblioverse.org/pt/artistas/arlindinho.html): Solo · Rio de Janeiro · nível B (Referência). Pagode, Samba de raiz. Cantor e compositor, filho de Arlindo Cruz.
 - [Atitude 67](https://brazilianmusic.biblioverse.org/pt/artistas/atitude-67.html): Banda · São Paulo · nível B (Referência). Pagode. Grupo de Campinas que mistura pagode, pop e reggae.
@@ -350,6 +355,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Beto sem Braço](https://brazilianmusic.biblioverse.org/pt/artistas/beto-sem-braco.html): Solo · Rio de Janeiro · nível B (Referência). Samba-enredo. Cantor e compositor, um dos maiores nomes do Império Serrano.
 - [Billy Blanco](https://brazilianmusic.biblioverse.org/pt/artistas/billy-blanco.html): Solo · Pará · nível B (Referência). Samba-canção, Bossa nova. Compositor paraense de "Tereza da Praia", com Tom Jobim, e da "Sinfonia do Rio de Janeiro".
 - [Bokaloka](https://brazilianmusic.biblioverse.org/pt/artistas/bokaloka.html): Banda · Rio de Janeiro · nível B (Referência). Pagode romântico. Grupo de pagode do Rio, também escrito Boka Loka; começou como Água na Boca e adotou o nome em 1999. O disco ao vivo "Bokaloka de Verdade" (2001) ganhou disco de ouro: "Mais Uma Chance", "Não Pedi pra Me Apaixonar".
+- [Cláudio Jorge](https://brazilianmusic.biblioverse.org/pt/artistas/claudio-jorge.html): Solo · Rio de Janeiro · nível B (Referência). Samba de raiz. Concorreu ao Grammy Latino de Melhor Álbum de Samba/Pagode.
 - [Cristina Buarque](https://brazilianmusic.biblioverse.org/pt/artistas/cristina-buarque.html): Solo · São Paulo · nível B (Referência). Samba de raiz. Cantora e pesquisadora que preservou a memória do samba carioca e paulista.
 - [Dicró](https://brazilianmusic.biblioverse.org/pt/artistas/dicro.html): Solo · Rio de Janeiro · nível B (Referência). Samba de raiz. Sambista dos sambas satíricos, na linha de Moreira da Silva e Bezerra da Silva.
 - [Doce Encontro](https://brazilianmusic.biblioverse.org/pt/artistas/doce-encontro.html): Banda · nível B (Referência). Pagode romântico. Grupo de pagode romântico dos anos 1990.
@@ -381,13 +387,14 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Mumuzinho](https://brazilianmusic.biblioverse.org/pt/artistas/mumuzinho.html): Solo · Rio de Janeiro · nível B (Referência). Pagode. Pagode e TV; técnico do The Voice Kids.
 - [Nei Lopes](https://brazilianmusic.biblioverse.org/pt/artistas/nei-lopes.html): Solo · Rio de Janeiro · nível B (Referência). Samba de raiz, Partido-alto. Compositor, escritor e pesquisador da cultura afro-brasileira.
 - [Nelson Sargento](https://brazilianmusic.biblioverse.org/pt/artistas/nelson-sargento.html): Solo · Rio de Janeiro · nível B (Referência). Samba de raiz. Sambista da Mangueira, compositor de "Agoniza Mas Não Morre".
+- [Nilze Carvalho](https://brazilianmusic.biblioverse.org/pt/artistas/nilze-carvalho.html): Solo · Rio de Janeiro · nível B (Referência). Samba de raiz. Concorreu ao Grammy Latino de Melhor Álbum de Samba/Pagode.
 - [Noite Ilustrada](https://brazilianmusic.biblioverse.org/pt/artistas/noite-ilustrada.html): Solo · Minas Gerais · nível B (Referência). Samba de raiz. Cantor e violonista que gravou "Volta por Cima", de Paulo Vanzolini.
 - [Nora Ney](https://brazilianmusic.biblioverse.org/pt/artistas/nora-ney.html): Solo · Rio de Janeiro · nível B (Referência). Samba-canção. Cantora de samba-canção, de "Ninguém Me Ama" (1952).
 - [Noriel Vilela](https://brazilianmusic.biblioverse.org/pt/artistas/noriel-vilela.html): Solo · Rio de Janeiro · nível B (Referência). Samba-rock. Voz de baixo profundo que juntou samba-rock e temas afro-religiosos: "Só o Ôme".
 - [Orlandivo](https://brazilianmusic.biblioverse.org/pt/artistas/orlandivo.html): Solo · nível B (Referência). Sambalanço. Cantor e compositor que definiu o sambalanço dos anos 1960.
-- [Orquestra Tabajara](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-tabajara.html): Grupo · nível B (Referência). Samba de gafieira. A orquestra de Severino Araújo, referência dos bailes de gafieira.
 - [Os Travessos](https://brazilianmusic.biblioverse.org/pt/artistas/os-travessos.html): Banda · São Paulo · nível B (Referência). Pagode romântico. Grupo de pagode que revelou Rodriguinho.
 - [Otília Amorim](https://brazilianmusic.biblioverse.org/pt/artistas/otilia-amorim.html): Solo · Rio de Janeiro · nível B (Referência). Samba de raiz. Atriz e cantora do teatro de revista, nascida em 1894, uma das primeiras vozes do samba em disco.
+- [Pedro Miranda](https://brazilianmusic.biblioverse.org/pt/artistas/pedro-miranda.html): Solo · Rio de Janeiro · nível B (Referência). Samba de raiz. Concorreu ao Grammy Latino de Melhor Álbum de Samba/Pagode.
 - [Pique Novo](https://brazilianmusic.biblioverse.org/pt/artistas/pique-novo.html): Banda · nível B (Referência). Pagode romântico. Grupo de pagode romântico dos anos 1990.
 - [Pretinho da Serrinha](https://brazilianmusic.biblioverse.org/pt/artistas/pretinho-da-serrinha.html): Solo · Rio de Janeiro · nível B (Referência). Samba de raiz. Cantor, percussionista, arranjador e produtor de samba.
 - [Reinaldo](https://brazilianmusic.biblioverse.org/pt/artistas/reinaldo.html): Solo · Rio de Janeiro · nível B (Referência). Pagode romântico, Pagode. O "Príncipe do Pagode", um dos precursores do pagode romântico nos anos 1980.
@@ -425,7 +432,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Rabo de Lagartixa](https://brazilianmusic.biblioverse.org/pt/artistas/rabo-de-lagartixa.html): Grupo · nível B (Referência). Choro. Grupo de choro.
 - [Xisto Bahia](https://brazilianmusic.biblioverse.org/pt/artistas/xisto-bahia.html): Solo · Bahia · nível B (Referência). Modinha e lundu. Ator e compositor baiano do século XIX, autor de lundus como "Isto É Bom".
 
-### Bossa Nova (24)
+### Bossa Nova (26)
 
 - [Tom Jobim](https://brazilianmusic.biblioverse.org/pt/artistas/tom-jobim.html): Solo · Rio de Janeiro · estreia 1956 · nível S (Lenda). Bossa nova, MPB dos festivais. O compositor brasileiro mais gravado no mundo: "Garota de Ipanema", "Águas de Março", "Wave".
 - [Vinicius de Moraes](https://brazilianmusic.biblioverse.org/pt/artistas/vinicius-de-moraes.html): Solo · Rio de Janeiro · estreia 1956 · nível S (Lenda). Bossa nova, MPB dos festivais, Afro-samba. O "poetinha": letrista da bossa nova e parceiro de Jobim, Baden e Toquinho.
@@ -443,7 +450,9 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Leny Andrade](https://brazilianmusic.biblioverse.org/pt/artistas/leny-andrade.html): Solo · Rio de Janeiro · estreia 1958 · nível B (Referência). Bossa nova, Samba-jazz. A "primeira-dama do jazz brasileiro".
 - [Joyce Moreno](https://brazilianmusic.biblioverse.org/pt/artistas/joyce-moreno.html): Solo · Rio de Janeiro · estreia 1968 · nível B (Referência). Bossa nova. Violonista e compositora com carreira no Japão e na Europa.
 - [Bebel Gilberto](https://brazilianmusic.biblioverse.org/pt/artistas/bebel-gilberto.html): Solo · Rio de Janeiro · estreia 1986 · nível B (Referência). Bossa nova, Nova MPB. "Tanto Tempo" (2000) renovou a bossa nova para o público global.
+- [Bossacucanova](https://brazilianmusic.biblioverse.org/pt/artistas/bossacucanova.html): Banda · estreia 1999 · nível B (Referência). Bossa nova. Concorreu ao Grammy Latino de Melhor Álbum Pop Contemporâneo em Língua Portuguesa.
 - [Alaíde Costa](https://brazilianmusic.biblioverse.org/pt/artistas/alaide-costa.html): Solo · Rio de Janeiro · nível B (Referência). Bossa nova, MPB dos festivais. Voz delicada da bossa nova, com carreira de mais de seis décadas.
+- [Celso Fonseca](https://brazilianmusic.biblioverse.org/pt/artistas/celso-fonseca.html): Solo · Rio de Janeiro · nível B (Referência). Bossa nova. Concorreu ao Grammy Latino de Melhor Canção em Língua Portuguesa e ao Grammy Latino de Melhor Álbum de MPB.
 - [Claudette Soares](https://brazilianmusic.biblioverse.org/pt/artistas/claudette-soares.html): Solo · Rio de Janeiro · nível B (Referência). Bossa nova. Cantora carioca da bossa nova e da MPB.
 - [Maria Creuza](https://brazilianmusic.biblioverse.org/pt/artistas/maria-creuza.html): Solo · Bahia · nível B (Referência). Bossa nova. Cantora baiana que excursionou com Vinicius de Moraes e Toquinho.
 - [Miúcha](https://brazilianmusic.biblioverse.org/pt/artistas/miucha.html): Solo · Rio de Janeiro · nível B (Referência). Bossa nova. Irmã de Chico Buarque e mãe de Bebel Gilberto; gravou com Tom Jobim e Stan Getz.
@@ -452,7 +461,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Sylvia Telles](https://brazilianmusic.biblioverse.org/pt/artistas/sylvia-telles.html): Solo · Rio de Janeiro · nível B (Referência). Bossa nova. Uma das maiores intérpretes da bossa nova; morreu em 1966, aos 32 anos.
 - [Wanda Sá](https://brazilianmusic.biblioverse.org/pt/artistas/wanda-sa.html): Solo · São Paulo · nível B (Referência). Bossa nova. Violonista e cantora da bossa nova.
 
-### MPB (140)
+### MPB (160)
 
 - [Elis Regina](https://brazilianmusic.biblioverse.org/pt/artistas/elis-regina.html): Solo · Rio Grande do Sul · estreia 1961 · nível S (Lenda). MPB dos festivais. A "Pimentinha": a maior intérprete da MPB; "Arrastão", "Águas de Março", "Como Nossos Pais".
 - [Gilberto Gil](https://brazilianmusic.biblioverse.org/pt/artistas/gilberto-gil.html): Solo · Bahia · estreia 1962 · nível S (Lenda). Tropicália, MPB dos festivais, Afoxé e ijexá. Tropicalista, ex-ministro da Cultura: "Aquele Abraço", "Andar com Fé", "Palco".
@@ -492,17 +501,22 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Nana Caymmi](https://brazilianmusic.biblioverse.org/pt/artistas/nana-caymmi.html): Solo · Rio de Janeiro · estreia 1960 · nível B (Referência). MPB dos festivais. Intérprete de voz grave e filha de Dorival Caymmi.
 - [MPB4](https://brazilianmusic.biblioverse.org/pt/artistas/mpb4.html): Grupo · Rio de Janeiro · estreia 1965 · nível B (Referência). MPB dos festivais. Conjunto vocal de Niterói com longa parceria com Chico Buarque.
 - [Antônio Carlos e Jocáfi](https://brazilianmusic.biblioverse.org/pt/artistas/antonio-carlos-e-jocafi.html): Dupla · Bahia · estreia 1969 · nível B (Referência). MPB dos festivais. Dupla baiana de "Você Abusou" e de muitos temas de novela.
+- [Luiz Cláudio Ramos](https://brazilianmusic.biblioverse.org/pt/artistas/luiz-claudio-ramos.html): Solo · Rio de Janeiro · estreia 1969 · nível B (Referência). MPB dos festivais. Concorreu ao Grammy Latino de Melhor Arranjo.
+- [Banda de Pau e Corda](https://brazilianmusic.biblioverse.org/pt/artistas/banda-de-pau-e-corda.html): Banda · estreia 1972 · nível B (Referência). MPB dos festivais. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Geraldo Azevedo](https://brazilianmusic.biblioverse.org/pt/artistas/geraldo-azevedo.html): Solo · Pernambuco · estreia 1972 · nível B (Referência). MPB dos festivais. "Dia Branco", "Táxi Lunar".
 - [Ednardo](https://brazilianmusic.biblioverse.org/pt/artistas/ednardo.html): Solo · Ceará · estreia 1973 · nível B (Referência). Pessoal do Ceará. "Pavão Mysteriozo".
 - [Luiz Melodia](https://brazilianmusic.biblioverse.org/pt/artistas/luiz-melodia.html): Solo · Rio de Janeiro · estreia 1973 · nível B (Referência). MPB dos festivais, Soul brasileiro. "Pérola Negra", "Magrelinha".
 - [Simone](https://brazilianmusic.biblioverse.org/pt/artistas/simone.html): Solo · Bahia · estreia 1973 · nível B (Referência). MPB dos festivais. "Então É Natal", "Começar de Novo".
 - [Fafá de Belém](https://brazilianmusic.biblioverse.org/pt/artistas/fafa-de-belem.html): Solo · Pará · estreia 1975 · nível B (Referência). MPB dos festivais, Carimbó. Voz do Pará na MPB: "Filho da Bahia", "Vermelho".
+- [Boca Livre](https://brazilianmusic.biblioverse.org/pt/artistas/boca-livre.html): Grupo · estreia 1978 · nível B (Referência). MPB dos festivais. Concorreu ao Grammy.
 - [Zizi Possi](https://brazilianmusic.biblioverse.org/pt/artistas/zizi-possi.html): Solo · São Paulo · estreia 1978 · nível B (Referência). MPB dos festivais. "Perigo" e "Per Amore".
 - [Joanna](https://brazilianmusic.biblioverse.org/pt/artistas/joanna.html): Solo · Rio de Janeiro · estreia 1979 · nível B (Referência). MPB dos festivais. Intérprete romântica de grande sucesso nos anos 1980 e 1990.
 - [Ângela Ro Ro](https://brazilianmusic.biblioverse.org/pt/artistas/angela-ro-ro.html): Solo · Rio de Janeiro · estreia 1979 · nível B (Referência). MPB dos festivais. "Amor, Meu Grande Amor".
 - [Zélia Duncan](https://brazilianmusic.biblioverse.org/pt/artistas/zelia-duncan.html): Solo · Rio de Janeiro · estreia 1990 · nível B (Referência). Nova MPB, Pop rock. "Catedral", "Pagu" com Rita Lee.
+- [Thalma de Freitas](https://brazilianmusic.biblioverse.org/pt/artistas/thalma-de-freitas.html): Solo · Rio de Janeiro · estreia 1992 · nível B (Referência). Nova MPB. Concorreu ao Grammy.
 - [Paulinho Moska](https://brazilianmusic.biblioverse.org/pt/artistas/paulinho-moska.html): Solo · Rio de Janeiro · estreia 1993 · nível B (Referência). Nova MPB. "Pensando em Você" e "A Seta e o Alvo".
 - [Chico César](https://brazilianmusic.biblioverse.org/pt/artistas/chico-cesar.html): Solo · Paraíba · estreia 1995 · nível B (Referência). Nova MPB. "Mama África", "À Primeira Vista".
+- [Patrícia Bastos](https://brazilianmusic.biblioverse.org/pt/artistas/patricia-bastos.html): Solo · Amapá · estreia 1997 · nível B (Referência). Nova MPB. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Zeca Baleiro](https://brazilianmusic.biblioverse.org/pt/artistas/zeca-baleiro.html): Solo · Maranhão · estreia 1997 · nível B (Referência). Nova MPB. "Salão de Beleza" e "Telegrama".
 - [Vanessa da Mata](https://brazilianmusic.biblioverse.org/pt/artistas/vanessa-da-mata.html): Solo · Mato Grosso · estreia 2002 · nível B (Referência). Nova MPB. "Ai, Ai, Ai", "Boa Sorte/Good Luck" com Ben Harper.
 - [Maria Rita](https://brazilianmusic.biblioverse.org/pt/artistas/maria-rita.html): Solo · São Paulo · estreia 2003 · nível B (Referência). Nova MPB, Samba de raiz. Filha de Elis Regina; "A Festa", "Cara Valente".
@@ -510,16 +524,20 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Roberta Sá](https://brazilianmusic.biblioverse.org/pt/artistas/roberta-sa.html): Solo · Rio Grande do Norte · estreia 2005 · nível B (Referência). Nova MPB, Samba de raiz. Samba e MPB, de Natal para o Rio.
 - [Mallu Magalhães](https://brazilianmusic.biblioverse.org/pt/artistas/mallu-magalhaes.html): Solo · São Paulo · estreia 2007 · nível B (Referência). Nova MPB, Indie rock. Revelada pelo MySpace aos 15 anos; "Você Não Presta", "Velha e Louca".
 - [Tiago Iorc](https://brazilianmusic.biblioverse.org/pt/artistas/tiago-iorc.html): Solo · Distrito Federal · estreia 2008 · nível B (Referência). Nova MPB, Pop alternativo. "Amei Te Ver", "Coisa Linda".
+- [5 a Seco](https://brazilianmusic.biblioverse.org/pt/artistas/5-a-seco.html): Banda · estreia 2009 · nível B (Referência). Nova MPB. Concorreu ao Grammy Latino de Melhor Álbum de MPB.
 - [Ellen Oléria](https://brazilianmusic.biblioverse.org/pt/artistas/ellen-oleria.html): Solo · Distrito Federal · estreia 2009 · nível B (Referência). Nova MPB. Venceu a primeira temporada do The Voice Brasil (2012), no time de Carlinhos Brown; mistura jazz, samba, pop e hip-hop. Disco "Re.trato" (2022).
 - [Maria Gadú](https://brazilianmusic.biblioverse.org/pt/artistas/maria-gadu.html): Solo · São Paulo · estreia 2009 · nível B (Referência). Nova MPB. "Shimbalaiê" (2009).
 - [Tim Bernardes](https://brazilianmusic.biblioverse.org/pt/artistas/tim-bernardes.html): Solo · São Paulo · estreia 2009 · nível B (Referência). Nova MPB, Indie rock. Voz d'O Terno; "Recomeçar" (2017) e parceria com Fleet Foxes.
 - [Marcelo Jeneci](https://brazilianmusic.biblioverse.org/pt/artistas/marcelo-jeneci.html): Solo · São Paulo · estreia 2010 · nível B (Referência). Nova MPB. "Felicidade".
 - [Tulipa Ruiz](https://brazilianmusic.biblioverse.org/pt/artistas/tulipa-ruiz.html): Solo · São Paulo · estreia 2010 · nível B (Referência). Nova MPB. "Efêmera", "Pedrinho".
+- [As Bahias e a Cozinha Mineira](https://brazilianmusic.biblioverse.org/pt/artistas/as-bahias-e-a-cozinha-mineira.html): Banda · estreia 2011 · nível B (Referência). Nova MPB. Concorreu ao Grammy Latino de Melhor Álbum Pop Contemporâneo em Língua Portuguesa.
 - [Ayrton Montarroyos](https://brazilianmusic.biblioverse.org/pt/artistas/ayrton-montarroyos.html): Solo · Pernambuco · estreia 2011 · nível B (Referência). Nova MPB. Cantor do Recife, finalista do The Voice Brasil 2015; antes do programa, já tinha uma indicação ao Grammy Latino pelo disco "Herivelto Martins - 100 Anos".
 - [Rubel](https://brazilianmusic.biblioverse.org/pt/artistas/rubel.html): Solo · Rio de Janeiro · estreia 2013 · nível B (Referência). Nova MPB. "Pearl" (2013) e "Casas" (2018).
+- [Jadsa](https://brazilianmusic.biblioverse.org/pt/artistas/jadsa.html): Solo · estreia 2015 · nível B (Referência). Nova MPB. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Ana Frango Elétrico](https://brazilianmusic.biblioverse.org/pt/artistas/ana-frango-eletrico.html): Solo · Rio de Janeiro · estreia 2018 · nível B (Referência). Nova MPB, Indie rock. "Little Electric Chicken Heart" (2019).
 - [Agnes Nunes](https://brazilianmusic.biblioverse.org/pt/artistas/agnes-nunes.html): Solo · Paraíba · estreia 2019 · nível B (Referência). Nova MPB. Revelada na internet; voz grave e violão.
 - [Bala Desejo](https://brazilianmusic.biblioverse.org/pt/artistas/bala-desejo.html): Banda · Rio de Janeiro · estreia 2021 · nível B (Referência). Nova MPB. Disco "Sim Sim Sim" (2022), premiado com o Grammy Latino.
+- [Alessandra Leão](https://brazilianmusic.biblioverse.org/pt/artistas/alessandra-leao.html): Solo · Pernambuco · nível B (Referência). Nova MPB. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Alice Caymmi](https://brazilianmusic.biblioverse.org/pt/artistas/alice-caymmi.html): Solo · Rio de Janeiro · nível B (Referência). Nova MPB. Neta de Dorival Caymmi, da MPB ao pop.
 - [Amelinha](https://brazilianmusic.biblioverse.org/pt/artistas/amelinha.html): Solo · Ceará · nível B (Referência). Pessoal do Ceará. Cantora cearense de "Frevo Mulher" (1979).
 - [Ana Cañas](https://brazilianmusic.biblioverse.org/pt/artistas/ana-canas.html): Solo · São Paulo · nível B (Referência). Nova MPB. Cantora e compositora paulistana da nova MPB.
@@ -533,7 +551,9 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Clarice Falcão](https://brazilianmusic.biblioverse.org/pt/artistas/clarice-falcao.html): Solo · Pernambuco · nível B (Referência). Nova MPB, Indie rock. Cantora, atriz e humorista; indicada ao Grammy Latino de Artista Revelação em 2013.
 - [Claudia Telles](https://brazilianmusic.biblioverse.org/pt/artistas/claudia-telles.html): Solo · Rio de Janeiro · nível B (Referência). MPB dos festivais. Intérprete romântica de "Fim de Tarde" e "Eu Preciso Te Esquecer".
 - [Cátia de França](https://brazilianmusic.biblioverse.org/pt/artistas/catia-de-franca.html): Solo · Paraíba · nível B (Referência). MPB dos festivais. Cantora e compositora paraibana de canções inspiradas na literatura.
+- [Dani Black](https://brazilianmusic.biblioverse.org/pt/artistas/dani-black.html): Solo · São Paulo · nível B (Referência). Nova MPB. Concorreu ao Grammy Latino de Melhor Canção em Língua Portuguesa e ao Grammy Latino de Melhor Álbum de MPB.
 - [Daniel Gonzaga](https://brazilianmusic.biblioverse.org/pt/artistas/daniel-gonzaga.html): Solo · Rio de Janeiro · nível B (Referência). Nova MPB. Filho de Gonzaguinha e neto de Luiz Gonzaga.
+- [Danilo Caymmi](https://brazilianmusic.biblioverse.org/pt/artistas/danilo-caymmi.html): Solo · Rio de Janeiro · nível B (Referência). MPB dos festivais. Concorreu ao Grammy Latino de Melhor Álbum de Samba/Pagode e ao Grammy Latino de Melhor Álbum de MPB.
 - [Dora Morelenbaum](https://brazilianmusic.biblioverse.org/pt/artistas/dora-morelenbaum.html): Solo · nível B (Referência). Nova MPB. Do Bala Desejo, Grammy Latino em 2022, à carreira solo.
 - [Dori Caymmi](https://brazilianmusic.biblioverse.org/pt/artistas/dori-caymmi.html): Solo · Rio de Janeiro · nível B (Referência). MPB dos festivais. Arranjador, violonista e cantor, filho de Dorival Caymmi.
 - [Edson Cordeiro](https://brazilianmusic.biblioverse.org/pt/artistas/edson-cordeiro.html): Solo · São Paulo · nível B (Referência). MPB dos festivais. Contratenor que transita entre ópera e música popular.
@@ -548,6 +568,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Isabella Taviani](https://brazilianmusic.biblioverse.org/pt/artistas/isabella-taviani.html): Solo · Rio de Janeiro · nível B (Referência). Nova MPB. Cantora e compositora carioca de pop e MPB.
 - [Jair Oliveira](https://brazilianmusic.biblioverse.org/pt/artistas/jair-oliveira.html): Solo · São Paulo · nível B (Referência). Nova MPB. O antigo Jairzinho, filho de Jair Rodrigues; cantor, compositor e produtor.
 - [Jane Duboc](https://brazilianmusic.biblioverse.org/pt/artistas/jane-duboc.html): Solo · Pará · nível B (Referência). MPB dos festivais. Cantora paraense, voz do Bacamarte em "Depois do Fim" (1983) e da carreira solo na MPB.
+- [Jaques Morelenbaum](https://brazilianmusic.biblioverse.org/pt/artistas/jaques-morelenbaum.html): Solo · Rio de Janeiro · nível B (Referência). MPB dos festivais. Violoncelista, arranjador e maestro; concorreu ao Grammy Latino de Álbum do Ano como coprodutor de "Livro", de Caetano Veloso.
 - [Jessé](https://brazilianmusic.biblioverse.org/pt/artistas/jesse.html): Solo · Rio de Janeiro · nível B (Referência). MPB dos festivais. Voz potente de "Porto Solidão" e "Voa Liberdade".
 - [Jorge Mautner](https://brazilianmusic.biblioverse.org/pt/artistas/jorge-mautner.html): Solo · Rio de Janeiro · nível B (Referência). Tropicália. Cantor, violinista e escritor, autor de "Maracatu Atômico".
 - [Jorge Vercillo](https://brazilianmusic.biblioverse.org/pt/artistas/jorge-vercillo.html): Solo · Rio de Janeiro · nível B (Referência). Nova MPB. "Que Nem Maré" e "Monalisa".
@@ -562,9 +583,12 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Luiza Possi](https://brazilianmusic.biblioverse.org/pt/artistas/luiza-possi.html): Solo · Rio de Janeiro · nível B (Referência). Nova MPB. Cantora de MPB e pop desde os anos 2000, filha de Zizi Possi.
 - [Maria Alcina](https://brazilianmusic.biblioverse.org/pt/artistas/maria-alcina.html): Solo · Minas Gerais · nível B (Referência). MPB dos festivais. Venceu o Festival Internacional da Canção de 1972 com "Fio Maravilha", de Jorge Ben.
 - [Mariana Aydar](https://brazilianmusic.biblioverse.org/pt/artistas/mariana-aydar.html): Solo · São Paulo · nível B (Referência). Nova MPB, Forró pé-de-serra. Cantora paulistana do forró e da MPB, vencedora de Grammy Latino.
+- [Moreno Veloso](https://brazilianmusic.biblioverse.org/pt/artistas/moreno-veloso.html): Solo · Bahia · nível B (Referência). Nova MPB. Cantor e produtor; concorreu ao Grammy Latino de Produtor do Ano por discos de Gilberto Gil e Caetano Veloso.
 - [Mônica Salmaso](https://brazilianmusic.biblioverse.org/pt/artistas/monica-salmaso.html): Solo · São Paulo · nível B (Referência). Nova MPB. Cantora de repertório amplo e arranjos sofisticados, que resgata canções pouco visitadas.
+- [Nilson Chaves](https://brazilianmusic.biblioverse.org/pt/artistas/nilson-chaves.html): Solo · Pará · nível B (Referência). MPB dos festivais. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Ná Ozzetti](https://brazilianmusic.biblioverse.org/pt/artistas/na-ozzetti.html): Solo · São Paulo · nível B (Referência). Vanguarda Paulista. Voz do Grupo Rumo e de uma carreira solo na Vanguarda Paulista.
 - [Olivia Byington](https://brazilianmusic.biblioverse.org/pt/artistas/olivia-byington.html): Solo · Rio de Janeiro · nível B (Referência). MPB dos festivais. Cantora, compositora e violonista carioca.
+- [Olívia Hime](https://brazilianmusic.biblioverse.org/pt/artistas/olivia-hime.html): Solo · Rio de Janeiro · nível B (Referência). MPB dos festivais. Concorreu ao Grammy Latino de Melhor Canção em Língua Portuguesa.
 - [Orlando Morais](https://brazilianmusic.biblioverse.org/pt/artistas/orlando-morais.html): Solo · Goiás · nível B (Referência). MPB dos festivais. Cantor, compositor e multi-instrumentista goiano.
 - [Oswaldo Montenegro](https://brazilianmusic.biblioverse.org/pt/artistas/oswaldo-montenegro.html): Solo · Rio de Janeiro · nível B (Referência). MPB dos festivais. "Bandolins" e "Lua e Flor".
 - [Paulinho Pedra Azul](https://brazilianmusic.biblioverse.org/pt/artistas/paulinho-pedra-azul.html): Solo · Minas Gerais · nível B (Referência). MPB dos festivais. Cantor e poeta mineiro de "Jardim da Fantasia".
@@ -573,6 +597,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Peninha](https://brazilianmusic.biblioverse.org/pt/artistas/peninha.html): Solo · São Paulo · nível B (Referência). MPB dos festivais. Cantor e compositor de "Sonhos" e "Sozinho".
 - [Premeditando o Breque](https://brazilianmusic.biblioverse.org/pt/artistas/premeditando-o-breque.html): Banda · São Paulo · nível B (Referência). Vanguarda Paulista, Rock cômico. O Premê: humor e samba paulistano da Vanguarda Paulista.
 - [Quinteto Armorial](https://brazilianmusic.biblioverse.org/pt/artistas/quinteto-armorial.html): Grupo · Pernambuco · nível B (Referência). Música armorial. Grupo do Movimento Armorial que uniu rabeca, viola e flauta à música de concerto.
+- [Quinteto Violado](https://brazilianmusic.biblioverse.org/pt/artistas/quinteto-violado.html): Grupo · nível B (Referência). MPB dos festivais. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Rita Benneditto](https://brazilianmusic.biblioverse.org/pt/artistas/rita-benneditto.html): Solo · Maranhão · nível B (Referência). Nova MPB. Cantora maranhense que mistura MPB e ritmos afro-brasileiros.
 - [Roberta Campos](https://brazilianmusic.biblioverse.org/pt/artistas/roberta-campos.html): Solo · Minas Gerais · nível B (Referência). Nova MPB. Mais de vinte trilhas de novela, como "De Janeiro a Janeiro".
 - [Ruy Maurity](https://brazilianmusic.biblioverse.org/pt/artistas/ruy-maurity.html): Solo · Rio de Janeiro · nível B (Referência). MPB dos festivais. Cantor e compositor fluminense da MPB dos anos 1970 e 1980.
@@ -580,13 +605,16 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Sá & Guarabyra](https://brazilianmusic.biblioverse.org/pt/artistas/sa-e-guarabyra.html): Dupla · nível B (Referência). MPB dos festivais, Rock rural. O "rock rural" de "Sobradinho".
 - [Sérgio Ricardo](https://brazilianmusic.biblioverse.org/pt/artistas/sergio-ricardo.html): Solo · São Paulo · nível B (Referência). MPB dos festivais, Bossa nova. Músico e cineasta da bossa nova, do Cinema Novo e da canção de protesto.
 - [Sérgio Sampaio](https://brazilianmusic.biblioverse.org/pt/artistas/sergio-sampaio.html): Solo · Espírito Santo · nível B (Referência). MPB dos festivais. Autor de "Eu Quero É Botar Meu Bloco na Rua" (1972), nome cultuado da MPB.
+- [Sérgio Santos](https://brazilianmusic.biblioverse.org/pt/artistas/sergio-santos.html): Solo · Minas Gerais · nível B (Referência). Nova MPB. Concorreu ao Grammy Latino de Melhor Canção em Língua Portuguesa.
 - [Taiguara](https://brazilianmusic.biblioverse.org/pt/artistas/taiguara.html): Solo · nível B (Referência). MPB dos festivais. Cantor e compositor nascido no Uruguai, um dos artistas mais censurados pela ditadura.
 - [Tavito](https://brazilianmusic.biblioverse.org/pt/artistas/tavito.html): Solo · Minas Gerais · nível B (Referência). Clube da Esquina. Compositor de "Casa no Campo" (com Zé Rodrix) e "Rua Ramalhete".
+- [Teca Calazans](https://brazilianmusic.biblioverse.org/pt/artistas/teca-calazans.html): Solo · Espírito Santo · nível B (Referência). MPB dos festivais. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Tetê Espíndola](https://brazilianmusic.biblioverse.org/pt/artistas/tete-espindola.html): Solo · Mato Grosso do Sul · nível B (Referência). MPB dos festivais. Voz aguda e experimental do Mato Grosso do Sul; venceu o Festival dos Festivais com "Escrito nas Estrelas" (1985).
 - [Tiê](https://brazilianmusic.biblioverse.org/pt/artistas/tie.html): Solo · São Paulo · nível B (Referência). Nova MPB. "Piscar o Olho" (2011) e "A Noite" (2014), temas de novela.
 - [Tunai](https://brazilianmusic.biblioverse.org/pt/artistas/tunai.html): Solo · Minas Gerais · nível B (Referência). MPB dos festivais. Cantor e compositor mineiro.
 - [Vander Lee](https://brazilianmusic.biblioverse.org/pt/artistas/vander-lee.html): Solo · Minas Gerais · nível B (Referência). Nova MPB. Cantor e compositor mineiro.
 - [Vinícius Cantuária](https://brazilianmusic.biblioverse.org/pt/artistas/vinicius-cantuaria.html): Solo · Amazonas · nível B (Referência). MPB dos festivais, Bossa nova. Cantor, compositor e multi-instrumentista amazonense de "Só Você".
+- [Virgínia Rodrigues](https://brazilianmusic.biblioverse.org/pt/artistas/virginia-rodrigues.html): Solo · Bahia · nível B (Referência). Nova MPB. Concorreu ao Grammy Latino de Melhor Canção em Língua Portuguesa.
 - [Vital Farias](https://brazilianmusic.biblioverse.org/pt/artistas/vital-farias.html): Solo · Paraíba · nível B (Referência). MPB dos festivais. Cantor e compositor paraibano de "Saga da Amazônia".
 - [Walter Franco](https://brazilianmusic.biblioverse.org/pt/artistas/walter-franco.html): Solo · São Paulo · nível B (Referência). MPB dos festivais, Rock psicodélico. Compositor experimental de "Cabeça" e "Vela Aberta".
 - [Xangai](https://brazilianmusic.biblioverse.org/pt/artistas/xangai.html): Solo · Bahia · nível B (Referência). MPB dos festivais. Cantor e violeiro do sul da Bahia.
@@ -594,8 +622,9 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Zezé Motta](https://brazilianmusic.biblioverse.org/pt/artistas/zeze-motta.html): Solo · Rio de Janeiro · nível B (Referência). MPB dos festivais. Atriz e cantora, expoente da cultura afro-brasileira.
 - [Zé Ibarra](https://brazilianmusic.biblioverse.org/pt/artistas/ze-ibarra.html): Solo · Rio de Janeiro · nível B (Referência). Nova MPB. Voz aguda do Bala Desejo, Grammy Latino em 2022, e da carreira solo.
 - [Zé Renato](https://brazilianmusic.biblioverse.org/pt/artistas/ze-renato.html): Solo · Espírito Santo · nível B (Referência). MPB dos festivais. Cantor e violonista capixaba da MPB.
+- [Áurea Martins](https://brazilianmusic.biblioverse.org/pt/artistas/aurea-martins.html): Solo · Rio de Janeiro · nível B (Referência). MPB dos festivais. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 
-### Rock Brasileiro (494)
+### Rock Brasileiro (509)
 
 - [Roberto Carlos](https://brazilianmusic.biblioverse.org/pt/artistas/roberto-carlos.html): Solo · Espírito Santo · estreia 1960 · nível S (Lenda). Jovem Guarda / iê-iê-iê, Pop rock. O "Rei": do iê-iê-iê da Jovem Guarda às baladas românticas.
 - [Rita Lee](https://brazilianmusic.biblioverse.org/pt/artistas/rita-lee.html): Solo · São Paulo · estreia 1963 · nível S (Lenda). Rock psicodélico, Pop rock. Dos Mutantes à carreira solo: a "rainha do rock brasileiro".
@@ -712,6 +741,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Catedral](https://brazilianmusic.biblioverse.org/pt/artistas/catedral.html): Banda · Rio de Janeiro · estreia 1988 · nível B (Referência). Rock cristão. Pop rock cristão.
 - [Devotos](https://brazilianmusic.biblioverse.org/pt/artistas/devotos.html): Banda · Pernambuco · estreia 1988 · nível B (Referência). Hardcore, Manguebeat. Hardcore do Alto José do Pinho, Recife.
 - [Anjos da Noite](https://brazilianmusic.biblioverse.org/pt/artistas/anjos-da-noite.html): Banda · São Paulo · estreia 1989 · nível B (Referência). Hard rock. Hard/glam dos anos 1990.
+- [Lan Lan](https://brazilianmusic.biblioverse.org/pt/artistas/lan-lan.html): Solo · Bahia · estreia 1989 · nível B (Referência). Pop rock. Concorreu ao Grammy Latino de Melhor Canção em Língua Portuguesa.
 - [Resgate](https://brazilianmusic.biblioverse.org/pt/artistas/resgate.html): Banda · São Paulo · estreia 1989 · nível B (Referência). Rock cristão. Rock cristão desde os anos 1980.
 - [Virna Lisi](https://brazilianmusic.biblioverse.org/pt/artistas/virna-lisi.html): Banda · São Paulo · estreia 1989 · nível B (Referência). Rock cômico. Rock cômico paulistano.
 - [Ajna](https://brazilianmusic.biblioverse.org/pt/artistas/ajna.html): Banda · São Paulo · estreia 1990 · nível B (Referência). Heavy e power metal. Heavy/thrash em inglês.
@@ -735,7 +765,9 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Miasthenia](https://brazilianmusic.biblioverse.org/pt/artistas/miasthenia.html): Banda · Distrito Federal · estreia 1994 · nível B (Referência). Thrash, death e black metal. Black/death metal.
 - [O Surto](https://brazilianmusic.biblioverse.org/pt/artistas/o-surto.html): Banda · Goiás · estreia 1994 · nível B (Referência). Grunge / post-grunge, Rock alternativo. Rock do início dos anos 2000, conhecido por "A Cera".
 - [Os Ostras](https://brazilianmusic.biblioverse.org/pt/artistas/os-ostras.html): Banda · São Paulo · estreia 1994 · nível B (Referência). Rock cômico. Rock cômico.
+- [Beto Lee](https://brazilianmusic.biblioverse.org/pt/artistas/beto-lee.html): Solo · São Paulo · estreia 1995 · nível B (Referência). Pop rock. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Mukeka di Rato](https://brazilianmusic.biblioverse.org/pt/artistas/mukeka-di-rato.html): Banda · Espírito Santo · estreia 1995 · nível B (Referência). Punk, Hardcore. Punk/hardcore capixaba, humor e crítica.
+- [Os Infernais](https://brazilianmusic.biblioverse.org/pt/artistas/os-infernais.html): Banda · Rio de Janeiro · estreia 1995 · nível B (Referência). Rock alternativo. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Paura](https://brazilianmusic.biblioverse.org/pt/artistas/paura.html): Banda · São Paulo · estreia 1995 · nível B (Referência). Hardcore, Thrash, death e black metal. Hardcore/groove em inglês.
 - [Sapo Banjo](https://brazilianmusic.biblioverse.org/pt/artistas/sapo-banjo.html): Banda · São Paulo · estreia 1995 · nível B (Referência). Ska / reggae rock. Ska sarcástico e politizado, uma das mais antigas do país.
 - [Dance of Days](https://brazilianmusic.biblioverse.org/pt/artistas/dance-of-days.html): Banda · São Paulo · estreia 1996 · nível B (Referência). Emo, Hardcore. Pioneira do emo paulistano: "Adeus Sofia".
@@ -772,6 +804,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Fire Driven](https://brazilianmusic.biblioverse.org/pt/artistas/fire-driven.html): Banda · São Paulo · estreia 2000 · nível B (Referência). Hardcore. Hardcore.
 - [Fistt](https://brazilianmusic.biblioverse.org/pt/artistas/fistt.html): Banda · São Paulo · estreia 2000 · nível B (Referência). Hardcore. Hardcore.
 - [Houdini](https://brazilianmusic.biblioverse.org/pt/artistas/houdini.html): Banda · São Paulo · estreia 2000 · nível B (Referência). Hardcore. Hardcore.
+- [Jay Vaquer](https://brazilianmusic.biblioverse.org/pt/artistas/jay-vaquer.html): Solo · Rio de Janeiro · estreia 2000 · nível B (Referência). Pop rock. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Maguerbes](https://brazilianmusic.biblioverse.org/pt/artistas/maguerbes.html): Banda · São Paulo · estreia 2000 · nível B (Referência). Hardcore. Hardcore.
 - [Noção de Nada](https://brazilianmusic.biblioverse.org/pt/artistas/nocao-de-nada.html): Banda · São Paulo · estreia 2000 · nível B (Referência). Hardcore. Hardcore.
 - [Os Cabeloduro](https://brazilianmusic.biblioverse.org/pt/artistas/os-cabeloduro.html): Banda · São Paulo · estreia 2000 · nível B (Referência). Hardcore. Hardcore.
@@ -782,6 +815,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Di Ferrero](https://brazilianmusic.biblioverse.org/pt/artistas/di-ferrero.html): Solo · São Paulo · estreia 2001 · nível B (Referência). Pop rock. Vocalista do NX Zero; carreira solo.
 - [Dibob](https://brazilianmusic.biblioverse.org/pt/artistas/dibob.html): Banda · São Paulo · estreia 2001 · nível B (Referência). Pop punk, Ska / reggae rock. Pop punk/ska.
 - [Forfun](https://brazilianmusic.biblioverse.org/pt/artistas/forfun.html): Banda · Rio de Janeiro · estreia 2001 · nível B (Referência). Ska / reggae rock, Pop rock. Do surf/alt-rock ao reggae e à MPB, com letras positivas marcantes nos anos 2000; encerrou em 2015.
+- [Leela](https://brazilianmusic.biblioverse.org/pt/artistas/leela.html): Banda · estreia 2001 · nível B (Referência). Pop rock. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Rancore](https://brazilianmusic.biblioverse.org/pt/artistas/rancore.html): Banda · São Paulo · estreia 2001 · nível B (Referência). Hardcore, Rock alternativo. Hardcore/alt com o disco cultuado "Seiva" e performances intensas.
 - [Rock Rocket](https://brazilianmusic.biblioverse.org/pt/artistas/rock-rocket.html): Banda · São Paulo · estreia 2001 · nível B (Referência). Punk. Punk rock.
 - [Ecos Falsos](https://brazilianmusic.biblioverse.org/pt/artistas/ecos-falsos.html): Banda · São Paulo · estreia 2002 · nível B (Referência). Garage rock, Indie rock. Garage/indie.
@@ -805,6 +839,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Massacration](https://brazilianmusic.biblioverse.org/pt/artistas/massacration.html): Banda · São Paulo · estreia 2004 · nível B (Referência). Rock cômico, Heavy e power metal. Paródia do metal que virou fenômeno, com shows, álbuns e programa na MTV.
 - [Moptop](https://brazilianmusic.biblioverse.org/pt/artistas/moptop.html): Banda · Rio de Janeiro · estreia 2004 · nível B (Referência). Indie rock. "O Rock Acabou", "Contramão".
 - [Scracho](https://brazilianmusic.biblioverse.org/pt/artistas/scracho.html): Banda · Rio de Janeiro · estreia 2004 · nível B (Referência). Ska / reggae rock, Pop rock. Reggae rock: "Morena", "Divina Comédia".
+- [The Baggios](https://brazilianmusic.biblioverse.org/pt/artistas/the-baggios.html): Banda · estreia 2004 · nível B (Referência). Rock alternativo. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Abaskadabra](https://brazilianmusic.biblioverse.org/pt/artistas/abaskadabra.html): Banda · Paraná · estreia 2005 · nível B (Referência). Ska / reggae rock. Ska em inglês de Curitiba.
 - [Ba-Boom](https://brazilianmusic.biblioverse.org/pt/artistas/ba-boom.html): Banda · São Paulo · estreia 2005 · nível B (Referência). Ska / reggae rock. Afoxé, samba e baião com música jamaicana.
 - [Black Drawing Chalks](https://brazilianmusic.biblioverse.org/pt/artistas/black-drawing-chalks.html): Banda · Goiás · estreia 2005 · nível B (Referência). Stoner rock, Hard rock. Stoner/hard rock goiano em inglês; "Life Is a Big Holiday for Us".
@@ -837,6 +872,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Cavalera Conspiracy](https://brazilianmusic.biblioverse.org/pt/artistas/cavalera-conspiracy.html): Banda · São Paulo · estreia 2007 · nível B (Referência). Thrash, death e black metal. Reúne os irmãos Max e Igor Cavalera e reativa o thrash/groove brasileiro no mundo.
 - [Endigna](https://brazilianmusic.biblioverse.org/pt/artistas/endigna.html): Banda · São Paulo · estreia 2007 · nível B (Referência). Thrash, death e black metal. Deathcore.
 - [Hellbenders](https://brazilianmusic.biblioverse.org/pt/artistas/hellbenders.html): Banda · Goiás · estreia 2007 · nível B (Referência). Stoner rock, Hard rock. Hard rock e stoner de Goiânia.
+- [Jonas Sá](https://brazilianmusic.biblioverse.org/pt/artistas/jonas-sa.html): Solo · Rio de Janeiro · estreia 2007 · nível B (Referência). Indie rock. Concorreu ao Grammy Latino de Melhor Álbum Pop Contemporâneo em Língua Portuguesa.
 - [Kiara Rocks](https://brazilianmusic.biblioverse.org/pt/artistas/kiara-rocks.html): Banda · São Paulo · estreia 2007 · nível B (Referência). Hard rock. Hard rock com Kiara.
 - [Pense](https://brazilianmusic.biblioverse.org/pt/artistas/pense.html): Banda · Minas Gerais · estreia 2007 · nível B (Referência). Hardcore. "Além Daquilo Que Te Cega" (2014), cerca de 50 shows em 10 meses.
 - [Ponto Nulo no Céu](https://brazilianmusic.biblioverse.org/pt/artistas/ponto-nulo-no-ceu.html): Banda · São Paulo · estreia 2007 · nível B (Referência). Post-hardcore / metalcore. "Horizontal".
@@ -851,6 +887,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Hover](https://brazilianmusic.biblioverse.org/pt/artistas/hover.html): Banda · São Paulo · estreia 2008 · nível B (Referência). Grunge / post-grunge. Post grunge em inglês.
 - [John Wayne](https://brazilianmusic.biblioverse.org/pt/artistas/john-wayne.html): Banda · São Paulo · estreia 2008 · nível B (Referência). Post-hardcore / metalcore. Metalcore.
 - [Loomer](https://brazilianmusic.biblioverse.org/pt/artistas/loomer.html): Banda · São Paulo · estreia 2008 · nível B (Referência). Shoegaze. Shoegaze paulistano.
+- [Metá Metá](https://brazilianmusic.biblioverse.org/pt/artistas/meta-meta.html): Banda · estreia 2008 · nível B (Referência). Rock alternativo. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Orquestra Brasileira de Música Jamaicana](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-brasileira-de-musica-jamaicana.html): Banda · São Paulo · estreia 2008 · nível B (Referência). Ska / reggae rock. Big band que toca clássicos brasileiros em ritmo jamaicano.
 - [Project46](https://brazilianmusic.biblioverse.org/pt/artistas/project46.html): Banda · São Paulo · estreia 2008 · nível B (Referência). Post-hardcore / metalcore, Thrash, death e black metal. Metalcore: "Erro +55", "Rédeas".
 - [Restart](https://brazilianmusic.biblioverse.org/pt/artistas/restart.html): Banda · São Paulo · estreia 2008 · nível B (Referência). Pop punk, Pop rock. Fenômeno teen do "happy rock" no fim dos anos 2000.
@@ -1046,9 +1083,12 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Canvas](https://brazilianmusic.biblioverse.org/pt/artistas/canvas.html): Banda · São Paulo · estreia 2024 · nível B (Referência). Ska / reggae rock. Reggae rock.
 - [Paralelo Ao Fim](https://brazilianmusic.biblioverse.org/pt/artistas/paralelo-ao-fim.html): Banda · São Paulo · estreia 2025 · nível B (Referência). Emo, Rock alternativo. Emo/alternativo.
 - [A Barca do Sol](https://brazilianmusic.biblioverse.org/pt/artistas/a-barca-do-sol.html): Banda · Rio de Janeiro · nível B (Referência). Rock progressivo. Banda progressiva carioca dos anos 1970.
+- [André Abujamra](https://brazilianmusic.biblioverse.org/pt/artistas/andre-abujamra.html): Solo · São Paulo · nível B (Referência). Rock alternativo. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Baby Santiago](https://brazilianmusic.biblioverse.org/pt/artistas/baby-santiago.html): Solo · nível B (Referência). Jovem Guarda / iê-iê-iê. Cantor de "Estou Louco" (1962).
 - [Bárbara Eugênia](https://brazilianmusic.biblioverse.org/pt/artistas/barbara-eugenia.html): Solo · Rio de Janeiro · nível B (Referência). Indie rock. Cantora, compositora, DJ e produtora de Niterói.
+- [Cascabulho](https://brazilianmusic.biblioverse.org/pt/artistas/cascabulho.html): Banda · Pernambuco · nível B (Referência). Manguebeat. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Celso Blues Boy](https://brazilianmusic.biblioverse.org/pt/artistas/celso-blues-boy.html): Solo · Rio de Janeiro · nível B (Referência). BRock (anos 1980). Guitarrista e cantor do blues brasileiro: "Aumenta Que Isso Aí É Rock and Roll".
+- [Ceremonya](https://brazilianmusic.biblioverse.org/pt/artistas/ceremonya.html): Banda · nível B (Referência). Rock cristão. Concorreu ao Grammy Latino de Melhor Álbum de Música Cristã (língua portuguesa).
 - [Dorsal Atlântica](https://brazilianmusic.biblioverse.org/pt/artistas/dorsal-atlantica.html): Banda · Rio de Janeiro · nível B (Referência). Thrash, death e black metal. Pioneira do thrash carioca nos anos 1980.
 - [Eduardo Araújo](https://brazilianmusic.biblioverse.org/pt/artistas/eduardo-araujo.html): Solo · Minas Gerais · nível B (Referência). Jovem Guarda / iê-iê-iê. Da Jovem Guarda, estourou com "O Bom" (1966).
 - [Eduardo Dussek](https://brazilianmusic.biblioverse.org/pt/artistas/eduardo-dussek.html): Solo · Rio de Janeiro · nível B (Referência). Rock cômico, Pop rock. Cantor, pianista e ator do pop teatral e bem-humorado dos anos 1980.
@@ -1057,6 +1097,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Hanói Hanói](https://brazilianmusic.biblioverse.org/pt/artistas/hanoi-hanoi.html): Banda · Rio de Janeiro · nível B (Referência). BRock (anos 1980). Banda de Arnaldo Brandão, de "Totalmente Demais" (1986).
 - [Herva Doce](https://brazilianmusic.biblioverse.org/pt/artistas/herva-doce.html): Banda · nível B (Referência). BRock (anos 1980). Banda de "Amante Profissional" (1985).
 - [Heróis da Resistência](https://brazilianmusic.biblioverse.org/pt/artistas/herois-da-resistencia.html): Banda · Rio de Janeiro · nível B (Referência). BRock (anos 1980). Banda de Leoni, de "Só pro Meu Prazer" (1986).
+- [Ian Ramil](https://brazilianmusic.biblioverse.org/pt/artistas/ian-ramil.html): Solo · Rio Grande do Sul · nível B (Referência). Rock alternativo. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Kid Vinil](https://brazilianmusic.biblioverse.org/pt/artistas/kid-vinil.html): Solo · São Paulo · nível B (Referência). Pós-punk / new wave. Vocalista do Magazine e radialista que divulgou o punk e a new wave.
 - [Kiko Zambianchi](https://brazilianmusic.biblioverse.org/pt/artistas/kiko-zambianchi.html): Solo · São Paulo · nível B (Referência). BRock (anos 1980). Cantor de "Primeiros Erros (Chove)" (1985).
 - [Leno & Lílian](https://brazilianmusic.biblioverse.org/pt/artistas/leno-e-lilian.html): Dupla · nível B (Referência). Jovem Guarda / iê-iê-iê. Dupla da Jovem Guarda: "Pobre Menina" e "Devolva-Me".
@@ -1071,10 +1112,12 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Os Virgulóides](https://brazilianmusic.biblioverse.org/pt/artistas/os-virguloides.html): Banda · São Paulo · nível B (Referência). Rock cômico. Banda de "Bagulho no Bumba" (1997).
 - [Otto](https://brazilianmusic.biblioverse.org/pt/artistas/otto.html): Solo · Pernambuco · nível B (Referência). Manguebeat, Nova MPB. Percussionista da cena mangue que seguiu carreira solo: "Samba pra Burro" (1998).
 - [Papas da Língua](https://brazilianmusic.biblioverse.org/pt/artistas/papas-da-lingua.html): Banda · Rio Grande do Sul · nível B (Referência). Pop rock. Banda gaúcha de "Eu Sei" (1997).
+- [Pavilhão 9](https://brazilianmusic.biblioverse.org/pt/artistas/pavilhao-9.html): Banda · São Paulo · nível B (Referência). Rap rock / nu metal. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Pedro Luís e a Parede](https://brazilianmusic.biblioverse.org/pt/artistas/pedro-luis-e-a-parede.html): Banda · Rio de Janeiro · nível B (Referência). Rock alternativo. Grupo de percussão e rock de "Caio no Suingue".
 - [Picassos Falsos](https://brazilianmusic.biblioverse.org/pt/artistas/picassos-falsos.html): Banda · Rio de Janeiro · nível B (Referência). Pós-punk / new wave. Banda carioca de "Quadrinhos" (1987).
 - [Rebanhão](https://brazilianmusic.biblioverse.org/pt/artistas/rebanhao.html): Banda · nível B (Referência). Rock cristão. Banda pioneira do rock cristão brasileiro.
 - [Restos de Nada](https://brazilianmusic.biblioverse.org/pt/artistas/restos-de-nada.html): Banda · São Paulo · nível B (Referência). Punk. Banda pioneira do punk paulistano.
+- [Roberto de Carvalho](https://brazilianmusic.biblioverse.org/pt/artistas/roberto-de-carvalho.html): Solo · Rio de Janeiro · nível B (Referência). Pop rock. Concorreu ao Grammy Latino de Melhor Canção em Língua Portuguesa.
 - [Rodrigo Amarante](https://brazilianmusic.biblioverse.org/pt/artistas/rodrigo-amarante.html): Solo · Rio de Janeiro · nível B (Referência). Indie rock, Nova MPB. Dos Los Hermanos e do Little Joy à carreira solo; canta "Tuyo", tema de "Narcos".
 - [Ronnie Cord](https://brazilianmusic.biblioverse.org/pt/artistas/ronnie-cord.html): Solo · São Paulo · nível B (Referência). Jovem Guarda / iê-iê-iê. Cantor de "Rua Augusta" (1964).
 - [Rádio Táxi](https://brazilianmusic.biblioverse.org/pt/artistas/radio-taxi.html): Banda · São Paulo · nível B (Referência). Pop rock. Banda de pop rock dos anos 1980.
@@ -1088,11 +1131,12 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Vanusa](https://brazilianmusic.biblioverse.org/pt/artistas/vanusa.html): Solo · São Paulo · nível B (Referência). Jovem Guarda / iê-iê-iê, MPB dos festivais. Da Jovem Guarda à MPB romântica de "Manhãs de Setembro".
 - [Wanderley Cardoso](https://brazilianmusic.biblioverse.org/pt/artistas/wanderley-cardoso.html): Solo · São Paulo · nível B (Referência). Jovem Guarda / iê-iê-iê. Ídolo da Jovem Guarda, "O Bom Rapaz".
 - [Wilson Miranda](https://brazilianmusic.biblioverse.org/pt/artistas/wilson-miranda.html): Solo · nível B (Referência). Jovem Guarda / iê-iê-iê. Cantor de "Alguém É Sempre Bobo de Alguém" (1961).
+- [Wilson Sideral](https://brazilianmusic.biblioverse.org/pt/artistas/wilson-sideral.html): Solo · nível B (Referência). Pop rock. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Yahoo](https://brazilianmusic.biblioverse.org/pt/artistas/yahoo.html): Banda · nível B (Referência). Pop rock. Banda de "Mordida de Amor" (1988).
 - [Zé Geraldo](https://brazilianmusic.biblioverse.org/pt/artistas/ze-geraldo.html): Solo · Minas Gerais · nível B (Referência). Rock rural. Cantor do rock rural, intérprete de "Cidadão".
 - [Zé Rodrix](https://brazilianmusic.biblioverse.org/pt/artistas/ze-rodrix.html): Solo · Rio de Janeiro · nível B (Referência). Rock rural. Multi-instrumentista do rock rural e coautor de "Casa no Campo".
 
-### Sertanejo (102)
+### Sertanejo (111)
 
 - [Tonico & Tinoco](https://brazilianmusic.biblioverse.org/pt/artistas/tonico-e-tinoco.html): Dupla · São Paulo · estreia 1942 · nível S (Lenda). Música caipira / raiz. A dupla caipira mais longeva e vendida: "Tristeza do Jeca", "Chico Mineiro".
 - [Tião Carreiro & Pardinho](https://brazilianmusic.biblioverse.org/pt/artistas/tiao-carreiro-e-pardinho.html): Dupla · São Paulo · estreia 1961 · nível S (Lenda). Música caipira / raiz. Criadores do pagode de viola: "Pagode em Brasília", "Rei do Gado".
@@ -1142,8 +1186,10 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Raul Torres & Florêncio](https://brazilianmusic.biblioverse.org/pt/artistas/raul-torres-e-florencio.html): Dupla · São Paulo · estreia 1942 · nível B (Referência). Música caipira / raiz. Pioneiros da dupla caipira no rádio.
 - [As Galvão](https://brazilianmusic.biblioverse.org/pt/artistas/as-galvao.html): Dupla · São Paulo · estreia 1947 · nível B (Referência). Música caipira / raiz. Irmãs Meire e Marilene, a dupla sertaneja com mais tempo de atividade no país.
 - [Lourenço & Lourival](https://brazilianmusic.biblioverse.org/pt/artistas/lourenco-e-lourival.html): Dupla · São Paulo · estreia 1956 · nível B (Referência). Música caipira / raiz. Irmãos da música sertaneja de raiz, formados em Ribeirão Preto.
+- [Liu & Léu](https://brazilianmusic.biblioverse.org/pt/artistas/liu-e-leu.html): Dupla · estreia 1957 · nível B (Referência). Música caipira / raiz. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Belmonte & Amaraí](https://brazilianmusic.biblioverse.org/pt/artistas/belmonte-e-amarai.html): Dupla · São Paulo · estreia 1967 · nível B (Referência). Música caipira / raiz. Dupla caipira de "Saudade de Minha Terra".
 - [João Mineiro & Marciano](https://brazilianmusic.biblioverse.org/pt/artistas/joao-mineiro-e-marciano.html): Dupla · São Paulo · estreia 1973 · nível B (Referência). Sertanejo romântico. "Ainda Ontem Chorei de Saudade".
+- [Cezar & Paulinho](https://brazilianmusic.biblioverse.org/pt/artistas/cezar-e-paulinho.html): Dupla · São Paulo · estreia 1974 · nível B (Referência). Música caipira / raiz. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Matogrosso & Mathias](https://brazilianmusic.biblioverse.org/pt/artistas/matogrosso-e-mathias.html): Dupla · Mato Grosso do Sul · estreia 1976 · nível B (Referência). Sertanejo romântico. "Chico Mineiro", "Pensamentos".
 - [Pena Branca & Xavantinho](https://brazilianmusic.biblioverse.org/pt/artistas/pena-branca-e-xavantinho.html): Dupla · Minas Gerais · estreia 1980 · nível B (Referência). Música caipira / raiz. Música caipira de raiz premiada.
 - [Chico Rey & Paraná](https://brazilianmusic.biblioverse.org/pt/artistas/chico-rey-e-parana.html): Dupla · estreia 1981 · nível B (Referência). Sertanejo romântico. Dupla sertaneja formada em 1981.
@@ -1154,6 +1200,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Rionegro & Solimões](https://brazilianmusic.biblioverse.org/pt/artistas/rionegro-e-solimoes.html): Dupla · Minas Gerais · estreia 1989 · nível B (Referência). Sertanejo romântico. "Peão Apaixonado", "Frio da Madrugada".
 - [Jads & Jadson](https://brazilianmusic.biblioverse.org/pt/artistas/jads-e-jadson.html): Dupla · Mato Grosso do Sul · estreia 1990 · nível B (Referência). Sertanejo romântico. Sertanejo romântico dos anos 1990 e 2000.
 - [Edson & Hudson](https://brazilianmusic.biblioverse.org/pt/artistas/edson-e-hudson.html): Dupla · São Paulo · estreia 1995 · nível B (Referência). Sertanejo romântico, Rocknejo. "Azul", "Foi Deus".
+- [Marlon & Maicon](https://brazilianmusic.biblioverse.org/pt/artistas/marlon-e-maicon.html): Dupla · estreia 2001 · nível B (Referência). Sertanejo universitário. Concorreu ao Grammy Latino de Melhor Álbum de Música Sertaneja.
 - [Osmar & Osmailson](https://brazilianmusic.biblioverse.org/pt/artistas/osmar-e-osmailson.html): Dupla · estreia 2001 · nível B (Referência). Forronejo. Primeira dupla a levar o forronejo ao cenário nacional, em 2001: "24 Horas de Amor", "No Banco do Carro".
 - [João Bosco & Vinícius](https://brazilianmusic.biblioverse.org/pt/artistas/joao-bosco-e-vinicius.html): Dupla · Mato Grosso do Sul · estreia 2003 · nível B (Referência). Sertanejo universitário. "Chora, Me Liga".
 - [César Menotti & Fabiano](https://brazilianmusic.biblioverse.org/pt/artistas/cesar-menotti-e-fabiano.html): Dupla · Minas Gerais · estreia 2007 · nível B (Referência). Sertanejo universitário. Sertanejo dos anos 2000: "Leilão".
@@ -1164,6 +1211,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Israel & Rodolffo](https://brazilianmusic.biblioverse.org/pt/artistas/israel-e-rodolffo.html): Dupla · Goiás · estreia 2011 · nível B (Referência). Sertanejo universitário. "Batom de Cereja".
 - [Naiara Azevedo](https://brazilianmusic.biblioverse.org/pt/artistas/naiara-azevedo.html): Solo · Paraná · estreia 2011 · nível B (Referência). Feminejo. "50 Reais".
 - [Thaeme & Thiago](https://brazilianmusic.biblioverse.org/pt/artistas/thaeme-e-thiago.html): Dupla · São Paulo · estreia 2011 · nível B (Referência). Sertanejo universitário. Thaeme venceu o Ídolos 2007.
+- [Day & Lara](https://brazilianmusic.biblioverse.org/pt/artistas/day-e-lara.html): Dupla · estreia 2016 · nível B (Referência). Sertanejo universitário. Concorreu ao Grammy Latino de Melhor Álbum de Música Sertaneja.
 - [Hugo & Guilherme](https://brazilianmusic.biblioverse.org/pt/artistas/hugo-e-guilherme.html): Dupla · Goiás · estreia 2016 · nível B (Referência). Sertanejo universitário. Sertanejo dos anos 2010 e 2020.
 - [Gustavo Mioto](https://brazilianmusic.biblioverse.org/pt/artistas/gustavo-mioto.html): Solo · São Paulo · estreia 2017 · nível B (Referência). Sertanejo universitário. "Anti-Amor".
 - [Guilherme & Benuto](https://brazilianmusic.biblioverse.org/pt/artistas/guilherme-e-benuto.html): Dupla · Goiás · estreia 2019 · nível B (Referência). Sertanejo universitário. "Haja Colírio", com Hugo & Guilherme.
@@ -1174,6 +1222,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Danilo Reis & Rafael](https://brazilianmusic.biblioverse.org/pt/artistas/danilo-reis-e-rafael.html): Dupla · nível B (Referência). Sertanejo universitário. Dupla sertaneja que venceu o The Voice Brasil 2014, no time de Lulu Santos.
 - [Felipe & Rodrigo](https://brazilianmusic.biblioverse.org/pt/artistas/felipe-e-rodrigo.html): Dupla · nível B (Referência). Sertanejo universitário. Dupla de "Gosta de Rua" e "Ignora", entre as mais ouvidas de 2025 e 2026.
 - [Felipe Araújo](https://brazilianmusic.biblioverse.org/pt/artistas/felipe-araujo.html): Solo · Goiás · nível B (Referência). Sertanejo universitário, Pagonejo. Cantor sertanejo, irmão de Cristiano Araújo.
+- [Gabeu](https://brazilianmusic.biblioverse.org/pt/artistas/gabeu.html): Solo · nível B (Referência). Sertanejo universitário. Concorreu ao Grammy Latino de Melhor Álbum de Música Sertaneja.
 - [George Henrique & Rodrigo](https://brazilianmusic.biblioverse.org/pt/artistas/george-henrique-e-rodrigo.html): Dupla · nível B (Referência). Sertanejo universitário. Dupla sertaneja dos anos 2010.
 - [Gino & Geno](https://brazilianmusic.biblioverse.org/pt/artistas/gino-e-geno.html): Dupla · Minas Gerais · nível B (Referência). Sertanejo romântico. Dupla sertaneja mineira em atividade desde os anos 1970.
 - [Grupo Tradição](https://brazilianmusic.biblioverse.org/pt/artistas/grupo-tradicao.html): Banda · Mato Grosso do Sul · nível B (Referência). Sertanejo romântico. Grupo sul-mato-grossense do sertanejo dos anos 1990.
@@ -1190,11 +1239,15 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Léo & Raphael](https://brazilianmusic.biblioverse.org/pt/artistas/leo-e-raphael.html): Dupla · nível B (Referência). Sertanejo universitário. Dupla sertaneja dos anos 2010.
 - [Léo Pain](https://brazilianmusic.biblioverse.org/pt/artistas/leo-pain.html): Solo · Rio Grande do Sul · nível B (Referência). Sertanejo romântico. Cantor de Alegrete (RS) que venceu o The Voice Brasil 2018, no time de Michel Teló.
 - [Mayke & Rodrigo](https://brazilianmusic.biblioverse.org/pt/artistas/mayke-e-rodrigo.html): Dupla · nível B (Referência). Sertanejo universitário. Dupla de "Bebe, Beija e Trai", com Panda.
+- [Mazinho Quevedo](https://brazilianmusic.biblioverse.org/pt/artistas/mazinho-quevedo.html): Solo · São Paulo · nível B (Referência). Música caipira / raiz. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Pedro Paulo & Alex](https://brazilianmusic.biblioverse.org/pt/artistas/pedro-paulo-e-alex.html): Dupla · nível B (Referência). Sertanejo universitário. Dupla sertaneja dos anos 2010.
+- [Pena Branca](https://brazilianmusic.biblioverse.org/pt/artistas/pena-branca.html): Solo · São Paulo · nível B (Referência). Música caipira / raiz. Concorreu ao Grammy Latino de Melhor Álbum de Música Sertaneja e ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Rafa & Junior](https://brazilianmusic.biblioverse.org/pt/artistas/rafa-e-junior.html): Dupla · nível B (Referência). Sertanejo universitário. Dupla de "Ama um Maloqueiro", com Hugo & Guilherme.
 - [Rolando Boldrin](https://brazilianmusic.biblioverse.org/pt/artistas/rolando-boldrin.html): Solo · São Paulo · nível B (Referência). Música caipira / raiz. Cantor, ator e apresentador do "Sr. Brasil" na TV Cultura.
 - [Thiago Brava](https://brazilianmusic.biblioverse.org/pt/artistas/thiago-brava.html): Solo · nível B (Referência). Sertanejo universitário. Cantor sertanejo dos anos 2010.
+- [Wilson & Soraia](https://brazilianmusic.biblioverse.org/pt/artistas/wilson-e-soraia.html): Dupla · nível B (Referência). Sertanejo romântico. Concorreu ao Grammy Latino de Melhor Álbum de Música Sertaneja.
 - [Yasmin Santos](https://brazilianmusic.biblioverse.org/pt/artistas/yasmin-santos.html): Solo · nível B (Referência). Feminejo. Cantora do feminejo dos anos 2020.
+- [Zé Mulato & Cassiano](https://brazilianmusic.biblioverse.org/pt/artistas/ze-mulato-e-cassiano.html): Dupla · nível B (Referência). Música caipira / raiz. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Ícaro & Gilmar](https://brazilianmusic.biblioverse.org/pt/artistas/icaro-e-gilmar.html): Dupla · nível B (Referência). Sertanejo universitário. Dupla de "Baqueado", com Panda.
 
 ### Funk Brasileiro (121)
@@ -1321,7 +1374,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [SD Boys](https://brazilianmusic.biblioverse.org/pt/artistas/sd-boys.html): Grupo · Rio de Janeiro · nível B (Referência). Tamborzão. Grupo de "Tá Tudo Dominado" (2001).
 - [Ws da Igrejinha](https://brazilianmusic.biblioverse.org/pt/artistas/ws-da-igrejinha.html): DJ · São Paulo · nível B (Referência). Mandelão / bruxaria. DJ e produtor do mandelão paulista.
 
-### Rap e Hip-Hop (119)
+### Rap e Hip-Hop (120)
 
 - [Racionais MC's](https://brazilianmusic.biblioverse.org/pt/artistas/racionais-mc-s.html): Banda · São Paulo · estreia 1988 · nível S (Lenda). Rap nacional. Mano Brown, Ice Blue, Edi Rock e KL Jay; "Sobrevivendo no Inferno" (1997) é o disco mais importante do rap brasileiro.
 - [Criolo](https://brazilianmusic.biblioverse.org/pt/artistas/criolo.html): Solo · São Paulo · estreia 1989 · nível S (Lenda). Rap nacional, Nova MPB. "Nó na Orelha" (2011) uniu rap, samba e afrobeat: "Não Existe Amor em SP".
@@ -1349,6 +1402,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Stefanie MC](https://brazilianmusic.biblioverse.org/pt/artistas/stefanie-mc.html): Solo · São Paulo · estreia 1997 · nível B (Referência). Rap nacional. Regravou "Rua Augusta" de Emicida.
 - [Black Alien](https://brazilianmusic.biblioverse.org/pt/artistas/black-alien.html): Solo · Rio de Janeiro · estreia 1998 · nível B (Referência). Rap nacional. Planet Hemp e "Babylon by Gus" (2004), clássico cult.
 - [MV Bill](https://brazilianmusic.biblioverse.org/pt/artistas/mv-bill.html): Solo · Rio de Janeiro · estreia 1998 · nível B (Referência). Rap nacional. Rap da Cidade de Deus e ativismo da CUFA.
+- [Rapadura](https://brazilianmusic.biblioverse.org/pt/artistas/rapadura.html): MC · Ceará · estreia 1998 · nível B (Referência). Rap nacional. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Dory de Oliveira](https://brazilianmusic.biblioverse.org/pt/artistas/dory-de-oliveira.html): Solo · São Paulo · estreia 2000 · nível B (Referência). Rap nacional. MC do XIS e do DMN.
 - [Luana Hansen](https://brazilianmusic.biblioverse.org/pt/artistas/luana-hansen.html): Solo · São Paulo · estreia 2000 · nível B (Referência). Rap nacional. Rap de protesto feminista, negro e lésbico.
 - [Lívia Cruz](https://brazilianmusic.biblioverse.org/pt/artistas/livia-cruz.html): Solo · Pernambuco · estreia 2003 · nível B (Referência). Rap nacional. Da Brutal Crew ao Prêmio Hutuz com "Viúva Rainha".
@@ -1443,7 +1497,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Yago Oproprio](https://brazilianmusic.biblioverse.org/pt/artistas/yago-oproprio.html): Solo · São Paulo · nível B (Referência). Rap nacional. Rap com samba, MPB e R&B; o álbum de estreia "Oproprio" (2024) foi indicado ao Grammy Latino.
 - [Yunk Vino](https://brazilianmusic.biblioverse.org/pt/artistas/yunk-vino.html): Solo · nível B (Referência). Trap brasileiro. Rapper do trap dos anos 2020.
 
-### Forró (70)
+### Forró (73)
 
 - [Luiz Gonzaga](https://brazilianmusic.biblioverse.org/pt/artistas/luiz-gonzaga.html): Solo · Pernambuco · estreia 1941 · nível S (Lenda). Baião, Xote e xaxado. O "Rei do Baião": "Asa Branca" (1947), "Baião", "Olha pro Céu"; inventou o trio de sanfona, zabumba e triângulo.
 - [Jackson do Pandeiro](https://brazilianmusic.biblioverse.org/pt/artistas/jackson-do-pandeiro.html): Solo · Paraíba · estreia 1953 · nível S (Lenda). Forró pé-de-serra, Coco e ciranda. O "Rei do Ritmo": coco, forró e suíngue; "Chiclete com Banana".
@@ -1464,6 +1518,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Mari Fernandez](https://brazilianmusic.biblioverse.org/pt/artistas/mari-fernandez.html): Solo · Ceará · nível A (Gigante). Piseiro, Forró eletrônico. A voz feminina do piseiro nos anos 2020.
 - [Natanzinho Lima](https://brazilianmusic.biblioverse.org/pt/artistas/natanzinho-lima.html): Solo · nível A (Gigante). Piseiro. Piseiro romântico dos anos 2020.
 - [Nattan](https://brazilianmusic.biblioverse.org/pt/artistas/nattan.html): Solo · Ceará · nível A (Gigante). Piseiro, Forró eletrônico. Forró e piseiro cearense entre os mais ouvidos dos anos 2020.
+- [Banda de Pífanos Zabumba de Caruaru](https://brazilianmusic.biblioverse.org/pt/artistas/banda-de-pifanos-zabumba-de-caruaru.html): Grupo · estreia 1924 · nível B (Referência). Baião. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Marinês](https://brazilianmusic.biblioverse.org/pt/artistas/marines.html): Solo · Pernambuco · estreia 1955 · nível B (Referência). Forró pé-de-serra, Xote e xaxado. A "Rainha do Xaxado".
 - [Genival Lacerda](https://brazilianmusic.biblioverse.org/pt/artistas/genival-lacerda.html): Solo · Paraíba · estreia 1960 · nível B (Referência). Forró pé-de-serra. "Severina Xique-Xique".
 - [Oswaldinho do Acordeon](https://brazilianmusic.biblioverse.org/pt/artistas/oswaldinho-do-acordeon.html): Solo · Rio de Janeiro · estreia 1960 · nível B (Referência). Forró pé-de-serra. Sanfoneiro do forró e do choro.
@@ -1486,6 +1541,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Eric Land](https://brazilianmusic.biblioverse.org/pt/artistas/eric-land.html): Solo · nível B (Referência). Piseiro. Cantor de piseiro, de "Pilantra e Meio", com Natanzinho Lima.
 - [Felipe Amorim](https://brazilianmusic.biblioverse.org/pt/artistas/felipe-amorim.html): Solo · Ceará · nível B (Referência). Piseiro. Piseiro cearense.
 - [Filho do Piseiro](https://brazilianmusic.biblioverse.org/pt/artistas/filho-do-piseiro.html): Solo · Amazonas · nível B (Referência). Piseiro. Cantor manauara de piseiro que viralizou no Instagram.
+- [Forroçacana](https://brazilianmusic.biblioverse.org/pt/artistas/forrocacana.html): Banda · nível B (Referência). Forró pé-de-serra. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Forró do Muído](https://brazilianmusic.biblioverse.org/pt/artistas/forro-do-muido.html): Banda · nível B (Referência). Forró eletrônico. Banda de forró eletrônico dos anos 2000.
 - [Frank Aguiar](https://brazilianmusic.biblioverse.org/pt/artistas/frank-aguiar.html): Solo · Piauí · nível B (Referência). Forró eletrônico. O "cãozinho dos teclados" do forró eletrônico.
 - [Gabriel Diniz](https://brazilianmusic.biblioverse.org/pt/artistas/gabriel-diniz.html): Solo · Mato Grosso do Sul · nível B (Referência). Forró eletrônico. "Jenifer" (2018), do refrão "o nome dela é Jenifer", foi um dos maiores sucessos de 2019; morreu num acidente aéreo em 2019.
@@ -1512,6 +1568,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Taty Girl](https://brazilianmusic.biblioverse.org/pt/artistas/taty-girl.html): Solo · Ceará · nível B (Referência). Forró eletrônico. Cantora cearense do forró eletrônico.
 - [Thullio Milionário](https://brazilianmusic.biblioverse.org/pt/artistas/thullio-milionario.html): Solo · Rio Grande do Norte · nível B (Referência). Forró eletrônico. Cantor de Natal do forró de vaquejada: "Casca de Bala" (2024) chegou ao 8º lugar do Billboard Brasil Hot 100.
 - [Toque Dez](https://brazilianmusic.biblioverse.org/pt/artistas/toque-dez.html): Banda · nível B (Referência). Forró eletrônico. Banda de forró eletrônico.
+- [Trio Virgulino](https://brazilianmusic.biblioverse.org/pt/artistas/trio-virgulino.html): Grupo · nível B (Referência). Forró pé-de-serra. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Vitor Fernandes](https://brazilianmusic.biblioverse.org/pt/artistas/vitor-fernandes.html): Solo · nível B (Referência). Piseiro. Cantor de piseiro dos anos 2020.
 - [Waldonys](https://brazilianmusic.biblioverse.org/pt/artistas/waldonys.html): Solo · Ceará · nível B (Referência). Forró pé-de-serra. Sanfoneiro cearense.
 - [Zé Cantor](https://brazilianmusic.biblioverse.org/pt/artistas/ze-cantor.html): Solo · nível B (Referência). Forró eletrônico. Cantor de forró eletrônico.
@@ -1583,7 +1640,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [ÀTTOOXXÁ](https://brazilianmusic.biblioverse.org/pt/artistas/attooxxa.html): Banda · Bahia · nível B (Referência). Pagode baiano. O "pagodão eletrônico" de Salvador.
 - [Àttøøxxá](https://brazilianmusic.biblioverse.org/pt/artistas/attxxa.html): Banda · Bahia · nível B (Referência). Pagode baiano. Pagodão eletrônico de Salvador.
 
-### Pop Brasileiro (82)
+### Pop Brasileiro (88)
 
 - [Sandy & Junior](https://brazilianmusic.biblioverse.org/pt/artistas/sandy-e-junior.html): Dupla · São Paulo · estreia 1989 · nível S (Lenda). Teen pop. A dupla de irmãos que dominou o pop teen dos anos 1990–2000.
 - [Rouge](https://brazilianmusic.biblioverse.org/pt/artistas/rouge.html): Grupo · São Paulo · estreia 2002 · nível S (Lenda). Teen pop. Surgido no Popstars (SBT), o maior girlgroup brasileiro: "Ragatanga", "Um Anjo Veio Me Falar"; retorno em 2017.
@@ -1612,16 +1669,19 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Wanessa Camargo](https://brazilianmusic.biblioverse.org/pt/artistas/wanessa-camargo.html): Solo · Goiás · estreia 2000 · nível B (Referência). Pop contemporâneo. Filha de Zezé Di Camargo; "Amor, Amor", "Sticky Dough".
 - [Kelly Key](https://brazilianmusic.biblioverse.org/pt/artistas/kelly-key.html): Solo · Rio de Janeiro · estreia 2001 · nível B (Referência). Pop contemporâneo, Teen pop. "Baba", "Cachorrinho": o pop teen dos anos 2000.
 - [Br'oz](https://brazilianmusic.biblioverse.org/pt/artistas/br-oz.html): Grupo · São Paulo · estreia 2003 · nível B (Referência). Teen pop. Boyband do Popstars 2003.
+- [Danni Carlos](https://brazilianmusic.biblioverse.org/pt/artistas/danni-carlos.html): Solo · Rio de Janeiro · estreia 2003 · nível B (Referência). Pop contemporâneo. Concorreu ao Grammy Latino de Melhor Canção em Língua Portuguesa e ao Grammy Latino de Melhor Álbum Pop Contemporâneo em Língua Portuguesa.
 - [Liah Soares](https://brazilianmusic.biblioverse.org/pt/artistas/liah-soares.html): Solo · Pará · estreia 2003 · nível B (Referência). Pop contemporâneo. Cantora e compositora de Marabá (PA): "Poesia e Paixão" chegou ao primeiro lugar e o disco de estreia ganhou platina dupla; finalista do The Voice Brasil 2012.
 - [Luka](https://brazilianmusic.biblioverse.org/pt/artistas/luka.html): Solo · Rio de Janeiro · estreia 2003 · nível B (Referência). Pop contemporâneo. "Tô Nem Aí" (2003).
 - [As Leoas](https://brazilianmusic.biblioverse.org/pt/artistas/as-leoas.html): Grupo · São Paulo · estreia 2005 · nível B (Referência). Pop contemporâneo. "Emboladeira".
 - [Maisa Silva](https://brazilianmusic.biblioverse.org/pt/artistas/maisa-silva.html): Solo · São Paulo · estreia 2005 · nível B (Referência). Pop contemporâneo. Apresentadora e atriz que também canta.
+- [Sophia Abrahão](https://brazilianmusic.biblioverse.org/pt/artistas/sophia-abrahao.html): Solo · São Paulo · estreia 2007 · nível B (Referência). Pop contemporâneo. Concorreu ao Grammy Latino de Melhor Artista Revelação.
 - [Manu Gavassi](https://brazilianmusic.biblioverse.org/pt/artistas/manu-gavassi.html): Solo · São Paulo · estreia 2009 · nível B (Referência). Pop contemporâneo, Pop alternativo. Atriz e cantora; "Garoto Errado", álbum "Gracinha" (2021).
 - [Sexy Dolls](https://brazilianmusic.biblioverse.org/pt/artistas/sexy-dolls.html): Grupo · São Paulo · estreia 2009 · nível B (Referência). Pop contemporâneo. "Teu Beijo".
 - [Valkyrias](https://brazilianmusic.biblioverse.org/pt/artistas/valkyrias.html): Grupo · São Paulo · estreia 2009 · nível B (Referência). Pop contemporâneo. "Dar Certo", "Feel Good".
 - [Rebeldes](https://brazilianmusic.biblioverse.org/pt/artistas/rebeldes.html): Grupo · São Paulo · estreia 2011 · nível B (Referência). Teen pop. Banda da novela "Rebelde", da Record.
 - [Day Limns](https://brazilianmusic.biblioverse.org/pt/artistas/day-limns.html): Solo · São Paulo · estreia 2012 · nível B (Referência). Pop contemporâneo. Pop.
 - [Gabi Luthai](https://brazilianmusic.biblioverse.org/pt/artistas/gabi-luthai.html): Solo · São Paulo · estreia 2012 · nível B (Referência). Pop contemporâneo. Pop.
+- [Jenni Mosello](https://brazilianmusic.biblioverse.org/pt/artistas/jenni-mosello.html): Solo · Paraná · estreia 2012 · nível B (Referência). Pop contemporâneo. Concorreu ao Grammy Latino de Melhor Canção em Língua Portuguesa e ao Grammy Latino de Melhor Álbum Pop Contemporâneo em Língua Portuguesa.
 - [Carol & Vitoria](https://brazilianmusic.biblioverse.org/pt/artistas/carol-e-vitoria.html): Dupla · São Paulo · estreia 2013 · nível B (Referência). Pop contemporâneo. Duo de irmãs do pop.
 - [Girls](https://brazilianmusic.biblioverse.org/pt/artistas/girls.html): Grupo · São Paulo · estreia 2013 · nível B (Referência). Teen pop. "Acenda a Luz".
 - [P9](https://brazilianmusic.biblioverse.org/pt/artistas/p9.html): Grupo · São Paulo · estreia 2013 · nível B (Referência). Teen pop. Boyband dos anos 2010.
@@ -1647,16 +1707,19 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Schutz Band](https://brazilianmusic.biblioverse.org/pt/artistas/schutz-band.html): Grupo · São Paulo · estreia 2022 · nível B (Referência). Pop contemporâneo. "Perigosa".
 - [Ella](https://brazilianmusic.biblioverse.org/pt/artistas/ella.html): Grupo · São Paulo · estreia 2024 · nível B (Referência). Pop contemporâneo. Girlgroup de 2024.
 - [Ana Gabriela](https://brazilianmusic.biblioverse.org/pt/artistas/ana-gabriela.html): Solo · nível B (Referência). Pop alternativo. Cantora e compositora do pop das plataformas.
+- [Anaadi](https://brazilianmusic.biblioverse.org/pt/artistas/anaadi.html): Solo · Rio Grande do Sul · nível B (Referência). Pop contemporâneo. Concorreu ao Grammy Latino de Melhor Álbum Pop Contemporâneo em Língua Portuguesa e ao Grammy Latino de Gravação do Ano.
 - [Byafra](https://brazilianmusic.biblioverse.org/pt/artistas/byafra.html): Solo · Rio de Janeiro · nível B (Referência). Pop contemporâneo. Cantor de pop romântico dos anos 1980.
 - [Dalto](https://brazilianmusic.biblioverse.org/pt/artistas/dalto.html): Solo · nível B (Referência). Pop contemporâneo. Cantor de pop romântico dos anos 1980.
 - [Deborah Blando](https://brazilianmusic.biblioverse.org/pt/artistas/deborah-blando.html): Solo · nível B (Referência). Pop contemporâneo. Cantora ítalo-brasileira de voz suave, recordista de vendas em trilhas de novela.
 - [Jaloo](https://brazilianmusic.biblioverse.org/pt/artistas/jaloo.html): Solo · Pará · nível B (Referência). Pop alternativo. Artista paraense do pop eletrônico.
+- [Jamz](https://brazilianmusic.biblioverse.org/pt/artistas/jamz.html): Banda · nível B (Referência). Pop contemporâneo. Concorreu ao Grammy Latino de Melhor Álbum Pop Contemporâneo em Língua Portuguesa.
 - [Johnny Hooker](https://brazilianmusic.biblioverse.org/pt/artistas/johnny-hooker.html): Solo · Pernambuco · nível B (Referência). Pop LGBTQIA+. Cantor e compositor recifense.
 - [Juliette](https://brazilianmusic.biblioverse.org/pt/artistas/juliette.html): Solo · Paraíba · nível B (Referência). Pop alternativo. Vencedora do BBB 21 que seguiu carreira de cantora.
 - [Jullie](https://brazilianmusic.biblioverse.org/pt/artistas/jullie.html): Solo · nível B (Referência). Teen pop. Cantora de teen pop dos anos 2000.
 - [Lady Zu](https://brazilianmusic.biblioverse.org/pt/artistas/lady-zu.html): Solo · São Paulo · nível B (Referência). Disco e pop dançante. A voz de "A Noite Vai Chegar", hino da discoteca brasileira.
 - [Letrux](https://brazilianmusic.biblioverse.org/pt/artistas/letrux.html): Solo · Rio de Janeiro · nível B (Referência). Pop alternativo. "Letrux em Noite de Climão" (2017), depois do duo Letuce.
 - [Lindy XOXO](https://brazilianmusic.biblioverse.org/pt/artistas/lindy-xoxo.html): Solo · São Paulo · nível B (Referência). Pop LGBTQIA+, Pop alternativo. Drag queen, cantora e compositora da noite paulistana: hyperpop, techno e funk no EP de estreia "TAPASSADA".
+- [Maria Beraldo](https://brazilianmusic.biblioverse.org/pt/artistas/maria-beraldo.html): Solo · Santa Catarina · nível B (Referência). Pop alternativo. Concorreu ao Grammy Latino de Melhor Álbum de Rock ou de Música Alternativa em Língua Portuguesa.
 - [Marina Elali](https://brazilianmusic.biblioverse.org/pt/artistas/marina-elali.html): Solo · Rio Grande do Norte · nível B (Referência). Pop contemporâneo. Cantora e compositora de Natal.
 - [Mateus Carrilho](https://brazilianmusic.biblioverse.org/pt/artistas/mateus-carrilho.html): Solo · nível B (Referência). Pop LGBTQIA+. Cantor do pop LGBTQIA+.
 - [Maurício Manieri](https://brazilianmusic.biblioverse.org/pt/artistas/mauricio-manieri.html): Solo · São Paulo · nível B (Referência). Pop contemporâneo. Pianista e cantor de pop, MPB e soul: "Bem Querer".
@@ -1725,7 +1788,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Zaynara](https://brazilianmusic.biblioverse.org/pt/artistas/zaynara.html): Solo · Pará · nível B (Referência). Tecnobrega. Única brasileira na lista "Artists to Watch 2026" da Amazon Music.
 - [Zezo](https://brazilianmusic.biblioverse.org/pt/artistas/zezo.html): Solo · Rio Grande do Norte · nível B (Referência). Brega romântico. O "Zezo dos Teclados", do forró ao brega romântico.
 
-### Gospel e Música Religiosa (68)
+### Gospel e Música Religiosa (74)
 
 - [Aline Barros](https://brazilianmusic.biblioverse.org/pt/artistas/aline-barros.html): Solo · Rio de Janeiro · estreia 1992 · nível S (Lenda). Louvor e adoração. A maior cantora gospel do país; Grammys Latinos; "Ressuscita-me".
 - [Diante do Trono](https://brazilianmusic.biblioverse.org/pt/artistas/diante-do-trono.html): Coletivo · Minas Gerais · estreia 1998 · nível S (Lenda). Louvor e adoração. Ana Paula Valadão; a maior gravação gospel do mundo em 2003 (2 milhões de pessoas).
@@ -1742,11 +1805,15 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Valesca Mayssa](https://brazilianmusic.biblioverse.org/pt/artistas/valesca-mayssa.html): Solo · nível A (Gigante). Gospel pentecostal. Cantora gospel de grande alcance no YouTube.
 - [Arautos do Rei](https://brazilianmusic.biblioverse.org/pt/artistas/arautos-do-rei.html): Grupo · estreia 1962 · nível B (Referência). Louvor e adoração. Quarteto vocal adventista do programa "A Voz da Profecia".
 - [Vida Reluz](https://brazilianmusic.biblioverse.org/pt/artistas/vida-reluz.html): Banda · São Paulo · estreia 1985 · nível B (Referência). Música católica. Banda de música católica de São José dos Campos.
+- [Renascer Praise](https://brazilianmusic.biblioverse.org/pt/artistas/renascer-praise.html): Grupo · estreia 1993 · nível B (Referência). Louvor e adoração. Concorreu ao Grammy Latino de Melhor Álbum de Música Cristã (língua portuguesa).
+- [Fernanda Lara](https://brazilianmusic.biblioverse.org/pt/artistas/fernanda-lara.html): Solo · estreia 1997 · nível B (Referência). Louvor e adoração. Concorreu ao Grammy Latino de Melhor Álbum de Música Cristã (língua portuguesa).
 - [Pregador Luo](https://brazilianmusic.biblioverse.org/pt/artistas/pregador-luo.html): Solo · São Paulo · estreia 1998 · nível B (Referência). Rap gospel. Apocalipse 16; rap gospel.
 - [Damares](https://brazilianmusic.biblioverse.org/pt/artistas/damares.html): Solo · São Paulo · estreia 1999 · nível B (Referência). Gospel pentecostal. "Diamante".
 - [Anjos de Resgate](https://brazilianmusic.biblioverse.org/pt/artistas/anjos-de-resgate.html): Banda · estreia 2000 · nível B (Referência). Música católica. Banda católica com mais de 1 milhão de cópias vendidas.
 - [Ao Cubo](https://brazilianmusic.biblioverse.org/pt/artistas/ao-cubo.html): Banda · São Paulo · estreia 2003 · nível B (Referência). Rap gospel. Rap gospel paulistano.
 - [Bruna Karla](https://brazilianmusic.biblioverse.org/pt/artistas/bruna-karla.html): Solo · Rio de Janeiro · estreia 2006 · nível B (Referência). Gospel pentecostal. "Advogado Fiel".
+- [Delino Marçal](https://brazilianmusic.biblioverse.org/pt/artistas/delino-marcal.html): Solo · Tocantins · estreia 2011 · nível B (Referência). Louvor e adoração. Concorreu ao Grammy Latino de Melhor Álbum de Música Cristã (língua portuguesa).
+- [Pr. Lucas](https://brazilianmusic.biblioverse.org/pt/artistas/pr-lucas.html): Solo · Minas Gerais · estreia 2011 · nível B (Referência). Louvor e adoração. Concorreu ao Grammy Latino de Melhor Álbum de Música Cristã (língua portuguesa).
 - [Preto no Branco](https://brazilianmusic.biblioverse.org/pt/artistas/preto-no-branco.html): Banda · Paraná · estreia 2012 · nível B (Referência). Louvor e adoração. "Ninguém Explica Deus".
 - [Kemuel](https://brazilianmusic.biblioverse.org/pt/artistas/kemuel.html): Banda · Rio de Janeiro · estreia 2015 · nível B (Referência). Louvor e adoração. Louvor contemporâneo.
 - [Isadora Pompeo](https://brazilianmusic.biblioverse.org/pt/artistas/isadora-pompeo.html): Solo · Rio Grande do Sul · estreia 2017 · nível B (Referência). Louvor e adoração. Da internet para o gospel pop.
@@ -1764,6 +1831,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Fernanda Brum](https://brazilianmusic.biblioverse.org/pt/artistas/fernanda-brum.html): Solo · Rio de Janeiro · nível B (Referência). Louvor e adoração. Uma das vozes do louvor brasileiro desde os anos 1990.
 - [Fhop Music](https://brazilianmusic.biblioverse.org/pt/artistas/fhop-music.html): Coletivo · nível B (Referência). Louvor e adoração. Coletivo de louvor entre os mais tocados de 2025.
 - [Gabriel Guedes](https://brazilianmusic.biblioverse.org/pt/artistas/gabriel-guedes.html): Solo · nível B (Referência). Louvor e adoração. Cantor de louvor.
+- [Giordani Vidal](https://brazilianmusic.biblioverse.org/pt/artistas/giordani-vidal.html): Solo · Rio Grande do Sul · nível B (Referência). Louvor e adoração. Concorreu ao Grammy Latino de Melhor Álbum de Música Cristã (língua portuguesa).
 - [Irmã Kelly Patrícia](https://brazilianmusic.biblioverse.org/pt/artistas/irma-kelly-patricia.html): Solo · Ceará · nível B (Referência). Música católica. Religiosa e cantora, fundadora do Instituto Hesed.
 - [Jefferson & Suellen](https://brazilianmusic.biblioverse.org/pt/artistas/jefferson-e-suellen.html): Dupla · nível B (Referência). Louvor e adoração. Casal de cantores do louvor.
 - [Julliany Souza](https://brazilianmusic.biblioverse.org/pt/artistas/julliany-souza.html): Solo · nível B (Referência). Louvor e adoração. Cantora de "Quem É Esse?", entre as mais ouvidas de 2026.
@@ -1784,6 +1852,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Padre Antônio Maria](https://brazilianmusic.biblioverse.org/pt/artistas/padre-antonio-maria.html): Solo · Rio de Janeiro · nível B (Referência). Música católica. Padre cantor que fez duetos com Roberto Carlos e Ângela Maria.
 - [Padre Reginaldo Manzotti](https://brazilianmusic.biblioverse.org/pt/artistas/padre-reginaldo-manzotti.html): Solo · Paraná · nível B (Referência). Música católica. Padre e cantor católico de Curitiba.
 - [Paulo César Baruk](https://brazilianmusic.biblioverse.org/pt/artistas/paulo-cesar-baruk.html): Solo · São Paulo · nível B (Referência). Louvor e adoração. Cantor e compositor evangélico.
+- [Priscilla Alcantara](https://brazilianmusic.biblioverse.org/pt/artistas/priscilla-alcantara.html): Solo · São Paulo · nível B (Referência). Louvor e adoração. Concorreu ao Grammy Latino de Melhor Álbum de Música Cristã (língua portuguesa).
 - [Rose Nascimento](https://brazilianmusic.biblioverse.org/pt/artistas/rose-nascimento.html): Solo · nível B (Referência). Gospel pentecostal. Cantora gospel pentecostal.
 - [Régis Danese](https://brazilianmusic.biblioverse.org/pt/artistas/regis-danese.html): Solo · nível B (Referência). Louvor e adoração. "Faz um Milagre em Mim" (2008).
 - [Sarah Farias](https://brazilianmusic.biblioverse.org/pt/artistas/sarah-farias.html): Solo · nível B (Referência). Gospel pentecostal. Cantora gospel pentecostal.
@@ -1887,7 +1956,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Trio Ternura](https://brazilianmusic.biblioverse.org/pt/artistas/trio-ternura.html): Grupo · Rio de Janeiro · nível B (Referência). Soul brasileiro. Trio vocal de "Sempre Existe Alguém" (1971).
 - [Wilson Simoninha](https://brazilianmusic.biblioverse.org/pt/artistas/wilson-simoninha.html): Solo · Rio de Janeiro · nível B (Referência). Soul brasileiro. Cantor, compositor e produtor, filho de Wilson Simonal.
 
-### Jazz e Instrumental (38)
+### Jazz e Instrumental (54)
 
 - [Hermeto Pascoal](https://brazilianmusic.biblioverse.org/pt/artistas/hermeto-pascoal.html): Solo · Alagoas · estreia 1958 · nível S (Lenda). Jazz brasileiro. O "Bruxo": multi-instrumentista gravado por Miles Davis; "Bebê", "Chorinho pra Ele".
 - [Airto Moreira](https://brazilianmusic.biblioverse.org/pt/artistas/airto-moreira.html): Solo · São Paulo · estreia 1964 · nível S (Lenda). Jazz brasileiro. Baterista e percussionista de Miles Davis, Weather Report e Return to Forever.
@@ -1900,59 +1969,113 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Quarteto Novo](https://brazilianmusic.biblioverse.org/pt/artistas/quarteto-novo.html): Banda · São Paulo · estreia 1967 · nível A (Gigante). Jazz brasileiro. Hermeto, Airto, Heraldo do Monte e Théo de Barros: o baião no jazz.
 - [Tania Maria](https://brazilianmusic.biblioverse.org/pt/artistas/tania-maria.html): Solo · Maranhão · estreia 1970 · nível A (Gigante). Jazz brasileiro. Piano e voz entre o samba e o jazz, radicada na Europa e nos EUA.
 - [Uakti](https://brazilianmusic.biblioverse.org/pt/artistas/uakti.html): Banda · Minas Gerais · estreia 1978 · nível A (Gigante). Jazz brasileiro. Instrumentos inventados em PVC e vidro; gravou com Philip Glass.
+- [Eliane Elias](https://brazilianmusic.biblioverse.org/pt/artistas/eliane-elias.html): Solo · São Paulo · estreia 1981 · nível A (Gigante). Jazz brasileiro. Concorreu ao Grammy Latino de Melhor Canção em Língua Portuguesa e ao Grammy Latino de Melhor Álbum de Jazz Latino/Jazz.
 - [Amaro Freitas](https://brazilianmusic.biblioverse.org/pt/artistas/amaro-freitas.html): Solo · Pernambuco · nível A (Gigante). Jazz brasileiro. Pianista recifense que leva o frevo e o maracatu ao jazz.
 - [Cesar Camargo Mariano](https://brazilianmusic.biblioverse.org/pt/artistas/cesar-camargo-mariano.html): Solo · São Paulo · nível A (Gigante). Jazz brasileiro. Pianista e arranjador, parceiro de Elis Regina.
 - [Garoto](https://brazilianmusic.biblioverse.org/pt/artistas/garoto.html): Solo · São Paulo · nível A (Gigante). Violão brasileiro, Choro. Aníbal Augusto Sardinha, violonista que antecipou a harmonia da bossa nova.
 - [João Donato](https://brazilianmusic.biblioverse.org/pt/artistas/joao-donato.html): Solo · Acre · nível A (Gigante). Jazz brasileiro, Bossa nova. Pianista acriano, pioneiro da bossa nova e do latin jazz.
+- [Laurindo Almeida](https://brazilianmusic.biblioverse.org/pt/artistas/laurindo-almeida.html): Solo · São Paulo · nível A (Gigante). Violão brasileiro. Concorreu ao Grammy.
 - [Luiz Bonfá](https://brazilianmusic.biblioverse.org/pt/artistas/luiz-bonfa.html): Solo · Rio de Janeiro · nível A (Gigante). Violão brasileiro, Bossa nova. Violonista e compositor de "Manhã de Carnaval", do filme "Orfeu Negro".
 - [Raphael Rabello](https://brazilianmusic.biblioverse.org/pt/artistas/raphael-rabello.html): Solo · Rio de Janeiro · nível A (Gigante). Violão brasileiro, Choro. Virtuose do violão de sete cordas.
 - [Toninho Horta](https://brazilianmusic.biblioverse.org/pt/artistas/toninho-horta.html): Solo · Minas Gerais · nível A (Gigante). Jazz brasileiro, Clube da Esquina. Guitarrista e compositor do Clube da Esquina, referência mundial da guitarra.
+- [Orquestra Afro-Brasileira](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-afro-brasileira.html): Coletivo · Rio de Janeiro · estreia 1942 · nível B (Referência). Jazz brasileiro. Criada em 1942 por Abigail Moura, juntou sopros ocidentais a uma percussão afro-brasileira; reativada em 2021.
 - [Dom Um Romão](https://brazilianmusic.biblioverse.org/pt/artistas/dom-um-romao.html): Solo · Rio de Janeiro · estreia 1960 · nível B (Referência). Jazz brasileiro. Baterista do Weather Report e de Sérgio Mendes.
 - [Raul de Souza](https://brazilianmusic.biblioverse.org/pt/artistas/raul-de-souza.html): Solo · Rio de Janeiro · estreia 1965 · nível B (Referência). Jazz brasileiro. Trombonista do jazz brasileiro e americano.
+- [Romero Lubambo](https://brazilianmusic.biblioverse.org/pt/artistas/romero-lubambo.html): Solo · Rio de Janeiro · estreia 1980 · nível B (Referência). Jazz brasileiro. Concorreu ao Grammy Latino de Melhor Álbum de MPB.
+- [Brasil Jazz Sinfônica](https://brazilianmusic.biblioverse.org/pt/artistas/brasil-jazz-sinfonica.html): Coletivo · São Paulo · estreia 1989 · nível B (Referência). Jazz brasileiro. Orquestra de 70 músicos criada em 1989 pelo governo de São Paulo, com arranjos sinfônicos de música popular brasileira.
 - [Banda Mantiqueira](https://brazilianmusic.biblioverse.org/pt/artistas/banda-mantiqueira.html): Banda · São Paulo · estreia 1991 · nível B (Referência). Jazz brasileiro. Big band paulistana.
+- [Luciana Souza](https://brazilianmusic.biblioverse.org/pt/artistas/luciana-souza.html): Solo · São Paulo · estreia 1992 · nível B (Referência). Jazz brasileiro. Concorreu ao Grammy.
 - [André Mehmari](https://brazilianmusic.biblioverse.org/pt/artistas/andre-mehmari.html): Solo · São Paulo · estreia 1995 · nível B (Referência). Jazz brasileiro. Pianista e compositor do jazz e do erudito.
+- [Brazilian Guitar Quartet](https://brazilianmusic.biblioverse.org/pt/artistas/brazilian-guitar-quartet.html): Grupo · estreia 1998 · nível B (Referência). Violão brasileiro. Concorreu ao Grammy Latino de Melhor Álbum de Música Clássica.
 - [Trio Corrente](https://brazilianmusic.biblioverse.org/pt/artistas/trio-corrente.html): Banda · São Paulo · estreia 2001 · nível B (Referência). Jazz brasileiro. Grammy Latino com Paquito D'Rivera (2014).
+- [Orkestra Rumpilezz](https://brazilianmusic.biblioverse.org/pt/artistas/orkestra-rumpilezz.html): Coletivo · Bahia · estreia 2006 · nível B (Referência). Jazz brasileiro. Orquestra de percussão e sopros criada em 2006 por Letieres Leite; o nome junta os atabaques do candomblé (rum, rumpi e lé) e o jazz.
+- [André Marques](https://brazilianmusic.biblioverse.org/pt/artistas/andre-marques.html): Solo · nível B (Referência). Jazz brasileiro. Concorreu ao Grammy Latino de Melhor Álbum de Jazz Latino/Jazz.
 - [Antonio Loureiro](https://brazilianmusic.biblioverse.org/pt/artistas/antonio-loureiro.html): Solo · Minas Gerais · nível B (Referência). Jazz brasileiro, Nova MPB. Multi-instrumentista e compositor mineiro.
 - [Arismar do Espírito Santo](https://brazilianmusic.biblioverse.org/pt/artistas/arismar-do-espirito-santo.html): Solo · São Paulo · nível B (Referência). Jazz brasileiro. Multi-instrumentista do jazz brasileiro.
 - [Chico Pinheiro](https://brazilianmusic.biblioverse.org/pt/artistas/chico-pinheiro.html): Solo · São Paulo · nível B (Referência). Jazz brasileiro. Guitarrista e compositor.
+- [Cristovão Bastos](https://brazilianmusic.biblioverse.org/pt/artistas/cristovao-bastos.html): Solo · Rio de Janeiro · nível B (Referência). Jazz brasileiro. Concorreu ao Grammy Latino de Melhor Álbum Instrumental.
+- [Delia Fischer](https://brazilianmusic.biblioverse.org/pt/artistas/delia-fischer.html): Solo · Rio de Janeiro · nível B (Referência). Jazz brasileiro. Concorreu ao Grammy Latino de Melhor Álbum de MPB.
+- [Diego Figueiredo](https://brazilianmusic.biblioverse.org/pt/artistas/diego-figueiredo.html): Solo · São Paulo · nível B (Referência). Violão brasileiro. Concorreu ao Grammy.
 - [Dilermando Reis](https://brazilianmusic.biblioverse.org/pt/artistas/dilermando-reis.html): Solo · São Paulo · nível B (Referência). Violão brasileiro. Violonista do rádio, intérprete de valsas e choros.
 - [Duofel](https://brazilianmusic.biblioverse.org/pt/artistas/duofel.html): Dupla · nível B (Referência). Violão brasileiro. Duo de violões.
+- [Guga Stroeter](https://brazilianmusic.biblioverse.org/pt/artistas/guga-stroeter.html): Solo · São Paulo · nível B (Referência). Jazz brasileiro. Concorreu ao Grammy Latino de Melhor Álbum de Samba/Pagode.
 - [Heraldo do Monte](https://brazilianmusic.biblioverse.org/pt/artistas/heraldo-do-monte.html): Solo · Pernambuco · nível B (Referência). Jazz brasileiro. Guitarrista do Quarteto Novo.
 - [Itiberê Zwarg](https://brazilianmusic.biblioverse.org/pt/artistas/itibere-zwarg.html): Solo · nível B (Referência). Jazz brasileiro. Baixista do grupo de Hermeto Pascoal.
 - [Jovino Santos Neto](https://brazilianmusic.biblioverse.org/pt/artistas/jovino-santos-neto.html): Solo · nível B (Referência). Jazz brasileiro. Pianista e flautista, ex-integrante do grupo de Hermeto Pascoal.
 - [Léa Freire](https://brazilianmusic.biblioverse.org/pt/artistas/lea-freire.html): Solo · São Paulo · nível B (Referência). Jazz brasileiro. Flautista e compositora.
+- [Mauro Senise](https://brazilianmusic.biblioverse.org/pt/artistas/mauro-senise.html): Solo · Rio de Janeiro · nível B (Referência). Jazz brasileiro. Concorreu ao Grammy Latino de Melhor Álbum de MPB e ao Grammy Latino de Melhor Álbum Instrumental.
+- [Nailor Azevedo](https://brazilianmusic.biblioverse.org/pt/artistas/nailor-azevedo.html): Solo · nível B (Referência). Jazz brasileiro. Concorreu ao Grammy Latino de Melhor Álbum de Jazz Latino/Jazz.
 - [Nelson Ayres](https://brazilianmusic.biblioverse.org/pt/artistas/nelson-ayres.html): Solo · São Paulo · nível B (Referência). Jazz brasileiro. Pianista, arranjador e maestro.
 - [Pau Brasil](https://brazilianmusic.biblioverse.org/pt/artistas/pau-brasil.html): Banda · São Paulo · nível B (Referência). Jazz brasileiro. Grupo paulista de música instrumental.
 - [Rosinha de Valença](https://brazilianmusic.biblioverse.org/pt/artistas/rosinha-de-valenca.html): Solo · Rio de Janeiro · nível B (Referência). Violão brasileiro. Violonista, cantora e compositora fluminense.
+- [Rubem Dantas](https://brazilianmusic.biblioverse.org/pt/artistas/rubem-dantas.html): Solo · Bahia · nível B (Referência). Jazz brasileiro. Concorreu ao Grammy Latino de Melhor Álbum de Jazz Latino/Jazz.
 - [Teco Cardoso](https://brazilianmusic.biblioverse.org/pt/artistas/teco-cardoso.html): Solo · nível B (Referência). Jazz brasileiro. Saxofonista e flautista.
 - [Victor Assis Brasil](https://brazilianmusic.biblioverse.org/pt/artistas/victor-assis-brasil.html): Solo · Rio de Janeiro · nível B (Referência). Jazz brasileiro. Saxofonista do jazz brasileiro.
 - [Wagner Tiso](https://brazilianmusic.biblioverse.org/pt/artistas/wagner-tiso.html): Solo · Minas Gerais · nível B (Referência). Jazz brasileiro, Clube da Esquina. Pianista e arranjador do Clube da Esquina.
 
-### Música Clássica (21)
+### Música Clássica (59)
 
 - [Carlos Gomes](https://brazilianmusic.biblioverse.org/pt/artistas/carlos-gomes.html): Solo · São Paulo · estreia 1861 · nível S (Lenda). Romantismo. "O Guarani" (1870) estreou no Scala de Milão.
 - [Heitor Villa-Lobos](https://brazilianmusic.biblioverse.org/pt/artistas/heitor-villa-lobos.html): Solo · Rio de Janeiro · estreia 1910 · nível S (Lenda). Nacionalismo. O maior compositor brasileiro: "Bachianas Brasileiras", "Choros", "Floresta do Amazonas".
-- [Nelson Freire](https://brazilianmusic.biblioverse.org/pt/artistas/nelson-freire.html): Solo · Minas Gerais · estreia 1957 · nível S (Lenda). Intérpretes e orquestras. Pianista de reputação mundial; duos com Martha Argerich.
-- [Guiomar Novaes](https://brazilianmusic.biblioverse.org/pt/artistas/guiomar-novaes.html): Solo · São Paulo · estreia 1911 · nível A (Gigante). Intérpretes e orquestras. Pianista aclamada em Paris e Nova York no início do século XX.
+- [Nelson Freire](https://brazilianmusic.biblioverse.org/pt/artistas/nelson-freire.html): Solo · Minas Gerais · estreia 1957 · nível S (Lenda). Intérpretes, orquestras e coros. Pianista de reputação mundial; duos com Martha Argerich.
+- [Guiomar Novaes](https://brazilianmusic.biblioverse.org/pt/artistas/guiomar-novaes.html): Solo · São Paulo · estreia 1911 · nível A (Gigante). Intérpretes, orquestras e coros. Pianista aclamada em Paris e Nova York no início do século XX.
 - [Francisco Mignone](https://brazilianmusic.biblioverse.org/pt/artistas/francisco-mignone.html): Solo · São Paulo · estreia 1920 · nível A (Gigante). Nacionalismo. "Maracatu de Chico Rei", valsas de esquina.
-- [Bidu Sayão](https://brazilianmusic.biblioverse.org/pt/artistas/bidu-sayao.html): Solo · Rio de Janeiro · estreia 1926 · nível A (Gigante). Intérpretes e orquestras. Soprano do Metropolitan Opera de 1937 a 1952.
+- [Bidu Sayão](https://brazilianmusic.biblioverse.org/pt/artistas/bidu-sayao.html): Solo · Rio de Janeiro · estreia 1926 · nível A (Gigante). Intérpretes, orquestras e coros. Soprano do Metropolitan Opera de 1937 a 1952.
 - [Camargo Guarnieri](https://brazilianmusic.biblioverse.org/pt/artistas/camargo-guarnieri.html): Solo · São Paulo · estreia 1928 · nível A (Gigante). Nacionalismo. Nacionalismo musical; sinfonias e "Dansa Brasileira".
 - [Radamés Gnattali](https://brazilianmusic.biblioverse.org/pt/artistas/radames-gnattali.html): Solo · Rio Grande do Sul · estreia 1930 · nível A (Gigante). Nacionalismo, Choro. Entre o erudito e o popular; arranjador da Rádio Nacional.
-- [OSESP](https://brazilianmusic.biblioverse.org/pt/artistas/osesp.html): Coletivo · São Paulo · estreia 1954 · nível A (Gigante). Intérpretes e orquestras. Orquestra Sinfônica do Estado de São Paulo; Sala São Paulo; regida por John Neschling, Marin Alsop e Thierry Fischer.
+- [OSESP](https://brazilianmusic.biblioverse.org/pt/artistas/osesp.html): Coletivo · São Paulo · estreia 1954 · nível A (Gigante). Intérpretes, orquestras e coros. Orquestra Sinfônica do Estado de São Paulo; Sala São Paulo; regida por John Neschling, Marin Alsop e Thierry Fischer.
+- [Orquestra Filarmônica de Minas Gerais](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-filarmonica-de-minas-gerais.html): Coletivo · Minas Gerais · estreia 2008 · nível A (Gigante). Intérpretes, orquestras e coros. Orquestra sinfônica criada em 2008 em Belo Horizonte, regida por Fabio Mechetti.
+- [Isaac Karabtchevsky](https://brazilianmusic.biblioverse.org/pt/artistas/isaac-karabtchevsky.html): Solo · São Paulo · nível A (Gigante). Intérpretes, orquestras e coros. Concorreu ao Grammy Latino de Melhor Álbum de Música Clássica.
 - [José Maurício Nunes Garcia](https://brazilianmusic.biblioverse.org/pt/artistas/jose-mauricio-nunes-garcia.html): Solo · Rio de Janeiro · nível A (Gigante). Música colonial. Padre e compositor da corte no Rio, o maior nome da música colonial brasileira.
-- [João Carlos Martins](https://brazilianmusic.biblioverse.org/pt/artistas/joao-carlos-martins.html): Solo · São Paulo · nível A (Gigante). Intérpretes e orquestras. Pianista e maestro, intérprete de Bach.
+- [João Carlos Martins](https://brazilianmusic.biblioverse.org/pt/artistas/joao-carlos-martins.html): Solo · São Paulo · nível A (Gigante). Intérpretes, orquestras e coros. Pianista e maestro, intérprete de Bach.
+- [Orquestra Sinfônica Brasileira](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-brasileira.html): Coletivo · Rio de Janeiro · nível A (Gigante). Intérpretes, orquestras e coros. A OSB, uma das orquestras mais importantes do país, com sede no centro do Rio de Janeiro.
+- [Orquestra Lira Sanjoanense](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-lira-sanjoanense.html): Coletivo · Minas Gerais · estreia 1776 · nível B (Referência). Música colonial. Orquestra de São João del-Rei fundada em 1776, citada como uma das mais antigas em atividade nas Américas.
 - [Alberto Nepomuceno](https://brazilianmusic.biblioverse.org/pt/artistas/alberto-nepomuceno.html): Solo · Ceará · estreia 1880 · nível B (Referência). Romantismo, Nacionalismo. Pai do nacionalismo musical brasileiro.
+- [Orquestra Sinfônica do Recife](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-do-recife.html): Coletivo · Pernambuco · estreia 1930 · nível B (Referência). Intérpretes, orquestras e coros. Fundada em 1930, é considerada a orquestra mais antiga do Brasil em atividade ininterrupta.
 - [César Guerra-Peixe](https://brazilianmusic.biblioverse.org/pt/artistas/cesar-guerra-peixe.html): Solo · Rio de Janeiro · estreia 1940 · nível B (Referência). Nacionalismo. Pesquisou o maracatu e o folclore nordestino.
-- [Eleazar de Carvalho](https://brazilianmusic.biblioverse.org/pt/artistas/eleazar-de-carvalho.html): Solo · Ceará · estreia 1941 · nível B (Referência). Intérpretes e orquestras. Maestro e professor de Claudio Abbado e Zubin Mehta em Tanglewood.
+- [Eleazar de Carvalho](https://brazilianmusic.biblioverse.org/pt/artistas/eleazar-de-carvalho.html): Solo · Ceará · estreia 1941 · nível B (Referência). Intérpretes, orquestras e coros. Maestro e professor de Claudio Abbado e Zubin Mehta em Tanglewood.
+- [Orquestra Sinfônica da Paraíba](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-da-paraiba.html): Coletivo · Paraíba · estreia 1945 · nível B (Referência). Intérpretes, orquestras e coros. A OSPB, fundada em 1945 em João Pessoa.
+- [Orquestra Sinfônica de Porto Alegre](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-de-porto-alegre.html): Coletivo · Rio Grande do Sul · estreia 1950 · nível B (Referência). Intérpretes, orquestras e coros. A OSPA, fundada em 1949 e refundada como entidade independente em 1950.
+- [Madrigal Renascentista](https://brazilianmusic.biblioverse.org/pt/artistas/madrigal-renascentista.html): Coletivo · Minas Gerais · estreia 1956 · nível B (Referência). Intérpretes, orquestras e coros. Coro profissional fundado em 1956 em Belo Horizonte; cantou na missa de inauguração de Brasília.
 - [Marlos Nobre](https://brazilianmusic.biblioverse.org/pt/artistas/marlos-nobre.html): Solo · Pernambuco · estreia 1960 · nível B (Referência). Música contemporânea. Compositor contemporâneo premiado.
-- [Arnaldo Cohen](https://brazilianmusic.biblioverse.org/pt/artistas/arnaldo-cohen.html): Solo · Rio de Janeiro · estreia 1972 · nível B (Referência). Intérpretes e orquestras. Pianista radicado nos EUA.
+- [Orquestra Sinfônica Nacional da UFF](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-nacional-da-uff.html): Coletivo · Rio de Janeiro · estreia 1961 · nível B (Referência). Intérpretes, orquestras e coros. Fundada em 1961 por Juscelino Kubitschek para difundir a música brasileira de concerto; ligada à UFF desde 1984.
+- [Quinteto Villa-Lobos](https://brazilianmusic.biblioverse.org/pt/artistas/quinteto-villa-lobos.html): Grupo · estreia 1962 · nível B (Referência). Intérpretes, orquestras e coros. Concorreu ao Grammy Latino de Melhor Álbum Instrumental.
+- [Coralusp](https://brazilianmusic.biblioverse.org/pt/artistas/coralusp.html): Coletivo · São Paulo · estreia 1967 · nível B (Referência). Intérpretes, orquestras e coros. O coral da Universidade de São Paulo, fundado em 1967 por Benito Juarez e José Luiz Visconti.
+- [Arnaldo Cohen](https://brazilianmusic.biblioverse.org/pt/artistas/arnaldo-cohen.html): Solo · Rio de Janeiro · estreia 1972 · nível B (Referência). Intérpretes, orquestras e coros. Pianista radicado nos EUA.
+- [Orquestra Petrobras Sinfônica](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-petrobras-sinfonica.html): Coletivo · Rio de Janeiro · estreia 1972 · nível B (Referência). Intérpretes, orquestras e coros. Criada em 1972 pelo maestro Armando Prazeres; tem Isaac Karabtchevsky como regente titular.
+- [Orquestra Sinfônica da USP](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-da-usp.html): Coletivo · São Paulo · estreia 1975 · nível B (Referência). Intérpretes, orquestras e coros. A OSUSP, orquestra da Universidade de São Paulo fundada em 1975.
+- [Meninas Cantoras de Petrópolis](https://brazilianmusic.biblioverse.org/pt/artistas/meninas-cantoras-de-petropolis.html): Coletivo · Rio de Janeiro · estreia 1976 · nível B (Referência). Intérpretes, orquestras e coros. Fundado em 1976, foi considerado o primeiro coro formado só por meninas.
+- [Orquestra Sinfônica do Teatro Nacional Claudio Santoro](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-do-teatro-nacional-claudio-santoro.html): Coletivo · Distrito Federal · estreia 1979 · nível B (Referência). Intérpretes, orquestras e coros. Fundada em 1979 em Brasília pelo maestro e compositor Claudio Santoro, que hoje lhe dá nome.
+- [Orquestra Sinfônica da Bahia](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-da-bahia.html): Coletivo · Bahia · estreia 1982 · nível B (Referência). Intérpretes, orquestras e coros. A OSBA, fundada em 1944 e refundada em 1982; corpo artístico do Teatro Castro Alves, em Salvador.
+- [Orquestra Sinfônica do Paraná](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-do-parana.html): Coletivo · Paraná · estreia 1985 · nível B (Referência). Intérpretes, orquestras e coros. Criada em 1985 no Teatro Guaíra, em Curitiba.
+- [Calíope](https://brazilianmusic.biblioverse.org/pt/artistas/caliope.html): Coletivo · Rio de Janeiro · estreia 1993 · nível B (Referência). Intérpretes, orquestras e coros. Grupo vocal do Rio de Janeiro desde 1993; venceu o Prêmio Carlos Gomes de coros em 2002.
+- [Orquestra Sinfônica do Teatro da Paz](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-do-teatro-da-paz.html): Coletivo · Pará · estreia 1996 · nível B (Referência). Intérpretes, orquestras e coros. Criada em 1996 em Belém para os concertos do Theatro da Paz.
+- [Sinfônica Heliópolis](https://brazilianmusic.biblioverse.org/pt/artistas/sinfonica-heliopolis.html): Coletivo · São Paulo · estreia 1996 · nível B (Referência). Intérpretes, orquestras e coros. Orquestra do Instituto Baccarelli, nascida em 1996 com alunos da comunidade de Heliópolis, em São Paulo.
+- [Amazonas Filarmônica](https://brazilianmusic.biblioverse.org/pt/artistas/amazonas-filarmonica.html): Coletivo · Amazonas · estreia 1997 · nível B (Referência). Intérpretes, orquestras e coros. Orquestra de Manaus fundada em 1997.
+- [Orquestra Ouro Preto](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-ouro-preto.html): Coletivo · Minas Gerais · estreia 2000 · nível B (Referência). Intérpretes, orquestras e coros. Orquestra mineira fundada em 2000, regida por Rodrigo Toffolo.
 - [Almeida Prado](https://brazilianmusic.biblioverse.org/pt/artistas/almeida-prado.html): Solo · São Paulo · nível B (Referência). Música contemporânea. Compositor e pianista, autor das "Cartas Celestes".
-- [Antonio Meneses](https://brazilianmusic.biblioverse.org/pt/artistas/antonio-meneses.html): Solo · Pernambuco · nível B (Referência). Intérpretes e orquestras. Violoncelista recifense, integrante do Beaux Arts Trio.
-- [Elsie Houston](https://brazilianmusic.biblioverse.org/pt/artistas/elsie-houston.html): Solo · Rio de Janeiro · nível B (Referência). Intérpretes e orquestras. Soprano carioca que levou canções populares brasileiras às salas de concerto de Paris e Nova York.
+- [Antonio Meneses](https://brazilianmusic.biblioverse.org/pt/artistas/antonio-meneses.html): Solo · Pernambuco · nível B (Referência). Intérpretes, orquestras e coros. Violoncelista recifense, integrante do Beaux Arts Trio.
+- [Canarinhos de Petrópolis](https://brazilianmusic.biblioverse.org/pt/artistas/canarinhos-de-petropolis.html): Coletivo · Rio de Janeiro · nível B (Referência). Intérpretes, orquestras e coros. Coro infantojuvenil do Instituto dos Meninos Cantores de Petrópolis.
+- [Clara Sverner](https://brazilianmusic.biblioverse.org/pt/artistas/clara-sverner.html): Solo · São Paulo · nível B (Referência). Intérpretes, orquestras e coros. Concorreu ao Grammy Latino de Melhor Álbum de Música Clássica.
+- [Coral Ars Nova](https://brazilianmusic.biblioverse.org/pt/artistas/coral-ars-nova.html): Coletivo · Minas Gerais · nível B (Referência). Intérpretes, orquestras e coros. O coral da UFMG, apontado como o mais premiado do país.
+- [Coral Paulistano Mário de Andrade](https://brazilianmusic.biblioverse.org/pt/artistas/coral-paulistano-mario-de-andrade.html): Coletivo · São Paulo · nível B (Referência). Intérpretes, orquestras e coros. Coral do Theatro Municipal de São Paulo, de repertório a capella, sobretudo de compositores brasileiros do século XX.
+- [Coro da Osesp](https://brazilianmusic.biblioverse.org/pt/artistas/coro-da-osesp.html): Coletivo · São Paulo · nível B (Referência). Intérpretes, orquestras e coros. Coro sinfônico da Sala São Paulo; regido por duas décadas por Naomi Munakata, é referência vocal no país.
+- [Coro do Theatro Municipal do Rio de Janeiro](https://brazilianmusic.biblioverse.org/pt/artistas/coro-do-theatro-municipal-do-rio-de-janeiro.html): Coletivo · Rio de Janeiro · nível B (Referência). Intérpretes, orquestras e coros. Coro de 95 cantores das óperas e concertos do Theatro Municipal do Rio de Janeiro.
+- [Coro Lírico Municipal de São Paulo](https://brazilianmusic.biblioverse.org/pt/artistas/coro-lirico-municipal-de-sao-paulo.html): Coletivo · São Paulo · nível B (Referência). Intérpretes, orquestras e coros. Coro lírico de 88 cantores do Theatro Municipal de São Paulo.
+- [Débora Halász](https://brazilianmusic.biblioverse.org/pt/artistas/debora-halasz.html): Solo · nível B (Referência). Intérpretes, orquestras e coros. Concorreu ao Grammy Latino de Melhor Álbum de Música Clássica.
+- [Elsie Houston](https://brazilianmusic.biblioverse.org/pt/artistas/elsie-houston.html): Solo · Rio de Janeiro · nível B (Referência). Intérpretes, orquestras e coros. Soprano carioca que levou canções populares brasileiras às salas de concerto de Paris e Nova York.
 - [Gilberto Mendes](https://brazilianmusic.biblioverse.org/pt/artistas/gilberto-mendes.html): Solo · São Paulo · nível B (Referência). Música contemporânea. Compositor santista, signatário do manifesto Música Nova (1963).
+- [John Neschling](https://brazilianmusic.biblioverse.org/pt/artistas/john-neschling.html): Solo · Rio de Janeiro · nível B (Referência). Intérpretes, orquestras e coros. Concorreu ao Grammy Latino de Melhor Álbum de Música Clássica.
 - [Lobo de Mesquita](https://brazilianmusic.biblioverse.org/pt/artistas/lobo-de-mesquita.html): Solo · Minas Gerais · nível B (Referência). Música colonial. Compositor e organista da música sacra mineira do século XVIII.
+- [Orquestra Experimental de Repertório](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-experimental-de-repertorio.html): Coletivo · São Paulo · nível B (Referência). Intérpretes, orquestras e coros. A OER, corpo artístico do Theatro Municipal de São Paulo, sediada na Praça das Artes.
+- [Orquestra Ribeiro Bastos](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-ribeiro-bastos.html): Coletivo · Minas Gerais · nível B (Referência). Música colonial. Conjunto musical sediado em São João del-Rei, em Minas Gerais.
+- [Orquestra Sinfônica de Minas Gerais](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-de-minas-gerais.html): Coletivo · Minas Gerais · nível B (Referência). Intérpretes, orquestras e coros. A OSMG, orquestra do Palácio das Artes, em Belo Horizonte.
+- [Orquestra Sinfônica do Theatro Municipal do Rio de Janeiro](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-do-theatro-municipal-do-rio-de-janeiro.html): Coletivo · Rio de Janeiro · nível B (Referência). Intérpretes, orquestras e coros. A orquestra das temporadas líricas do Theatro Municipal do Rio de Janeiro.
+- [Orquestra Sinfônica Municipal de Campinas](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-municipal-de-campinas.html): Coletivo · São Paulo · nível B (Referência). Intérpretes, orquestras e coros. A Sinfônica de Campinas, uma das maiores orquestras do país fora de uma capital.
+- [Orquestra Sinfônica Municipal de São Paulo](https://brazilianmusic.biblioverse.org/pt/artistas/orquestra-sinfonica-municipal-de-sao-paulo.html): Coletivo · São Paulo · nível B (Referência). Intérpretes, orquestras e coros. A OSM, orquestra do Theatro Municipal de São Paulo, de óperas e concertos.
+- [Sonia Rubinsky](https://brazilianmusic.biblioverse.org/pt/artistas/sonia-rubinsky.html): Solo · São Paulo · nível B (Referência). Intérpretes, orquestras e coros. Concorreu ao Grammy Latino de Melhor Álbum de Música Clássica.
 
-### Tradições Populares (40)
+### Tradições Populares (42)
 
 - [Mestre Bimba](https://brazilianmusic.biblioverse.org/pt/artistas/mestre-bimba.html): Solo · Bahia · estreia 1932 · nível S (Lenda). Capoeira. Criador da capoeira regional; toques de berimbau e ladainhas.
 - [Teixeirinha](https://brazilianmusic.biblioverse.org/pt/artistas/teixeirinha.html): Solo · Rio Grande do Sul · estreia 1959 · nível S (Lenda). Música gaúcha / nativista. O "Gaúcho Coração do Rio Grande": "Coração de Luto" vendeu milhões.
@@ -1981,9 +2104,11 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Baitaca](https://brazilianmusic.biblioverse.org/pt/artistas/baitaca.html): Solo · Rio Grande do Sul · estreia 1990 · nível B (Referência). Música gaúcha / nativista. Fandango e trova.
 - [Luiz Marenco](https://brazilianmusic.biblioverse.org/pt/artistas/luiz-marenco.html): Solo · Rio Grande do Sul · estreia 1990 · nível B (Referência). Música gaúcha / nativista. Canção nativista contemporânea.
 - [Selma do Coco](https://brazilianmusic.biblioverse.org/pt/artistas/selma-do-coco.html): Solo · Pernambuco · estreia 1990 · nível B (Referência). Coco e ciranda. Coco de roda de Olinda.
+- [Tchê Guri](https://brazilianmusic.biblioverse.org/pt/artistas/tche-guri.html): Banda · estreia 1990 · nível B (Referência). Tchê music. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Lenine & Suzano](https://brazilianmusic.biblioverse.org/pt/artistas/lenine-e-suzano.html): Dupla · Pernambuco · estreia 1993 · nível B (Referência). Frevo. "Olho de Peixe" (1993), violão e percussão.
 - [Flor Ribeirinha](https://brazilianmusic.biblioverse.org/pt/artistas/flor-ribeirinha.html): Grupo · Mato Grosso · estreia 1995 · nível B (Referência). Siriri e cururu. Grupo de siriri e cururu da comunidade São Gonçalo Beira Rio, em Cuiabá, premiado em festivais de folclore pelo mundo.
 - [Tchê Barbaridade](https://brazilianmusic.biblioverse.org/pt/artistas/tche-barbaridade.html): Banda · Rio Grande do Sul · estreia 1996 · nível B (Referência). Tchê music. Tchê music.
+- [César Oliveira & Rogério Melo](https://brazilianmusic.biblioverse.org/pt/artistas/cesar-oliveira-e-rogerio-melo.html): Dupla · estreia 1999 · nível B (Referência). Música gaúcha / nativista. Concorreu ao Grammy Latino de Melhor Álbum de Música de Raiz em Língua Portuguesa.
 - [Spok Frevo Orquestra](https://brazilianmusic.biblioverse.org/pt/artistas/spok-frevo-orquestra.html): Banda · Pernambuco · estreia 2001 · nível B (Referência). Frevo, Jazz brasileiro. Frevo instrumental com linguagem de jazz.
 - [André Filho](https://brazilianmusic.biblioverse.org/pt/artistas/andre-filho.html): Solo · Rio de Janeiro · nível B (Referência). Marchinhas de carnaval. Autor de "Cidade Maravilhosa" (1935), o hino do Rio.
 - [Carlos Galhardo](https://brazilianmusic.biblioverse.org/pt/artistas/carlos-galhardo.html): Solo · nível B (Referência). Marchinhas de carnaval, Samba-canção. Cantor da era do rádio, de "Allah-lá-ô".
@@ -2004,7 +2129,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Kaê Guajajara](https://brazilianmusic.biblioverse.org/pt/artistas/kae-guajajara.html): Solo · nível B (Referência). Artistas indígenas contemporâneos. Cantora e compositora do povo Guajajara.
 - [Owerá](https://brazilianmusic.biblioverse.org/pt/artistas/owera.html): Solo · São Paulo · nível B (Referência). Artistas indígenas contemporâneos, Rap nacional. Rapper guarani mbya de São Paulo, antes conhecido como Kunumí MC.
 
-### Música Infantil (23)
+### Música Infantil (24)
 
 - [A Turma do Balão Mágico](https://brazilianmusic.biblioverse.org/pt/artistas/a-turma-do-balao-magico.html): Grupo · São Paulo · estreia 1982 · nível S (Lenda). Infantil. "Superfantástico", "Amigos do Peito".
 - [Xuxa](https://brazilianmusic.biblioverse.org/pt/artistas/xuxa.html): Solo · Rio Grande do Sul · estreia 1986 · nível S (Lenda). Infantil. A "Rainha dos Baixinhos": "Ilariê"; discos infantis mais vendidos da história do país.
@@ -2019,6 +2144,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [A Patotinha](https://brazilianmusic.biblioverse.org/pt/artistas/a-patotinha.html): Grupo · Rio de Janeiro · estreia 1978 · nível B (Referência). Infantil. "Natal Numa Discotheque", "Melô dos Patins".
 - [Angélica](https://brazilianmusic.biblioverse.org/pt/artistas/angelica.html): Solo · Rio de Janeiro · estreia 1988 · nível B (Referência). Infantil. "Vou de Táxi".
 - [Eliana](https://brazilianmusic.biblioverse.org/pt/artistas/eliana.html): Solo · São Paulo · estreia 1993 · nível B (Referência). Infantil. "Os Dedinhos".
+- [Banda de Boca](https://brazilianmusic.biblioverse.org/pt/artistas/banda-de-boca.html): Grupo · nível B (Referência). Infantil. Concorreu ao Grammy Latino de Melhor Álbum Infantil.
 - [Barbatuques](https://brazilianmusic.biblioverse.org/pt/artistas/barbatuques.html): Grupo · São Paulo · nível B (Referência). Infantil. Grupo paulista de percussão corporal.
 - [Bia Bedran](https://brazilianmusic.biblioverse.org/pt/artistas/bia-bedran.html): Solo · Rio de Janeiro · nível B (Referência). Infantil. Cantora e contadora de histórias para crianças.
 - [Bob Zoom](https://brazilianmusic.biblioverse.org/pt/artistas/bob-zoom.html): Coletivo · nível B (Referência). Infantil. Canal de músicas infantis.
@@ -2030,7 +2156,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Pequeno Cidadão](https://brazilianmusic.biblioverse.org/pt/artistas/pequeno-cidadao.html): Banda · São Paulo · nível B (Referência). Infantil. Banda de música infantil formada por músicos e seus filhos.
 - [Simony](https://brazilianmusic.biblioverse.org/pt/artistas/simony.html): Solo · São Paulo · nível B (Referência). Infantil. Ex-integrante da Turma do Balão Mágico.
 
-## Vocalistas (1070)
+## Vocalistas (1071)
 
 - [Elis Regina](https://brazilianmusic.biblioverse.org/pt/pessoas/elis-regina.html): A "Pimentinha", considerada a maior intérprete da MPB: "Como Nossos Pais", "Águas de Março".
 - [Milton Nascimento](https://brazilianmusic.biblioverse.org/pt/pessoas/milton-nascimento.html): Falsete e timbre únicos; Clube da Esquina e "Travessia".
@@ -2992,6 +3118,7 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Priscila Senna](https://brazilianmusic.biblioverse.org/pt/artistas/priscila-senna.html)
 - [Projota](https://brazilianmusic.biblioverse.org/pt/artistas/projota.html)
 - [Rael](https://brazilianmusic.biblioverse.org/pt/artistas/rael.html)
+- [Rapadura](https://brazilianmusic.biblioverse.org/pt/artistas/rapadura.html)
 - [Raphaela Santos](https://brazilianmusic.biblioverse.org/pt/artistas/raphaela-santos.html)
 - [Rappin' Hood](https://brazilianmusic.biblioverse.org/pt/artistas/rappin-hood.html)
 - [Ras Bernardo](https://brazilianmusic.biblioverse.org/pt/artistas/ras-bernardo.html)
@@ -5826,10 +5953,52 @@ Xuxa vendeu os discos infantis mais populares da história do país nos anos 198
 - [Canta Comigo](https://brazilianmusic.biblioverse.org/pt/programas/canta-comigo.html) (emissora: Record; anos: 2018–): Formato 'All Together Now' com 100 jurados, apresentado por Rodrigo Faro; tem versão Teen.
 - [The Masked Singer Brasil](https://brazilianmusic.biblioverse.org/pt/programas/the-masked-singer-brasil.html) (emissora: Globo; anos: 2021–): Famosos cantam mascarados; apresentado por Ivete Sangalo e depois Eliana.
 - [Estrelas da Casa](https://brazilianmusic.biblioverse.org/pt/programas/estrelas-da-casa.html) (emissora: Globo; anos: 2024): Reality de confinamento musical criado pela Globo, antes chamado Estrela da Casa.
+- [Covernation](https://brazilianmusic.biblioverse.org/pt/programas/covernation.html) (emissora: MTV Brasil; anos: 2005–2007): Duelo entre bandas cover apresentado por Marcos Mion, com duas temporadas na grade regular.
 - [Jovem Guarda](https://brazilianmusic.biblioverse.org/pt/programas/jovem-guarda.html) (emissora: Record; anos: 1965–1968): O programa de Roberto Carlos, Erasmo Carlos e Wanderléa que deu nome ao movimento. Artistas que passaram por lá: Roberto Carlos, Erasmo Carlos, Wanderléa.
 - [Globo de Ouro](https://brazilianmusic.biblioverse.org/pt/programas/globo-de-ouro.html) (emissora: Globo; anos: 1972–1990): A parada de sucessos da TV, com os artistas das músicas mais tocadas.
 - [Som Brasil](https://brazilianmusic.biblioverse.org/pt/programas/som-brasil.html) (emissora: Globo; anos: 1981): O programa de Rolando Boldrin dedicado à música caipira e sertaneja.
 - [Ensaio](https://brazilianmusic.biblioverse.org/pt/programas/ensaio.html) (emissora: TV Tupi e TV Cultura; anos: 1969): Programa de entrevistas e música de Fernando Faro, com os grandes nomes da MPB.
+- [O Fino da Bossa](https://brazilianmusic.biblioverse.org/pt/programas/o-fino-da-bossa.html) (emissora: Record; anos: 1965–1967): Apresentado por Elis Regina e Jair Rodrigues; o sucesso rendeu três LPs ao vivo.
+- [Programa Raul Gil](https://brazilianmusic.biblioverse.org/pt/programas/programa-raul-gil.html) (emissora: Record, Tupi, Manchete, Band e SBT; anos: 1973): Programa de auditório de Raul Gil; estreou em 1973 na Record e passou por Tupi, Manchete, Band e SBT.
+- [Roberto Carlos Especial](https://brazilianmusic.biblioverse.org/pt/programas/roberto-carlos-especial.html) (emissora: Globo; anos: 1974–): O especial de fim de ano de Roberto Carlos, no ar desde 1974; só não foi exibido em 1999.
+- [Viola, Minha Viola](https://brazilianmusic.biblioverse.org/pt/programas/viola-minha-viola.html) (emissora: TV Cultura e TV Brasil; anos: 1980–2019): O programa da música caipira, apresentado por Inezita Barroso de 1980 a 2014.
+- [Grandes Nomes](https://brazilianmusic.biblioverse.org/pt/programas/grandes-nomes.html) (emissora: Globo; anos: 1980–1981): Série musical mensal dedicada a um grande nome da música brasileira por edição.
+- [Cassino do Chacrinha](https://brazilianmusic.biblioverse.org/pt/programas/cassino-do-chacrinha.html) (emissora: Globo; anos: 1982–1988): O programa de auditório de Chacrinha nas tardes de sábado da TV Globo.
+- [Galpão Crioulo](https://brazilianmusic.biblioverse.org/pt/programas/galpao-crioulo.html) (emissora: RBS TV; anos: 1982–): Programa da RBS TV no ar desde 1982, apresentado pelos cantores nativistas Nico Fagundes e, depois, Neto Fagundes.
+- [Fábrica do Som](https://brazilianmusic.biblioverse.org/pt/programas/fabrica-do-som.html) (emissora: TV Cultura; anos: 1983–1984): Programa musical feito em parceria com o Sesc, apresentado por Tadeu Jungle.
+- [Clip Clip](https://brazilianmusic.biblioverse.org/pt/programas/clip-clip.html) (emissora: Globo; anos: 1984–1987): Programa musical de domingo apresentado pelos bonecos Muquirana Jones e Edgar Ganta.
+- [Mixto Quente](https://brazilianmusic.biblioverse.org/pt/programas/mixto-quente.html) (emissora: Globo; anos: 1986): Festival de música nas tardes de domingo do verão de 1986, inspirado no Rock in Rio.
+- [Clip Trip](https://brazilianmusic.biblioverse.org/pt/programas/clip-trip.html) (emissora: TV Gazeta; anos: 1989–1994): Programa diário de videoclipes apresentado por Beto Rivera.
+- [Som Pop](https://brazilianmusic.biblioverse.org/pt/programas/som-pop.html) (emissora: TV Cultura; anos: 1989–1993): Programa de videoclipes apresentado por Kid Vinil.
+- [Disk MTV](https://brazilianmusic.biblioverse.org/pt/programas/disk-mtv.html) (emissora: MTV Brasil; anos: 1990): Estreou em 22 de outubro de 1990, logo após o lançamento da MTV Brasil; versão brasileira do Dial MTV e um dos maiores sucessos da emissora.
+- [Top 20 Brasil](https://brazilianmusic.biblioverse.org/pt/programas/top-20-brasil.html) (emissora: MTV Brasil; anos: 1990–2006, 2013): A parada de clipes da MTV Brasil, no ar desde a estreia do canal.
+- [Yo! MTV](https://brazilianmusic.biblioverse.org/pt/programas/yo-mtv.html) (emissora: MTV Brasil; anos: 1990–2006): O primeiro programa da TV brasileira dedicado ao rap.
+- [Lado B](https://brazilianmusic.biblioverse.org/pt/programas/lado-b.html) (emissora: MTV Brasil; anos: 1991–2000): O programa da meia-noite da MTV, apresentado por Luiz Thunderbird, Soninha Francine, Fabio Massari e Kid Vinil.
+- [Acústico MTV](https://brazilianmusic.biblioverse.org/pt/programas/acustico-mtv.html) (emissora: MTV Brasil): Versão brasileira do MTV Unplugged: bandas e artistas tocando suas músicas em versão acústica.
+- [Programa Livre](https://brazilianmusic.biblioverse.org/pt/programas/programa-livre.html) (emissora: SBT; anos: 1991–2001): Talk show do SBT apresentado por Serginho Groisman de 1991 a 1999.
+- [TVZ](https://brazilianmusic.biblioverse.org/pt/programas/tvz.html) (emissora: Multishow; anos: 1993–): Programa de videoclipes do horário nobre do Multishow, no ar desde 1993.
+- [Acervo MPB](https://brazilianmusic.biblioverse.org/pt/programas/acervo-mpb.html) (emissora: TVE Brasil e TV Brasil; anos: 1996–): Shows de MPB exibidos na íntegra, gravados com exclusividade pela emissora.
+- [Luau MTV](https://brazilianmusic.biblioverse.org/pt/programas/luau-mtv.html) (emissora: MTV Brasil; anos: 1996–2012): Shows acústicos da MTV, com idas e vindas de 1996 a 2012; a primeira apresentadora foi Cuca Lazzarotto.
+- [Piores Clipes do Mundo](https://brazilianmusic.biblioverse.org/pt/programas/piores-clipes-do-mundo.html) (emissora: MTV Brasil; anos: 1999–2002): Humor com videoclipes de gosto duvidoso, com Marina Person, Marcos Mion e João Gordo.
+- [Demo MTV](https://brazilianmusic.biblioverse.org/pt/programas/demo-mtv.html) (emissora: MTV Brasil; anos: 2000–2001): Vitrine de clipes e bandas independentes brasileiras.
+- [Musikaos](https://brazilianmusic.biblioverse.org/pt/programas/musikaos.html) (emissora: TV Cultura; anos: 2000–2003): Programa musical apresentado por Gastão Moreira, com 143 edições.
+- [Gordo a Go-Go](https://brazilianmusic.biblioverse.org/pt/programas/gordo-a-go-go.html) (emissora: MTV Brasil; anos: 2000–2005): O talk show de João Gordo, um dos grandes campeões de audiência da MTV.
+- [Altas Horas](https://brazilianmusic.biblioverse.org/pt/programas/altas-horas.html) (emissora: Globo; anos: 2000–): Talk show de Serginho Groisman nas noites de sábado.
+- [Um Barzinho, Um Violão](https://brazilianmusic.biblioverse.org/pt/programas/um-barzinho-um-violao.html) (emissora: Multishow; anos: 2001): Grandes nomes da MPB e do pop rock cantando clássicos; virou uma série de discos.
+- [ClipMania](https://brazilianmusic.biblioverse.org/pt/programas/clipmania.html) (emissora: Band; anos: 2001–2004): Programa musical apresentado por Sabrina Parlatore.
+- [Estúdio Coca-Cola](https://brazilianmusic.biblioverse.org/pt/programas/estudio-coca-cola.html) (emissora: MTV Brasil; anos: 2007): Encontros musicais inusitados: artistas de universos diferentes no mesmo palco pela primeira vez.
+- [O Som do Vinil](https://brazilianmusic.biblioverse.org/pt/programas/o-som-do-vinil.html) (emissora: Canal Brasil; anos: 2007–): Apresentado pelo músico e pesquisador Charles Gavin, no ar desde 2007.
+- [Terra Nativa](https://brazilianmusic.biblioverse.org/pt/programas/terra-nativa.html) (emissora: Band; anos: 2007): Programa musical apresentado pela dupla sertaneja Guilherme & Santiago.
+- [Samba na Gamboa](https://brazilianmusic.biblioverse.org/pt/programas/samba-na-gamboa.html) (emissora: TV Brasil; anos: 2008–2022, 2024–): As formas do samba e da MPB, com Diogo Nogueira até 2022 e Teresa Cristina desde 2024.
+- [Top 10 MTV](https://brazilianmusic.biblioverse.org/pt/programas/top-10-mtv.html) (emissora: MTV Brasil; anos: 2008, 2010–2013): Os dez clipes mais votados pelo público na internet; derivado do Disk MTV.
+- [Esquenta!](https://brazilianmusic.biblioverse.org/pt/programas/esquenta.html) (emissora: Globo; anos: 2011–2017): Programa de auditório de Regina Casé nas tardes de domingo.
+- [Mix Ao Vivo](https://brazilianmusic.biblioverse.org/pt/programas/mix-ao-vivo.html) (emissora: Mix TV): Shows em que bandas tocavam álbuns clássicos ao vivo, como o RPM com "Rádio Pirata".
+- [Música Boa Ao Vivo](https://brazilianmusic.biblioverse.org/pt/programas/musica-boa-ao-vivo.html) (emissora: Multishow; anos: 2014–): Programa musical com apresentação de Thiaguinho, Anitta, Iza e Ivete Sangalo ao longo dos anos.
+- [SóTocaTop](https://brazilianmusic.biblioverse.org/pt/programas/sotocatop.html) (emissora: Globo; anos: 2018–2020): Programa musical de sábado à tarde com apresentadores como Luan Santana, Iza e Ludmilla.
+- [Circuito Sertanejo](https://brazilianmusic.biblioverse.org/pt/programas/circuito-sertanejo.html) (emissora: Globo e Multishow; anos: 2022–): Programa de variedades focado no sertanejo e no modão.
+- [Bem Brasil](https://brazilianmusic.biblioverse.org/pt/programas/bem-brasil.html) (emissora: TV Cultura): Shows ao vivo de música brasileira, gravados primeiro na USP e depois no Sesc, apresentados por Wandi Doratiotto.
+- [Cultura Livre](https://brazilianmusic.biblioverse.org/pt/programas/cultura-livre.html) (emissora: TV Cultura): Artistas do circuito alternativo contemporâneo, com apresentação de Roberta Martinelli.
+- [Sr. Brasil](https://brazilianmusic.biblioverse.org/pt/programas/sr-brasil.html) (emissora: TV Cultura, SescTV e TV Brasil): Programa de música brasileira criado, dirigido e apresentado por Rolando Boldrin.
 
 ## Instrumentos
 

@@ -680,12 +680,15 @@ def page_awards(pg):
     lang, tt = pg.lang, pg.t
     aw = "".join(f'<article class="card"><span class="mono code">{e(tt["since"])} {a["since"]}</span><h3><a href="{IT.iurl(pg, 0, "aw", a["slug"])}">{e(a["name"])}</a></h3><div class="meta mono">{e(tt["org"])}: {e(t(a["org"], lang))}</div><p>{e(t(a["blurb"], lang))}</p></article>' for a in C.AWARDS)
     fe = "".join(f'<article class="card"><span class="mono code">{e(tt["since"])} {f["since"]} · {e(f["city"])}</span><h3><a href="{IT.iurl(pg, 0, "fe", f["slug"])}">{e(f["name"])}</a></h3><p>{e(t(f["blurb"], lang))}</p></article>' for f in sorted(C.FESTIVALS, key=lambda f: f["since"]))
-    sh = "".join(f'<article class="card"><span class="mono code">{e(s["net"])} · {e(s["years"])}</span><h3><a href="{IT.iurl(pg, 0, "sh", s["slug"])}">{e(s["name"])}</a></h3><p>{e(t(s["blurb"], lang))}</p>{f"<div class=meta><b>{e(tt['alumni'])}:</b> {', '.join(IT.link_name(pg, 0, x) for x in s['alumni'])}</div>" if s["alumni"] else ""}</article>' for s in C.SHOWS)
+    sh = "".join(f'<article class="card"><span class="mono code">{e(" · ".join(x for x in (s["net"], s["years"]) if x))}</span><h3><a href="{IT.iurl(pg, 0, "sh", s["slug"])}">{e(s["name"])}</a></h3><p>{e(t(s["blurb"], lang))}</p>{f"<div class=meta><b>{e(tt['alumni'])}:</b> {', '.join(IT.link_name(pg, 0, x) for x in s['alumni'])}</div>" if s["alumni"] else ""}</article>' for s in C.SHOWS if s.get("kind", "talent") == "talent")
+    pr = "".join(f'<article class="card"><span class="mono code">{e(" · ".join(x for x in (s["net"], s["years"]) if x))}</span><h3><a href="{IT.iurl(pg, 0, "sh", s["slug"])}">{e(s["name"])}</a></h3><p>{e(t(s["blurb"], lang))}</p></article>' for s in sorted((x for x in C.SHOWS if x.get("kind") == "prog"), key=lambda x: (x["years"][:4] or "9999", x["name"])))
+    n_tal = sum(1 for s in C.SHOWS if s.get("kind", "talent") == "talent")
     body = f"""<div class="wrap">{head_block(f'{len(C.AWARDS)} + {len(C.FESTIVALS)} + {len(C.SHOWS)}', e(tt["awardsH"]), tt["awardsLead"], seed=61)}
-<nav class="subnav mono"><a href="#awards">{e(tt['awA'])}</a><a href="#festivals">{e(tt['awF'])}</a><a href="#shows">{e(tt['awS'])}</a></nav>
+<nav class="subnav mono"><a href="#awards">{e(tt['awA'])}</a><a href="#festivals">{e(tt['awF'])}</a><a href="#shows">{e(tt['awS'])}</a><a href="#programmes">{e(tt['awP'])}</a></nav>
 <section class="sec-in" id="awards"><h2>{e(tt['awA'])}</h2><div class="cards3">{aw}</div></section>
 <section class="sec-in" id="festivals"><h2>{e(tt['awF'])}</h2><div class="cards3">{fe}</div></section>
-<section class="sec-in" id="shows"><h2>{e(tt['awS'])}</h2><div class="cards3">{sh}</div></section></div>"""
+<section class="sec-in" id="shows"><h2>{e(tt['awS'])} <span class="mono small">{n_tal}</span></h2><div class="cards3">{sh}</div></section>
+<section class="sec-in" id="programmes"><h2>{e(tt['awP'])} <span class="mono small">{len(C.SHOWS) - n_tal}</span></h2><div class="cards3">{pr}</div></section></div>"""
     ent = item_list(lang, tt["awardsH"], [(x["name"], IT.abs_url(lang, k, x["slug"])) for k, xs in (("aw", C.AWARDS), ("fe", C.FESTIVALS), ("sh", C.SHOWS)) for x in xs])
     pg.write(pg.p["awards"], other(lang, "awards"), 0, tt["awardsH"], tt["awardsDesc"], body, "awards", kind="CollectionPage", entity=ent)
 
@@ -718,9 +721,11 @@ def page_glossary(pg):
 
 def page_media(pg):
     lang, tt = pg.lang, pg.t
-    main = "".join(f'<article class="mcard"><h3><a href="{u}" target="_blank" rel="noopener">{e(n)} ↗</a></h3><p>{e(t(d, lang))}</p></article>' for n, u, d in C.MAINSTREAM)
-    body = (f'<div class="wrap">{head_block(f"{len(C.MAINSTREAM) + len(C.BLOGS)} sites", e(tt["mediaH"]), tt["mediaLead"], seed=91)}'
+    card = lambda rows: "".join(f'<article class="mcard"><h3><a href="{u}" target="_blank" rel="noopener">{e(n)} ↗</a></h3><p>{e(t(d, lang))}</p></article>' for n, u, d in rows)
+    main, radios = card(C.MAINSTREAM), card(C.RADIOS)
+    body = (f'<div class="wrap">{head_block(f"{len(C.MAINSTREAM) + len(C.RADIOS) + len(C.BLOGS)} sites", e(tt["mediaH"]), tt["mediaLead"], seed=91)}'
             f'<section class="sec-in"><h2>{e(tt["mMain"])} <span class="mono small">{len(C.MAINSTREAM)}</span></h2><div class="mgrid">{main}</div></section>'
+            f'<section class="sec-in" id="radios"><h2>{e(tt["mRadio"])} <span class="mono small">{len(C.RADIOS)}</span></h2><div class="mgrid">{radios}</div></section>'
             f'<section class="sec-in"><h2>{e(tt["mBlogs"])} <span class="mono small">{len(C.BLOGS)}</span></h2>')
     for foc in ("geral", "samba", "sertanejo", "rap", "rock", "metal", "indie", "pop", "ref"):
         items = [b for b in C.BLOGS if b[2] == foc]

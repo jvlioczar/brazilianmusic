@@ -802,6 +802,258 @@ Dom Um Romão|Baterista e percussionista do samba-jazz.|Samba-jazz drummer and p
 Jorginho do Pandeiro|Pandeirista do Época de Ouro.|Pandeiro player of Época de Ouro.
 """
 
+# Vocalistas com artigo na Wikipédia (Categoria:Cantores do Brasil), descritos pela Wikidata como cantor(a), rapper ou vocalista;
+# busca de 2026-11-14 com pelo menos 500 visitas em 60 dias. Sem ficha: só o nome, a página da pessoa e o link da Wikipédia.
+VOCALISTS_MORE = """
+Accioly Neto||
+Adelino Nascimento||
+Adriana Arydes||
+Adriana Farias||
+Adryana Ribeiro||
+Alberto Cowboy||
+Alda Célia||
+Alexia Evellyn||
+Alissic||
+Aloysio de Oliveira||
+Altemar Dutra Júnior||
+Álvaro Tito||
+Amanda Wanessa||
+Ana de Hollanda||
+Ana Gouveia||
+Ana Mazzotti||
+André Marinho||
+Andrea Fontes||
+Andressa Soares||
+Angela Espíndola||
+Ângelo Máximo||
+Any Gabrielly||
+Aretha Marcos||
+Ava Rocha||
+Barrerito||
+Batista Lima||
+Bea Duarte||
+Bebeto Alves||
+Bell Oliver||
+Belutti||
+Berg Rabelo||
+Beth Guzzo||
+Beto Jamaica||
+Bibi Babydoll||
+Big Mike||
+Brandão85||
+Brother Simion||
+Carla Cristina||
+Carmen Silva||
+Cecilia Miranda de Carvalho||
+Célia||
+Charles Master||
+Chrystian||
+Ciro Pessoa||
+Cláudia Barroso||
+Cláudio Fontana||
+Cláudya||
+Clemilda||
+Creone||
+Curumin||
+Cylene||
+Cynthia Zamorano||
+Cyva||
+D'Black||
+Daniel Diau||
+Daniel Jobim||
+Daniela Firme||
+David Fantazzini||
+Deise Cipriano||
+Denise Cerqueira||
+DH Silveira||
+Douglas Din||
+Dum-Dum||
+Ed Carlos||
+Ednaldo Pereira||
+Edson Cadorini||
+Edson Dutra||
+Edson Lima||
+Edu Ribeiro||
+Elaine Martins||
+Eliã Oliveira||
+Eliane de Grammont||
+Eliza Clívia||
+Emerson Pinheiro||
+Enzo Rabelo||
+Érika Martins||
+Fabiana Anastácio||
+Fabio Brazza||
+Fantine Thó||
+Fausto Fawcett||
+Feliciano Amaral||
+Fernando Deluqui||
+Fernando Zor||
+Fiuk||
+Flay||
+Francisco Petrônio||
+Gabi Martins||
+Gabriel Gava||
+Gabriel Henrique||
+Gabriela Gomes||
+Gabz||
+Georgia Brown||
+Getúlio Abelha||
+Giane||
+Giovanna Maira||
+Gisele Nascimento||
+Giselli Cristina||
+Gracinha Leporace||
+Guito Show||
+Gustavo Lins||
+Heitor Santos||
+Heloisa Rosa||
+Hudson Cadorini||
+Iran Costa||
+Irmão Lázaro||
+Israel Novaes||
+Ivo Meirelles||
+Ivon Curi||
+J. Neto||
+Jair Pires||
+Jamily||
+Jane Moraes||
+Jerry Smith||
+Jessé Aguiar||
+João Carreiro||
+João Mineiro||
+João Suplicy||
+Joel Marques||
+José Messias||
+José Roberto||
+Jozyanne||
+Juçara Marçal||
+Juliano Son||
+Karin Hils||
+Katia Bronstein||
+Késia Estácio||
+Lady Lu||
+Lairton e seus Teclados||
+Lauriete||
+Léa Mendonça||
+Leandro Borges||
+Leandro Scornavacca||
+Léo Brandão||
+Léo Ramos||
+Leopoldo Rassier||
+Lidoka||
+Lílian||
+Lílian Moisés||
+Lisa Ono||
+Liz Lanne||
+Loubet||
+Louro Santos||
+Lu Andrade||
+Luana Camarah||
+Luciano Camargo||
+Luiz de Carvalho||
+Luiz Vieira||
+Luiza Martins||
+Lydia Moisés||
+Marcelo Augusto||
+Marcelo Costa||
+Márcia Ferreira||
+Márcio Victor||
+Marcos Antônio||
+Marcos Sabino||
+Maria Luiza Jobim||
+Mariana Nolasco||
+Mariangêla Zan||
+Markinhos Moura||
+Marlus Viana||
+Marquinhos Maraial||
+Marta Mendonça||
+Mary Terezinha||
+Matheus Rocha||
+Maurílio Delmont||
+Mauro Henrique||
+Mayra||
+MC Felipe Boladão||
+MC Loma||
+MC Paiva||
+MC Pikachu||
+MC Primo||
+Michael Biggs||
+Michelle Menezes||
+Mika Rodrigues||
+Millane Hora||
+Mirella Vieira||
+Mylla Karvalho||
+Nahim||
+NandaTsunami||
+Nelson Triunfo||
+Neto Araújo||
+Netto Brito||
+Neusinha Brizola||
+O'Hara Ravick||
+Parrerito||
+Patrick Dimon||
+Paulo Cezar||
+Paulo Jobim||
+Pedro Henrique||
+Pedro Leonardo||
+Pedro Luís||
+Pepe Moreno||
+Rachel Novaes||
+Raffa Moreira||
+Raied Neto||
+Regininha||
+Ricky Vallen||
+Rita de Cássia||
+Roberto Müller||
+Robinson Monteiro||
+Rodrigo Teaser||
+Rogério Valença||
+Rosa Passos||
+Rosemary||
+Ruan Vitor Vaqueirinho||
+Ruy Alexandre Faria||
+Sâmya Maia||
+Sandro Becker||
+Sandro Coelho||
+Sarah Sheeva||
+Saulo Poncio||
+Serena Assumpção||
+Siba||
+Sidney Cipriano||
+Sílvio Brito||
+Simaria||
+Speedfreaks||
+Tânia Mara||
+Taryn Szpilman||
+Tays Reis||
+Thaeme||
+Thiago Bertoldo||
+Thiago Brado||
+Thiago Pantaleão||
+Tom Veloso||
+Tonho Crocco||
+Toni Platão||
+Tuca Nascimento||
+Valéria Barros||
+Vanessa Jackson||
+Vanessa Moreno||
+Vanilda Bordieri||
+Verônica Sabino||
+Vicente Nery||
+Victorino Silva||
+Vitória Falcão||
+Vivi Wanderley||
+Welington Camargo||
+Wilian Nascimento||
+Zé Bruno||
+Zé Carreiro||
+Zé do Rancho||
+Zéu Britto||
+Zezinho Barros||
+Zezinho Corrêa||
+"""
+
+
 def rows(block):
     out = []
     for line in block.strip().splitlines():

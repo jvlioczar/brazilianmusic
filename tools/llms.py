@@ -51,7 +51,7 @@ def write_all(B):
 
     def counts(lang):
         n_mus = len({IT.slugify(r[0]) for _c, _k, rows, _f in B.INSTR for r in rows})
-        return B.seo_stats(lang), dict(singers=B.approx(len(B.VOC), lang), musicians=B.approx(n_mus, lang), producers=B.approx(len(B.PROD), lang),
+        return B.seo_stats(lang), dict(singers=B.approx(len(B.VOC) + len(B.VOC_ART), lang), musicians=B.approx(n_mus, lang), producers=B.approx(len(B.PROD), lang),
                                                      influencers=B.approx(len(C.CREATORS), lang), instruments=B.approx(len(C.INSTRUMENTS), lang),
                                                      glossary=B.approx(len(C.GLOSSARY), lang))
 
@@ -141,7 +141,9 @@ def write_all(B):
                 res.append(f"- [{n}]({IT.abs_url(lang, 'm', IT.slugify(n))})" + (f": {note}" if note else ""))
             return res + [""]
 
-        out += people(T["singers_h"], B.VOC)
+        out += people(T["singers_h"], B.VOC)[:-1]
+        out += [f"- [{a['name']}]({IT.abs_url(lang, 'a', a['id'])})" for a in B.VOC_ART] + [""]
+        out[out.index(f"## {T['singers_h']} ({len(B.VOC)})")] = f"## {T['singers_h']} ({len(B.VOC) + len(B.VOC_ART)})"
         out += [f"## {T['musicians_h']}", ""]
         for _c, key, rows, _f in B.INSTR:
             out += [f"### {tt[key]} ({len(rows)})", ""] + people(tt[key], rows)[2:]

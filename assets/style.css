@@ -252,6 +252,13 @@ p{margin:0 0 1em}
 .sub-h h3{margin:0;font-size:1.2rem}
 .sub-h .mono{color:var(--ink2)}
 .sub p{color:var(--ink2);font-size:.93rem;margin:8px 0 12px}
+.sub-arts>summary{display:inline-flex;align-items:center;gap:8px;cursor:pointer;list-style:none;font-weight:700;font-size:.86rem;padding:7px 14px;border-radius:999px;background:var(--paper2);color:var(--ink);transition:background .2s,color .2s}
+.sub-arts>summary::-webkit-details-marker{display:none}
+.sub-arts>summary .mono{opacity:.7}
+.sub-arts>summary::after{content:"";width:6px;height:6px;margin-left:2px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:translateY(-2px) rotate(45deg);transition:transform .25s var(--ease)}
+.sub-arts[open]>summary::after{transform:translateY(1px) rotate(225deg)}
+.sub-arts>summary:hover,.sub-arts>summary:focus-visible{background:var(--cx);color:#fff}
+.sub-arts .chips{margin-top:12px}
 .decades{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
 .dec h3{margin:0 0 8px;color:var(--cx)}
 .more-link{margin:24px 0}

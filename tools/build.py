@@ -90,7 +90,12 @@ ACOU, KEYS, ACC, CHOS, WIND, PERC = (M.rows(M.ACOUSTIC), M.rows(M.KEYS), M.rows(
 # grupos da página de instrumentistas: (código, chave do texto, linhas, nº em destaque)
 INSTR = [("gtr", "guitar", GUIT, 9), ("vio", "acoustic", ACOU, 6), ("bss", "bass", BASS, 8), ("drm", "drums", DRUM, 7), ("per", "percussion", PERC, 4),
          ("tec", "keys", KEYS, 5), ("san", "accordion", ACC, 4), ("cho", "choroStrings", CHOS, 3), ("sop", "winds", WIND, 5)]
-VOC = M.rows(M.VOCALISTS)
+VOC = M.rows(M.VOCALISTS) + M.rows(getattr(M, "VOCALISTS_MORE", ""))
+import data_singers as SG  # noqa: E402
+_SG = {IT.norm(x) for x in SG.SINGER_ARTISTS.strip().splitlines() if x.strip()}
+_VOC_N = {IT.norm(n) for n, _a, _b in VOC}
+# artistas do catálogo que também são vocalistas: entram na página de vocalistas com link para a página de artista
+VOC_ART = sorted((a for a in ARTISTS if (IT.norm(a["name"]) in _SG or a["type"] == "mc") and IT.norm(a["name"]) not in _VOC_N), key=lambda a: IT.norm(a["name"]))
 N_MUS = len({IT.slugify(n) for rows_ in [VOC, PROD] + [r for _c, _k, r, _f in INSTR] for n, _a, _b in rows_})
 N_SUBS = len(SUB)
 STATS = dict(f=len(C.FAMILIES), s=N_SUBS, a=len(ARTISTS), m=N_MUS, n=len(SONGS), d=len(ALBUMS))
@@ -492,7 +497,7 @@ def page_family(pg, f, i):
         arts = BY_SUB.get(s["id"], [])
         names = "".join(f'<a class="chip plain" href="{IT.art_url(pg, 1, a)}">{e(a["name"])}</a>' for a in arts)
         more = ""
-        subs_html += f'<article class="sub" id="{s["id"]}"><div class="sub-h"><h3><a href="{IT.sub_url(pg, 1, s["id"])}">{e(t(s["name"], lang))}</a></h3><span class="mono">{e(tt["since"])} {s["since"]} · {len(arts)} {e(tt["stats"]["artists"])}</span></div>{f'<span class="her">{e(heritage_txt(s, lang))}</span>' if s.get("heritage") else ""}{f'<span class="her fus">{e(fusion_txt(s, lang))}</span>' if s.get("fusion") else ""}<p>{e(t(s["blurb"], lang))}</p><div class="chips">{names}{more}</div></article>'
+        subs_html += f'<article class="sub" id="{s["id"]}"><div class="sub-h"><h3><a href="{IT.sub_url(pg, 1, s["id"])}">{e(t(s["name"], lang))}</a></h3><span class="mono">{e(tt["since"])} {s["since"]} · {len(arts)} {e(tt["stats"]["artists"])}</span></div>{f'<span class="her">{e(heritage_txt(s, lang))}</span>' if s.get("heritage") else ""}{f'<span class="her fus">{e(fusion_txt(s, lang))}</span>' if s.get("fusion") else ""}<p>{e(t(s["blurb"], lang))}</p>{f'<details class="sub-arts"><summary>{e(tt["subArts"])} <span class="mono">{len(arts)}</span></summary><div class="chips">{names}{more}</div></details>' if arts else ""}</article>'
     songs = "".join(f'<li><span class="y mono">{y}</span><a href="{yt(a + " " + s)}" target="_blank" rel="noopener">{e(s)}</a><small>{IT.link_credit(pg, 1, a)}</small></li>' for s, a, y in f["songs"])
     fam_artists = [a for a in ARTISTS if a["family"] == fid]
     top = [a for a in fam_artists if a["tier"] in ("S", "A")][:24] or fam_artists[:12]
@@ -580,10 +585,17 @@ def page_musicians(pg):
 
 def page_singers(pg):
     lang, tt = pg.lang, pg.t
-    body = f'<div class="wrap">{head_block(f"{len(VOC)} {e(tt["nav"]["singers"]).lower()}", e(tt["singersH"]), tt["singersLead"], seed=43)}'
-    body += mus_section(pg, "voc", tt["nav"]["singers"], VOC, 15) + "</div>"
-    ent = item_list(lang, tt["singersH"], [(n, IT.abs_url(lang, "m", IT.slugify(n))) for n, _a, _b in VOC], total=len(VOC))
-    pg.write(pg.p["singers"], other(lang, "singers"), 0, tt["singersH"], tt["singersDesc"].format(n=approx(len(VOC), lang)), body, "singers", kind="CollectionPage", entity=ent)
+    total = len(VOC) + len(VOC_ART)
+    body = f'<div class="wrap">{head_block(f"{total} {e(tt["nav"]["singers"]).lower()}", e(tt["singersH"]), tt["singersLead"], seed=43)}'
+    # fichas de destaque e, em ordem alfabética, as demais pessoas (página da pessoa) e os artistas cantores (página de artista)
+    cards = "".join(f'<article class="mcard"><h3><a href="{IT.mus_url(pg, 0, IT.MUS[IT.slugify(n)])}">{e(n)}</a></h3><p>{e(t((pt, en), lang))}</p></article>' for n, pt, en in VOC[:15])
+    rest = [(n, IT.mus_url(pg, 0, IT.MUS[IT.slugify(n)])) for n, _a, _b in VOC[15:]] + [(a["name"], IT.art_url(pg, 0, a)) for a in VOC_ART]
+    rest.sort(key=lambda r: IT.norm(r[0]))
+    lis = "".join(f'<li><a href="{u}">{e(n)}</a></li>' for n, u in rest)
+    body += f'<section class="sec-in" id="voc"><h2>{e(tt["nav"]["singers"])} <span class="mono small">{total}</span></h2><div class="mgrid">{cards}</div><ol class="mlist">{lis}</ol></section></div>'
+    rows = [(n, IT.abs_url(lang, "m", IT.slugify(n))) for n, _a, _b in VOC] + [(a["name"], IT.abs_url(lang, "a", a["id"])) for a in VOC_ART]
+    ent = item_list(lang, tt["singersH"], sorted(rows, key=lambda r: IT.norm(r[0])), total=total)
+    pg.write(pg.p["singers"], other(lang, "singers"), 0, tt["singersH"], tt["singersDesc"].format(n=approx(total, lang)), body, "singers", kind="CollectionPage", entity=ent)
 
 
 def page_producers(pg):

@@ -1005,7 +1005,7 @@ Regininha||
 Ricky Vallen||
 Rita de Cássia||
 Roberto Müller||
-Robinson Monteiro||
+Robinson Monteiro|Ficou conhecido como calouro do Programa Raul Gil, em 2001; depois seguiu carreira na música gospel.|Became known as an amateur singer on Programa Raul Gil in 2001; he later built a gospel career.
 Rodrigo Teaser||
 Rogério Valença||
 Rosa Passos||

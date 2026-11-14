@@ -13,17 +13,27 @@
 
   // submenus do topo: clique abre/fecha (hover também abre no desktop via CSS)
   var groupsN = $$('.nav-g');
+  // fecha o grupo e tira o foco que o clique deixou dentro dele (o :focus-within do CSS também o mantinha aberto)
+  var shut = function (x, blur) {
+    x.classList.remove('open');
+    x.querySelector('.nav-btn').setAttribute('aria-expanded', 'false');
+    if (blur && x.contains(document.activeElement)) document.activeElement.blur();
+  };
+  // desktop com mouse: o menu segue o ponteiro (no celular o menu sanduíche fica só no clique)
+  var mouseNav = function () { return window.matchMedia('(hover: hover) and (pointer: fine) and (min-width: 1181px)').matches; };
   groupsN.forEach(function (g) {
     var b = g.querySelector('.nav-btn');
     b.addEventListener('click', function (ev) {
       ev.stopPropagation();
       var open = !g.classList.contains('open');
-      groupsN.forEach(function (x) { x.classList.remove('open'); x.querySelector('.nav-btn').setAttribute('aria-expanded', 'false'); });
+      groupsN.forEach(function (x) { shut(x, false); });
       if (open) { g.classList.add('open'); b.setAttribute('aria-expanded', 'true'); }
     });
+    g.addEventListener('mouseenter', function () { if (mouseNav()) groupsN.forEach(function (x) { if (x !== g) shut(x, true); }); });
+    g.addEventListener('mouseleave', function () { if (mouseNav()) shut(g, true); });
   });
-  document.addEventListener('click', function (ev) { if (!ev.target.closest('.nav-g')) groupsN.forEach(function (x) { x.classList.remove('open'); x.querySelector('.nav-btn').setAttribute('aria-expanded', 'false'); }); });
-  document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape') groupsN.forEach(function (x) { x.classList.remove('open'); x.querySelector('.nav-btn').setAttribute('aria-expanded', 'false'); }); });
+  document.addEventListener('click', function (ev) { if (!ev.target.closest('.nav-g')) groupsN.forEach(function (x) { shut(x, false); }); });
+  document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape') groupsN.forEach(function (x) { shut(x, false); }); });
 
   // "se você gosta de…" → destaca famílias
   var likeGrid = $('#likeGrid'), famGrid = $('#famGrid');

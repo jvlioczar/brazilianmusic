@@ -624,7 +624,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Zé Renato](https://brazilianmusic.biblioverse.org/artists/ze-renato.html): Solo · Espírito Santo · tier B (Reference). Festival-era MPB. A singer and guitarist from Espírito Santo.
 - [Áurea Martins](https://brazilianmusic.biblioverse.org/artists/aurea-martins.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 
-### Brazilian Rock (509)
+### Brazilian Rock (510)
 
 - [Roberto Carlos](https://brazilianmusic.biblioverse.org/artists/roberto-carlos.html): Solo · Espírito Santo · debut 1960 · tier S (Legend). Jovem Guarda / iê-iê-iê, Pop rock. The "King": from Jovem Guarda's iê-iê-iê to romantic ballads.
 - [Rita Lee](https://brazilianmusic.biblioverse.org/artists/rita-lee.html): Solo · São Paulo · debut 1963 · tier S (Legend). Psychedelic rock, Pop rock. From Os Mutantes to a solo career: the "queen of Brazilian rock".
@@ -872,6 +872,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Cavalera Conspiracy](https://brazilianmusic.biblioverse.org/artists/cavalera-conspiracy.html): Band · São Paulo · debut 2007 · tier B (Reference). Thrash, death and black metal. Reunites brothers Max and Igor Cavalera and revives Brazilian thrash/groove worldwide.
 - [Endigna](https://brazilianmusic.biblioverse.org/artists/endigna.html): Band · São Paulo · debut 2007 · tier B (Reference). Thrash, death and black metal. Deathcore.
 - [Hellbenders](https://brazilianmusic.biblioverse.org/artists/hellbenders.html): Band · Goiás · debut 2007 · tier B (Reference). Stoner rock, Hard rock. Hard rock and stoner from Goiânia.
+- [It's All Red](https://brazilianmusic.biblioverse.org/artists/it-s-all-red.html): Band · Rio Grande do Sul · debut 2007 · tier B (Reference). Post-hardcore / metalcore. A Porto Alegre band founded in 2007, one of the pioneers of metalcore in Brazil: "Vicious Words From The Heart" (2007), "The Natural Process Of..." (2010) and "Lead By The Blind" (2015); it has shared stages with Megadeth and Cavalera Conspiracy and recorded "Pertencimento" with Humberto Gessinger.
 - [Jonas Sá](https://brazilianmusic.biblioverse.org/artists/jonas-sa.html): Solo · Rio de Janeiro · debut 2007 · tier B (Reference). Indie rock. Nominated for the Latin Grammy for Best Portuguese Language Contemporary Pop Album.
 - [Kiara Rocks](https://brazilianmusic.biblioverse.org/artists/kiara-rocks.html): Band · São Paulo · debut 2007 · tier B (Reference). Hard rock. Hard rock fronted by Kiara.
 - [Pense](https://brazilianmusic.biblioverse.org/artists/pense.html): Band · Minas Gerais · debut 2007 · tier B (Reference). Hardcore. "Além Daquilo Que Te Cega" (2014), about 50 shows in 10 months.

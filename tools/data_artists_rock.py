@@ -395,7 +395,7 @@ Sound Bullet|band|indie|2009|SP|B|en|Indie em inglês.|Indie in English.
 The Baudelaires|band|indie|2009|SP|B|en|Indie/power pop em inglês.|Indie/power pop in English.
 Cambriana|band|indie,psicodelico|2010|SP|B|en|Pop psicodélico em inglês; "The Sad Facts".|Psychedelic pop in English; "The Sad Facts".
 The Outs|band|indie,psicodelico|2010|SP|B|en|Indie psicodélico em inglês e português.|Psychedelic indie in English and Portuguese.
-Inky|band|rock-alternativo|2011|SP|B|en|Rock alternativo em inglês.|Alternative rock in English.
+Inky|band|rock-alternativo|2011|SP|B|en|Quarteto paulistano, cantado em inglês, que começou como banda de música eletrônica e chegou ao rock eletrônico: "Primal Swag" (2014) e "Animania" (2016), produzido por Guilherme Kastrup e inspirado em "Remain in Light", do Talking Heads.|A São Paulo quartet singing in English that began as an electronic music act and moved into electronic rock: "Primal Swag" (2014) and "Animania" (2016), produced by Guilherme Kastrup and inspired by Talking Heads' "Remain in Light".
 Mustache e os Apaches|band|indie|2011|SP|B|en|Bluegrass/folk em inglês.|Bluegrass/folk in English.
 Rakta|band|psicodelico,punk|2011|SP|B|en|Rock experimental e punk, cultuada no exterior.|Experimental rock and punk, a cult name abroad.
 LeftZero|band|pop-rock|2012|PR|B|en|Pop rock em inglês de Maringá.|Pop rock in English from Maringá.

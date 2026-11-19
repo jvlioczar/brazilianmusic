@@ -632,6 +632,11 @@ MAINSTREAM = [
  ("Toca (UOL)", "https://www.uol.com.br/toca/", ("O espaço de música do UOL: notícias, histórias, experiências e revelações de novos artistas.", "UOL's music hub: news, stories, experiences and new artists to discover.")),
 ]
 
+
+# links oficiais de artistas (página do artista e sameAs do JSON-LD), por id do artista: [(rótulo, url)]
+ARTIST_LINKS = {
+ "inky": [("Facebook", "https://www.facebook.com/Inkymusic")],
+}
 # rádios musicais de destaque (dados conferidos na Wikipédia em 2026-11-14; links oficiais testados)
 RADIOS = [
  ("Rádio Nacional", "https://radios.ebc.com.br/", ("No ar desde 1936 no Rio de Janeiro, foi o veículo de maior audiência do país nos anos 1940 e 1950, com programas de auditório e radionovelas. Hoje é pública, da EBC.", "On air in Rio de Janeiro since 1936, it was the country's most popular medium in the 1940s and 1950s, with live audience shows and radio soaps. It is now public, run by EBC.")),

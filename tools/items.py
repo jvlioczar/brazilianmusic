@@ -398,7 +398,7 @@ def page_artist(pg, a, prev, nxt):
              fact(T["tierL"], e(tt["tiers"][a["tier"]]) if a["tier"] else ""))
     kicker = e(t(f["name"], lang)) + " · " + ", ".join(f'<a href="{sub_url(pg, 1, g)}">{e(t(B.SUB[g]["name"], lang))}</a>' for g in a["genres"])
     links = [("Wikipedia", wiki_for(lang, "a:" + a["id"], a["name"], T["wiki_extra"])), ("Spotify", spotify(a["name"])),
-             ("Last.fm", lastfm(a["name"])), ("YouTube", B.yt(a["name"] + " música"))]
+             ("Last.fm", lastfm(a["name"])), ("YouTube", B.yt(a["name"] + " música"))] + B.C.ARTIST_LINKS.get(a["id"], [])
     body = item_head(pg, 1, f["color"], kicker, a["name"], facts, t(a["blurb"], lang), sum(map(ord, a["id"])), tt["nav"]["artists"], pg.href(1, pg.p["artists"]))
     body += '<div class="wrap">' + desc_block(pg, artist_paras(a, lang), links)
     songs = SONGS_BY.get(a["id"], [])
@@ -424,7 +424,7 @@ def page_artist(pg, a, prev, nxt):
                          "description": t(a["blurb"], lang) or plain(artist_paras(a, lang)[0]),
                          "genre": [t(B.SUB[g]["name"], lang) for g in a["genres"]],
                          "foundingDate": str(a["year"]) if a["year"] else None, "foundingLocation": state_ld(a["uf"], lang),
-                         "sameAs": wiki_same("a:" + a["id"]),
+                         "sameAs": wiki_same("a:" + a["id"]) + [u for _l, u in B.C.ARTIST_LINKS.get(a["id"], [])],
                          "track": [{"@type": "MusicRecording", "name": r[1], "datePublished": str(r[0])} for r in songs[:30]],
                          "album": [{"@type": "MusicAlbum", "name": r[1], "datePublished": str(r[0])} for r in albums]})
     oth = "en" if lang == "pt" else "pt"

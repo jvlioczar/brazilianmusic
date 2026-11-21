@@ -17,6 +17,8 @@ import data_albums as AL  # noqa: E402
 import data_artists_more as AM  # noqa: E402
 
 SITE, BUILT, UI, PATHS = C.SITE, C.BUILT, C.UI, C.PATHS
+CF_TOKEN = '41bc9a09a4584bde9b883bc00252d825'
+CF_SNIPPET = f'''<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{{"token": "{CF_TOKEN}"}}'></script><!-- End Cloudflare Web Analytics -->'''
 L = {"pt": 0, "en": 1}
 # a família começa no subgênero mais antigo
 for _f in C.FAMILIES:
@@ -308,6 +310,7 @@ class Page:
 <div class="foot-meta mono">© {BUILT[:4]} BiblioVerse · {e(tt["updated"])} {BUILT[5:7]}/{BUILT[:4]}</div>
 </div></footer>
 <script src="{assets}assets/app.js" defer></script>
+{CF_SNIPPET}
 </body>
 </html>
 """
@@ -748,7 +751,7 @@ def page_about(pg):
 
 def page_privacy(pg):
     lang, tt = pg.lang, pg.t
-    body = f'<div class="wrap narrow">{head_block("BiblioVerse", e(tt["privacyH"]), tt["privacyLead"], seed=111)}<section class="sec-in"><p>{e(tt["privacy"])}</p><p class="mono small">{e(tt["updated"])} {BUILT[5:7]}/{BUILT[:4]}</p></section></div>'
+    body = f'<div class="wrap narrow">{head_block("BiblioVerse", e(tt["privacyH"]), tt["privacyLead"], seed=111)}<section class="sec-in"><p>{e(tt["privacy"])}</p>{tt["privacyCF"]}<p class="mono small">{e(tt["updated"])} {BUILT[5:7]}/{BUILT[:4]}</p></section></div>'
     pg.write(pg.p["privacy"], other(lang, "privacy"), 0, tt["privacyH"], tt["privacyLead"], body, "privacy")
 
 

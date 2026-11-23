@@ -692,11 +692,12 @@ CREATORS = [
  ("Leo David", "euleodavid", "edu"), ("Marcio Guerra", "marcioguerracan", "edu"), ("Rafael Bittencourt", "rbittencourton", "edu"), ("Rick Bonadio", "rickbonadio", "edu"),
  ("Tico Fahur", "ticofahur", "edu"), ("Thiago Vitório", "thivitorio", "edu"), ("Kevinho do Acordeon", "kevinhodoacordeon", "edu"),
  ("MariMoon", "marimoon", "vj"), ("Gastão Moreira", "kazagastao", "vj"), ("Fabio Massari", "", "vj"), ("Luiz Thunderbird", "luizthunderbird", "vj"), ("Edgard Piccoli", "edgardpiccoli", "vj"), ("Sarah Oliveira", "saraholiveira", "vj"), ("Chuck Hipolitho", "chuckhipolitho", "vj"), ("Roberta Martinelli", "", "vj"), ("Terence Machado", "", "vj"), ("Rafaella Rondelli", "rafaellarondelli", "vj"),
- ("Eduardo Seabra", "eddyseabra", "edu"), ("Paulo Anhaia", "paulo_anhaia", "edu"), ("André Hosoi", "hosoi_music", "edu"),
+ ("Eduardo Seabra", "eddyseabra", "edu"), ("Paulo Anhaia", "paulo_anhaia", "edu"), ("André Hosoi", "hosoi_music", "edu"), ("Allan Gaia Pio", "allan.gp", "edu"),
 ]
 
 # foco de cada criador, só quando confirmado (os demais mostram a frase do grupo)
 CREATOR_FOCUS = {
+ "Allan Gaia Pio": ("Pandeirista; publica conteúdo sobre pandeiro no Instagram.", "A pandeiro player who posts pandeiro content on Instagram."),
  "André Hosoi": ("Cofundador e integrante do Barbatuques, grupo paulistano de percussão corporal; coautor de materiais pedagógicos do grupo.", "Co-founder and member of Barbatuques, the São Paulo body-percussion group; co-author of the group's teaching materials."),
  "Gustavo Chagas": ("Criador de conteúdo do Toca (UOL) e curador no Groover e no Novos Flows; fala de música.", "A content creator for Toca (UOL) and a curator on Groover and Novos Flows; he talks about music."),
  "Rafaella Rondelli": ("Jornalista e apresentadora do Do Balacobaco 2.Zé, na 89 A Rádio Rock.", "A journalist and presenter of Do Balacobaco 2.Zé on 89 A Rádio Rock."),

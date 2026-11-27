@@ -624,7 +624,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Zé Renato](https://brazilianmusic.biblioverse.org/artists/ze-renato.html): Solo · Espírito Santo · tier B (Reference). Festival-era MPB. A singer and guitarist from Espírito Santo.
 - [Áurea Martins](https://brazilianmusic.biblioverse.org/artists/aurea-martins.html): Solo · Rio de Janeiro · tier B (Reference). Festival-era MPB. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 
-### Brazilian Rock (510)
+### Brazilian Rock (522)
 
 - [Roberto Carlos](https://brazilianmusic.biblioverse.org/artists/roberto-carlos.html): Solo · Espírito Santo · debut 1960 · tier S (Legend). Jovem Guarda / iê-iê-iê, Pop rock. The "King": from Jovem Guarda's iê-iê-iê to romantic ballads.
 - [Rita Lee](https://brazilianmusic.biblioverse.org/artists/rita-lee.html): Solo · São Paulo · debut 1963 · tier S (Legend). Psychedelic rock, Pop rock. From Os Mutantes to a solo career: the "queen of Brazilian rock".
@@ -759,6 +759,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Tianastácia](https://brazilianmusic.biblioverse.org/artists/tianastacia.html): Band · Minas Gerais · debut 1992 · tier B (Reference). Comic rock, Hard rock. Good-humoured rock from Minas: "Cabrobró".
 - [Blind Pigs](https://brazilianmusic.biblioverse.org/artists/blind-pigs.html): Band · São Paulo · debut 1993 · tier B (Reference). Punk. Punk in English and Portuguese; "O Idiota".
 - [Hollowmind](https://brazilianmusic.biblioverse.org/artists/hollowmind.html): Band · São Paulo · debut 1993 · tier B (Reference). Heavy and power metal. Heavy metal.
+- [White Frogs](https://brazilianmusic.biblioverse.org/artists/white-frogs.html): Band · São Paulo · debut 1993 · tier B (Reference). Hardcore. A melodic hardcore band from Santos, active from 1993 to 2005, inspired by Bad Religion, Minor Threat and Dag Nasty; it played with Bad Religion.
 - [Baba Cósmica](https://brazilianmusic.biblioverse.org/artists/baba-cosmica.html): Band · Minas Gerais · debut 1994 · tier B (Reference). Comic rock. Comic rock from Minas.
 - [Hateen](https://brazilianmusic.biblioverse.org/artists/hateen.html): Band · São Paulo · debut 1994 · tier B (Reference). Emo, Hardcore. Emo/melodic hardcore that helped build São Paulo's independent scene.
 - [Maria do Relento](https://brazilianmusic.biblioverse.org/artists/maria-do-relento.html): Band · São Paulo · debut 1994 · tier B (Reference). Comic rock. Comic rock.
@@ -771,10 +772,12 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Paura](https://brazilianmusic.biblioverse.org/artists/paura.html): Band · São Paulo · debut 1995 · tier B (Reference). Hardcore, Thrash, death and black metal. Hardcore/groove in English.
 - [Sapo Banjo](https://brazilianmusic.biblioverse.org/artists/sapo-banjo.html): Band · São Paulo · debut 1995 · tier B (Reference). Ska / reggae rock. Sarcastic, political ska, one of the country's oldest.
 - [Dance of Days](https://brazilianmusic.biblioverse.org/artists/dance-of-days.html): Band · São Paulo · debut 1996 · tier B (Reference). Emo, Hardcore. A pioneer of São Paulo emo: "Adeus Sofia".
+- [Flicts](https://brazilianmusic.biblioverse.org/artists/flicts.html): Band · São Paulo · debut 1996 · tier B (Reference). Hardcore, Punk. A São Paulo punk and hardcore band formed in 1996 by brothers Arthur and Rafael; "Singelos Confrontos" was its fifth release.
 - [Hibria](https://brazilianmusic.biblioverse.org/artists/hibria.html): Band · Rio Grande do Sul · debut 1996 · tier B (Reference). Heavy and power metal. Power metal from Rio Grande do Sul.
 - [Holly Tree](https://brazilianmusic.biblioverse.org/artists/holly-tree.html): Band · São Paulo · debut 1996 · tier B (Reference). Punk. Punk in English.
 - [Matanza](https://brazilianmusic.biblioverse.org/artists/matanza.html): Band · Rio de Janeiro · debut 1996 · tier B (Reference). Punk, Comic rock. Created "countrycore": hardcore, metal and Western imagery.
 - [Street Bulldogs](https://brazilianmusic.biblioverse.org/artists/street-bulldogs.html): Band · São Paulo · debut 1996 · tier B (Reference). Hardcore. Hardcore.
+- [A-Ok](https://brazilianmusic.biblioverse.org/artists/a-ok.html): Band · Paraná · debut 1997 · tier B (Reference). Hardcore. A Curitiba hardcore band formed in 1997; it toured Europe and released the live album "A-Ok ao Vivo" (2005).
 - [Autoramas](https://brazilianmusic.biblioverse.org/artists/autoramas.html): Band · Rio de Janeiro · debut 1997 · tier B (Reference). Garage rock. Garage/surf/new wave: "Você Sabe", "Abstrai".
 - [Cogumelo Plutão](https://brazilianmusic.biblioverse.org/artists/cogumelo-plutao.html): Band · São Paulo · debut 1997 · tier B (Reference). Post-punk / new wave, Alternative rock. "Esperando na Janela", "Cada Instante Sem Você".
 - [Darvin](https://brazilianmusic.biblioverse.org/artists/darvin.html): Band · São Paulo · debut 1997 · tier B (Reference). Ska / reggae rock. Reggae rock.
@@ -818,9 +821,11 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Leela](https://brazilianmusic.biblioverse.org/artists/leela.html): Band · debut 2001 · tier B (Reference). Pop rock. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Rancore](https://brazilianmusic.biblioverse.org/artists/rancore.html): Band · São Paulo · debut 2001 · tier B (Reference). Hardcore, Alternative rock. Hardcore/alt with the cult album "Seiva" and intense performances.
 - [Rock Rocket](https://brazilianmusic.biblioverse.org/artists/rock-rocket.html): Band · São Paulo · debut 2001 · tier B (Reference). Punk. Punk rock.
+- [Self Defense](https://brazilianmusic.biblioverse.org/artists/self-defense.html): Band · Paraná · debut 2001 · tier B (Reference). Hardcore. A melodic hardcore band from Curitiba, formed in 2001; it released its second album, "De Mãos Vazias", for free online.
 - [Ecos Falsos](https://brazilianmusic.biblioverse.org/artists/ecos-falsos.html): Band · São Paulo · debut 2002 · tier B (Reference). Garage rock, Indie rock. Garage/indie.
 - [Gloria](https://brazilianmusic.biblioverse.org/artists/gloria.html): Band · São Paulo · debut 2002 · tier B (Reference). Post-hardcore / metalcore, Emo. Modern heaviness between post-hardcore, emo and metal, from underground to big stages.
 - [Gram](https://brazilianmusic.biblioverse.org/artists/gram.html): Band · Minas Gerais · debut 2002 · tier B (Reference). Indie rock, Alternative rock. "Você Pode Ir na Janela".
+- [Kacttus](https://brazilianmusic.biblioverse.org/artists/kacttus.html): Band · debut 2002 · tier B (Reference). Hardcore, Punk. A Brazilian punk rock and hardcore band, active since 2002.
 - [Rodox](https://brazilianmusic.biblioverse.org/artists/rodox.html): Band · São Paulo · debut 2002 · tier B (Reference). Hardcore, Rap rock / nu metal. Hardcore/nu metal.
 - [Vanguart](https://brazilianmusic.biblioverse.org/artists/vanguart.html): Band · Mato Grosso · debut 2002 · tier B (Reference). Indie rock. Folk rock from Cuiabá: "Meu Sol", "Demorou pra Ser".
 - [Anti-Corpos](https://brazilianmusic.biblioverse.org/artists/anti-corpos.html): Band · São Paulo · debut 2003 · tier B (Reference). Punk, Hardcore. Punk/hardcore in English.
@@ -1087,10 +1092,12 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [André Abujamra](https://brazilianmusic.biblioverse.org/artists/andre-abujamra.html): Solo · São Paulo · tier B (Reference). Alternative rock. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Baby Santiago](https://brazilianmusic.biblioverse.org/artists/baby-santiago.html): Solo · tier B (Reference). Jovem Guarda / iê-iê-iê. Singer of "Estou Louco" (1962).
 - [Bárbara Eugênia](https://brazilianmusic.biblioverse.org/artists/barbara-eugenia.html): Solo · Rio de Janeiro · tier B (Reference). Indie rock. A singer, songwriter, DJ and producer from Niterói.
+- [Caballero](https://brazilianmusic.biblioverse.org/artists/caballero.html): Band · tier B (Reference). Hardcore. A Brazilian hardcore band.
 - [Cascabulho](https://brazilianmusic.biblioverse.org/artists/cascabulho.html): Band · Pernambuco · tier B (Reference). Manguebeat. Nominated for the Latin Grammy for Best Portuguese Language Roots Album.
 - [Celso Blues Boy](https://brazilianmusic.biblioverse.org/artists/celso-blues-boy.html): Solo · Rio de Janeiro · tier B (Reference). BRock (1980s). A guitarist and singer of Brazilian blues: "Aumenta Que Isso Aí É Rock and Roll".
 - [Ceremonya](https://brazilianmusic.biblioverse.org/artists/ceremonya.html): Band · tier B (Reference). Christian rock. Nominated for the Latin Grammy for Best Christian Album (Portuguese Language).
 - [Dorsal Atlântica](https://brazilianmusic.biblioverse.org/artists/dorsal-atlantica.html): Band · Rio de Janeiro · tier B (Reference). Thrash, death and black metal. A pioneer of Rio thrash in the 1980s.
+- [Duff's](https://brazilianmusic.biblioverse.org/artists/duff-s.html): Band · tier B (Reference). Hardcore. A Brazilian hardcore band.
 - [Eduardo Araújo](https://brazilianmusic.biblioverse.org/artists/eduardo-araujo.html): Solo · Minas Gerais · tier B (Reference). Jovem Guarda / iê-iê-iê. A Jovem Guarda name who broke through with "O Bom" (1966).
 - [Eduardo Dussek](https://brazilianmusic.biblioverse.org/artists/eduardo-dussek.html): Solo · Rio de Janeiro · tier B (Reference). Comic rock, Pop rock. A singer, pianist and actor of 1980s theatrical, humorous pop.
 - [Evinha](https://brazilianmusic.biblioverse.org/artists/evinha.html): Solo · Rio de Janeiro · tier B (Reference). Jovem Guarda / iê-iê-iê, Festival-era MPB. The voice of Trio Esperança; won the 1969 International Song Festival with "Cantiga por Luciana".
@@ -1098,6 +1105,7 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Hanói Hanói](https://brazilianmusic.biblioverse.org/artists/hanoi-hanoi.html): Band · Rio de Janeiro · tier B (Reference). BRock (1980s). Arnaldo Brandão's band, of "Totalmente Demais" (1986).
 - [Herva Doce](https://brazilianmusic.biblioverse.org/artists/herva-doce.html): Band · tier B (Reference). BRock (1980s). The band of "Amante Profissional" (1985).
 - [Heróis da Resistência](https://brazilianmusic.biblioverse.org/artists/herois-da-resistencia.html): Band · Rio de Janeiro · tier B (Reference). BRock (1980s). Leoni's band, of "Só pro Meu Prazer" (1986).
+- [Hodox](https://brazilianmusic.biblioverse.org/artists/hodox.html): Band · tier B (Reference). Hardcore. A Brazilian hardcore band.
 - [Ian Ramil](https://brazilianmusic.biblioverse.org/artists/ian-ramil.html): Solo · Rio Grande do Sul · tier B (Reference). Alternative rock. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Kid Vinil](https://brazilianmusic.biblioverse.org/artists/kid-vinil.html): Solo · São Paulo · tier B (Reference). Post-punk / new wave. Magazine's singer and a DJ who championed punk and new wave.
 - [Kiko Zambianchi](https://brazilianmusic.biblioverse.org/artists/kiko-zambianchi.html): Solo · São Paulo · tier B (Reference). BRock (1980s). Singer of "Primeiros Erros (Chove)" (1985).
@@ -1116,13 +1124,17 @@ Xuxa sold the most popular children's records in the country's history in the 19
 - [Pavilhão 9](https://brazilianmusic.biblioverse.org/artists/pavilhao-9.html): Band · São Paulo · tier B (Reference). Rap rock / nu metal. Nominated for the Latin Grammy for Best Portuguese Language Rock or Alternative Album.
 - [Pedro Luís e a Parede](https://brazilianmusic.biblioverse.org/artists/pedro-luis-e-a-parede.html): Band · Rio de Janeiro · tier B (Reference). Alternative rock. Percussion and rock group of "Caio no Suingue".
 - [Picassos Falsos](https://brazilianmusic.biblioverse.org/artists/picassos-falsos.html): Band · Rio de Janeiro · tier B (Reference). Post-punk / new wave. Rio band of "Quadrinhos" (1987).
+- [Projeto Peixe Morto](https://brazilianmusic.biblioverse.org/artists/projeto-peixe-morto.html): Band · tier B (Reference). Hardcore. A side project by the members of Dead Fish; it released "Metrofire", which the band does not count in its official discography.
 - [Rebanhão](https://brazilianmusic.biblioverse.org/artists/rebanhao.html): Band · tier B (Reference). Christian rock. A pioneering Brazilian Christian rock band.
 - [Restos de Nada](https://brazilianmusic.biblioverse.org/artists/restos-de-nada.html): Band · São Paulo · tier B (Reference). Punk. A pioneering São Paulo punk band.
+- [Rivets](https://brazilianmusic.biblioverse.org/artists/rivets.html): Band · tier B (Reference). Hardcore. A Brazilian hardcore band.
 - [Roberto de Carvalho](https://brazilianmusic.biblioverse.org/artists/roberto-de-carvalho.html): Solo · Rio de Janeiro · tier B (Reference). Pop rock. Nominated for the Latin Grammy for Best Portuguese Language Song.
 - [Rodrigo Amarante](https://brazilianmusic.biblioverse.org/artists/rodrigo-amarante.html): Solo · Rio de Janeiro · tier B (Reference). Indie rock, New MPB. From Los Hermanos and Little Joy to a solo career; sings "Tuyo", the "Narcos" theme.
 - [Ronnie Cord](https://brazilianmusic.biblioverse.org/artists/ronnie-cord.html): Solo · São Paulo · tier B (Reference). Jovem Guarda / iê-iê-iê. Singer of "Rua Augusta" (1964).
 - [Rádio Táxi](https://brazilianmusic.biblioverse.org/artists/radio-taxi.html): Band · São Paulo · tier B (Reference). Pop rock. A 1980s pop-rock band.
+- [San Petter](https://brazilianmusic.biblioverse.org/artists/san-petter.html): Band · tier B (Reference). Hardcore. A Brazilian hardcore band.
 - [Serguei](https://brazilianmusic.biblioverse.org/artists/serguei.html): Solo · Rio de Janeiro · tier B (Reference). Psychedelic rock. A legendary Rio rocker, of "De Sol a Sol".
+- [Square](https://brazilianmusic.biblioverse.org/artists/square.html): Band · Paraná · tier B (Reference). Hardcore. A hardcore band from Curitiba.
 - [Sérgio Murilo](https://brazilianmusic.biblioverse.org/artists/sergio-murilo.html): Solo · Rio de Janeiro · tier B (Reference). Jovem Guarda / iê-iê-iê. A Brazilian rock pioneer, of "Broto Legal" (1960).
 - [The Jet Blacks](https://brazilianmusic.biblioverse.org/artists/the-jet-blacks.html): Band · São Paulo · tier B (Reference). Garage rock. A 1960s instrumental group.
 - [The Snakes](https://brazilianmusic.biblioverse.org/artists/the-snakes.html): Band · tier B (Reference). Jovem Guarda / iê-iê-iê. A pioneering Brazilian rock'n'roll band, of "Calypso Rock" (1960).

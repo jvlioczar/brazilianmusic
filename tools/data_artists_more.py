@@ -877,4 +877,16 @@ Calíope|collective|classica-interpretes|1993|RJ|B||Grupo vocal do Rio de Janeir
 Canarinhos de Petrópolis|collective|classica-interpretes||RJ|B||Coro infantojuvenil do Instituto dos Meninos Cantores de Petrópolis.|A youth choir of the Instituto dos Meninos Cantores de Petrópolis.
 Meninas Cantoras de Petrópolis|collective|classica-interpretes|1976|RJ|B||Fundado em 1976, foi considerado o primeiro coro formado só por meninas.|Founded in 1976, it was considered the first choir made up only of girls.
 It's All Red|band|metalcore|2007|RS|B||Banda de Porto Alegre fundada em 2007, uma das pioneiras do metalcore no Brasil: "Vicious Words From The Heart" (2007), "The Natural Process Of..." (2010) e "Lead By The Blind" (2015); dividiu palco com Megadeth e Cavalera Conspiracy e gravou "Pertencimento" com Humberto Gessinger.|A Porto Alegre band founded in 2007, one of the pioneers of metalcore in Brazil: "Vicious Words From The Heart" (2007), "The Natural Process Of..." (2010) and "Lead By The Blind" (2015); it has shared stages with Megadeth and Cavalera Conspiracy and recorded "Pertencimento" with Humberto Gessinger.
+A-Ok|band|hardcore|1997|PR|B||Banda de hardcore de Curitiba formada em 1997; fez turnê pela Europa e lançou o ao vivo "A-Ok ao Vivo" (2005).|A Curitiba hardcore band formed in 1997; it toured Europe and released the live album "A-Ok ao Vivo" (2005).
+Caballero|band|hardcore|||B||Banda de hardcore brasileiro.|A Brazilian hardcore band.
+Duff's|band|hardcore|||B||Banda de hardcore brasileiro.|A Brazilian hardcore band.
+Flicts|band|hardcore,punk|1996|SP|B||Banda paulistana de punk e hardcore formada em 1996 pelos irmãos Arthur e Rafael; "Singelos Confrontos" foi seu quinto lançamento.|A São Paulo punk and hardcore band formed in 1996 by brothers Arthur and Rafael; "Singelos Confrontos" was its fifth release.
+Hodox|band|hardcore|||B||Banda de hardcore brasileiro.|A Brazilian hardcore band.
+Kacttus|band|hardcore,punk|2002||B||Banda brasileira de punk rock e hardcore, na ativa desde 2002.|A Brazilian punk rock and hardcore band, active since 2002.
+Projeto Peixe Morto|band|hardcore|||B||Projeto paralelo dos integrantes do Dead Fish; lançou "Metrofire", que a banda não conta na discografia oficial.|A side project by the members of Dead Fish; it released "Metrofire", which the band does not count in its official discography.
+Rivets|band|hardcore|||B||Banda de hardcore brasileiro.|A Brazilian hardcore band.
+San Petter|band|hardcore|||B||Banda de hardcore brasileiro.|A Brazilian hardcore band.
+Self Defense|band|hardcore|2001|PR|B||Banda de hardcore melódico de Curitiba, formada em 2001; lançou de graça na internet o segundo disco, "De Mãos Vazias".|A melodic hardcore band from Curitiba, formed in 2001; it released its second album, "De Mãos Vazias", for free online.
+Square|band|hardcore||PR|B||Banda de hardcore de Curitiba.|A hardcore band from Curitiba.
+White Frogs|band|hardcore|1993|SP|B||Banda de hardcore melódico de Santos, ativa de 1993 a 2005, inspirada em Bad Religion, Minor Threat e Dag Nasty; tocou com o Bad Religion.|A melodic hardcore band from Santos, active from 1993 to 2005, inspired by Bad Religion, Minor Threat and Dag Nasty; it played with Bad Religion.
 """
